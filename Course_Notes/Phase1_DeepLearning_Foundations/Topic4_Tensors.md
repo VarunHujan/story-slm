@@ -1,5 +1,7 @@
 # Topic 4: Tensors (The Language of PyTorch)
 
+![Tensors Infographic](../images/tensors_infographic.jpg)
+
 ![PyTorch Tensor](../images/tensor_diagram.jpg)
 
 ## 1. What is a Tensor? (The Real-World Analogy)

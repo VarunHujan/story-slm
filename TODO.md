@@ -10,8 +10,8 @@ We will take this one step at a time. We do not move forward until the current s
 - [x] 3. What is a Neural Network?
 - [x] 4. Tensors: The Language of PyTorch
 - [x] 5. Matrix Multiplication (Dot Products)
-- [ ] 6. Linear Layers (Weights and Biases)
-- [ ] 7. Activation Functions (ReLU, GELU, Sigmoid)
+- [x] 6. Linear Layers (Weights and Biases)
+- [x] 7. Activation Functions (ReLU, GELU, Sigmoid)
 - [ ] 8. Forward Propagation
 - [ ] 9. The Softmax Function and Logits
 - [ ] 10. The Loss Function (Cross-Entropy Loss)

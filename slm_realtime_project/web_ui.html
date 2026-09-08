@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real-Time SLM Playground</title>
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
+        .container { max-width: 800px; margin: 0 auto; background: #1e293b; padding: 25px; border-radius: 12px; box-shadow: 0 10px 25px rgba(0,0,0,0.5); }
+        h1 { margin-top: 0; color: #38bdf8; text-align: center; }
+        .chat-bop { height: 350px; border: 1px solid #334155; border-radius: 8px; padding: 15px; overflow-y: auto; background: #0f172a; margin-bottom: 20px; font-family: monospace; font-size: 14px; white-space: pre-wrap; }
+        .input-group { display: flex; gap: 10px; }
+        input[type="text"] { flex: 1; padding: 12px; border-radius: 6px; border: 1px solid #475569; background: #334155; color: #fff; font-size: 15px; }
+        button { padding: 12px 24px; border-radius: 6px; border: none; background: #0284c7; color: white; font-weight: bold; cursor: pointer; transition: 0.2s; }
+        button:hover { background: #0369a1; }
+        .badge { background: #10b981; color: #022c22; padding: 3px 8px; border-radius: 4px; font-size: 12px; font-weight: bold; margin-left: 10px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>⚡ Real-Time SLM Interface <span class="badge">KV-Cache Active</span></h1>
+        <div id="chatBox" class="chat-box">System: Real-time SLM initialized. Type a prompt below to stream output...\n\n</div>
+        <div class="input-group">
+            <input type="text" id="promptInput" placeholder="Type your prompt here..." onkeydown="if(event.key==='Enter') sendPrompt()">
+            <button onclick="sendPrompt()">Generate</button>
+        </div>
+    </div>
+
+    <script>
+        async function sendPrompt() {
+            const input = document.getElementById('promptInput');
+            const chatBox = document.getElementById('chatBox');
+            const prompt = input.value.trim();
+            if (!prompt) return;
+            chatBox.innerHTML += `\n\nUser: ' + prompt + '\nSLM: `;
+            input.value = '';
+            try {
+                const response = await fetch('/api/generate/stream', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ prompt: prompt, max_tokens: 128, temperature: 0.7 })
+                });
+                const reader = response.body.getReader();
+                const decoder = new TextDecoder();
+                while (true) {
+                    const { value, done } = await reader.read();
+                    if (done) break;
+                    const chunk = decoder.decode(value);
+                    const lines = chunk.split('\n');
+                    for (const line of lines) {
+                        if (line.startsWith('data: ') && !line.includes('[DONE]')) {
+                            const data = JSON.parse(line.replace('data: ', ''));
+                            chatBox.innerHTML += data.token;
+                            chatBox.scrollTop = chatBox.scrollHeight;
+                        }
+                    }
+                }
+            } catch (err) {
+                chatBox.innerHTML += `\n[Error streaming from SLM Server: ${err.message}]`;
+            }
+        }
+    </script>
+</body>
+</html>

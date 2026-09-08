@@ -1,5 +1,7 @@
 # Topic 3: What is a Neural Network?
 
+![Neural Network Infographic](../images/neural_network_infographic.jpg)
+
 ![Artificial Neural Network](../images/neural_network.jpg)
 
 ## 1. The History: What was the problem?

@@ -1,5 +1,7 @@
 # Topic 5: Matrix Multiplication (Dot Products)
 
+![Matrix Multiplication Infographic](../images/matrix_multiplication_infographic.jpg)
+
 ![Matrix Multiplication](../images/matrix_math.jpg)
 
 ## 1. Why do we need to multiply Matrices?
