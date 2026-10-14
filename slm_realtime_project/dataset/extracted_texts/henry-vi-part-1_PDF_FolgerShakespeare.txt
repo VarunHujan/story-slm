@@ -1,0 +1,8411 @@
+=== BOOK TITLE: henry-vi-part-1_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 118 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 118 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+Scene 7
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Contents
+
+--- PAGE 3 / 118 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 118 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 118 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 118 ---
+With an underage boy now king of England, Henry VI, Part 1,
+depicts the collapse of England’s role in France, as English nobles
+fight each other instead of the French and as Joan la Pucelle (Joan of
+Arc) brings military strength to the French army. The English hero
+Lord Talbot attacks Orleans, but is defeated by Joan.
+In England, Gloucester, Henry VI’s Protector, and Gloucester’s rival
+Winchester encourage their followers to attack each other in the
+streets. Richard Plantagenet (later the Duke of York) and Somerset
+are equally antagonistic, with their followers signaling their
+allegiance by wearing white or red roses.
+Henry VI is crowned in Paris, and orders York and Somerset to fight
+the French instead of each other. As they squabble, French forces kill
+Talbot and his son. The English army captures and executes Joan.
+Suffolk arranges a marriage between Henry and Margaret, daughter
+of the king of Naples, in order to keep her near him and give him,
+through her, control of England.
+Synopsis
+
+--- PAGE 7 / 118 ---
+The English
+KING HENRY VI
+Lord TALBOT, afterwards Earl of Shrewsbury
+JOHN TALBOT, his son
+Duke of GLOUCESTER, the king’s uncle, and Lord Protector
+Duke of BEDFORD, the king’s uncle, and Regent of France
+Duke of EXETER, the king’s great-uncle
+Cardinal, Bishop of WINCHESTER, the king’s great-uncle
+Duke of SOMERSET
+Richard PLANTAGENET, later Duke of YORK, and Regent of France
+Earl of WARWICK
+Earl of SALISBURY
+Earl of SUFFOLK, William de la Pole
+Edmund MORTIMER, Earl of March
+Sir William GLANSDALE
+Sir Thomas GARGRAVE
+Sir John FASTOLF
+Sir William LUCY
+WOODVILLE, Lieutenant of the Tower of London
+VERNON, of the White Rose or York faction
+BASSET, of the Red Rose or Lancaster faction
+A LAWYER
+JAILORS to Mortimer
+A LEGATE
+MAYOR of London
+The French
+CHARLES, Dauphin of France
+Joan la PUCELLE, also Joan of Arc
+REIGNIER, Duke of Anjou and Maine, King of Naples
+MARGARET, his daughter
+Duke of ALANSON
+Bastard of ORLEANCE
+Duke of BURGUNDY
+GENERAL of the French forces at Bordeaux
+COUNTESS of Auvergne
+Her PORTER
+MASTER GUNNER of Orleance
+Characters in the Play
+Heralds, Attendants, three Messengers, Servingmen in blue coats
+and in tawny coats, two Warders, Officers, Soldiers, Captains,
+Watch, Trumpeters, Drummer, Servant, two Ambassadors
+
+--- PAGE 8 / 118 ---
+BOY, his son
+SERGEANT of a Band
+A SHEPHERD, Pucelle’s father
+Drummer, Soldiers, two Sentinels, Messenger, Soldiers, Governor of
+Paris, Herald, Scout, Fiends accompanying Pucelle
+
+--- PAGE 9 / 118 ---
+BEDFORD
+GLOUCESTER
+EXETER
+Dead March. Enter the funeral of King Henry the Fifth,
+attended on by the Duke of Bedford, Regent of France;
+the Duke of Gloucester, Protector; the Duke of Exeter;
+the Earl of  Warwick; the Bishop of Winchester; and
+the Duke of Somerset, with Heralds and Attendants.
+ 
+ Hung be the heavens with black, yield day to night!
+ Comets, importing change of times and states,
+ Brandish your crystal tresses in the sky,
+ And with them scourge the bad revolting stars
+ That have consented unto Henry’s death:
+ King Henry the Fifth, too famous to live long.
+ England ne’er lost a king of so much worth.
+ 
+ England ne’er had a king until his time.
+ Virtue he had, deserving to command;
+ His brandished sword did blind men with his beams;
+ His arms spread wider than a dragon’s wings;
+ His sparkling eyes, replete with wrathful fire,
+ More dazzled and drove back his enemies
+ Than midday sun fierce bent against their faces.
+ What should I say? His deeds exceed all speech.
+ He ne’er lift up his hand but conquerèd.
+ 
+ We mourn in black; why mourn we not in blood?
+ Henry is dead and never shall revive.
+ Upon a wooden coffin we attend,
+ And Death’s dishonorable victory
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+
+--- PAGE 10 / 118 ---
+9
+Henry VI, Part 1
+ACT 1. SC. 1
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+BEDFORD
+ We with our stately presence glorify,
+ Like captives bound to a triumphant car.
+ What? Shall we curse the planets of mishap
+ That plotted thus our glory’s overthrow?
+ Or shall we think the subtle-witted French
+ Conjurers and sorcerers, that, afraid of him,
+ By magic verses have contrived his end?
+ 
+ He was a king blest of the King of kings;
+ Unto the French the dreadful Judgment Day
+ So dreadful will not be as was his sight.
+ The battles of the Lord of Hosts he fought;
+ The Church’s prayers made him so prosperous.
+ 
+ The Church? Where is it? Had not churchmen prayed,
+ His thread of life had not so soon decayed.
+ None do you like but an effeminate prince
+ Whom like a schoolboy you may overawe.
+ 
+ Gloucester, whate’er we like, thou art Protector
+ And lookest to command the Prince and realm.
+ Thy wife is proud; she holdeth thee in awe
+ More than God or religious churchmen may.
+ 
+ Name not religion, for thou lov’st the flesh,
+ And ne’er throughout the year to church thou go’st,
+ Except it be to pray against thy foes.
+ 
+ Cease, cease these jars, and rest your minds in peace!
+ Let’s to the altar.—Heralds, wait on us.—
+ Instead of gold, we’ll offer up our arms,
+ Since arms avail not, now that Henry’s dead.
+ Posterity, await for wretched years
+ When at their mothers’ moistened eyes babes shall
+ suck,
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+
+--- PAGE 11 / 118 ---
+11
+Henry VI, Part 1
+ACT 1. SC. 1
+MESSENGER
+BEDFORD
+GLOUCESTER
+EXETER
+MESSENGER
+ Our isle be made a nourish of salt tears,
+ And none but women left to wail the dead.
+ Henry the Fifth, thy ghost I invocate:
+ Prosper this realm, keep it from civil broils,
+ Combat with adverse planets in the heavens.
+ A far more glorious star thy soul will make
+ Than Julius Caesar or bright—
+Enter a Messenger.
+ 
+ My honorable lords, health to you all.
+ Sad tidings bring I to you out of France,
+ Of loss, of slaughter, and discomfiture:
+ Guyen, Champaigne, Rheims, Roan,  Orleance,
+ Paris, Gisors, Poitiers, are all quite lost.
+ 
+ What say’st thou, man, before dead Henry’s corse?
+ Speak softly, or the loss of those great towns
+ Will make him burst his lead and rise from death.
+ 
+ Is Paris lost? Is Roan yielded up?
+ If Henry were recalled to life again,
+ These news would cause him once more yield the
+ ghost.
+ 
+ How were they lost? What treachery was used?
+ 
+ No treachery, but want of men and money.
+ Amongst the soldiers, this is mutterèd:
+ That here you maintain several factions
+ And, whilst a field should be dispatched and fought,
+ You are disputing of your generals.
+ One would have ling’ring wars with little cost;
+ Another would fly swift, but wanteth wings;
+ A third thinks, without expense at all,
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+
+--- PAGE 12 / 118 ---
+13
+Henry VI, Part 1
+ACT 1. SC. 1
+He exits.
+EXETER
+BEDFORD
+SECOND MESSENGER
+He exits.
+EXETER
+GLOUCESTER
+BEDFORD
+ By guileful fair words peace may be obtained.
+ Awake, awake, English nobility!
+ Let not sloth dim your honors new begot.
+ Cropped are the flower-de-luces in your arms;
+ Of England’s coat, one half is cut away. 
+ 
+ Were our tears wanting to this funeral,
+ These tidings would call forth her flowing tides.
+ 
+ Me they concern; regent I am of France.
+ Give me my steelèd coat, I’ll fight for France.
+ Away with these disgraceful wailing robes.
+ Wounds will I lend the French instead of eyes
+ To weep their intermissive miseries.
+Enter to them another Messenger, with papers.
+ 
+ Lords, view these letters, full of bad mischance.
+ France is revolted from the English quite,
+ Except some petty towns of no import.
+ The Dauphin Charles is crownèd king in Rheims;
+ The Bastard of Orleance with him is joined;
+ Reignier, Duke of Anjou, doth take his part;
+ The Duke of Alanson flieth to his side. 
+ 
+ The Dauphin crownèd king? All fly to him?
+ O, whither shall we fly from this reproach?
+ 
+ We will not fly but to our enemies’ throats.—
+ Bedford, if thou be slack, I’ll fight it out.
+ 
+ Gloucester, why doubt’st thou of my forwardness?
+ An army have I mustered in my thoughts,
+ Wherewith already France is overrun.
+Enter another Messenger.
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+
+--- PAGE 13 / 118 ---
+15
+Henry VI, Part 1
+ACT 1. SC. 1
+THIRD MESSENGER
+WINCHESTER
+THIRD MESSENGER
+ 
+ My gracious lords, to add to your laments,
+ Wherewith you now bedew King Henry’s hearse,
+ I must inform you of a dismal fight
+ Betwixt the stout Lord Talbot and the French.
+ 
+ What? Wherein Talbot overcame, is ’t so?
+ 
+ O no, wherein Lord Talbot was o’erthrown.
+ The circumstance I’ll tell you more at large.
+ The tenth of August last, this dreadful lord,
+ Retiring from the siege of Orleance,
+ Having full scarce six thousand in his troop,
+ By three and twenty thousand of the French
+ Was round encompassèd and set upon.
+ No leisure had he to enrank his men.
+ He wanted pikes to set before his archers,
+ Instead whereof, sharp stakes plucked out of hedges
+ They pitchèd in the ground confusedly
+ To keep the horsemen off from breaking in.
+ More than three hours the fight continuèd,
+ Where valiant Talbot, above human thought,
+ Enacted wonders with his sword and lance.
+ Hundreds he sent to hell, and none durst stand him;
+ Here, there, and everywhere, enraged, he slew.
+ The French exclaimed the devil was in arms;
+ All the whole army stood agazed on him.
+ His soldiers, spying his undaunted spirit,
+ “À Talbot! À Talbot!” cried out amain
+ And rushed into the bowels of the battle.
+ Here had the conquest fully been sealed up
+ If Sir John Fastolf had not played the coward.
+ He, being in the vaward, placed behind
+ With purpose to relieve and follow them,
+ Cowardly fled, not having struck one stroke.
+ Hence grew the general wrack and massacre.
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+
+--- PAGE 14 / 118 ---
+17
+Henry VI, Part 1
+ACT 1. SC. 1
+BEDFORD
+THIRD MESSENGER
+BEDFORD
+THIRD MESSENGER
+He exits.
+EXETER
+ Enclosèd were they with their enemies.
+ A base Walloon, to win the Dauphin’s grace,
+ Thrust Talbot with a spear into the back,
+ Whom all France, with their chief assembled
+ strength,
+ Durst not presume to look once in the face.
+ 
+ Is Talbot slain then? I will slay myself
+ For living idly here, in pomp and ease,
+ Whilst such a worthy leader, wanting aid,
+ Unto his dastard foemen is betrayed.
+ 
+ O, no, he lives, but is took prisoner,
+ And Lord Scales with him, and Lord Hungerford;
+ Most of the rest slaughtered or took likewise.
+ 
+ His ransom there is none but I shall pay.
+ I’ll hale the Dauphin headlong from his throne;
+ His crown shall be the ransom of my friend.
+ Four of their lords I’ll change for one of ours.
+ Farewell, my masters; to my task will I.
+ Bonfires in France forthwith I am to make,
+ To keep our great Saint George’s feast withal.
+ Ten thousand soldiers with me I will take,
+ Whose bloody deeds shall make all Europe quake.
+ 
+ So you had need; ’fore Orleance besieged,
+ The English army is grown weak and faint;
+ The Earl of Salisbury craveth supply
+ And hardly keeps his men from mutiny,
+ Since they so few watch such a multitude.
+ 
+ Remember, lords, your oaths to Henry sworn:
+ Either to quell the Dauphin utterly
+ Or bring him in obedience to your yoke.
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+
+--- PAGE 15 / 118 ---
+19
+Henry VI, Part 1
+ACT 1. SC. 2
+BEDFORD
+Bedford exits.
+GLOUCESTER
+Gloucester exits.
+EXETER
+He exits.
+WINCHESTER
+He exits at one door; at another door,
+Warwick, Somerset, Attendants and
+Heralds exit with the coffin.
+CHARLES
+ 
+ I do remember it, and here take my leave
+ To go about my preparation. 
+ 
+ I’ll to the Tower with all the haste I can
+ To view th’ artillery and munition,
+ And then I will proclaim young Henry king.
+ 
+ To Eltham will I, where the young king is,
+ Being ordained his special governor;
+ And for his safety there I’ll best devise. 
+, aside
+ 
+ Each hath his place and function to attend.
+ I am left out; for me nothing remains.
+ But long I will not be Jack-out-of-office.
+ The King from Eltham I intend to steal,
+ And sit at chiefest stern of public weal.
+Sound a flourish. Enter Charles the Dauphin,
+Alanson, and Reignier, marching with Drum
+and Soldiers.
+ 
+ Mars his true moving, even as in the heavens
+ So in the Earth, to this day is not known.
+ Late did he shine upon the English side;
+ Now we are victors; upon us he smiles.
+ What towns of any moment but we have?
+ At pleasure here we lie, near Orleance.
+ Otherwhiles, the famished English, like pale ghosts,
+ Faintly besiege us one hour in a month.
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+Scene 2
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+5
+FTLN 0186
+FTLN 0187
+FTLN 0188
+
+--- PAGE 16 / 118 ---
+21
+Henry VI, Part 1
+ACT 1. SC. 2
+ALANSON
+REIGNIER
+CHARLES
+They exit. Here alarum. They are beaten
+back by the English, with great loss.
+CHARLES
+REIGNIER
+ALANSON
+ 
+ They want their porridge and their fat bull beeves.
+ Either they must be dieted like mules
+ And have their provender tied to their mouths,
+ Or piteous they will look, like drownèd mice.
+ 
+ Let’s raise the siege. Why live we idly here?
+ Talbot is taken, whom we wont to fear.
+ Remaineth none but mad-brained Salisbury,
+ And he may well in fretting spend his gall;
+ Nor men nor money hath he to make war.
+ 
+ Sound, sound alarum! We will rush on them.
+ Now for the honor of the forlorn French!
+ Him I forgive my death that killeth me
+ When he sees me go back one foot, or fly.
+Enter Charles, Alanson, and Reignier.
+ 
+ Whoever saw the like? What men have I!
+ Dogs, cowards, dastards! I would ne’er have fled
+ But that they left me ’midst my enemies.
+ 
+ Salisbury is a desperate homicide.
+ He fighteth as one weary of his life.
+ The other lords, like lions wanting food,
+ Do rush upon us as their hungry prey.
+ 
+ Froissart, a countryman of ours, records
+ England all Olivers and Rolands bred
+ During the time Edward the Third did reign.
+ More truly now may this be verified,
+ For none but Samsons and Goliases
+ It sendeth forth to skirmish. One to ten!
+FTLN 0189
+FTLN 0190
+10
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+15
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+20
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+25
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+30
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+
+--- PAGE 17 / 118 ---
+23
+Henry VI, Part 1
+ACT 1. SC. 2
+CHARLES
+REIGNIER
+ALANSON
+BASTARD
+CHARLES
+BASTARD
+CHARLES
+Bastard exits.
+ Lean rawboned rascals! Who would e’er suppose
+ They had such courage and audacity?
+ 
+ Let’s leave this town, for they are hare-brained slaves,
+ And hunger will enforce them to be more eager.
+ Of old I know them; rather with their teeth
+ The walls they’ll tear down than forsake the siege.
+ 
+ I think by some odd gimmers or device
+ Their arms are set, like clocks, still to strike on;
+ Else ne’er could they hold out so as they do.
+ By my consent, we’ll even let them alone.
+  Be it so.
+Enter the Bastard of Orleance.
+ 
+ Where’s the Prince Dauphin? I have news for him.
+ 
+ Bastard of Orleance, thrice welcome to us.
+ 
+ Methinks your looks are sad, your cheer appalled.
+ Hath the late overthrow wrought this offence?
+ Be not dismayed, for succor is at hand.
+ A holy maid hither with me I bring,
+ Which, by a vision sent to her from heaven,
+ Ordainèd is to raise this tedious siege
+ And drive the English forth the bounds of France.
+ The spirit of deep prophecy she hath,
+ Exceeding the nine Sibyls of old Rome.
+ What’s past and what’s to come she can descry.
+ Speak, shall I call her in? Believe my words,
+ For they are certain and unfallible.
+ 
+ Go call her in. 
+ But first, to try her skill,
+ Reignier, stand thou as Dauphin in my place;
+FTLN 0215
+35
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+40
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+45
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+50
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+55
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+60
+FTLN 0241
+FTLN 0242
+
+--- PAGE 18 / 118 ---
+25
+Henry VI, Part 1
+ACT 1. SC. 2
+REIGNIER
+PUCELLE
+REIGNIER
+Alanson, Reignier, and Bastard exit.
+PUCELLE
+ Question her proudly; let thy looks be stern.
+ By this means shall we sound what skill she hath.
+Enter Bastard, with  Joan la  Pucelle.
+, as Charles
+ 
+ Fair maid, is ’t thou wilt do these wondrous feats?
+ 
+ Reignier, is ’t thou that thinkest to beguile me?
+ Where is the Dauphin?—Come, come from behind.
+ I know thee well, though never seen before.
+ Be not amazed; there’s nothing hid from me.
+ In private will I talk with thee apart.—
+ Stand back, you lords, and give us leave a while.
+ 
+ She takes upon her bravely at first dash.
+ 
+ Dauphin, I am by birth a shepherd’s daughter,
+ My wit untrained in any kind of art.
+ Heaven and Our Lady gracious hath it pleased
+ To shine on my contemptible estate.
+ Lo, whilst I waited on my tender lambs,
+ And to sun’s parching heat displayed my cheeks,
+ God’s Mother deignèd to appear to me,
+ And in a vision full of majesty
+ Willed me to leave my base vocation
+ And free my country from calamity.
+ Her aid she promised and assured success.
+ In complete glory she revealed herself;
+ And whereas I was black and swart before,
+ With those clear rays which she infused on me
+ That beauty am I blest with, which you may see.
+ Ask me what question thou canst possible,
+ And I will answer unpremeditated.
+ My courage try by combat, if thou dar’st,
+ And thou shalt find that I exceed my sex.
+FTLN 0243
+FTLN 0244
+FTLN 0245
+65
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+70
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+75
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+80
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+85
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+90
+FTLN 0271
+
+--- PAGE 19 / 118 ---
+27
+Henry VI, Part 1
+ACT 1. SC. 2
+CHARLES
+PUCELLE
+CHARLES
+PUCELLE
+Here they fight, and
+Joan la  Pucelle overcomes.
+CHARLES
+PUCELLE
+CHARLES
+PUCELLE
+ Resolve on this: thou shalt be fortunate
+ If thou receive me for thy warlike mate.
+ 
+ Thou hast astonished me with thy high terms.
+ Only this proof I’ll of thy valor make:
+ In single combat thou shalt buckle with me,
+ And if thou vanquishest, thy words are true;
+ Otherwise I renounce all confidence.
+ 
+ I am prepared. Here is my keen-edged sword,
+ Decked with fine flower-de-luces on each side—
+  Aside.  The which at Touraine, in Saint Katherine’s
+ churchyard,
+ Out of a great deal of old iron I chose forth.
+ 
+ Then come, a’ God’s name! I fear no woman.
+ 
+ And while I live, I’ll ne’er fly from a man.
+ 
+ Stay, stay thy hands! Thou art an Amazon,
+ And fightest with the sword of Deborah.
+ 
+ Christ’s mother helps me; else I were too weak.
+ 
+ Whoe’er helps thee, ’tis thou that must help me.
+ Impatiently I burn with thy desire.
+ My heart and hands thou hast at once subdued.
+ Excellent Pucelle, if thy name be so,
+ Let me thy servant and not sovereign be.
+ ’Tis the French Dauphin sueth to thee thus.
+ 
+ I must not yield to any rights of love,
+ For my profession’s sacred from above.
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+95
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+100
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+105
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+FTLN 0290
+110
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+115
+FTLN 0296
+
+--- PAGE 20 / 118 ---
+29
+Henry VI, Part 1
+ACT 1. SC. 2
+CHARLES
+REIGNIER
+ALANSON
+REIGNIER
+ALANSON
+REIGNIER
+PUCELLE
+CHARLES
+PUCELLE
+ When I have chasèd all thy foes from hence,
+ Then will I think upon a recompense.
+ 
+ Meantime look gracious on thy prostrate thrall.
+Enter Reignier and Alanson.
+, aside to Alanson
+ 
+ My lord, methinks, is very long in talk.
+, aside to Reignier
+ 
+ Doubtless he shrives this woman to her smock,
+ Else ne’er could he so long protract his speech.
+, aside to Alanson
+ 
+ Shall we disturb him, since he keeps no mean?
+, aside to Reignier
+ 
+ He may mean more than we poor men do know.
+ These women are shrewd tempters with their
+ tongues.
+, to Charles
+ 
+ My lord, where are you? What devise you on?
+ Shall we give o’er Orleance, or no?
+ 
+ Why, no, I say. Distrustful recreants,
+ Fight till the last gasp. I’ll be your guard.
+ 
+ What she says I’ll confirm: we’ll fight it out.
+ 
+ Assigned am I to be the English scourge.
+ This night the siege assuredly I’ll raise.
+ Expect Saint Martin’s summer, halcyons’ days,
+ Since I have enterèd into these wars.
+ Glory is like a circle in the water,
+ Which never ceaseth to enlarge itself
+ Till by broad spreading it disperse to naught.
+ With Henry’s death, the English circle ends;
+ Dispersèd are the glories it included.
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+120
+FTLN 0301
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+125
+FTLN 0306
+FTLN 0307
+FTLN 0308
+FTLN 0309
+FTLN 0310
+130
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+135
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+140
+
+--- PAGE 21 / 118 ---
+31
+Henry VI, Part 1
+ACT 1. SC. 3
+CHARLES
+ALANSON
+REIGNIER
+CHARLES
+They exit.
+GLOUCESTER
+Servingmen knock at the gate.
+FIRST WARDER
+FIRST SERVINGMAN
+SECOND WARDER
+ Now am I like that proud insulting ship
+ Which Caesar and his fortune bare at once.
+ 
+ Was Mahomet inspirèd with a dove?
+ Thou with an eagle art inspirèd then.
+ Helen, the mother of great Constantine,
+ Nor yet Saint Philip’s daughters were like thee.
+ Bright star of Venus, fall’n down on the Earth,
+ How may I reverently worship thee enough?
+ 
+ Leave off delays, and let us raise the siege.
+ 
+ Woman, do what thou canst to save our honors.
+ Drive them from Orleance and be immortalized.
+ 
+ Presently we’ll try. Come, let’s away about it.
+ No prophet will I trust if she prove false.
+Enter Gloucester with his Servingmen in blue coats.
+ 
+ I am come to survey the Tower this day.
+ Since Henry’s death I fear there is conveyance.
+ Where be these warders that they wait not here?—
+ Open the gates! ’Tis Gloucester that calls.
+, within
+ 
+ Who’s there that knocks so imperiously?
+ 
+ It is the noble Duke of Gloucester.
+, within
+ 
+ Whoe’er he be, you may not be let in.
+FTLN 0321
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+145
+FTLN 0326
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+150
+FTLN 0331
+FTLN 0332
+FTLN 0333
+Scene 3
+FTLN 0334
+FTLN 0335
+FTLN 0336
+FTLN 0337
+FTLN 0338
+5
+FTLN 0339
+FTLN 0340
+
+--- PAGE 22 / 118 ---
+33
+Henry VI, Part 1
+ACT 1. SC. 3
+FIRST SERVINGMAN
+FIRST WARDER
+GLOUCESTER
+Gloucester’s men rush at the Tower gates, and
+Woodville, the lieutenant, speaks within.
+WOODVILLE
+GLOUCESTER
+WOODVILLE
+GLOUCESTER
+SERVINGMEN
+WINCHESTER
+ 
+ Villains, answer you so the Lord Protector?
+, within
+ 
+ The Lord protect him, so we answer him.
+ We do no otherwise than we are willed.
+ 
+ Who willed you? Or whose will stands but mine?
+ There’s none Protector of the realm but I.—
+ Break up the gates! I’ll be your warrantize.
+ Shall I be flouted thus by dunghill grooms?
+ 
+ What noise is this? What traitors have we here?
+ 
+ Lieutenant, is it you whose voice I hear?
+ Open the gates. Here’s Gloucester that would enter.
+ 
+ Have patience, noble duke, I may not open.
+ The Cardinal of Winchester forbids.
+ From him I have express commandment
+ That thou nor none of thine shall be let in.
+ 
+ Fainthearted Woodville, prizest him ’fore me?
+ Arrogant Winchester, that haughty prelate
+ Whom Henry, our late sovereign, ne’er could brook?
+ Thou art no friend to God or to the King.
+ Open the gates, or I’ll shut thee out shortly.
+ 
+ Open the gates unto the Lord Protector,
+ Or we’ll burst them open if that you come not quickly.
+Enter, to the Protector at the Tower gates, Winchester
+in cardinal’s robes  and his men in tawny coats.
+ 
+ How now, ambitious Humphrey, what means this?
+FTLN 0341
+FTLN 0342
+FTLN 0343
+10
+FTLN 0344
+FTLN 0345
+FTLN 0346
+FTLN 0347
+FTLN 0348
+15
+FTLN 0349
+FTLN 0350
+FTLN 0351
+FTLN 0352
+FTLN 0353
+20
+FTLN 0354
+FTLN 0355
+FTLN 0356
+FTLN 0357
+FTLN 0358
+25
+FTLN 0359
+FTLN 0360
+FTLN 0361
+FTLN 0362
+
+--- PAGE 23 / 118 ---
+35
+Henry VI, Part 1
+ACT 1. SC. 3
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+All draw their swords.
+WINCHESTER
+GLOUCESTER
+ 
+ Peeled priest, dost thou command me to be shut out?
+ 
+ I do, thou most usurping proditor—
+ And not Protector—of the King or realm.
+ 
+ Stand back, thou manifest conspirator,
+ Thou that contrived’st to murder our dead lord,
+ Thou that giv’st whores indulgences to sin!
+ I’ll canvass thee in thy broad cardinal’s hat
+ If thou proceed in this thy insolence.
+ 
+ Nay, stand thou back. I will not budge a foot.
+ This be Damascus; be thou cursèd Cain
+ To slay thy brother Abel, if thou wilt.
+ 
+ I will not slay thee, but I’ll drive thee back.
+ Thy scarlet robes, as a child’s bearing-cloth,
+ I’ll use to carry thee out of this place.
+ 
+ Do what thou dar’st, I beard thee to thy face.
+ 
+ What, am I dared and bearded to my face?—
+ Draw, men, for all this privilegèd place.
+ Blue coats to tawny coats! 
+ Priest, beware your beard.
+ I mean to tug it and to cuff you soundly.
+ Under my feet I’ll  stamp thy cardinal’s hat;
+ In spite of pope or dignities of Church,
+ Here by the cheeks I’ll drag thee up and down.
+ 
+ Gloucester, thou wilt answer this before the Pope.
+ 
+ Winchester goose, I cry “a rope, a rope!”—
+ Now beat them hence; why do you let them stay?—
+FTLN 0363
+30
+FTLN 0364
+FTLN 0365
+FTLN 0366
+FTLN 0367
+FTLN 0368
+35
+FTLN 0369
+FTLN 0370
+FTLN 0371
+FTLN 0372
+FTLN 0373
+40
+FTLN 0374
+FTLN 0375
+FTLN 0376
+FTLN 0377
+FTLN 0378
+45
+FTLN 0379
+FTLN 0380
+FTLN 0381
+FTLN 0382
+FTLN 0383
+50
+FTLN 0384
+FTLN 0385
+FTLN 0386
+FTLN 0387
+FTLN 0388
+55
+
+--- PAGE 24 / 118 ---
+37
+Henry VI, Part 1
+ACT 1. SC. 3
+MAYOR
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+Here they skirmish again.
+MAYOR
+He hands an Officer a paper.
+OFFICER
+ Thee I’ll chase hence, thou wolf in sheep’s array.—
+ Out, tawny coats, out, scarlet hypocrite!
+Here Gloucester’s men beat out the Cardinal’s men,
+and enter in the hurly-burly the Mayor of London
+and his Officers.
+ 
+ Fie, lords, that you, being supreme magistrates,
+ Thus contumeliously should break the peace!
+ 
+ Peace, Mayor? Thou know’st little of my wrongs.
+ Here’s Beaufort, that regards nor God nor king,
+ Hath here distrained the Tower to his use.
+ 
+ Here’s Gloucester, a foe to citizens,
+ One that still motions war and never peace,
+ O’ercharging your free purses with large fines;
+ That seeks to overthrow religion
+ Because he is Protector of the realm,
+ And would have armor here out of the Tower
+ To crown himself king and suppress the Prince.
+ 
+ I will not answer thee with words, but blows.
+ 
+ Naught rests for me in this tumultuous strife
+ But to make open proclamation.
+ Come, officer, as loud as e’er thou canst, cry.
+ reads
+  All manner of men, assembled here in
+ arms this day against God’s peace and the King’s, we
+ charge and command you, in his Highness’ name, to
+ repair to your several dwelling places, and not to
+ wear, handle, or use any sword, weapon, or dagger
+ henceforward, upon pain of death.
+FTLN 0389
+FTLN 0390
+FTLN 0391
+FTLN 0392
+FTLN 0393
+60
+FTLN 0394
+FTLN 0395
+FTLN 0396
+FTLN 0397
+FTLN 0398
+65
+FTLN 0399
+FTLN 0400
+FTLN 0401
+FTLN 0402
+FTLN 0403
+70
+FTLN 0404
+FTLN 0405
+FTLN 0406
+FTLN 0407
+FTLN 0408
+75
+FTLN 0409
+FTLN 0410
+FTLN 0411
+FTLN 0412
+
+--- PAGE 25 / 118 ---
+39
+Henry VI, Part 1
+ACT 1. SC. 4
+GLOUCESTER
+WINCHESTER
+MAYOR
+GLOUCESTER
+WINCHESTER
+Gloucester and Winchester  exit
+at separate doors, with their Servingmen.
+MAYOR
+They exit.
+MASTER GUNNER
+BOY
+MASTER GUNNER
+ 
+ Cardinal, I’ll be no breaker of the law,
+ But we shall meet and break our minds at large.
+ 
+ Gloucester, we’ll meet to thy cost, be sure.
+ Thy heartblood I will have for this day’s work.
+ 
+ I’ll call for clubs if you will not away.
+  ( Aside. ) This cardinal’s more haughty than the devil!
+ 
+ Mayor, farewell. Thou dost but what thou mayst.
+ 
+ Abominable Gloucester, guard thy head,
+ For I intend to have it ere long.
+, to Officers
+ 
+ See the coast cleared, and then we will depart.
+  ( Aside. ) Good God, these nobles should such
+ stomachs bear!
+ I myself fight not once in forty year.
+Enter the Master Gunner of Orleance and his Boy.
+ 
+ Sirrah, thou know’st how Orleance is besieged
+ And how the English have the suburbs won.
+ 
+ Father, I know, and oft have shot at them;
+ Howe’er, unfortunate, I missed my aim.
+ 
+ But now thou shalt not. Be thou ruled by me.
+ Chief master-gunner am I of this town;
+FTLN 0413
+80
+FTLN 0414
+FTLN 0415
+FTLN 0416
+FTLN 0417
+FTLN 0418
+85
+FTLN 0419
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+90
+FTLN 0424
+FTLN 0425
+Scene 4
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+FTLN 0430
+5
+FTLN 0431
+
+--- PAGE 26 / 118 ---
+41
+Henry VI, Part 1
+ACT 1. SC. 4
+He exits.
+BOY
+He exits.
+SALISBURY
+TALBOT
+ Something I must do to procure me grace.
+ The Prince’s espials have informèd me
+ How the English, in the suburbs close entrenched,
+ Went through a secret grate of iron bars
+ In yonder tower, to overpeer the city,
+ And thence discover how with most advantage
+ They may vex us with shot or with assault.
+ To intercept this inconvenience,
+ A piece of ordnance ’gainst it I have placed,
+ And even these three days have I watched
+ If I could see them. Now do thou watch,
+ For I can stay no longer.
+ If thou spy’st any, run and bring me word;
+ And thou shalt find me at the Governor’s. 
+ 
+ Father, I warrant you, take you no care;
+ I’ll never trouble you if I may spy them. 
+Enter Salisbury and Talbot on the turrets,
+with Sir William Glansdale, Sir Thomas Gargrave,
+Attendants and  Others.
+ 
+ Talbot, my life, my joy, again returned!
+ How wert thou handled, being prisoner?
+ Or by what means gott’st thou to be released?
+ Discourse, I prithee, on this turret’s top.
+ 
+ The Duke  of Bedford had a prisoner
+ Called the brave Lord Ponton de Santrailles;
+ For him was I exchanged and ransomèd.
+ But with a baser man-of-arms by far
+ Once in contempt they would have bartered me,
+ Which I disdaining, scorned, and cravèd death
+ Rather than I would be so vile-esteemed.
+ In fine, redeemed I was as I desired.
+ But O, the treacherous Fastolf wounds my heart,
+FTLN 0432
+FTLN 0433
+FTLN 0434
+FTLN 0435
+10
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+FTLN 0440
+15
+FTLN 0441
+FTLN 0442
+FTLN 0443
+FTLN 0444
+FTLN 0445
+20
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+FTLN 0450
+25
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+FTLN 0455
+30
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+FTLN 0460
+35
+
+--- PAGE 27 / 118 ---
+43
+Henry VI, Part 1
+ACT 1. SC. 4
+SALISBURY
+TALBOT
+SALISBURY
+ Whom with my bare fists I would execute
+ If I now had him brought into my power.
+ 
+ Yet tell’st thou not how thou wert entertained.
+ 
+ With scoffs and scorns and contumelious taunts.
+ In open marketplace produced they me
+ To be a public spectacle to all.
+ “Here,” said they, “is the terror of the French,
+ The scarecrow that affrights our children so.”
+ Then broke I from the officers that led me,
+ And with my nails digged stones out of the ground
+ To hurl at the beholders of my shame.
+ My grisly countenance made others fly;
+ None durst come near for fear of sudden death.
+ In iron walls they deemed me not secure:
+ So great fear of my name ’mongst them were spread
+ That they supposed I could rend bars of steel
+ And spurn in pieces posts of adamant.
+ Wherefore a guard of chosen shot I had
+ That walked about me every minute-while;
+ And if I did but stir out of my bed,
+ Ready they were to shoot me to the heart.
+Enter the Boy with a linstock.
+He crosses the main stage and exits.
+ 
+ I grieve to hear what torments you endured,
+ But we will be revenged sufficiently.
+ Now it is supper time in Orleance.
+ Here, through this grate, I count each one
+ And view the Frenchmen how they fortify.
+ Let us look in; the sight will much delight thee.
+ Sir Thomas Gargrave and Sir William Glansdale,
+ Let me have your express opinions
+ Where is best place to make our batt’ry next?
+FTLN 0461
+FTLN 0462
+FTLN 0463
+FTLN 0464
+FTLN 0465
+40
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+FTLN 0470
+45
+FTLN 0471
+FTLN 0472
+FTLN 0473
+FTLN 0474
+FTLN 0475
+50
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+FTLN 0480
+55
+FTLN 0481
+FTLN 0482
+FTLN 0483
+FTLN 0484
+FTLN 0485
+60
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+FTLN 0490
+65
+
+--- PAGE 28 / 118 ---
+45
+Henry VI, Part 1
+ACT 1. SC. 4
+GARGRAVE
+GLANSDALE
+TALBOT
+Here they shoot,  and Salisbury
+and Gargrave fall  down.
+SALISBURY
+GARGRAVE
+TALBOT
+Attendants exit with body of Gargrave.
+ 
+ I think at the north gate, for there stands lords.
+ 
+ And I, here, at the bulwark of the bridge.
+ 
+ For aught I see, this city must be famished
+ Or with light skirmishes enfeeblèd.
+ 
+ O Lord, have mercy on us, wretched sinners!
+ 
+ O Lord, have mercy on me, woeful man!
+ 
+ What chance is this that suddenly hath crossed us?—
+ Speak, Salisbury—at least if thou canst, speak!
+ How far’st thou, mirror of all martial men?
+ One of thy eyes and thy cheek’s side struck off!—
+ Accursèd tower, accursèd fatal hand
+ That hath contrived this woeful tragedy!
+ In thirteen battles Salisbury o’ercame;
+ Henry the Fifth he first trained to the wars.
+ Whilst any trump did sound or drum struck up,
+ His sword did ne’er leave striking in the field.—
+ Yet liv’st thou, Salisbury? Though thy speech doth fail,
+ One eye thou hast to look to heaven for grace.
+ The sun with one eye vieweth all the world.
+ Heaven, be thou gracious to none alive
+ If Salisbury wants mercy at thy hands!—
+ Sir Thomas Gargrave, hast thou any life?
+ Speak unto Talbot. Nay, look up to him.—
+ Bear hence his body; I will help to bury it.
+ Salisbury, cheer thy spirit with this comfort,
+ Thou shalt not die whiles—
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+FTLN 0495
+70
+FTLN 0496
+FTLN 0497
+FTLN 0498
+FTLN 0499
+FTLN 0500
+75
+FTLN 0501
+FTLN 0502
+FTLN 0503
+FTLN 0504
+FTLN 0505
+80
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+FTLN 0510
+85
+FTLN 0511
+FTLN 0512
+FTLN 0513
+FTLN 0514
+FTLN 0515
+90
+FTLN 0516
+
+--- PAGE 29 / 118 ---
+47
+Henry VI, Part 1
+ACT 1. SC. 5
+Here an alarum, and it thunders and lightens.
+MESSENGER
+Here Salisbury lifteth himself up and groans.
+TALBOT
+Alarum. They exit.
+ He beckons with his hand and smiles on me
+ As who should say “When I am dead and gone,
+ Remember to avenge me on the French.”
+ Plantagenet, I will; and, like thee, Nero,
+ Play on the lute, beholding the towns burn.
+ Wretched shall France be only in my name.
+ What stir is this? What tumult’s in the heavens?
+ Whence cometh this alarum and the noise?
+Enter a Messenger.
+ 
+ My lord, my lord, the French have gathered head.
+ The Dauphin, with one Joan la  Pucelle joined,
+ A holy prophetess new risen up,
+ Is come with a great power to raise the siege.
+ 
+ Hear, hear, how dying Salisbury doth groan;
+ It irks his heart he cannot be revenged.
+ Frenchmen, I’ll be a Salisbury to you.
+ Pucelle or puzel, dauphin or dogfish,
+ Your hearts I’ll stamp out with my horse’s heels
+ And make a quagmire of your mingled brains.
+ Convey we  Salisbury into his tent,
+ And then try what these dastard Frenchmen dare.
+Here an alarum again, and Talbot pursueth the
+Dauphin and driveth him; then enter Joan la  Pucelle,
+driving Englishmen before her. They cross the stage
+and exit.  Then enter Talbot.
+FTLN 0517
+FTLN 0518
+FTLN 0519
+FTLN 0520
+95
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+FTLN 0525
+100
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+FTLN 0530
+105
+FTLN 0531
+FTLN 0532
+FTLN 0533
+FTLN 0534
+FTLN 0535
+110
+FTLN 0536
+Scene 5
+
+--- PAGE 30 / 118 ---
+49
+Henry VI, Part 1
+ACT 1. SC. 5
+TALBOT
+PUCELLE
+Here they fight.
+TALBOT
+They fight again.
+PUCELLE
+A short alarum. Then she prepares to
+enter the town with Soldiers.
+She exits with Soldiers.
+TALBOT
+ 
+ Where is my strength, my valor, and my force?
+ Our English troops retire; I cannot stay them.
+ A woman clad in armor chaseth them.
+Enter Pucelle, with Soldiers.
+ Here, here she comes!—I’ll have a bout with thee.
+ Devil or devil’s dam, I’ll conjure thee.
+ Blood will I draw on thee—thou art a witch—
+ And straightway give thy soul to him thou serv’st.
+ 
+ Come, come; ’tis only I that must disgrace thee.
+ 
+ Heavens, can you suffer hell so to prevail?
+ My breast I’ll burst with straining of my courage,
+ And from my shoulders crack my arms asunder,
+ But I will chastise this high-minded strumpet.
+ 
+ Talbot, farewell. Thy hour is not yet come.
+ I must go victual Orleance forthwith.
+ O’ertake me if thou canst. I scorn thy strength.
+ Go, go, cheer up thy hunger-starvèd  men.
+ Help Salisbury to make his testament.
+ This day is ours, as many more shall be.
+ 
+ My thoughts are whirlèd like a potter’s wheel.
+ I know not where I am nor what I do.
+ A witch by fear—not force, like Hannibal—
+ Drives back our troops, and conquers as she lists.
+ So bees with smoke and doves with noisome stench
+FTLN 0537
+FTLN 0538
+FTLN 0539
+FTLN 0540
+FTLN 0541
+5
+FTLN 0542
+FTLN 0543
+FTLN 0544
+FTLN 0545
+FTLN 0546
+10
+FTLN 0547
+FTLN 0548
+FTLN 0549
+FTLN 0550
+FTLN 0551
+15
+FTLN 0552
+FTLN 0553
+FTLN 0554
+FTLN 0555
+FTLN 0556
+20
+FTLN 0557
+FTLN 0558
+FTLN 0559
+
+--- PAGE 31 / 118 ---
+51
+Henry VI, Part 1
+ACT 1. SC. 6
+Alarum. Here another skirmish.
+Soldiers exit.
+Talbot exits. Alarum. Retreat.
+PUCELLE
+She exits.
+CHARLES
+ Are from their hives and houses driven away.
+ They called us, for our fierceness, English dogs;
+ Now like to whelps we crying run away.
+A short alarum. Enter English soldiers,
+chased by French soldiers.
+ Hark, countrymen, either renew the fight,
+ Or tear the lions out of England’s coat.
+ Renounce your soil; give sheep in lions’ stead.
+ Sheep run not half so treacherous from the wolf,
+ Or horse or oxen from the leopard,
+ As you fly from your oft-subduèd slaves.
+ It will not be! Retire into your trenches.
+ You all consented unto Salisbury’s death,
+ For none would strike a stroke in his revenge.
+ Pucelle is entered into Orleance
+ In spite of us or aught that we could do.
+ O, would I were to die with Salisbury!
+ The shame hereof will make me hide my head.
+Flourish. Enter on the walls Pucelle, Charles the
+Dauphin, Reignier, Alanson, and Soldiers.
+ 
+ Advance our waving colors on the walls.
+ Rescued is Orleance from the English.
+ Thus Joan la  Pucelle hath performed her word.
+ 
+ Divinest creature, Astraea’s daughter,
+ How shall I honor thee for this success?
+FTLN 0560
+FTLN 0561
+25
+FTLN 0562
+FTLN 0563
+FTLN 0564
+FTLN 0565
+FTLN 0566
+30
+FTLN 0567
+FTLN 0568
+FTLN 0569
+FTLN 0570
+FTLN 0571
+35
+FTLN 0572
+FTLN 0573
+FTLN 0574
+FTLN 0575
+Scene 6
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+FTLN 0580
+5
+
+--- PAGE 32 / 118 ---
+53
+Henry VI, Part 1
+ACT 1. SC. 6
+REIGNIER
+ALANSON
+CHARLES
+Flourish. They exit.
+ Thy promises are like Adonis’ garden
+ That one day bloomed and fruitful were the next.
+ France, triumph in thy glorious prophetess.
+ Recovered is the town of Orleance.
+ More blessèd hap did ne’er befall our state.
+ 
+ Why ring not bells aloud throughout the town?
+ Dauphin, command the citizens make bonfires
+ And feast and banquet in the open streets
+ To celebrate the joy that God hath given us.
+ 
+ All France will be replete with mirth and joy
+ When they shall hear how we have played the men.
+ 
+ ’Tis Joan, not we, by whom the day is won;
+ For which I will divide my crown with her,
+ And all the priests and friars in my realm
+ Shall in procession sing her endless praise.
+ A statelier pyramis to her I’ll rear
+ Than Rhodophe’s of  Memphis ever was.
+ In memory of her, when she is dead,
+ Her ashes, in an urn more precious
+ Than the rich-jeweled coffer of Darius,
+ Transported shall be at high festivals
+ Before the kings and queens of France.
+ No longer on Saint Dennis will we cry,
+ But Joan la  Pucelle shall be France’s saint.
+ Come in, and let us banquet royally
+ After this golden day of victory.
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+FTLN 0585
+10
+FTLN 0586
+FTLN 0587
+FTLN 0588
+FTLN 0589
+FTLN 0590
+15
+FTLN 0591
+FTLN 0592
+FTLN 0593
+FTLN 0594
+FTLN 0595
+20
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+FTLN 0600
+25
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+FTLN 0605
+30
+FTLN 0606
+
+--- PAGE 33 / 118 ---
+SERGEANT
+SENTINEL
+Sergeant exits.
+TALBOT
+BEDFORD
+Enter on the walls  a French  Sergeant of a Band,
+with two Sentinels.
+ 
+ Sirs, take your places and be vigilant.
+ If any noise or soldier you perceive
+ Near to the walls, by some apparent sign
+ Let us have knowledge at the court of guard.
+ 
+ Sergeant, you shall. 
+ Thus are poor servitors,
+ When others sleep upon their quiet beds,
+ Constrained to watch in darkness, rain, and cold.
+Enter Talbot, Bedford, and Burgundy, below,
+with scaling ladders.
+ 
+ Lord Regent, and redoubted Burgundy,
+ By whose approach the regions of Artois,
+ Walloon, and Picardy are friends to us,
+ This happy night the Frenchmen are secure,
+ Having all day caroused and banqueted.
+ Embrace we then this opportunity,
+ As fitting best to quittance their deceit
+ Contrived by art and baleful sorcery.
+ 
+ Coward of France, how much he wrongs his fame,
+ Despairing of his own arm’s fortitude,
+ To join with witches and the help of hell!
+57
+ACT 2
+Scene 1
+FTLN 0607
+FTLN 0608
+FTLN 0609
+FTLN 0610
+FTLN 0611
+5
+FTLN 0612
+FTLN 0613
+FTLN 0614
+FTLN 0615
+FTLN 0616
+10
+FTLN 0617
+FTLN 0618
+FTLN 0619
+FTLN 0620
+FTLN 0621
+15
+FTLN 0622
+FTLN 0623
+FTLN 0624
+FTLN 0625
+
+--- PAGE 34 / 118 ---
+59
+Henry VI, Part 1
+ACT 2. SC. 1
+BURGUNDY
+TALBOT
+BEDFORD
+BURGUNDY
+TALBOT
+BEDFORD
+TALBOT
+BEDFORD
+BURGUNDY
+TALBOT
+Scaling the walls, they  cry
+“Saint George! À Talbot!”
+SENTINEL
+The English, pursuing the Sentinels, exit aloft.
+The French leap o’er the walls in their shirts.
+ 
+ Traitors have never other company.
+ But what’s that Pucelle whom they term so pure?
+ 
+ A maid, they say.
+  
+ A maid? And be so martial?
+ 
+ Pray God she prove not masculine ere long,
+ If underneath the standard of the French
+ She carry armor as she hath begun.
+ 
+ Well, let them practice and converse with spirits.
+ God is our fortress, in whose conquering name
+ Let us resolve to scale their flinty bulwarks.
+ 
+ Ascend, brave Talbot. We will follow thee.
+ 
+ Not all together. Better far, I guess,
+ That we do make our entrance several ways,
+ That if it chance the one of us do fail,
+ The other yet may rise against their force.
+ 
+ Agreed. I’ll to yond corner.
+  
+ And I to this.
+ 
+ And here will Talbot mount, or make his grave.
+ Now, Salisbury, for thee and for the right
+ Of English Henry, shall this night appear
+ How much in duty I am bound to both.
+ 
+ Arm, arm! The enemy doth make assault.
+FTLN 0626
+20
+FTLN 0627
+FTLN 0628
+FTLN 0629
+FTLN 0630
+FTLN 0631
+25
+FTLN 0632
+FTLN 0633
+FTLN 0634
+FTLN 0635
+FTLN 0636
+30
+FTLN 0637
+FTLN 0638
+FTLN 0639
+FTLN 0640
+FTLN 0641
+35
+FTLN 0642
+FTLN 0643
+FTLN 0644
+FTLN 0645
+FTLN 0646
+40
+FTLN 0647
+
+--- PAGE 35 / 118 ---
+61
+Henry VI, Part 1
+ACT 2. SC. 1
+ALANSON
+BASTARD
+REIGNIER
+ALANSON
+BASTARD
+REIGNIER
+ALANSON
+BASTARD
+CHARLES
+PUCELLE
+Enter several ways, Bastard, Alanson, Reignier,
+half ready, and half unready.
+ 
+ How now, my lords? What, all unready so?
+ 
+ Unready? Ay, and glad we scaped so well.
+ 
+ ’Twas time, I trow, to wake and leave our beds,
+ Hearing alarums at our chamber doors.
+ 
+ Of all exploits since first I followed arms
+ Ne’er heard I of a warlike enterprise
+ More venturous or desperate than this.
+ 
+ I think this Talbot be a fiend of hell.
+ 
+ If not of hell, the heavens sure favor him.
+ 
+ Here cometh Charles. I marvel how he sped.
+Enter Charles and Joan la Pucelle.
+ 
+ Tut, holy Joan was his defensive guard.
+ 
+ Is this thy cunning, thou deceitful dame?
+ Didst thou at first, to flatter us withal,
+ Make us partakers of a little gain
+ That now our loss might be ten times so much?
+ 
+ Wherefore is Charles impatient with his friend?
+ At all times will you have my power alike?
+ Sleeping or waking, must I still prevail,
+ Or will you blame and lay the fault on me?—
+ Improvident soldiers, had your watch been good,
+ This sudden mischief never could have fall’n.
+FTLN 0648
+FTLN 0649
+FTLN 0650
+FTLN 0651
+45
+FTLN 0652
+FTLN 0653
+FTLN 0654
+FTLN 0655
+FTLN 0656
+50
+FTLN 0657
+FTLN 0658
+FTLN 0659
+FTLN 0660
+FTLN 0661
+55
+FTLN 0662
+FTLN 0663
+FTLN 0664
+FTLN 0665
+FTLN 0666
+60
+FTLN 0667
+FTLN 0668
+
+--- PAGE 36 / 118 ---
+63
+Henry VI, Part 1
+ACT 2. SC. 1
+CHARLES
+ALANSON
+BASTARD
+REIGNIER
+CHARLES
+PUCELLE
+SOLDIER
+He exits.
+ 
+ Duke of Alanson, this was your default,
+ That, being captain of the watch tonight,
+ Did look no better to that weighty charge.
+ 
+ Had all your quarters been as safely kept
+ As that whereof I had the government,
+ We had not been thus shamefully surprised.
+ 
+ Mine was secure.
+  
+ And so was mine, my lord.
+ 
+ And for myself, most part of all this night
+ Within her quarter and mine own precinct
+ I was employed in passing to and fro
+ About relieving of the sentinels.
+ Then how or which way should they first break in?
+ 
+ Question, my lords, no further of the case,
+ How or which way; ’tis sure they found some place
+ But weakly guarded, where the breach was made.
+ And now there rests no other shift but this:
+ To gather our soldiers, scattered and dispersed,
+ And lay new platforms to endamage them.
+Alarum. Enter an English  Soldier, crying,
+“À Talbot, À Talbot!” The French  fly,
+leaving their clothes behind.
+ 
+ I’ll be so bold to take what they have left.
+ The cry of “Talbot” serves me for a sword,
+ For I have loaden me with many spoils,
+ Using no other weapon but his name.
+FTLN 0669
+FTLN 0670
+FTLN 0671
+65
+FTLN 0672
+FTLN 0673
+FTLN 0674
+FTLN 0675
+FTLN 0676
+70
+FTLN 0677
+FTLN 0678
+FTLN 0679
+FTLN 0680
+FTLN 0681
+75
+FTLN 0682
+FTLN 0683
+FTLN 0684
+FTLN 0685
+FTLN 0686
+80
+FTLN 0687
+FTLN 0688
+FTLN 0689
+FTLN 0690
+FTLN 0691
+85
+
+--- PAGE 37 / 118 ---
+65
+Henry VI, Part 1
+ACT 2. SC. 2
+BEDFORD
+Retreat sounded.
+TALBOT
+Funeral exits.
+BEDFORD
+Enter Talbot, Bedford, Burgundy, a Captain and Others.
+ 
+ The day begins to break and night is fled,
+ Whose pitchy mantle over-veiled the Earth.
+ Here sound retreat and cease our hot pursuit.
+ 
+ Bring forth the body of old Salisbury,
+ And here advance it in the marketplace,
+ The middle center of this cursèd town.
+Soldiers enter bearing the body of Salisbury,
+Drums beating a dead march.
+ Now have I paid my vow unto his soul:
+ For every drop of blood was drawn from him
+ There hath at least five Frenchmen died tonight.
+ And, that hereafter ages may behold
+ What ruin happened in revenge of him,
+ Within their chiefest temple I’ll erect
+ A tomb wherein his corpse shall be interred,
+ Upon the which, that everyone may read,
+ Shall be engraved the sack of Orleance,
+ The treacherous manner of his mournful death,
+ And what a terror he had been to France.
+ But, lords, in all our bloody massacre,
+ I muse we met not with the Dauphin’s grace,
+ His new-come champion, virtuous Joan of Arc,
+ Nor any of his false confederates.
+ 
+ ’Tis thought, Lord Talbot, when the fight began,
+ Roused on the sudden from their drowsy beds,
+ They did amongst the troops of armèd men
+ Leap o’er the walls for refuge in the field.
+Scene 2
+FTLN 0692
+FTLN 0693
+FTLN 0694
+FTLN 0695
+FTLN 0696
+5
+FTLN 0697
+FTLN 0698
+FTLN 0699
+FTLN 0700
+FTLN 0701
+10
+FTLN 0702
+FTLN 0703
+FTLN 0704
+FTLN 0705
+FTLN 0706
+15
+FTLN 0707
+FTLN 0708
+FTLN 0709
+FTLN 0710
+FTLN 0711
+20
+FTLN 0712
+FTLN 0713
+FTLN 0714
+FTLN 0715
+FTLN 0716
+25
+
+--- PAGE 38 / 118 ---
+67
+Henry VI, Part 1
+ACT 2. SC. 2
+BURGUNDY
+MESSENGER
+TALBOT
+MESSENGER
+BURGUNDY
+TALBOT
+ 
+ Myself, as far as I could well discern
+ For smoke and dusky vapors of the night,
+ Am sure I scared the Dauphin and his trull,
+ When arm-in-arm they both came swiftly running,
+ Like to a pair of loving turtledoves
+ That could not live asunder day or night.
+ After that things are set in order here,
+ We’ll follow them with all the power we have.
+Enter a Messenger.
+ 
+ All hail, my lords. Which of this princely train
+ Call you the warlike Talbot, for his acts
+ So much applauded through the realm of France?
+ 
+ Here is the Talbot. Who would speak with him?
+ 
+ The virtuous lady, Countess of Auvergne,
+ With modesty admiring thy renown,
+ By me entreats, great lord, thou wouldst vouchsafe
+ To visit her poor castle where she lies,
+ That she may boast she hath beheld the man
+ Whose glory fills the world with loud report.
+ 
+ Is it even so? Nay, then, I see our wars
+ Will turn unto a peaceful comic sport,
+ When ladies crave to be encountered with.
+ You may not, my lord, despise her gentle suit.
+ 
+ Ne’er trust me, then; for when a world of men
+ Could not prevail with all their oratory,
+ Yet hath a woman’s kindness overruled.—
+ And therefore tell her I return great thanks,
+ And in submission will attend on her.—
+ Will not your Honors bear me company?
+FTLN 0717
+FTLN 0718
+FTLN 0719
+FTLN 0720
+FTLN 0721
+30
+FTLN 0722
+FTLN 0723
+FTLN 0724
+FTLN 0725
+FTLN 0726
+35
+FTLN 0727
+FTLN 0728
+FTLN 0729
+FTLN 0730
+FTLN 0731
+40
+FTLN 0732
+FTLN 0733
+FTLN 0734
+FTLN 0735
+FTLN 0736
+45
+FTLN 0737
+FTLN 0738
+FTLN 0739
+FTLN 0740
+FTLN 0741
+50
+FTLN 0742
+FTLN 0743
+FTLN 0744
+
+--- PAGE 39 / 118 ---
+69
+Henry VI, Part 1
+ACT 2. SC. 3
+BEDFORD
+TALBOT
+Whispers.
+CAPTAIN
+They exit.
+COUNTESS
+PORTER
+He exits.
+COUNTESS
+MESSENGER
+COUNTESS
+ 
+ No, truly, ’tis more than manners will;
+ And I have heard it said unbidden guests
+ Are often welcomest when they are gone.
+ 
+ Well then, alone, since there’s no remedy,
+ I mean to prove this lady’s courtesy.—
+ Come hither, captain. 
+ You perceive my mind?
+ 
+ I do, my lord, and mean accordingly.
+Enter Countess of Auvergne, with Porter.
+ 
+ Porter, remember what I gave in charge,
+ And when you have done so, bring the keys to me.
+  Madam, I will. 
+ 
+ The plot is laid. If all things fall out right,
+ I shall as famous be by this exploit
+ As Scythian Tamyris by Cyrus’ death.
+ Great is the rumor of this dreadful knight,
+ And his achievements of no less account.
+ Fain would mine eyes be witness with mine ears
+ To give their censure of these rare reports.
+Enter Messenger and Talbot.
+ 
+ Madam, according as your Ladyship desired,
+ By message craved, so is Lord Talbot come.
+ 
+ And he is welcome. What, is this the man?
+FTLN 0745
+FTLN 0746
+55
+FTLN 0747
+FTLN 0748
+FTLN 0749
+FTLN 0750
+FTLN 0751
+60
+FTLN 0752
+Scene 3
+FTLN 0753
+FTLN 0754
+FTLN 0755
+FTLN 0756
+FTLN 0757
+5
+FTLN 0758
+FTLN 0759
+FTLN 0760
+FTLN 0761
+FTLN 0762
+10
+FTLN 0763
+FTLN 0764
+FTLN 0765
+
+--- PAGE 40 / 118 ---
+71
+Henry VI, Part 1
+ACT 2. SC. 3
+MESSENGER
+COUNTESS
+TALBOT
+He begins to exit.
+COUNTESS
+MESSENGER
+TALBOT
+COUNTESS
+TALBOT
+COUNTESS
+ 
+ Madam, it is.
+  
+ Is this the scourge of France?
+ Is this the Talbot, so much feared abroad
+ That with his name the mothers still their babes?
+ I see report is fabulous and false.
+ I thought I should have seen some Hercules,
+ A second Hector, for his grim aspect
+ And large proportion of his strong-knit limbs.
+ Alas, this is a child, a silly dwarf!
+ It cannot be this weak and writhled shrimp
+ Should strike such terror to his enemies.
+ 
+ Madam, I have been bold to trouble you.
+ But since your Ladyship is not at leisure,
+ I’ll sort some other time to visit you.
+, to Messenger
+ 
+ What means he now? Go ask him whither he goes.
+ 
+ Stay, my Lord Talbot, for my lady craves
+ To know the cause of your abrupt departure.
+ 
+ Marry, for that she’s in a wrong belief,
+ I go to certify her Talbot’s here.
+Enter Porter with keys.
+, to Talbot
+ 
+ If thou be he, then art thou prisoner.
+ 
+ Prisoner? To whom?
+  
+ To me, bloodthirsty lord.
+ And for that cause I trained thee to my house.
+ Long time thy shadow hath been thrall to me,
+ For in my gallery thy picture hangs.
+FTLN 0766
+FTLN 0767
+15
+FTLN 0768
+FTLN 0769
+FTLN 0770
+FTLN 0771
+FTLN 0772
+20
+FTLN 0773
+FTLN 0774
+FTLN 0775
+FTLN 0776
+FTLN 0777
+25
+FTLN 0778
+FTLN 0779
+FTLN 0780
+FTLN 0781
+FTLN 0782
+30
+FTLN 0783
+FTLN 0784
+FTLN 0785
+FTLN 0786
+FTLN 0787
+35
+FTLN 0788
+FTLN 0789
+FTLN 0790
+
+--- PAGE 41 / 118 ---
+73
+Henry VI, Part 1
+ACT 2. SC. 3
+TALBOT
+COUNTESS
+TALBOT
+COUNTESS
+TALBOT
+COUNTESS
+TALBOT
+COUNTESS
+TALBOT
+Winds his horn. Drums strike up;
+a peal of ordnance.
+ But now the substance shall endure the like,
+ And I will chain these legs and arms of thine,
+ That hast by tyranny these many years
+ Wasted our country, slain our citizens,
+ And sent our sons and husbands captivate.
+  Ha, ha, ha!
+ 
+ Laughest thou, wretch? Thy mirth shall turn to moan.
+ 
+ I laugh to see your Ladyship so fond
+ To think that you have aught but Talbot’s shadow
+ Whereon to practice your severity.
+  Why, art not thou the man?
+  I am, indeed.
+  Then have I substance too.
+ 
+ No, no, I am but shadow of myself.
+ You are deceived; my substance is not here,
+ For what you see is but the smallest part
+ And least proportion of humanity.
+ I tell you, madam, were the whole frame here,
+ It is of such a spacious lofty pitch
+ Your roof were not sufficient to contain ’t.
+ 
+ This is a riddling merchant for the nonce:
+ He will be here and yet he is not here.
+ How can these contrarieties agree?
+ 
+ That will I show you presently.
+Enter Soldiers.
+ How say you, madam? Are you now persuaded
+ That Talbot is but shadow of himself?
+FTLN 0791
+FTLN 0792
+40
+FTLN 0793
+FTLN 0794
+FTLN 0795
+FTLN 0796
+FTLN 0797
+45
+FTLN 0798
+FTLN 0799
+FTLN 0800
+FTLN 0801
+FTLN 0802
+50
+FTLN 0803
+FTLN 0804
+FTLN 0805
+FTLN 0806
+FTLN 0807
+55
+FTLN 0808
+FTLN 0809
+FTLN 0810
+FTLN 0811
+FTLN 0812
+60
+FTLN 0813
+FTLN 0814
+FTLN 0815
+FTLN 0816
+
+--- PAGE 42 / 118 ---
+75
+Henry VI, Part 1
+ACT 2. SC. 4
+COUNTESS
+TALBOT
+COUNTESS
+They exit.
+PLANTAGENET
+ These are his substance, sinews, arms, and strength,
+ With which he yoketh your rebellious necks,
+ Razeth your cities, and subverts your towns,
+ And in a moment makes them desolate.
+ 
+ Victorious Talbot, pardon my abuse.
+ I find thou art no less than fame hath bruited,
+ And more than may be gathered by thy shape.
+ Let my presumption not provoke thy wrath,
+ For I am sorry that with reverence
+ I did not entertain thee as thou art.
+ 
+ Be not dismayed, fair lady, nor misconster
+ The mind of Talbot as you did mistake
+ The outward composition of his body.
+ What you have done hath not offended me,
+ Nor other satisfaction do I crave
+ But only, with your patience, that we may
+ Taste of your wine and see what cates you have,
+ For soldiers’ stomachs always serve them well.
+ 
+ With all my heart, and think me honorèd
+ To feast so great a warrior in my house.
+Enter Richard Plantagenet, Warwick, Somerset,
+William de la  Pole the Earl of Suffolk,
+Vernon, a Lawyer,  and Others.
+ 
+ Great lords and gentlemen, what means this silence?
+ Dare no man answer in a case of truth?
+FTLN 0817
+65
+FTLN 0818
+FTLN 0819
+FTLN 0820
+FTLN 0821
+FTLN 0822
+70
+FTLN 0823
+FTLN 0824
+FTLN 0825
+FTLN 0826
+FTLN 0827
+75
+FTLN 0828
+FTLN 0829
+FTLN 0830
+FTLN 0831
+FTLN 0832
+80
+FTLN 0833
+FTLN 0834
+FTLN 0835
+FTLN 0836
+Scene 4
+FTLN 0837
+FTLN 0838
+
+--- PAGE 43 / 118 ---
+77
+Henry VI, Part 1
+ACT 2. SC. 4
+SUFFOLK
+PLANTAGENET
+SUFFOLK
+SOMERSET
+WARWICK
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+ 
+ Within the Temple Hall we were too loud;
+ The garden here is more convenient.
+ 
+ Then say at once if I maintained the truth,
+ Or else was wrangling Somerset in th’ error?
+ 
+ Faith, I have been a truant in the law
+ And never yet could frame my will to it,
+ And therefore frame the law unto my will.
+ 
+ Judge you, my Lord of Warwick, then, between us.
+ 
+ Between two hawks, which flies the higher pitch,
+ Between two dogs, which hath the deeper mouth,
+ Between two blades, which bears the better temper,
+ Between two horses, which doth bear him best,
+ Between two girls, which hath the merriest eye,
+ I have perhaps some shallow spirit of judgment;
+ But in these nice sharp quillets of the law,
+ Good faith, I am no wiser than a daw.
+ 
+ Tut, tut, here is a mannerly forbearance!
+ The truth appears so naked on my side
+ That any purblind eye may find it out.
+ 
+ And on my side it is so well appareled,
+ So clear, so shining, and so evident,
+ That it will glimmer through a blind man’s eye.
+ 
+ Since you are tongue-tied and so loath to speak,
+ In dumb significants proclaim your thoughts:
+ Let him that is a trueborn gentleman
+ And stands upon the honor of his birth,
+ If he suppose that I have pleaded truth,
+ From off this brier pluck a white rose with me.
+FTLN 0839
+FTLN 0840
+FTLN 0841
+5
+FTLN 0842
+FTLN 0843
+FTLN 0844
+FTLN 0845
+FTLN 0846
+10
+FTLN 0847
+FTLN 0848
+FTLN 0849
+FTLN 0850
+FTLN 0851
+15
+FTLN 0852
+FTLN 0853
+FTLN 0854
+FTLN 0855
+FTLN 0856
+20
+FTLN 0857
+FTLN 0858
+FTLN 0859
+FTLN 0860
+FTLN 0861
+25
+FTLN 0862
+FTLN 0863
+FTLN 0864
+FTLN 0865
+FTLN 0866
+30
+
+--- PAGE 44 / 118 ---
+79
+Henry VI, Part 1
+ACT 2. SC. 4
+SOMERSET
+WARWICK
+SUFFOLK
+VERNON
+SOMERSET
+PLANTAGENET
+VERNON
+SOMERSET
+VERNON
+SOMERSET
+LAWYER
+ 
+ Let him that is no coward nor no flatterer,
+ But dare maintain the party of the truth,
+ Pluck a red rose from off this thorn with me.
+ 
+ I love no colors; and, without all color
+ Of base insinuating flattery,
+ I pluck this white rose with Plantagenet.
+ 
+ I pluck this red rose with young Somerset,
+ And say withal I think he held the right.
+ 
+ Stay, lords and gentlemen, and pluck no more
+ Till you conclude that he upon whose side
+ The fewest roses are croppèd from the tree
+ Shall yield the other in the right opinion.
+ 
+ Good Master Vernon, it is well objected:
+ If I have fewest, I subscribe in silence.
+  And I.
+ 
+ Then for the truth and plainness of the case,
+ I pluck this pale and maiden blossom here,
+ Giving my verdict on the white rose side.
+ 
+ Prick not your finger as you pluck it off,
+ Lest, bleeding, you do paint the white rose red,
+ And fall on my side so against your will.
+ 
+ If I, my lord, for my opinion bleed,
+ Opinion shall be surgeon to my hurt
+ And keep me on the side where still I am.
+  Well, well, come on, who else?
+ 
+ Unless my study and my books be false,
+FTLN 0867
+FTLN 0868
+FTLN 0869
+FTLN 0870
+FTLN 0871
+35
+FTLN 0872
+FTLN 0873
+FTLN 0874
+FTLN 0875
+FTLN 0876
+40
+FTLN 0877
+FTLN 0878
+FTLN 0879
+FTLN 0880
+FTLN 0881
+45
+FTLN 0882
+FTLN 0883
+FTLN 0884
+FTLN 0885
+FTLN 0886
+50
+FTLN 0887
+FTLN 0888
+FTLN 0889
+FTLN 0890
+FTLN 0891
+55
+FTLN 0892
+
+--- PAGE 45 / 118 ---
+81
+Henry VI, Part 1
+ACT 2. SC. 4
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+SUFFOLK
+PLANTAGENET
+SUFFOLK
+ The argument you held was wrong in law,
+ In sign whereof I pluck a white rose too.
+ 
+ Now, Somerset, where is your argument?
+ 
+ Here in my scabbard, meditating that
+ Shall dye your white rose in a bloody red.
+ 
+ Meantime your cheeks do counterfeit our roses,
+ For pale they look with fear, as witnessing
+ The truth on our side.
+  
+ No, Plantagenet.
+ ’Tis not for fear, but anger that thy cheeks
+ Blush for pure shame to counterfeit our roses,
+ And yet thy tongue will not confess thy error.
+ 
+ Hath not thy rose a canker, Somerset?
+ 
+ Hath not thy rose a thorn, Plantagenet?
+ 
+ Ay, sharp and piercing, to maintain his truth,
+ Whiles thy consuming canker eats his falsehood.
+ 
+ Well, I’ll find friends to wear my bleeding roses
+ That shall maintain what I have said is true,
+ Where false Plantagenet dare not be seen.
+ 
+ Now, by this maiden blossom in my hand,
+ I scorn thee and thy fashion, peevish boy.
+ 
+ Turn not thy scorns this way, Plantagenet.
+ 
+ Proud Pole, I will, and scorn both him and thee.
+ 
+ I’ll turn my part thereof into thy throat.
+FTLN 0893
+FTLN 0894
+FTLN 0895
+FTLN 0896
+60
+FTLN 0897
+FTLN 0898
+FTLN 0899
+FTLN 0900
+FTLN 0901
+65
+FTLN 0902
+FTLN 0903
+FTLN 0904
+FTLN 0905
+FTLN 0906
+70
+FTLN 0907
+FTLN 0908
+FTLN 0909
+FTLN 0910
+FTLN 0911
+75
+FTLN 0912
+FTLN 0913
+FTLN 0914
+FTLN 0915
+FTLN 0916
+80
+
+--- PAGE 46 / 118 ---
+83
+Henry VI, Part 1
+ACT 2. SC. 4
+SOMERSET
+WARWICK
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+SOMERSET
+PLANTAGENET
+ 
+ Away, away, good William de la Pole!
+ We grace the yeoman by conversing with him.
+ 
+ Now, by God’s will, thou wrong’st him, Somerset.
+ His grandfather was Lionel, Duke of Clarence,
+ Third son to the third Edward, King of England.
+ Spring crestless yeomen from so deep a root?
+ 
+ He bears him on the place’s privilege,
+ Or durst not for his craven heart say thus.
+ 
+ By Him that made me, I’ll maintain my words
+ On any plot of ground in Christendom.
+ Was not thy father Richard, Earl of Cambridge,
+ For treason executed in our late king’s days?
+ And, by his treason, stand’st not thou attainted,
+ Corrupted, and exempt from ancient gentry?
+ His trespass yet lives guilty in thy blood,
+ And, till thou be restored, thou art a yeoman.
+ 
+ My father was attachèd, not attainted,
+ Condemned to die for treason, but no traitor;
+ And that I’ll prove on better men than Somerset,
+ Were growing time once ripened to my will.
+ For your partaker Pole and you yourself,
+ I’ll note you in my book of memory
+ To scourge you for this apprehension.
+ Look to it well, and say you are well warned.
+ 
+ Ah, thou shalt find us ready for thee still,
+ And know us by these colors for thy foes,
+ For these my friends in spite of thee shall wear.
+ 
+ And, by my soul, this pale and angry rose,
+ As cognizance of my blood-drinking hate,
+FTLN 0917
+FTLN 0918
+FTLN 0919
+FTLN 0920
+FTLN 0921
+85
+FTLN 0922
+FTLN 0923
+FTLN 0924
+FTLN 0925
+FTLN 0926
+90
+FTLN 0927
+FTLN 0928
+FTLN 0929
+FTLN 0930
+FTLN 0931
+95
+FTLN 0932
+FTLN 0933
+FTLN 0934
+FTLN 0935
+FTLN 0936
+100
+FTLN 0937
+FTLN 0938
+FTLN 0939
+FTLN 0940
+FTLN 0941
+105
+FTLN 0942
+FTLN 0943
+FTLN 0944
+FTLN 0945
+
+--- PAGE 47 / 118 ---
+85
+Henry VI, Part 1
+ACT 2. SC. 4
+SUFFOLK
+He exits.
+SOMERSET
+He exits.
+PLANTAGENET
+WARWICK
+PLANTAGENET
+VERNON
+LAWYER
+PLANTAGENET
+They exit.
+ Will I forever, and my faction, wear
+ Until it wither with me to my grave
+ Or flourish to the height of my degree.
+ 
+ Go forward, and be choked with thy ambition!
+ And so farewell, until I meet thee next. 
+ 
+ Have with thee, Pole.—Farewell, ambitious Richard.
+ 
+ How I am braved, and must perforce endure it!
+ 
+ This blot that they object against your house
+ Shall be whipped out in the next parliament,
+ Called for the truce of Winchester and Gloucester;
+ And if thou be not then created York,
+ I will not live to be accounted Warwick.
+ Meantime, in signal of my love to thee,
+ Against proud Somerset and William Pole
+ Will I upon thy party wear this rose.
+ And here I prophesy: this brawl today,
+ Grown to this faction in the Temple garden,
+ Shall send, between the red rose and the white,
+ A thousand souls to death and deadly night.
+ 
+ Good Master Vernon, I am bound to you,
+ That you on my behalf would pluck a flower.
+ 
+ In your behalf still will I wear the same.
+ 
+ And so will I.
+   Thanks, gentle sir.
+ Come, let us four to dinner. I dare say
+ This quarrel will drink blood another day.
+FTLN 0946
+110
+FTLN 0947
+FTLN 0948
+FTLN 0949
+FTLN 0950
+FTLN 0951
+115
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+120
+FTLN 0957
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+125
+FTLN 0962
+FTLN 0963
+FTLN 0964
+FTLN 0965
+FTLN 0966
+130
+FTLN 0967
+FTLN 0968
+FTLN 0969
+FTLN 0970
+FTLN 0971
+135
+
+--- PAGE 48 / 118 ---
+87
+Henry VI, Part 1
+ACT 2. SC. 5
+MORTIMER
+KEEPER
+MORTIMER
+Enter Edmund  Mortimer, brought in a chair,
+and Jailers.
+ 
+ Kind keepers of my weak decaying age,
+ Let dying Mortimer here rest himself.
+ Even like a man new-halèd from the rack,
+ So fare my limbs with long imprisonment;
+ And these gray locks, the pursuivants of death,
+ Nestor-like agèd in an age of care,
+ Argue the end of Edmund Mortimer;
+ These eyes, like lamps whose wasting oil is spent,
+ Wax dim, as drawing to their exigent;
+ Weak shoulders, overborne with burdening grief,
+ And pithless arms, like to a withered vine
+ That droops his sapless branches to the ground;
+ Yet are these feet, whose strengthless stay is numb,
+ Unable to support this lump of clay,
+ Swift-wingèd with desire to get a grave,
+ As witting I no other comfort have.
+ But tell me, keeper, will my nephew come?
+ 
+ Richard Plantagenet, my lord, will come.
+ We sent unto the Temple, unto his chamber,
+ And answer was returned that he will come.
+ 
+ Enough. My soul shall then be satisfied.
+ Poor gentleman, his wrong doth equal mine.
+ Since Henry Monmouth first began to reign,
+ Before whose glory I was great in arms,
+ This loathsome sequestration have I had;
+ And even since then hath Richard been obscured,
+ Deprived of honor and inheritance.
+ But now the arbitrator of despairs,
+Scene 5
+FTLN 0972
+FTLN 0973
+FTLN 0974
+FTLN 0975
+FTLN 0976
+5
+FTLN 0977
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+10
+FTLN 0982
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+15
+FTLN 0987
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+20
+FTLN 0992
+FTLN 0993
+FTLN 0994
+FTLN 0995
+FTLN 0996
+25
+FTLN 0997
+FTLN 0998
+FTLN 0999
+
+--- PAGE 49 / 118 ---
+89
+Henry VI, Part 1
+ACT 2. SC. 5
+KEEPER
+MORTIMER
+PLANTAGENET
+MORTIMER
+He embraces Richard.
+PLANTAGENET
+ Just Death, kind umpire of men’s miseries,
+ With sweet enlargement doth dismiss me hence.
+ I would his troubles likewise were expired,
+ That so he might recover what was lost.
+Enter Richard Plantagenet.
+ 
+ My lord, your loving nephew now is come.
+ 
+ Richard Plantagenet, my friend, is he come?
+ 
+ Ay, noble uncle, thus ignobly used,
+ Your nephew, late despisèd Richard, comes.
+, to Jailer
+ 
+ Direct mine arms I may embrace his neck
+ And in his bosom spend my latter gasp.
+ O, tell me when my lips do touch his cheeks,
+ That I may kindly give one fainting kiss.
+ And now declare, sweet stem from York’s great stock,
+ Why didst thou say of late thou wert despised?
+ 
+ First, lean thine agèd back against mine arm,
+ And in that ease I’ll tell thee my disease.
+ This day, in argument upon a case,
+ Some words there grew ’twixt Somerset and me,
+ Among which terms he used his lavish tongue
+ And did upbraid me with my father’s death;
+ Which obloquy set bars before my tongue,
+ Else with the like I had requited him.
+ Therefore, good uncle, for my father’s sake,
+ In honor of a true Plantagenet,
+ And for alliance’ sake, declare the cause
+ My father, Earl of Cambridge, lost his head.
+FTLN 1000
+FTLN 1001
+30
+FTLN 1002
+FTLN 1003
+FTLN 1004
+FTLN 1005
+FTLN 1006
+35
+FTLN 1007
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+40
+FTLN 1012
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+45
+FTLN 1017
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+50
+FTLN 1022
+FTLN 1023
+FTLN 1024
+FTLN 1025
+
+--- PAGE 50 / 118 ---
+91
+Henry VI, Part 1
+ACT 2. SC. 5
+MORTIMER
+PLANTAGENET
+MORTIMER
+ 
+ That cause, fair nephew, that imprisoned me
+ And hath detained me all my flow’ring youth
+ Within a loathsome dungeon, there to pine,
+ Was cursèd instrument of his decease.
+ 
+ Discover more at large what cause that was,
+ For I am ignorant and cannot guess.
+ 
+ I will, if that my fading breath permit
+ And death approach not ere my tale be done.
+ Henry the Fourth, grandfather to this king,
+ Deposed his nephew Richard, Edward’s son,
+ The first begotten and the lawful heir
+ Of Edward king, the third of that descent;
+ During whose reign the Percies of the north,
+ Finding his usurpation most unjust,
+ Endeavored my advancement to the throne.
+ The reason moved these warlike lords to this
+ Was, for that—young Richard thus removed,
+ Leaving no heir begotten of his body—
+ I was the next by birth and parentage;
+ For by my mother I derivèd am
+ From Lionel, Duke of Clarence, third son
+ To King Edward the Third; whereas he
+ From John of Gaunt doth bring his pedigree,
+ Being but fourth of that heroic line.
+ But mark: as in this haughty great attempt
+ They laborèd to plant the rightful heir,
+ I lost my liberty and they their lives.
+ Long after this, when Henry the Fifth,
+ Succeeding his father Bolingbroke, did reign,
+ Thy father, Earl of Cambridge then, derived
+ From famous Edmund Langley, Duke of York,
+ Marrying my sister that thy mother was,
+FTLN 1026
+55
+FTLN 1027
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+60
+FTLN 1032
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+65
+FTLN 1037
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+70
+FTLN 1042
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+75
+FTLN 1047
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+80
+FTLN 1052
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+85
+FTLN 1057
+
+--- PAGE 51 / 118 ---
+93
+Henry VI, Part 1
+ACT 2. SC. 5
+PLANTAGENET
+MORTIMER
+PLANTAGENET
+MORTIMER
+PLANTAGENET
+MORTIMER
+Dies.
+ Again, in pity of my hard distress,
+ Levied an army, weening to redeem
+ And have installed me in the diadem.
+ But, as the rest, so fell that noble earl
+ And was beheaded. Thus the Mortimers,
+ In whom the title rested, were suppressed.
+ 
+ Of which, my lord, your Honor is the last.
+ 
+ True, and thou seest that I no issue have
+ And that my fainting words do warrant death.
+ Thou art my heir; the rest I wish thee gather.
+ But yet be wary in thy studious care.
+ 
+ Thy grave admonishments prevail with me.
+ But yet methinks my father’s execution
+ Was nothing less than bloody tyranny.
+ 
+ With silence, nephew, be thou politic;
+ Strong-fixèd is the house of Lancaster,
+ And, like a mountain, not to be removed.
+ But now thy uncle is removing hence,
+ As princes do their courts when they are cloyed
+ With long continuance in a settled place.
+ 
+ O uncle, would some part of my young years
+ Might but redeem the passage of your age.
+ 
+ Thou dost then wrong me, as that slaughterer doth
+ Which giveth many wounds when one will kill.
+ Mourn not, except thou sorrow for my good;
+ Only give order for my funeral.
+ And so farewell, and fair be all thy hopes,
+ And prosperous be thy life in peace and war.
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+90
+FTLN 1062
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+95
+FTLN 1067
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+100
+FTLN 1072
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+105
+FTLN 1077
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+110
+FTLN 1082
+FTLN 1083
+FTLN 1084
+FTLN 1085
+
+--- PAGE 52 / 118 ---
+95
+Henry VI, Part 1
+ACT 2. SC. 5
+PLANTAGENET
+Jailers  exit carrying Mortimer’s body.
+He exits.
+ 
+ And peace, no war, befall thy parting soul.
+ In prison hast thou spent a pilgrimage,
+ And like a hermit overpassed thy days.—
+ Well, I will lock his counsel in my breast,
+ And what I do imagine, let that rest.—
+ Keepers, convey him hence, and I myself
+ Will see his burial better than his life.
+ Here dies the dusky torch of Mortimer,
+ Choked with ambition of the meaner sort.
+ And for those wrongs, those bitter injuries,
+ Which Somerset hath offered to my house,
+ I doubt not but with honor to redress.
+ And therefore haste I to the Parliament,
+ Either to be restorèd to my blood,
+ Or make mine ill  th’ advantage of my good.
+FTLN 1086
+115
+FTLN 1087
+FTLN 1088
+FTLN 1089
+FTLN 1090
+FTLN 1091
+120
+FTLN 1092
+FTLN 1093
+FTLN 1094
+FTLN 1095
+FTLN 1096
+125
+FTLN 1097
+FTLN 1098
+FTLN 1099
+FTLN 1100
+
+--- PAGE 53 / 118 ---
+WINCHESTER
+GLOUCESTER
+Flourish. Enter King Henry,  Exeter, Gloucester, and
+Winchester; Richard Plantagenet and  Warwick,
+with white roses;  Somerset and  Suffolk, with red
+roses; and Others.  Gloucester offers to put up a bill.
+Winchester snatches it, tears it.
+ 
+ Com’st thou with deep premeditated lines,
+ With written pamphlets studiously devised?
+ Humphrey of Gloucester, if thou canst accuse
+ Or aught intend’st to lay unto my charge,
+ Do it without invention, suddenly,
+ As I with sudden and extemporal speech
+ Purpose to answer what thou canst object.
+ 
+ Presumptuous priest, this place commands my
+ patience,
+ Or thou shouldst find thou hast dishonored me.
+ Think not, although in writing I preferred
+ The manner of thy vile outrageous crimes,
+ That therefore I have forged or am not able
+ Verbatim to rehearse the method of my pen.
+ No, prelate, such is thy audacious wickedness,
+ Thy lewd, pestiferous, and dissentious pranks,
+ As very infants prattle of thy pride.
+ Thou art a most pernicious usurer,
+ Froward by nature, enemy to peace,
+ Lascivious, wanton, more than well beseems
+99
+ACT 3
+Scene 1
+FTLN 1101
+FTLN 1102
+FTLN 1103
+FTLN 1104
+FTLN 1105
+5
+FTLN 1106
+FTLN 1107
+FTLN 1108
+FTLN 1109
+FTLN 1110
+10
+FTLN 1111
+FTLN 1112
+FTLN 1113
+FTLN 1114
+FTLN 1115
+15
+FTLN 1116
+FTLN 1117
+FTLN 1118
+FTLN 1119
+FTLN 1120
+20
+
+--- PAGE 54 / 118 ---
+101
+Henry VI, Part 1
+ACT 3. SC. 1
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+ A man of thy profession and degree.
+ And for thy treachery, what’s more manifest,
+ In that thou laid’st a trap to take my life
+ As well at London Bridge as at the Tower?
+ Besides, I fear me, if thy thoughts were sifted,
+ The King, thy sovereign, is not quite exempt
+ From envious malice of thy swelling heart.
+ 
+ Gloucester, I do defy thee.—Lords, vouchsafe
+ To give me hearing what I shall reply.
+ If I were covetous, ambitious, or perverse,
+ As he will have me, how am I so poor?
+ Or how haps it I seek not to advance
+ Or raise myself, but keep my wonted calling?
+ And for dissension, who preferreth peace
+ More than I do, except I be provoked?
+ No, my good lords, it is not that offends;
+ It is not that that hath incensed the Duke.
+ It is because no one should sway but he,
+ No one but he should be about the King;
+ And that engenders thunder in his breast
+ And makes him roar these accusations forth.
+ But he shall know I am as good—
+  
+ As good!
+ Thou bastard of my grandfather!
+ 
+ Ay, lordly sir; for what are you, I pray,
+ But one imperious in another’s throne?
+ 
+ Am I not Protector, saucy priest?
+ 
+ And am not I a prelate of the Church?
+ 
+ Yes, as an outlaw in a castle keeps,
+ And useth it to patronage his theft.
+FTLN 1121
+FTLN 1122
+FTLN 1123
+FTLN 1124
+FTLN 1125
+25
+FTLN 1126
+FTLN 1127
+FTLN 1128
+FTLN 1129
+FTLN 1130
+30
+FTLN 1131
+FTLN 1132
+FTLN 1133
+FTLN 1134
+FTLN 1135
+35
+FTLN 1136
+FTLN 1137
+FTLN 1138
+FTLN 1139
+FTLN 1140
+40
+FTLN 1141
+FTLN 1142
+FTLN 1143
+FTLN 1144
+FTLN 1145
+45
+FTLN 1146
+FTLN 1147
+FTLN 1148
+FTLN 1149
+FTLN 1150
+50
+
+--- PAGE 55 / 118 ---
+103
+Henry VI, Part 1
+ACT 3. SC. 1
+WINCHESTER
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+WARWICK
+SOMERSET
+WARWICK
+SOMERSET
+WARWICK
+PLANTAGENET
+KING HENRY
+ 
+ Unreverent Gloucester!
+  
+ Thou art reverend
+ Touching thy spiritual function, not thy life.
+ 
+ Rome shall remedy this.
+  
+ Roam thither then.
+, to Winchester
+ 
+ My lord, it were your duty to forbear.
+ 
+ Ay, so  the Bishop be not overborne.
+ Methinks my lord should be religious,
+ And know the office that belongs to such.
+ 
+ Methinks his Lordship should be humbler.
+ It fitteth not a prelate so to plead.
+ 
+ Yes, when his holy state is touched so near.
+ 
+ State holy, or unhallowed, what of that?
+ Is not his Grace Protector to the King?
+, aside
+ 
+ Plantagenet, I see, must hold his tongue,
+ Lest it be said “Speak, sirrah, when you should;
+ Must your bold verdict enter talk with lords?”
+ Else would I have a fling at Winchester.
+ 
+ Uncles of Gloucester and of Winchester,
+ The special watchmen of our English weal,
+ I would prevail, if prayers might prevail,
+ To join your hearts in love and amity.
+ O, what a scandal is it to our crown
+ That two such noble peers as you should jar!
+ Believe me, lords, my tender years can tell
+ Civil dissension is a viperous worm
+ That gnaws the bowels of the commonwealth.
+FTLN 1151
+FTLN 1152
+FTLN 1153
+FTLN 1154
+FTLN 1155
+55
+FTLN 1156
+FTLN 1157
+FTLN 1158
+FTLN 1159
+FTLN 1160
+60
+FTLN 1161
+FTLN 1162
+FTLN 1163
+FTLN 1164
+FTLN 1165
+65
+FTLN 1166
+FTLN 1167
+FTLN 1168
+FTLN 1169
+FTLN 1170
+70
+FTLN 1171
+FTLN 1172
+FTLN 1173
+FTLN 1174
+FTLN 1175
+75
+FTLN 1176
+FTLN 1177
+
+--- PAGE 56 / 118 ---
+105
+Henry VI, Part 1
+ACT 3. SC. 1
+A noise within: “Down with the tawny coats!”
+WARWICK
+A noise again: “Stones! Stones!”
+MAYOR
+KING HENRY
+FIRST SERVINGMAN
+SECOND SERVINGMAN
+Skirmish again.
+GLOUCESTER
+THIRD SERVINGMAN
+ What tumult ’s this?
+  
+ An uproar, I dare warrant,
+ Begun through malice of the Bishop’s men.
+Enter Mayor.
+ 
+ O, my good lords, and virtuous Henry,
+ Pity the city of London, pity us!
+ The Bishop and the Duke of Gloucester’s men,
+ Forbidden late to carry any weapon,
+ Have filled their pockets full of pebble stones
+ And, banding themselves in contrary parts,
+ Do pelt so fast at one another’s pate
+ That many have their giddy brains knocked out;
+ Our windows are broke down in every street,
+ And we, for fear, compelled to shut our shops.
+Enter Servingmen  in skirmish with bloody pates.
+ 
+ We charge you, on allegiance to ourself,
+ To hold your slaught’ring hands and keep the peace.—
+ Pray, Uncle Gloucester, mitigate this strife.
+  Nay, if we be forbidden stones, we’ll
+ fall to it with our teeth.
+ 
+ Do what you dare, we are as
+ resolute. 
+ 
+ You of my household, leave this peevish broil,
+ And set this unaccustomed fight aside.
+ 
+ My lord, we know your Grace to be a man
+ Just and upright, and, for your royal birth,
+FTLN 1178
+FTLN 1179
+FTLN 1180
+80
+FTLN 1181
+FTLN 1182
+FTLN 1183
+FTLN 1184
+FTLN 1185
+85
+FTLN 1186
+FTLN 1187
+FTLN 1188
+FTLN 1189
+FTLN 1190
+90
+FTLN 1191
+FTLN 1192
+FTLN 1193
+FTLN 1194
+FTLN 1195
+95
+FTLN 1196
+FTLN 1197
+FTLN 1198
+FTLN 1199
+FTLN 1200
+100
+FTLN 1201
+
+--- PAGE 57 / 118 ---
+107
+Henry VI, Part 1
+ACT 3. SC. 1
+FIRST SERVINGMAN
+Begin again.
+GLOUCESTER
+KING HENRY
+WARWICK
+WINCHESTER
+GLOUCESTER
+WARWICK
+ Inferior to none but to his Majesty;
+ And ere that we will suffer such a prince,
+ So kind a father of the commonweal,
+ To be disgracèd by an inkhorn mate,
+ We and our wives and children all will fight
+ And have our bodies slaughtered by thy foes.
+ 
+ Ay, and the very parings of our nails
+ Shall pitch a field when we are dead.
+  Stay, stay, I say!
+ And if you love me, as you say you do,
+ Let me persuade you to forbear awhile.
+ 
+ O, how this discord doth afflict my soul!
+ Can you, my Lord of Winchester, behold
+ My sighs and tears, and will not once relent?
+ Who should be pitiful if you be not?
+ Or who should study to prefer a peace
+ If holy churchmen take delight in broils?
+ 
+ Yield, my Lord Protector—yield, Winchester—
+ Except you mean with obstinate repulse
+ To slay your sovereign and destroy the realm.
+ You see what mischief, and what murder too,
+ Hath been enacted through your enmity.
+ Then be at peace, except you thirst for blood.
+ 
+ He shall submit, or I will never yield.
+ 
+ Compassion on the King commands me stoop,
+ Or I would see his heart out ere the priest
+ Should ever get that privilege of me.
+ 
+ Behold, my Lord of Winchester, the Duke
+ Hath banished moody discontented fury,
+FTLN 1202
+FTLN 1203
+FTLN 1204
+FTLN 1205
+105
+FTLN 1206
+FTLN 1207
+FTLN 1208
+FTLN 1209
+FTLN 1210
+110
+FTLN 1211
+FTLN 1212
+FTLN 1213
+FTLN 1214
+FTLN 1215
+115
+FTLN 1216
+FTLN 1217
+FTLN 1218
+FTLN 1219
+FTLN 1220
+120
+FTLN 1221
+FTLN 1222
+FTLN 1223
+FTLN 1224
+FTLN 1225
+125
+FTLN 1226
+FTLN 1227
+FTLN 1228
+FTLN 1229
+FTLN 1230
+130
+
+--- PAGE 58 / 118 ---
+109
+Henry VI, Part 1
+ACT 3. SC. 1
+GLOUCESTER
+Winchester refuses Gloucester’s hand.
+KING HENRY
+WARWICK
+WINCHESTER
+They take each other’s hand.
+GLOUCESTER
+WINCHESTER
+KING HENRY
+FIRST SERVINGMAN
+SECOND SERVINGMAN
+ As by his smoothèd brows it doth appear.
+ Why look you still so stern and tragical?
+ 
+ Here, Winchester, I offer thee my hand.
+ 
+ Fie, Uncle Beaufort! I have heard you preach
+ That malice was a great and grievous sin;
+ And will not you maintain the thing you teach,
+ But prove a chief offender in the same?
+ 
+ Sweet king! The Bishop hath a kindly gird.—
+ For shame, my Lord of Winchester, relent;
+ What, shall a child instruct you what to do?
+ 
+ Well, Duke of Gloucester, I will yield to thee;
+ Love for thy love and hand for hand I give.
+, aside
+ 
+ Ay, but I fear me with a hollow heart.—
+ See here, my friends and loving countrymen,
+ This token serveth for a flag of truce
+ Betwixt ourselves and all our followers,
+ So help me God, as I dissemble not.
+, aside
+ 
+ So help me God, as I intend it not.
+ 
+ O, loving uncle—kind Duke of Gloucester—
+ How joyful am I made by this contract.
+  To the Servingmen.  Away, my masters, trouble us
+ no more,
+ But join in friendship as your lords have done.
+  Content. I’ll to the surgeon’s.
+  And so will I.
+FTLN 1231
+FTLN 1232
+FTLN 1233
+FTLN 1234
+FTLN 1235
+135
+FTLN 1236
+FTLN 1237
+FTLN 1238
+FTLN 1239
+FTLN 1240
+140
+FTLN 1241
+FTLN 1242
+FTLN 1243
+FTLN 1244
+FTLN 1245
+145
+FTLN 1246
+FTLN 1247
+FTLN 1248
+FTLN 1249
+FTLN 1250
+150
+FTLN 1251
+FTLN 1252
+FTLN 1253
+FTLN 1254
+FTLN 1255
+155
+
+--- PAGE 59 / 118 ---
+111
+Henry VI, Part 1
+ACT 3. SC. 1
+THIRD SERVINGMAN
+They exit with Mayor and Others.
+WARWICK
+GLOUCESTER
+KING HENRY
+WARWICK
+WINCHESTER
+KING HENRY
+PLANTAGENET
+KING HENRY
+Plantagenet kneels.
+  And I will see what physic the tavern
+ affords.
+, presenting a scroll
+ 
+ Accept this scroll, most gracious sovereign,
+ Which in the right of Richard Plantagenet
+ We do exhibit to your Majesty.
+ 
+ Well urged, my Lord of Warwick.—For, sweet prince,
+ An if your Grace mark every circumstance,
+ You have great reason to do Richard right,
+ Especially for those occasions
+ At Eltham Place I told your Majesty.
+ 
+ And those occasions, uncle, were of force.—
+ Therefore, my loving lords, our pleasure is
+ That Richard be restorèd to his blood.
+ 
+ Let Richard be restorèd to his blood;
+ So shall his father’s wrongs be recompensed.
+ 
+ As will the rest, so willeth Winchester.
+ 
+ If Richard will be true, not that alone
+ But all the whole inheritance I give
+ That doth belong unto the house of York,
+ From whence you spring by lineal descent.
+ 
+ Thy humble servant vows obedience
+ And humble service till the point of death.
+ 
+ Stoop then, and set your knee against my foot;
+ And in reguerdon of that duty done
+ I girt thee with the valiant sword of York.
+FTLN 1256
+FTLN 1257
+FTLN 1258
+FTLN 1259
+FTLN 1260
+160
+FTLN 1261
+FTLN 1262
+FTLN 1263
+FTLN 1264
+FTLN 1265
+165
+FTLN 1266
+FTLN 1267
+FTLN 1268
+FTLN 1269
+FTLN 1270
+170
+FTLN 1271
+FTLN 1272
+FTLN 1273
+FTLN 1274
+FTLN 1275
+175
+FTLN 1276
+FTLN 1277
+FTLN 1278
+FTLN 1279
+FTLN 1280
+180
+
+--- PAGE 60 / 118 ---
+113
+Henry VI, Part 1
+ACT 3. SC. 1
+YORK
+ALL
+SOMERSET
+GLOUCESTER
+KING HENRY
+GLOUCESTER
+Sennet. Flourish. All but Exeter exit.
+EXETER
+ Rise, Richard, like a true Plantagenet,
+ And rise created princely Duke of York.
+, formerly PLANTAGENET, standing
+ 
+ And so thrive Richard as thy foes may fall!
+ And as my duty springs, so perish they
+ That grudge one thought against your Majesty.
+ 
+ Welcome, high prince, the mighty Duke of York.
+, aside
+ 
+ Perish, base prince, ignoble Duke of York.
+ 
+ Now will it best avail your Majesty
+ To cross the seas and to be crowned in France.
+ The presence of a king engenders love
+ Amongst his subjects and his loyal friends,
+ As it disanimates his enemies.
+ 
+ When Gloucester says the word, King Henry goes,
+ For friendly counsel cuts off many foes.
+ 
+ Your ships already are in readiness.
+ 
+ Ay, we may march in England or in France,
+ Not seeing what is likely to ensue.
+ This late dissension grown betwixt the peers
+ Burns under feignèd ashes of forged love
+ And will at last break out into a flame.
+ As festered members rot but by degree
+ Till bones and flesh and sinews fall away,
+ So will this base and envious discord breed.
+ And now I fear that fatal prophecy
+ Which in the time of Henry named the Fifth
+ Was in the mouth of every sucking babe:
+ That Henry born at Monmouth should win all,
+FTLN 1281
+FTLN 1282
+FTLN 1283
+FTLN 1284
+FTLN 1285
+185
+FTLN 1286
+FTLN 1287
+FTLN 1288
+FTLN 1289
+FTLN 1290
+190
+FTLN 1291
+FTLN 1292
+FTLN 1293
+FTLN 1294
+FTLN 1295
+195
+FTLN 1296
+FTLN 1297
+FTLN 1298
+FTLN 1299
+FTLN 1300
+200
+FTLN 1301
+FTLN 1302
+FTLN 1303
+FTLN 1304
+FTLN 1305
+205
+FTLN 1306
+FTLN 1307
+
+--- PAGE 61 / 118 ---
+115
+Henry VI, Part 1
+ACT 3. SC. 2
+He exits.
+PUCELLE
+SOLDIER
+Knock.
+WATCH
+PUCELLE
+WATCH
+PUCELLE
+They exit.
+ And Henry born at Windsor should  lose all,
+ Which is so plain that Exeter doth wish
+ His days may finish ere that hapless time.
+Enter Pucelle disguised, with four Soldiers with sacks
+upon their backs.
+ 
+ These are the city gates, the gates of Roan,
+ Through which our policy must make a breach.
+ Take heed. Be wary how you place your words;
+ Talk like the vulgar sort of market men
+ That come to gather money for their corn.
+ If we have entrance, as I hope we shall,
+ And that we find the slothful watch but weak,
+ I’ll by a sign give notice to our friends,
+ That Charles the Dauphin may encounter them.
+ 
+ Our sacks shall be a mean to sack the city,
+ And we be lords and rulers over Roan;
+ Therefore we’ll knock.
+, within
+ 
+ Qui là?
+   Paysans la pauvre gens de France:
+ Poor market folks that come to sell their corn.
+ 
+ Enter, go in. The market bell is rung.
+, aside
+ 
+ Now, Roan, I’ll shake thy bulwarks to the ground.
+FTLN 1308
+FTLN 1309
+FTLN 1310
+210
+Scene 2
+FTLN 1311
+FTLN 1312
+FTLN 1313
+FTLN 1314
+FTLN 1315
+5
+FTLN 1316
+FTLN 1317
+FTLN 1318
+FTLN 1319
+FTLN 1320
+10
+FTLN 1321
+FTLN 1322
+FTLN 1323
+FTLN 1324
+FTLN 1325
+15
+FTLN 1326
+FTLN 1327
+
+--- PAGE 62 / 118 ---
+117
+Henry VI, Part 1
+ACT 3. SC. 2
+CHARLES
+BASTARD
+REIGNIER
+PUCELLE
+BASTARD
+CHARLES
+REIGNIER
+Alarum. They exit.
+TALBOT
+Enter Charles, Bastard, Alanson, Reignier,
+and Soldiers.
+ 
+ Saint Dennis bless this happy stratagem
+ And once again we’ll sleep secure in Roan.
+ 
+ Here entered Pucelle and her practisants.
+ Now she is there, how will she specify
+ “Here is the best and safest passage in”?
+ 
+ By thrusting out a torch from yonder tower,
+ Which, once discerned, shows that her meaning is:
+ No way to that, for weakness, which she entered.
+Enter Pucelle on the top, thrusting out a torch burning.
+ 
+ Behold, this is the happy wedding torch
+ That joineth Roan unto her countrymen,
+ But burning fatal to the Talbonites.
+ 
+ See, noble Charles, the beacon of our friend;
+ The burning torch, in yonder turret stands.
+ 
+ Now shine it like a comet of revenge,
+ A prophet to the fall of all our foes!
+ 
+ Defer no time; delays have dangerous ends.
+ Enter and cry “The Dauphin!” presently,
+ And then do execution on the watch.
+An Alarum. Enter  Talbot in an excursion.
+ 
+ France, thou shalt rue this treason with thy tears,
+ If Talbot but survive thy treachery.
+FTLN 1328
+FTLN 1329
+FTLN 1330
+20
+FTLN 1331
+FTLN 1332
+FTLN 1333
+FTLN 1334
+FTLN 1335
+25
+FTLN 1336
+FTLN 1337
+FTLN 1338
+FTLN 1339
+FTLN 1340
+30
+FTLN 1341
+FTLN 1342
+FTLN 1343
+FTLN 1344
+FTLN 1345
+35
+FTLN 1346
+FTLN 1347
+
+--- PAGE 63 / 118 ---
+119
+Henry VI, Part 1
+ACT 3. SC. 2
+He exits.
+PUCELLE
+She scatters grain on those below.
+BURGUNDY
+CHARLES
+BEDFORD
+PUCELLE
+TALBOT
+ Pucelle, that witch, that damnèd sorceress,
+ Hath wrought this hellish mischief unawares,
+ That hardly we escaped the pride of France.
+An alarum. Excursions. Bedford brought in sick in
+a chair, carried by two Attendants.  Enter Talbot
+and Burgundy without; within, Pucelle with a sack
+of grain,  Charles, Bastard, Alanson,  and Reignier
+on the walls.
+, to those below
+ 
+ Good morrow, gallants. Want you corn for bread?
+ I think the Duke of Burgundy will fast
+ Before he’ll buy again at such a rate.
+ ’Twas full of darnel. Do you like the taste?
+ 
+ Scoff on, vile fiend and shameless courtesan!
+ I trust ere long to choke thee with thine own,
+ And make thee curse the harvest of that corn.
+ 
+ Your Grace may starve, perhaps, before that time.
+ 
+ O, let no words, but deeds, revenge this treason.
+ 
+ What will you do, good graybeard? Break a lance
+ And run a-tilt at Death within a chair?
+ 
+ Foul fiend of France and hag of all despite,
+ Encompassed with thy lustful paramours,
+ Becomes it thee to taunt his valiant age
+ And twit with cowardice a man half dead?
+ Damsel, I’ll have a bout with you again,
+ Or else let Talbot perish with this shame.
+FTLN 1348
+FTLN 1349
+FTLN 1350
+40
+FTLN 1351
+FTLN 1352
+FTLN 1353
+FTLN 1354
+FTLN 1355
+45
+FTLN 1356
+FTLN 1357
+FTLN 1358
+FTLN 1359
+FTLN 1360
+50
+FTLN 1361
+FTLN 1362
+FTLN 1363
+FTLN 1364
+FTLN 1365
+55
+FTLN 1366
+FTLN 1367
+
+--- PAGE 64 / 118 ---
+121
+Henry VI, Part 1
+ACT 3. SC. 2
+PUCELLE
+Those below  whisper together in council.
+TALBOT
+PUCELLE
+TALBOT
+ALANSON
+TALBOT
+PUCELLE
+They exit from the walls.
+TALBOT
+ 
+ Are you so hot, sir? Yet, Pucelle, hold thy peace,
+ If Talbot do but thunder, rain will follow.
+ God speed the Parliament! Who shall be the Speaker?
+ 
+ Dare you come forth and meet us in the field?
+ 
+ Belike your Lordship takes us then for fools,
+ To try if that our own be ours or no.
+ 
+ I speak not to that railing Hecate,
+ But unto thee, Alanson, and the rest.
+ Will you, like soldiers, come and fight it out?
+  Seigneur, no.
+ 
+ Seigneur, hang! Base muleteers of France,
+ Like peasant footboys do they keep the walls
+ And dare not take up arms like gentlemen.
+ 
+ Away, captains. Let’s get us from the walls,
+ For Talbot means no goodness by his looks.—
+ Goodbye, my lord. We came but to tell you
+ That we are here. 
+ 
+ And there will we be too, ere it be long,
+ Or else reproach be Talbot’s greatest fame.—
+ Vow, Burgundy, by honor of thy house,
+ Pricked on by public wrongs sustained in France,
+ Either to get the town again or die.
+ And I, as sure as English Henry lives,
+ And as his father here was conqueror,
+ As sure as in this late-betrayèd town
+ Great Coeur-de-lion’s heart was burièd,
+ So sure I swear to get the town or die.
+FTLN 1368
+FTLN 1369
+FTLN 1370
+60
+FTLN 1371
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+65
+FTLN 1376
+FTLN 1377
+FTLN 1378
+FTLN 1379
+FTLN 1380
+70
+FTLN 1381
+FTLN 1382
+FTLN 1383
+FTLN 1384
+FTLN 1385
+75
+FTLN 1386
+FTLN 1387
+FTLN 1388
+FTLN 1389
+FTLN 1390
+80
+FTLN 1391
+FTLN 1392
+FTLN 1393
+FTLN 1394
+
+--- PAGE 65 / 118 ---
+123
+Henry VI, Part 1
+ACT 3. SC. 2
+BURGUNDY
+TALBOT
+BEDFORD
+BURGUNDY
+BEDFORD
+TALBOT
+He exits with Burgundy.
+Bedford and Attendants remain.
+CAPTAIN
+FASTOLF
+ 
+ My vows are equal partners with thy vows.
+ 
+ But, ere we go, regard this dying prince,
+ The valiant Duke of Bedford.—Come, my lord,
+ We will bestow you in some better place,
+ Fitter for sickness and for crazy age.
+ 
+ Lord Talbot, do not so dishonor me.
+ Here will I sit, before the walls of Roan,
+ And will be partner of your weal or woe.
+ 
+ Courageous Bedford, let us now persuade you—
+ 
+ Not to be gone from hence, for once I read
+ That stout Pendragon, in his litter sick,
+ Came to the field and vanquishèd his foes.
+ Methinks I should revive the soldiers’ hearts
+ Because I ever found them as myself.
+ 
+ Undaunted spirit in a dying breast,
+ Then be it so. Heavens keep old Bedford safe!—
+ And now no more ado, brave Burgundy,
+ But gather we our forces out of hand
+ And set upon our boasting enemy.
+An alarum. Excursions. Enter Sir John Fastolf
+and a Captain.
+ 
+ Whither away, Sir John Fastolf, in such haste?
+ 
+ Whither away? To save myself by flight.
+ We are like to have the overthrow again.
+FTLN 1395
+85
+FTLN 1396
+FTLN 1397
+FTLN 1398
+FTLN 1399
+FTLN 1400
+90
+FTLN 1401
+FTLN 1402
+FTLN 1403
+FTLN 1404
+FTLN 1405
+95
+FTLN 1406
+FTLN 1407
+FTLN 1408
+FTLN 1409
+FTLN 1410
+100
+FTLN 1411
+FTLN 1412
+FTLN 1413
+FTLN 1414
+FTLN 1415
+105
+FTLN 1416
+
+--- PAGE 66 / 118 ---
+125
+Henry VI, Part 1
+ACT 3. SC. 2
+CAPTAIN
+FASTOLF
+He exits.
+CAPTAIN
+He exits.
+BEDFORD
+Bedford dies, and is carried
+in by two in his chair.
+TALBOT
+BURGUNDY
+TALBOT
+ 
+ What, will you fly and leave Lord Talbot?
+  
+ Ay,
+ All the Talbots in the world, to save my life.
+ 
+ Cowardly knight, ill fortune follow thee.
+Retreat. Excursions. Pucelle, Alanson, and Charles
+enter, pursued by English Soldiers, and  fly.
+ 
+ Now, quiet soul, depart when heaven please,
+ For I have seen our enemies’ overthrow.
+ What is the trust or strength of foolish man?
+ They that of late were daring with their scoffs
+ Are glad and fain by flight to save themselves.
+An alarum. Enter Talbot, Burgundy, and the rest.
+ 
+ Lost and recovered in a day again!
+ This is a double honor, Burgundy.
+ Yet heavens have glory for this victory.
+ 
+ Warlike and martial Talbot, Burgundy
+ Enshrines thee in his heart, and there erects
+ Thy noble deeds as valor’s monuments.
+ 
+ Thanks, gentle duke. But where is Pucelle now?
+ I think her old familiar is asleep.
+ Now where’s the Bastard’s braves and Charles his
+ gleeks?
+ What, all amort? Roan hangs her head for grief
+FTLN 1417
+FTLN 1418
+FTLN 1419
+FTLN 1420
+110
+FTLN 1421
+FTLN 1422
+FTLN 1423
+FTLN 1424
+FTLN 1425
+115
+FTLN 1426
+FTLN 1427
+FTLN 1428
+FTLN 1429
+FTLN 1430
+120
+FTLN 1431
+FTLN 1432
+FTLN 1433
+FTLN 1434
+FTLN 1435
+125
+FTLN 1436
+
+--- PAGE 67 / 118 ---
+127
+Henry VI, Part 1
+ACT 3. SC. 3
+BURGUNDY
+TALBOT
+They exit.
+PUCELLE
+CHARLES
+ That such a valiant company are fled.
+ Now will we take some order in the town,
+ Placing therein some expert officers,
+ And then depart to Paris to the King,
+ For there young Henry with his nobles lie.
+ 
+ What wills Lord Talbot pleaseth Burgundy.
+ 
+ But yet, before we go, let’s not forget
+ The noble Duke of Bedford late-deceased,
+ But see his exequies fulfilled in Roan.
+ A braver soldier never couchèd lance,
+ A gentler heart did never sway in court.
+ But kings and mightiest potentates must die,
+ For that’s the end of human misery.
+Enter Charles, Bastard, Alanson, Pucelle, and Soldiers.
+ 
+ Dismay not, princes, at this accident,
+ Nor grieve that Roan is so recoverèd.
+ Care is no cure, but rather corrosive
+ For things that are not to be remedied.
+ Let frantic Talbot triumph for a while,
+ And like a peacock sweep along his tail;
+ We’ll pull his plumes and take away his train,
+ If dauphin and the rest will be but ruled.
+ 
+ We have been guided by thee hitherto,
+ And of thy cunning had no diffidence.
+ One sudden foil shall never breed distrust.
+FTLN 1437
+FTLN 1438
+FTLN 1439
+FTLN 1440
+130
+FTLN 1441
+FTLN 1442
+FTLN 1443
+FTLN 1444
+FTLN 1445
+135
+FTLN 1446
+FTLN 1447
+FTLN 1448
+FTLN 1449
+Scene 3
+FTLN 1450
+FTLN 1451
+FTLN 1452
+FTLN 1453
+FTLN 1454
+5
+FTLN 1455
+FTLN 1456
+FTLN 1457
+FTLN 1458
+FTLN 1459
+10
+FTLN 1460
+
+--- PAGE 68 / 118 ---
+129
+Henry VI, Part 1
+ACT 3. SC. 3
+BASTARD
+ALANSON
+PUCELLE
+CHARLES
+ALANSON
+PUCELLE
+Drum sounds afar off.
+Here sound an English march.
+French march.
+Trumpets sound a parley.
+, to Pucelle
+ 
+ Search out thy wit for secret policies,
+ And we will make thee famous through the world.
+, to Pucelle
+ 
+ We’ll set thy statue in some holy place
+ And have thee reverenced like a blessèd saint.
+ Employ thee then, sweet virgin, for our good.
+ 
+ Then thus it must be; this doth Joan devise:
+ By fair persuasions mixed with sugared words
+ We will entice the Duke of Burgundy
+ To leave the Talbot and to follow us.
+ 
+ Ay, marry, sweeting, if we could do that,
+ France were no place for Henry’s warriors,
+ Nor should that nation boast it so with us,
+ But be extirpèd from our provinces.
+ 
+ Forever should they be expulsed from France,
+ And not have title of an earldom here.
+ 
+ Your honors shall perceive how I will work
+ To bring this matter to the wishèd end.
+ Hark! By the sound of drum you may perceive
+ Their powers are marching unto Paris-ward.
+ There goes the Talbot with his colors spread,
+ And all the troops of English after him.
+ Now in the rearward comes the Duke and his.
+ Fortune in favor makes him lag behind.
+ Summon a parley; we will talk with him.
+FTLN 1461
+FTLN 1462
+FTLN 1463
+FTLN 1464
+15
+FTLN 1465
+FTLN 1466
+FTLN 1467
+FTLN 1468
+FTLN 1469
+20
+FTLN 1470
+FTLN 1471
+FTLN 1472
+FTLN 1473
+FTLN 1474
+25
+FTLN 1475
+FTLN 1476
+FTLN 1477
+FTLN 1478
+FTLN 1479
+30
+FTLN 1480
+FTLN 1481
+FTLN 1482
+FTLN 1483
+FTLN 1484
+35
+
+--- PAGE 69 / 118 ---
+131
+Henry VI, Part 1
+ACT 3. SC. 3
+CHARLES
+BURGUNDY
+PUCELLE
+BURGUNDY
+CHARLES
+PUCELLE
+BURGUNDY
+PUCELLE
+BURGUNDY
+ 
+ A parley with the Duke of Burgundy!
+Enter Burgundy.
+ 
+ Who craves a parley with the Burgundy?
+ 
+ The princely Charles of France, thy countryman.
+ 
+ What say’st thou, Charles?—for I am marching hence.
+, aside to Pucelle
+ 
+ Speak, Pucelle, and enchant him with thy words.
+ 
+ Brave Burgundy, undoubted hope of France,
+ Stay; let thy humble handmaid speak to thee.
+ 
+ Speak on, but be not over-tedious.
+ 
+ Look on thy country, look on fertile France,
+ And see the cities and the towns defaced
+ By wasting ruin of the cruel foe.
+ As looks the mother on her lowly babe
+ When death doth close his tender-dying eyes,
+ See, see the pining malady of France:
+ Behold the wounds, the most unnatural wounds,
+ Which thou thyself hast given her woeful breast.
+ O, turn thy edgèd sword another way;
+ Strike those that hurt, and hurt not those that help.
+ One drop of blood drawn from thy country’s bosom
+ Should grieve thee more than streams of foreign gore.
+ Return thee therefore with a flood of tears,
+ And wash away thy country’s stainèd spots.
+, aside
+ 
+ Either she hath bewitched me with her words,
+ Or nature makes me suddenly relent.
+FTLN 1485
+FTLN 1486
+FTLN 1487
+FTLN 1488
+FTLN 1489
+40
+FTLN 1490
+FTLN 1491
+FTLN 1492
+FTLN 1493
+FTLN 1494
+45
+FTLN 1495
+FTLN 1496
+FTLN 1497
+FTLN 1498
+FTLN 1499
+50
+FTLN 1500
+FTLN 1501
+FTLN 1502
+FTLN 1503
+FTLN 1504
+55
+FTLN 1505
+FTLN 1506
+FTLN 1507
+FTLN 1508
+
+--- PAGE 70 / 118 ---
+133
+Henry VI, Part 1
+ACT 3. SC. 3
+PUCELLE
+BURGUNDY
+He embraces Charles, Bastard, and Alanson.
+PUCELLE
+CHARLES
+BASTARD
+ 
+ Besides, all French and France exclaims on thee,
+ Doubting thy birth and lawful progeny.
+ Who join’st thou with but with a lordly nation
+ That will not trust thee but for profit’s sake?
+ When Talbot hath set footing once in France
+ And fashioned thee that instrument of ill,
+ Who then but English Henry will be lord,
+ And thou be thrust out like a fugitive?
+ Call we to mind, and mark but this for proof:
+ Was not the Duke of Orleance thy foe?
+ And was he not in England prisoner?
+ But when they heard he was thine enemy,
+ They set him free, without his ransom paid,
+ In spite of Burgundy and all his friends.
+ See then, thou fight’st against thy countrymen,
+ And join’st with them will be thy slaughtermen.
+ Come, come, return; return, thou wandering lord.
+ Charles and the rest will take thee in their arms.
+, aside
+ 
+ I am vanquishèd. These haughty words of hers
+ Have battered me like roaring cannon-shot,
+ And made me almost yield upon my knees.—
+ Forgive me, country, and sweet countrymen;
+ And, lords, accept this hearty kind embrace.
+ My forces and my power of men are yours.
+ So, farewell, Talbot. I’ll no longer trust thee.
+, aside
+ 
+ Done like a Frenchman: turn and turn again.
+ 
+ Welcome, brave duke. Thy friendship makes us fresh.
+ 
+ And doth beget new courage in our breasts.
+FTLN 1509
+60
+FTLN 1510
+FTLN 1511
+FTLN 1512
+FTLN 1513
+FTLN 1514
+65
+FTLN 1515
+FTLN 1516
+FTLN 1517
+FTLN 1518
+FTLN 1519
+70
+FTLN 1520
+FTLN 1521
+FTLN 1522
+FTLN 1523
+FTLN 1524
+75
+FTLN 1525
+FTLN 1526
+FTLN 1527
+FTLN 1528
+FTLN 1529
+80
+FTLN 1530
+FTLN 1531
+FTLN 1532
+FTLN 1533
+FTLN 1534
+85
+FTLN 1535
+FTLN 1536
+
+--- PAGE 71 / 118 ---
+135
+Henry VI, Part 1
+ACT 3. SC. 4
+ALANSON
+CHARLES
+They exit.
+TALBOT
+He kneels.
+KING HENRY
+GLOUCESTER
+ 
+ Pucelle hath bravely played her part in this
+ And doth deserve a coronet of gold.
+ 
+ Now let us on, my lords, and join our powers,
+ And seek how we may prejudice the foe.
+Flourish.  Enter the King, Gloucester, Winchester,
+Exeter; York, Warwick, and Vernon, with white roses;
+Somerset, Suffolk, and Basset, with red roses.
+To them, with his Soldiers, Talbot.
+ 
+ My gracious prince and honorable peers,
+ Hearing of your arrival in this realm,
+ I have awhile given truce unto my wars
+ To do my duty to my sovereign;
+ In sign whereof, this arm, that hath reclaimed
+ To your obedience fifty fortresses,
+ Twelve cities, and seven walled towns of strength,
+ Besides five hundred prisoners of esteem,
+ Lets fall his sword before your Highness’ feet,
+ And with submissive loyalty of heart
+ Ascribes the glory of his conquest got
+ First to my God, and next unto your Grace.
+ 
+ Is this the Lord Talbot, Uncle Gloucester,
+ That hath so long been resident in France?
+ 
+ Yes, if it please your Majesty, my liege.
+FTLN 1537
+FTLN 1538
+FTLN 1539
+90
+FTLN 1540
+Scene 4
+FTLN 1541
+FTLN 1542
+FTLN 1543
+FTLN 1544
+FTLN 1545
+5
+FTLN 1546
+FTLN 1547
+FTLN 1548
+FTLN 1549
+FTLN 1550
+10
+FTLN 1551
+FTLN 1552
+FTLN 1553
+FTLN 1554
+FTLN 1555
+15
+
+--- PAGE 72 / 118 ---
+137
+Henry VI, Part 1
+ACT 3. SC. 4
+KING HENRY
+Talbot rises.
+Sennet. Flourish. All except
+Vernon and Basset exit.
+VERNON
+BASSET
+VERNON
+BASSET
+VERNON
+Strikes him.
+BASSET
+ 
+ Welcome, brave captain and victorious lord.
+ When I was young—as yet I am not old—
+ I do remember how my father said
+ A stouter champion never handled sword.
+ Long since we were resolvèd of your truth,
+ Your faithful service, and your toil in war;
+ Yet never have you tasted our reward
+ Or been reguerdoned with so much as thanks,
+ Because till now we never saw your face.
+ Therefore stand up; and for these good deserts
+ We here create you Earl of Shrewsbury;
+ And in our coronation take your place. 
+ 
+ Now, sir, to you that were so hot at sea,
+ Disgracing of these colors that I wear
+ In honor of my noble Lord of York,
+ Dar’st thou maintain the former words thou spak’st?
+ 
+ Yes, sir, as well as you dare patronage
+ The envious barking of your saucy tongue
+ Against my lord the Duke of Somerset.
+ 
+ Sirrah, thy lord I honor as he is.
+ 
+ Why, what is he? As good a man as York.
+ 
+ Hark you, not so; in witness, take you that.
+ 
+ Villain, thou knowest the law of arms is such
+ That whoso draws a sword ’tis present death,
+ Or else this blow should broach thy dearest blood.
+FTLN 1556
+FTLN 1557
+FTLN 1558
+FTLN 1559
+FTLN 1560
+20
+FTLN 1561
+FTLN 1562
+FTLN 1563
+FTLN 1564
+FTLN 1565
+25
+FTLN 1566
+FTLN 1567
+FTLN 1568
+FTLN 1569
+FTLN 1570
+30
+FTLN 1571
+FTLN 1572
+FTLN 1573
+FTLN 1574
+FTLN 1575
+35
+FTLN 1576
+FTLN 1577
+FTLN 1578
+FTLN 1579
+FTLN 1580
+40
+
+--- PAGE 73 / 118 ---
+139
+Henry VI, Part 1
+ACT 3. SC. 4
+He exits.
+VERNON
+He exits.
+ But I’ll unto his Majesty, and crave
+ I may have liberty to venge this wrong,
+ When thou shalt see I’ll meet thee to thy cost.
+ 
+ Well, miscreant, I’ll be there as soon as you,
+ And after meet you sooner than you would.
+FTLN 1581
+FTLN 1582
+FTLN 1583
+FTLN 1584
+FTLN 1585
+45
+
+--- PAGE 74 / 118 ---
+GLOUCESTER
+WINCHESTER
+GLOUCESTER
+Governor kneels.
+Governor rises.
+FASTOLF
+He hands the King a paper.
+TALBOT
+Flourish.  Enter King, Gloucester, Winchester, Talbot,
+Exeter; York and  Warwick, with white roses;  Suffolk
+and  Somerset, with red roses;  Governor of Paris,
+and Others.
+ 
+ Lord Bishop, set the crown upon his head.
+, crowning King Henry
+ 
+ God save King Henry, of that name the Sixth!
+ 
+ Now, Governor of Paris, take your oath.
+ That you elect no other king but him;
+ Esteem none friends but such as are his friends,
+ And none your foes but such as shall pretend
+ Malicious practices against his state:
+ This shall you do, so help you righteous God.
+Enter Fastolf.
+ 
+ My gracious sovereign, as I rode from Callice
+ To haste unto your coronation,
+ A letter was delivered to my hands,
+ Writ to your Grace from th’ Duke of Burgundy.
+ 
+ Shame to the Duke of Burgundy and thee!
+143
+ACT 4
+Scene 1
+FTLN 1586
+FTLN 1587
+FTLN 1588
+FTLN 1589
+FTLN 1590
+5
+FTLN 1591
+FTLN 1592
+FTLN 1593
+FTLN 1594
+FTLN 1595
+10
+FTLN 1596
+FTLN 1597
+FTLN 1598
+
+--- PAGE 75 / 118 ---
+145
+Henry VI, Part 1
+ACT 4. SC. 1
+( tearing it off )
+GLOUCESTER
+TALBOT
+KING HENRY
+ I vowed, base knight, when I did meet thee next,
+ To tear the Garter from thy craven’s leg,
+ Which I have done, because unworthily
+ Thou wast installèd in that high degree.—
+ Pardon me, princely Henry and the rest.
+ This dastard, at the battle of Patay,
+ When but in all I was six thousand strong
+ And that the French were almost ten to one,
+ Before we met or that a stroke was given,
+ Like to a trusty squire did run away;
+ In which assault we lost twelve hundred men.
+ Myself and divers gentlemen besides
+ Were there surprised and taken prisoners.
+ Then judge, great lords, if I have done amiss,
+ Or whether that such cowards ought to wear
+ This ornament of knighthood—yea or no?
+ 
+ To say the truth, this fact was infamous
+ And ill beseeming any common man,
+ Much more a knight, a captain, and a leader.
+ 
+ When first this Order was ordained, my lords,
+ Knights of the Garter were of noble birth,
+ Valiant and virtuous, full of haughty courage,
+ Such as were grown to credit by the wars;
+ Not fearing death nor shrinking for distress,
+ But always resolute in most extremes.
+ He then that is not furnished in this sort
+ Doth but usurp the sacred name of knight,
+ Profaning this most honorable Order,
+ And should, if I were worthy to be judge,
+ Be quite degraded, like a hedge-born swain
+ That doth presume to boast of gentle blood.
+, to Fastolf
+ 
+ Stain to thy countrymen, thou hear’st thy doom.
+FTLN 1599
+FTLN 1600
+15
+FTLN 1601
+FTLN 1602
+FTLN 1603
+FTLN 1604
+FTLN 1605
+20
+FTLN 1606
+FTLN 1607
+FTLN 1608
+FTLN 1609
+FTLN 1610
+25
+FTLN 1611
+FTLN 1612
+FTLN 1613
+FTLN 1614
+FTLN 1615
+30
+FTLN 1616
+FTLN 1617
+FTLN 1618
+FTLN 1619
+FTLN 1620
+35
+FTLN 1621
+FTLN 1622
+FTLN 1623
+FTLN 1624
+FTLN 1625
+40
+FTLN 1626
+FTLN 1627
+FTLN 1628
+FTLN 1629
+FTLN 1630
+45
+
+--- PAGE 76 / 118 ---
+147
+Henry VI, Part 1
+ACT 4. SC. 1
+Fastolf exits.
+He hands the paper to Gloucester.
+GLOUCESTER
+KING HENRY
+GLOUCESTER
+KING HENRY
+GLOUCESTER
+KING HENRY
+ Be packing therefore, thou that wast a knight.
+ Henceforth we banish thee on pain of death.
+ And now, my  lord protector, view the letter
+ Sent from our uncle, Duke of Burgundy.
+ 
+ What means his Grace that he hath changed his style?
+ No more but, plain and bluntly, “To the King”!
+ Hath he forgot he is his sovereign?
+ Or doth this churlish superscription
+ Pretend some alteration in good will?
+ What’s here?  ( Reads. )
+ I have upon especial cause,
+ Moved with compassion of my country’s wrack,
+ Together with the pitiful complaints
+ Of such as your oppression feeds upon,
+ Forsaken your pernicious faction
+ And joined with Charles, the rightful king of France.
+ O monstrous treachery! Can this be so?
+ That in alliance, amity, and oaths
+ There should be found such false dissembling guile?
+ 
+ What? Doth my Uncle Burgundy revolt?
+ 
+ He doth, my lord, and is become your foe.
+ 
+ Is that the worst this letter doth contain?
+ 
+ It is the worst, and all, my lord, he writes.
+ 
+ Why, then, Lord Talbot there shall talk with him
+ And give him chastisement for this abuse.—
+ How say you, my lord, are you not content?
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+FTLN 1635
+50
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+FTLN 1640
+55
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+FTLN 1645
+60
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+FTLN 1650
+65
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+FTLN 1655
+70
+FTLN 1656
+
+--- PAGE 77 / 118 ---
+149
+Henry VI, Part 1
+ACT 4. SC. 1
+TALBOT
+KING HENRY
+TALBOT
+He exits.
+VERNON
+BASSET
+YORK
+SOMERSET
+KING HENRY
+VERNON
+BASSET
+KING HENRY
+BASSET
+ 
+ Content, my liege? Yes. But that I am prevented,
+ I should have begged I might have been employed.
+ 
+ Then gather strength and march unto him straight;
+ Let him perceive how ill we brook his treason
+ And what offense it is to flout his friends.
+ 
+ I go, my lord, in heart desiring still
+ You may behold confusion of your foes. 
+Enter Vernon, with a white rose,  and Basset,
+with a red rose.
+ 
+ Grant me the combat, gracious sovereign.
+ 
+ And me, my lord, grant me the combat too.
+, indicating Vernon
+ 
+ This is my servant; hear him, noble prince.
+, indicating Basset
+ 
+ And this is mine, sweet Henry; favor him.
+ 
+ Be patient, lords, and give them leave to speak.—
+ Say, gentlemen, what makes you thus exclaim,
+ And wherefore crave you combat, or with whom?
+ 
+ With him, my lord, for he hath done me wrong.
+ 
+ And I with him, for he hath done me wrong.
+ 
+ What is that wrong whereof you both complain?
+ First let me know, and then I’ll answer you.
+ 
+ Crossing the sea from England into France,
+ This fellow here with envious carping tongue
+ Upbraided me about the rose I wear,
+FTLN 1657
+FTLN 1658
+FTLN 1659
+FTLN 1660
+75
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+FTLN 1665
+80
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+FTLN 1670
+85
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+FTLN 1675
+90
+FTLN 1676
+FTLN 1677
+
+--- PAGE 78 / 118 ---
+151
+Henry VI, Part 1
+ACT 4. SC. 1
+VERNON
+YORK
+SOMERSET
+KING HENRY
+YORK
+SOMERSET
+YORK
+ Saying the sanguine color of the leaves
+ Did represent my master’s blushing cheeks
+ When stubbornly he did repugn the truth
+ About a certain question in the law
+ Argued betwixt the Duke of York and him,
+ With other vile and ignominious terms.
+ In confutation of which rude reproach,
+ And in defense of my lord’s worthiness,
+ I crave the benefit of law of arms.
+ 
+ And that is my petition, noble lord;
+ For though he seem with forgèd quaint conceit
+ To set a gloss upon his bold intent,
+ Yet know, my lord, I was provoked by him,
+ And he first took exceptions at this badge,
+ Pronouncing that the paleness of this flower
+ Bewrayed the faintness of my master’s heart.
+ 
+ Will not this malice, Somerset, be left?
+ 
+ Your private grudge, my Lord of York, will out,
+ Though ne’er so cunningly you smother it.
+ 
+ Good Lord, what madness rules in brainsick men
+ When for so slight and frivolous a cause
+ Such factious emulations shall arise!
+ Good cousins both, of York and Somerset,
+ Quiet yourselves, I pray, and be at peace.
+ 
+ Let this dissension first be tried by fight,
+ And then your Highness shall command a peace.
+ 
+ The quarrel toucheth none but us alone;
+ Betwixt ourselves let us decide it then.
+, throwing down a gage
+ 
+ There is my pledge; accept it, Somerset.
+FTLN 1678
+FTLN 1679
+FTLN 1680
+95
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+FTLN 1685
+100
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+FTLN 1690
+105
+FTLN 1691
+FTLN 1692
+FTLN 1693
+FTLN 1694
+FTLN 1695
+110
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+FTLN 1700
+115
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+FTLN 1705
+120
+FTLN 1706
+
+--- PAGE 79 / 118 ---
+153
+Henry VI, Part 1
+ACT 4. SC. 1
+VERNON
+BASSET
+GLOUCESTER
+EXETER
+KING HENRY
+, to Somerset
+ 
+ Nay, let it rest where it began at first.
+, to Somerset
+ 
+ Confirm it so, mine honorable lord.
+ 
+ Confirm it so? Confounded be your strife,
+ And perish you with your audacious prate!
+ Presumptuous vassals, are you not ashamed
+ With this immodest clamorous outrage
+ To trouble and disturb the King and us?—
+ And you, my lords, methinks you do not well
+ To bear with their perverse objections,
+ Much less to take occasion from their mouths
+ To raise a mutiny betwixt yourselves.
+ Let me persuade you take a better course.
+ 
+ It grieves his Highness. Good my lords, be friends.
+ 
+ Come hither, you that would be combatants:
+ Henceforth I charge you, as you love our favor,
+ Quite to forget this quarrel and the cause.—
+ And you, my lords, remember where we are:
+ In France, amongst a fickle wavering nation.
+ If they perceive dissension in our looks,
+ And that within ourselves we disagree,
+ How will their grudging stomachs be provoked
+ To willful disobedience and rebel!
+ Besides, what infamy will there arise
+ When foreign princes shall be certified
+ That for a toy, a thing of no regard,
+ King Henry’s peers and chief nobility
+ Destroyed themselves and lost the realm of France!
+ O, think upon the conquest of my father,
+ My tender years, and let us not forgo
+ That for a trifle that was bought with blood.
+ Let me be umpire in this doubtful strife.
+FTLN 1707
+FTLN 1708
+FTLN 1709
+FTLN 1710
+125
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+FTLN 1715
+130
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+FTLN 1720
+135
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+FTLN 1725
+140
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+FTLN 1730
+145
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+FTLN 1735
+150
+FTLN 1736
+FTLN 1737
+
+--- PAGE 80 / 118 ---
+155
+Henry VI, Part 1
+ACT 4. SC. 1
+He puts on a red rose.
+Flourish. All but York, Warwick, Exeter, Vernon exit.
+WARWICK
+YORK
+WARWICK
+YORK
+ I see no reason if I wear this rose
+ That anyone should therefore be suspicious
+ I more incline to Somerset than York.
+ Both are my kinsmen, and I love them both.
+ As well they may upbraid me with my crown
+ Because, forsooth, the King of Scots is crowned.
+ But your discretions better can persuade
+ Than I am able to instruct or teach;
+ And therefore, as we hither came in peace,
+ So let us still continue peace and love.
+ Cousin of York, we institute your Grace
+ To be our regent in these parts of France;—
+ And good my Lord of Somerset, unite
+ Your troops of horsemen with his bands of foot;
+ And like true subjects, sons of your progenitors,
+ Go cheerfully together and digest
+ Your angry choler on your enemies.
+ Ourself, my lord protector, and the rest,
+ After some respite, will return to Callice;
+ From thence to England, where I hope ere long
+ To be presented, by your victories,
+ With Charles, Alanson, and that traitorous rout.
+ 
+ My Lord of York, I promise you the King
+ Prettily, methought, did play the orator.
+ 
+ And so he did, but yet I like it not
+ In that he wears the badge of Somerset.
+ 
+ Tush, that was but his fancy; blame him not.
+ I dare presume, sweet prince, he thought no harm.
+ 
+ And if iwis  he did—but let it rest.
+ Other affairs must now be managèd.
+FTLN 1738
+FTLN 1739
+FTLN 1740
+155
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+FTLN 1745
+160
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+FTLN 1750
+165
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+FTLN 1755
+170
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+FTLN 1760
+175
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+FTLN 1765
+180
+FTLN 1766
+FTLN 1767
+
+--- PAGE 81 / 118 ---
+157
+Henry VI, Part 1
+ACT 4. SC. 2
+York, Warwick and Vernon  exit.
+Exeter remains.
+EXETER
+He exits.
+TALBOT
+ 
+ Well didst thou, Richard, to suppress thy voice,
+ For had the passions of thy heart burst out,
+ I fear we should have seen deciphered there
+ More rancorous spite, more furious raging broils,
+ Than yet can be imagined or supposed.
+ But howsoe’er, no simple man that sees
+ This jarring discord of nobility,
+ This shouldering of each other in the court,
+ This factious bandying of their favorites,
+ But sees  it doth presage some ill event.
+ ’Tis much when scepters are in children’s hands,
+ But more when envy breeds unkind division:
+ There comes the ruin; there begins confusion.
+Enter Talbot with Soldiers and  Trump and Drum
+before Bordeaux.
+ 
+ Go to the gates of Bordeaux, trumpeter.
+ Summon their general unto the wall.
+Trumpet  sounds. Enter General and Others  aloft.
+ English John Talbot, captains, calls  you forth,
+ Servant-in-arms to Harry, King of England,
+ And thus he would: open your city gates,
+ Be humble to us, call my sovereign yours,
+ And do him homage as obedient subjects,
+ And I’ll withdraw me and my bloody power.
+ But if you frown upon this proffered peace,
+ You tempt the fury of my three attendants,
+FTLN 1768
+FTLN 1769
+FTLN 1770
+185
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+FTLN 1775
+190
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+FTLN 1780
+195
+Scene 2
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+FTLN 1785
+5
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+FTLN 1790
+10
+
+--- PAGE 82 / 118 ---
+159
+Henry VI, Part 1
+ACT 4. SC. 2
+GENERAL
+Drum afar off.
+He exits, aloft, with Others.
+ Lean Famine, quartering Steel, and climbing Fire,
+ Who, in a moment, even with the earth
+ Shall lay your stately and air-braving towers,
+ If you forsake the offer of their love.
+ 
+ Thou ominous and fearful owl of death,
+ Our nation’s terror and their bloody scourge,
+ The period of thy tyranny approacheth.
+ On us thou canst not enter but by death;
+ For I protest we are well fortified
+ And strong enough to issue out and fight.
+ If thou retire, the Dauphin, well appointed,
+ Stands with the snares of war to tangle thee.
+ On either hand thee, there are squadrons pitched
+ To wall thee from the liberty of flight;
+ And no way canst thou turn thee for redress
+ But Death doth front thee with apparent spoil,
+ And pale Destruction meets thee in the face.
+ Ten thousand French have ta’en the Sacrament
+ To rive their dangerous artillery
+ Upon no Christian soul but English Talbot.
+ Lo, there thou stand’st, a breathing valiant man
+ Of an invincible unconquered spirit.
+ This is the latest glory of thy praise
+ That I, thy enemy, due thee withal;
+ For ere the glass that now begins to run
+ Finish the process of his sandy hour,
+ These eyes, that see thee now well-colorèd,
+ Shall see thee withered, bloody, pale, and dead.
+ Hark, hark, the Dauphin’s drum, a warning bell,
+ Sings heavy music to thy timorous soul,
+ And mine shall ring thy dire departure out.
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+FTLN 1795
+15
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+FTLN 1800
+20
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+FTLN 1805
+25
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+FTLN 1810
+30
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+FTLN 1815
+35
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+FTLN 1820
+40
+FTLN 1821
+
+--- PAGE 83 / 118 ---
+161
+Henry VI, Part 1
+ACT 4. SC. 3
+TALBOT
+Some Soldiers exit.
+He exits with Soldiers, Drum and Trumpet.
+YORK
+MESSENGER
+He exits.
+ 
+ He fables not; I hear the enemy.
+ Out, some light horsemen, and peruse their wings.
+ O, negligent and heedless discipline,
+ How are we parked and bounded in a pale,
+ A little herd of England’s timorous deer
+ Mazed with a yelping kennel of French curs.
+ If we be English deer, be then in blood,
+ Not rascal-like to fall down with a pinch,
+ But rather, moody-mad and desperate stags,
+ Turn on the bloody hounds with heads of steel
+ And make the cowards stand aloof at bay.
+ Sell every man his life as dear as mine
+ And they shall find dear deer of us, my friends.
+ God and Saint George, Talbot and England’s right,
+ Prosper our colors in this dangerous fight!
+Enter a Messenger that meets York. Enter York
+with Trumpet and many Soldiers.
+ 
+ Are not the speedy scouts returned again
+ That dogged the mighty army of the Dauphin?
+ 
+ They are returned, my lord, and give it out
+ That he is marched to Bordeaux with his power
+ To fight with Talbot. As he marched along,
+ By your espials were discoverèd
+ Two mightier troops than that the Dauphin led,
+ Which joined with him and made their march for
+ Bordeaux. 
+FTLN 1822
+FTLN 1823
+FTLN 1824
+FTLN 1825
+45
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+FTLN 1830
+50
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+FTLN 1835
+55
+FTLN 1836
+Scene 3
+FTLN 1837
+FTLN 1838
+FTLN 1839
+FTLN 1840
+FTLN 1841
+5
+FTLN 1842
+FTLN 1843
+FTLN 1844
+FTLN 1845
+
+--- PAGE 84 / 118 ---
+163
+Henry VI, Part 1
+ACT 4. SC. 3
+YORK
+LUCY
+YORK
+LUCY
+YORK
+LUCY
+ 
+ A plague upon that villain Somerset
+ That thus delays my promisèd supply
+ Of horsemen that were levied for this siege!
+ Renownèd Talbot doth expect my aid,
+ And I am louted by a traitor villain
+ And cannot help the noble chevalier.
+ God comfort him in this necessity.
+ If he miscarry, farewell wars in France.
+Enter Sir William Lucy.
+ 
+ Thou princely leader of our English strength,
+ Never so needful on the earth of France,
+ Spur to the rescue of the noble Talbot,
+ Who now is girdled with a waist of iron
+ And hemmed about with grim destruction.
+ To Bordeaux, warlike duke! To Bordeaux, York!
+ Else farewell Talbot, France, and England’s honor.
+ 
+ O God, that Somerset, who in proud heart
+ Doth stop my cornets, were in Talbot’s place!
+ So should we save a valiant gentleman
+ By forfeiting a traitor and a coward.
+ Mad ire and wrathful fury makes me weep
+ That thus we die while remiss traitors sleep.
+ 
+ O, send some succor to the distressed lord!
+ 
+ He dies, we lose; I break my warlike word;
+ We mourn, France smiles; we lose, they daily get,
+ All long of this vile traitor Somerset.
+ 
+ Then God take mercy on brave Talbot’s soul,
+ And on his son, young John, who two hours since
+ I met in travel toward his warlike father.
+FTLN 1846
+10
+FTLN 1847
+FTLN 1848
+FTLN 1849
+FTLN 1850
+FTLN 1851
+15
+FTLN 1852
+FTLN 1853
+FTLN 1854
+FTLN 1855
+FTLN 1856
+20
+FTLN 1857
+FTLN 1858
+FTLN 1859
+FTLN 1860
+FTLN 1861
+25
+FTLN 1862
+FTLN 1863
+FTLN 1864
+FTLN 1865
+FTLN 1866
+30
+FTLN 1867
+FTLN 1868
+FTLN 1869
+FTLN 1870
+FTLN 1871
+35
+FTLN 1872
+FTLN 1873
+
+--- PAGE 85 / 118 ---
+165
+Henry VI, Part 1
+ACT 4. SC. 4
+YORK
+York and his Soldiers  exit.
+LUCY
+He exits.
+SOMERSET
+ This seven years did not Talbot see his son,
+ And now they meet where both their lives are done.
+ 
+ Alas, what joy shall noble Talbot have
+ To bid his young son welcome to his grave?
+ Away! Vexation almost stops my breath,
+ That sundered friends greet in the hour of death.
+ Lucy, farewell. No more my fortune can
+ But curse the cause I cannot aid the man.
+ Maine, Blois, Poictiers, and Tours are won away,
+ Long all of Somerset and his delay.
+ 
+ Thus while the vulture of sedition
+ Feeds in the bosom of such great commanders,
+ Sleeping neglection doth betray to loss
+ The conquest of our scarce-cold conqueror,
+ That ever-living man of memory,
+ Henry the Fifth. Whiles they each other cross,
+ Lives, honors, lands, and all hurry to loss.
+Enter Somerset with his army and a Captain
+from Talbot’s army.
+ 
+ It is too late; I cannot send them now.
+ This expedition was by York and Talbot
+ Too rashly plotted. All our general force
+ Might with a sally of the very town
+ Be buckled with. The overdaring Talbot
+ Hath sullied all his gloss of former honor
+ By this unheedful, desperate, wild adventure.
+FTLN 1874
+FTLN 1875
+FTLN 1876
+40
+FTLN 1877
+FTLN 1878
+FTLN 1879
+FTLN 1880
+FTLN 1881
+45
+FTLN 1882
+FTLN 1883
+FTLN 1884
+FTLN 1885
+FTLN 1886
+50
+FTLN 1887
+FTLN 1888
+FTLN 1889
+FTLN 1890
+Scene 4
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+FTLN 1895
+5
+FTLN 1896
+FTLN 1897
+
+--- PAGE 86 / 118 ---
+167
+Henry VI, Part 1
+ACT 4. SC. 4
+CAPTAIN
+SOMERSET
+LUCY
+SOMERSET
+LUCY
+SOMERSET
+ York set him on to fight and die in shame
+ That, Talbot dead, great York might bear the name.
+Enter Sir William Lucy.
+ 
+ Here is Sir William Lucy, who with me
+ Set from our o’er-matched forces forth for aid.
+ 
+ How now, Sir William, whither were you sent?
+ 
+ Whither, my lord? From bought and sold Lord Talbot,
+ Who, ringed about with bold adversity,
+ Cries out for noble York and Somerset
+ To beat assailing Death from his weak regions;
+ And whiles the honorable captain there
+ Drops bloody sweat from his war-wearied limbs
+ And, in advantage ling’ring, looks for rescue,
+ You, his false hopes, the trust of England’s honor,
+ Keep off aloof with worthless emulation.
+ Let not your private discord keep away
+ The levied succors that should lend him aid,
+ While he, renownèd noble gentleman,
+ Yield up his life unto a world of odds.
+ Orleance the Bastard, Charles, Burgundy,
+ Alanson, Reignier compass him about,
+ And Talbot perisheth by your default.
+ 
+ York set him on; York should have sent him aid.
+ 
+ And York as fast upon your Grace exclaims,
+ Swearing that you withhold his levied host
+ Collected for this expedition.
+ 
+ York lies. He might have sent and had the horse.
+ I owe him little duty and less love,
+ And take foul scorn to fawn on him by sending.
+FTLN 1898
+FTLN 1899
+FTLN 1900
+10
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+FTLN 1905
+15
+FTLN 1906
+FTLN 1907
+FTLN 1908
+FTLN 1909
+FTLN 1910
+20
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+FTLN 1915
+25
+FTLN 1916
+FTLN 1917
+FTLN 1918
+FTLN 1919
+FTLN 1920
+30
+FTLN 1921
+FTLN 1922
+FTLN 1923
+FTLN 1924
+FTLN 1925
+35
+
+--- PAGE 87 / 118 ---
+169
+Henry VI, Part 1
+ACT 4. SC. 5
+LUCY
+SOMERSET
+LUCY
+SOMERSET
+LUCY
+They exit.
+TALBOT
+ 
+ The fraud of England, not the force of France,
+ Hath now entrapped the noble-minded Talbot.
+ Never to England shall he bear his life,
+ But dies betrayed to fortune by your strife.
+ 
+ Come, go. I will dispatch the horsemen straight.
+ Within six hours they will be at his aid.
+ 
+ Too late comes rescue; he is ta’en or slain,
+ For fly he could not if he would have fled;
+ And fly would Talbot never, though he might.
+ 
+ If he be dead, brave Talbot, then adieu.
+ 
+ His fame lives in the world, his shame in you.
+Enter Talbot and John Talbot,  his son.
+ 
+ O young John Talbot, I did send for thee
+ To tutor thee in stratagems of war,
+ That Talbot’s name might be in thee revived
+ When sapless age and weak unable limbs
+ Should bring thy father to his drooping chair.
+ But—O, malignant and ill-boding stars!—
+ Now thou art come unto a feast of Death,
+ A terrible and unavoided danger.
+ Therefore, dear boy, mount on my swiftest horse,
+ And I’ll direct thee how thou shalt escape
+ By sudden flight. Come, dally not, be gone.
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+FTLN 1930
+40
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+FTLN 1935
+45
+FTLN 1936
+Scene 5
+FTLN 1937
+FTLN 1938
+FTLN 1939
+FTLN 1940
+FTLN 1941
+5
+FTLN 1942
+FTLN 1943
+FTLN 1944
+FTLN 1945
+FTLN 1946
+10
+FTLN 1947
+
+--- PAGE 88 / 118 ---
+171
+Henry VI, Part 1
+ACT 4. SC. 5
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+He kneels.
+TALBOT
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+ 
+ Is my name Talbot? And am I your son?
+ And shall I fly? O, if you love my mother,
+ Dishonor not her honorable name
+ To make a bastard and a slave of me!
+ The world will say “He is not Talbot’s blood,
+ That basely fled when noble Talbot stood.”
+ 
+ Fly, to revenge my death if I be slain.
+ 
+ He that flies so will ne’er return again.
+ 
+ If we both stay, we both are sure to die.
+ 
+ Then let me stay and, father, do you fly.
+ Your loss is great; so your regard should be.
+ My worth unknown, no loss is known in me.
+ Upon my death, the French can little boast;
+ In yours they will; in you all hopes are lost.
+ Flight cannot stain the honor you have won,
+ But mine it will, that no exploit have done.
+ You fled for vantage, everyone will swear;
+ But if I bow, they’ll say it was for fear.
+ There is no hope that ever I will stay
+ If the first hour I shrink and run away. 
+ Here on my knee I beg mortality,
+ Rather than life preserved with infamy.
+ 
+ Shall all thy mother’s hopes lie in one tomb?
+ 
+ Ay, rather than I’ll shame my mother’s womb.
+ 
+ Upon my blessing I command thee go.
+ 
+ To fight I will, but not to fly the foe.
+FTLN 1948
+FTLN 1949
+FTLN 1950
+FTLN 1951
+15
+FTLN 1952
+FTLN 1953
+FTLN 1954
+FTLN 1955
+FTLN 1956
+20
+FTLN 1957
+FTLN 1958
+FTLN 1959
+FTLN 1960
+FTLN 1961
+25
+FTLN 1962
+FTLN 1963
+FTLN 1964
+FTLN 1965
+FTLN 1966
+30
+FTLN 1967
+FTLN 1968
+FTLN 1969
+FTLN 1970
+FTLN 1971
+35
+FTLN 1972
+FTLN 1973
+
+--- PAGE 89 / 118 ---
+173
+Henry VI, Part 1
+ACT 4. SC. 5
+TALBOT
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+TALBOT
+JOHN TALBOT
+He rises.
+TALBOT
+They  exit.
+ 
+ Part of thy father may be saved in thee.
+ 
+ No part of him but will be shame in me.
+ 
+ Thou never hadst renown, nor canst not lose it.
+ 
+ Yes, your renownèd name; shall flight abuse it?
+ 
+ Thy father’s charge shall clear thee from that stain.
+ 
+ You cannot witness for me, being slain.
+ If death be so apparent, then both fly.
+ 
+ And leave my followers here to fight and die?
+ My age was never tainted with such shame.
+ 
+ And shall my youth be guilty of such blame?
+ No more can I be severed from your side
+ Than can yourself yourself in twain divide.
+ Stay, go, do what you will; the like do I,
+ For live I will not, if my father die.
+ 
+ Then here I take my leave of thee, fair son,
+ Born to eclipse thy life this afternoon.
+ Come, side by side, together live and die,
+ And soul with soul from France to heaven fly.
+FTLN 1974
+FTLN 1975
+FTLN 1976
+40
+FTLN 1977
+FTLN 1978
+FTLN 1979
+FTLN 1980
+FTLN 1981
+45
+FTLN 1982
+FTLN 1983
+FTLN 1984
+FTLN 1985
+FTLN 1986
+50
+FTLN 1987
+FTLN 1988
+FTLN 1989
+FTLN 1990
+FTLN 1991
+55
+
+--- PAGE 90 / 118 ---
+175
+Henry VI, Part 1
+ACT 4. SC. 6
+TALBOT
+JOHN TALBOT
+TALBOT
+Alarum. Excursions, wherein Talbot’s son John
+is hemmed about, and Talbot rescues him.
+ 
+ Saint George, and victory! Fight, soldiers, fight!
+ The Regent hath with Talbot broke his word
+ And left us to the rage of France his sword.
+ Where is John Talbot?—Pause, and take thy breath;
+ I gave thee life and rescued thee from death.
+ 
+ O, twice my father, twice am I thy son!
+ The life thou gav’st me first was lost and done
+ Till with thy warlike sword, despite of fate,
+ To my determined time thou gav’st new date.
+ 
+ When from the Dauphin’s crest thy sword struck fire,
+ It warmed thy father’s heart with proud desire
+ Of bold-faced victory. Then leaden age,
+ Quickened with youthful spleen and warlike rage,
+ Beat down Alanson, Orleance, Burgundy,
+ And from the pride of Gallia rescued thee.
+ The ireful Bastard Orleance, that drew blood
+ From thee, my boy, and had the maidenhood
+ Of thy first fight, I soon encounterèd,
+ And, interchanging blows, I quickly shed
+ Some of his bastard blood, and in disgrace
+ Bespoke him thus: “Contaminated, base,
+ And misbegotten blood I spill of thine,
+ Mean and right poor, for that pure blood of mine
+ Which thou didst force from Talbot, my brave boy.”
+ Here, purposing the Bastard to destroy,
+ Came in strong rescue. Speak, thy father’s care:
+ Art thou not weary, John? How dost thou fare?
+Scene 6
+FTLN 1992
+FTLN 1993
+FTLN 1994
+FTLN 1995
+FTLN 1996
+5
+FTLN 1997
+FTLN 1998
+FTLN 1999
+FTLN 2000
+FTLN 2001
+10
+FTLN 2002
+FTLN 2003
+FTLN 2004
+FTLN 2005
+FTLN 2006
+15
+FTLN 2007
+FTLN 2008
+FTLN 2009
+FTLN 2010
+FTLN 2011
+20
+FTLN 2012
+FTLN 2013
+FTLN 2014
+FTLN 2015
+FTLN 2016
+25
+FTLN 2017
+FTLN 2018
+
+--- PAGE 91 / 118 ---
+177
+Henry VI, Part 1
+ACT 4. SC. 6
+JOHN TALBOT
+TALBOT
+They  exit.
+ Wilt thou yet leave the battle, boy, and fly,
+ Now thou art sealed the son of chivalry?
+ Fly, to revenge my death when I am dead;
+ The help of one stands me in little stead.
+ O, too much folly is it, well I wot,
+ To hazard all our lives in one small boat.
+ If I today die not with Frenchmen’s rage,
+ Tomorrow I shall die with mickle age.
+ By me they nothing gain, and, if I stay,
+ ’Tis but the short’ning of my life one day.
+ In thee thy mother dies, our household’s name,
+ My death’s revenge, thy youth, and England’s fame.
+ All these and more we hazard by thy stay;
+ All these are saved if thou wilt fly away.
+ 
+ The sword of Orleance hath not made me smart;
+ These words of yours draw lifeblood from my heart.
+ On that advantage, bought with such a shame,
+ To save a paltry life and slay bright fame,
+ Before young Talbot from old Talbot fly,
+ The coward horse that bears me fall and die!
+ And like me to the peasant boys of France,
+ To be shame’s scorn and subject of mischance!
+ Surely, by all the glory you have won,
+ An if I fly, I am not Talbot’s son.
+ Then talk no more of flight, it is no boot;
+ If son to Talbot, die at Talbot’s foot.
+ 
+ Then follow thou thy desp’rate sire of Crete,
+ Thou Icarus; thy life to me is sweet.
+ If thou wilt fight, fight by thy father’s side,
+ And commendable proved, let’s die in pride.
+FTLN 2019
+FTLN 2020
+FTLN 2021
+30
+FTLN 2022
+FTLN 2023
+FTLN 2024
+FTLN 2025
+FTLN 2026
+35
+FTLN 2027
+FTLN 2028
+FTLN 2029
+FTLN 2030
+FTLN 2031
+40
+FTLN 2032
+FTLN 2033
+FTLN 2034
+FTLN 2035
+FTLN 2036
+45
+FTLN 2037
+FTLN 2038
+FTLN 2039
+FTLN 2040
+FTLN 2041
+50
+FTLN 2042
+FTLN 2043
+FTLN 2044
+FTLN 2045
+FTLN 2046
+55
+FTLN 2047
+FTLN 2048
+
+--- PAGE 92 / 118 ---
+179
+Henry VI, Part 1
+ACT 4. SC. 7
+TALBOT
+SERVINGMAN
+TALBOT
+Alarum. Excursions. Enter old Talbot
+led by a Servant.
+ 
+ Where is my other life? Mine own is gone.
+ O, where’s young Talbot? Where is valiant John?
+ Triumphant Death, smeared with captivity,
+ Young Talbot’s valor makes me smile at thee.
+ When he perceived me shrink and on my knee,
+ His bloody sword he brandished over me,
+ And like a hungry lion did commence
+ Rough deeds of rage and stern impatience;
+ But when my angry guardant stood alone,
+ Tend’ring my ruin and assailed of none,
+ Dizzy-eyed fury and great rage of heart
+ Suddenly made him from my side to start
+ Into the clust’ring battle of the French;
+ And in that sea of blood, my boy did drench
+ His over-mounting spirit; and there died
+ My Icarus, my blossom, in his pride.
+Enter Soldiers  with John Talbot, borne.
+ 
+ O, my dear lord, lo where your son is borne!
+ 
+ Thou antic Death, which laugh’st us here to scorn,
+ Anon from thy insulting tyranny,
+ Coupled in bonds of perpetuity,
+ Two Talbots, wingèd through the lither sky,
+ In thy despite shall scape mortality.—
+ O, thou whose wounds become hard-favored Death,
+ Speak to thy father ere thou yield thy breath!
+ Brave Death by speaking, whither he will or no.
+ Imagine him a Frenchman and thy foe.—
+Scene 7
+FTLN 2049
+FTLN 2050
+FTLN 2051
+FTLN 2052
+FTLN 2053
+5
+FTLN 2054
+FTLN 2055
+FTLN 2056
+FTLN 2057
+FTLN 2058
+10
+FTLN 2059
+FTLN 2060
+FTLN 2061
+FTLN 2062
+FTLN 2063
+15
+FTLN 2064
+FTLN 2065
+FTLN 2066
+FTLN 2067
+FTLN 2068
+20
+FTLN 2069
+FTLN 2070
+FTLN 2071
+FTLN 2072
+FTLN 2073
+25
+FTLN 2074
+
+--- PAGE 93 / 118 ---
+181
+Henry VI, Part 1
+ACT 4. SC. 7
+Dies.
+Alarums. Soldiers exit.
+CHARLES
+BASTARD
+PUCELLE
+BURGUNDY
+BASTARD
+CHARLES
+ Poor boy, he smiles, methinks, as who should say
+ “Had Death been French, then Death had died
+ today.”—
+ Come, come, and lay him in his father’s arms;
+ My spirit can no longer bear these harms.
+ Soldiers, adieu! I have what I would have,
+ Now my old arms are young John Talbot’s grave.
+Enter Charles, Alanson, Burgundy, Bastard,
+and Pucelle, with Forces.
+ 
+ Had York and Somerset brought rescue in,
+ We should have found a bloody day of this.
+ 
+ How the young whelp of Talbot’s, raging wood,
+ Did flesh his puny sword in Frenchmen’s blood!
+ 
+ Once I encountered him, and thus I said:
+ “Thou maiden youth, be vanquished by a maid.”
+ But with a proud majestical high scorn
+ He answered thus: “Young Talbot was not born
+ To be the pillage of a giglot wench.”
+ So, rushing in the bowels of the French,
+ He left me proudly, as unworthy fight.
+ 
+ Doubtless he would have made a noble knight.
+ See where he lies inhearsèd in the arms
+ Of the most bloody nurser of his harms.
+ 
+ Hew them to pieces, hack their bones asunder,
+ Whose life was England’s glory, Gallia’s wonder.
+ 
+ O, no, forbear! For that which we have fled
+ During the life, let us not wrong it dead.
+FTLN 2075
+FTLN 2076
+FTLN 2077
+FTLN 2078
+30
+FTLN 2079
+FTLN 2080
+FTLN 2081
+FTLN 2082
+FTLN 2083
+35
+FTLN 2084
+FTLN 2085
+FTLN 2086
+FTLN 2087
+FTLN 2088
+40
+FTLN 2089
+FTLN 2090
+FTLN 2091
+FTLN 2092
+FTLN 2093
+45
+FTLN 2094
+FTLN 2095
+FTLN 2096
+FTLN 2097
+FTLN 2098
+50
+FTLN 2099
+
+--- PAGE 94 / 118 ---
+183
+Henry VI, Part 1
+ACT 4. SC. 7
+LUCY
+CHARLES
+LUCY
+CHARLES
+LUCY
+PUCELLE
+Enter Lucy with Attendants and a French Herald.
+ 
+ Herald, conduct me to the Dauphin’s tent,
+ To know who hath obtained the glory of the day.
+ 
+ On what submissive message art thou sent?
+ 
+ Submission, dauphin? ’Tis a mere French word.
+ We English warriors wot not what it means.
+ I come to know what prisoners thou hast ta’en,
+ And to survey the bodies of the dead.
+ 
+ For prisoners askst thou? Hell our prison is.
+ But tell me whom thou seek’st.
+ 
+ But where’s the great Alcides of the field,
+ Valiant Lord Talbot, Earl of Shrewsbury,
+ Created for his rare success in arms
+ Great Earl of Washford, Waterford, and Valence,
+ Lord Talbot of Goodrich and Urchinfield,
+ Lord Strange of Blackmere, Lord Verdon of Alton,
+ Lord Cromwell of Wingfield, Lord Furnival of
+ Sheffield,
+ The thrice victorious Lord of Falconbridge,
+ Knight of the noble Order of Saint George,
+ Worthy Saint Michael, and the Golden Fleece,
+ Great Marshal to Henry the Sixth
+ Of all his wars within the realm of France?
+ 
+ Here’s a silly stately style indeed.
+ The Turk, that two-and-fifty kingdoms hath,
+ Writes not so tedious a style as this.
+ Him that thou magnifi’st with all these titles
+ Stinking and flyblown lies here at our feet.
+FTLN 2100
+FTLN 2101
+FTLN 2102
+FTLN 2103
+55
+FTLN 2104
+FTLN 2105
+FTLN 2106
+FTLN 2107
+FTLN 2108
+60
+FTLN 2109
+FTLN 2110
+FTLN 2111
+FTLN 2112
+FTLN 2113
+65
+FTLN 2114
+FTLN 2115
+FTLN 2116
+FTLN 2117
+FTLN 2118
+70
+FTLN 2119
+FTLN 2120
+FTLN 2121
+FTLN 2122
+FTLN 2123
+75
+FTLN 2124
+FTLN 2125
+FTLN 2126
+
+--- PAGE 95 / 118 ---
+185
+Henry VI, Part 1
+ACT 4. SC. 7
+LUCY
+PUCELLE
+CHARLES
+LUCY
+CHARLES
+Lucy, Servant, and Attendants exit,
+bearing the bodies.
+They  exit.
+ 
+ Is Talbot slain, the Frenchmen’s only scourge,
+ Your kingdom’s terror and black Nemesis?
+ O, were mine eyeballs into bullets turned
+ That I in rage might shoot them at your faces!
+ O, that I could but call these dead to life,
+ It were enough to fright the realm of France.
+ Were but his picture left amongst you here,
+ It would amaze the proudest of you all.
+ Give me their bodies, that I may bear them hence
+ And give them burial as beseems their worth.
+ 
+ I think this upstart is old Talbot’s ghost,
+ He speaks with such a proud commanding spirit.
+ For God’s sake, let him have him. To keep them here,
+ They would but stink and putrefy the air.
+ 
+ Go, take their bodies hence.
+  
+ I’ll bear them hence.
+ But from their ashes shall be reared
+ A phoenix that shall make all France afeard.
+ 
+ So we be rid of them, do with him what thou wilt.
+ And now to Paris in this conquering vein.
+ All will be ours, now bloody Talbot’s slain.
+FTLN 2127
+FTLN 2128
+80
+FTLN 2129
+FTLN 2130
+FTLN 2131
+FTLN 2132
+FTLN 2133
+85
+FTLN 2134
+FTLN 2135
+FTLN 2136
+FTLN 2137
+FTLN 2138
+90
+FTLN 2139
+FTLN 2140
+FTLN 2141
+FTLN 2142
+FTLN 2143
+95
+FTLN 2144
+FTLN 2145
+FTLN 2146
+FTLN 2147
+
+--- PAGE 96 / 118 ---
+KING HENRY
+GLOUCESTER
+KING HENRY
+GLOUCESTER
+KING HENRY
+GLOUCESTER
+Sennet. Enter King, Gloucester, and Exeter,
+with Attendants.
+, to Gloucester
+ 
+ Have you perused the letters from the Pope,
+ The Emperor, and the Earl of Armagnac?
+ 
+ I have, my lord, and their intent is this:
+ They humbly sue unto your Excellence
+ To have a godly peace concluded of
+ Between the realms of England and of France.
+ 
+ How doth your Grace affect their motion?
+ 
+ Well, my good lord, and as the only means
+ To stop effusion of our Christian blood
+ And stablish quietness on every side.
+ 
+ Ay, marry, uncle, for I always thought
+ It was both impious and unnatural
+ That such immanity and bloody strife
+ Should reign among professors of one faith.
+ 
+ Besides, my lord, the sooner to effect
+ And surer bind this knot of amity,
+ The Earl of Armagnac, near knit to Charles,
+ A man of great authority in France,
+ Proffers his only daughter to your Grace
+ In marriage, with a large and sumptuous dowry.
+189
+ACT 5
+Scene 1
+FTLN 2148
+FTLN 2149
+FTLN 2150
+FTLN 2151
+FTLN 2152
+5
+FTLN 2153
+FTLN 2154
+FTLN 2155
+FTLN 2156
+FTLN 2157
+10
+FTLN 2158
+FTLN 2159
+FTLN 2160
+FTLN 2161
+FTLN 2162
+15
+FTLN 2163
+FTLN 2164
+FTLN 2165
+FTLN 2166
+FTLN 2167
+20
+
+--- PAGE 97 / 118 ---
+191
+Henry VI, Part 1
+ACT 5. SC. 1
+KING HENRY
+An Attendant exits.
+EXETER
+KING HENRY
+GLOUCESTER
+ 
+ Marriage, uncle? Alas, my years are young;
+ And fitter is my study and my books
+ Than wanton dalliance with a paramour.
+ Yet call th’ Ambassadors and, as you please,
+ So let them have their answers every one.
+ I shall be well content with any choice
+ Tends to God’s glory and my country’s weal.
+Enter Winchester, dressed in cardinal’s robes,
+and the Ambassador of Armagnac, a Papal Legate,
+and another Ambassador.
+, aside
+ 
+ What, is my Lord of Winchester installed
+ And called unto a cardinal’s degree?
+ Then I perceive that will be verified
+ Henry the Fifth did sometime prophesy:
+ “If once he come to be a cardinal,
+ He’ll make his cap coequal with the crown.”
+ 
+ My Lords Ambassadors, your several suits
+ Have been considered and debated on;
+ Your purpose is both good and reasonable,
+ And therefore are we certainly resolved
+ To draw conditions of a friendly peace,
+ Which by my Lord of Winchester we mean
+ Shall be transported presently to France.
+, to the Ambassador of Armagnac
+ 
+ And for the proffer of my lord your master,
+ I have informed his Highness so at large
+ As, liking of the lady’s virtuous gifts,
+ Her beauty, and the value of her dower,
+ He doth intend she shall be England’s queen.
+FTLN 2168
+FTLN 2169
+FTLN 2170
+FTLN 2171
+FTLN 2172
+25
+FTLN 2173
+FTLN 2174
+FTLN 2175
+FTLN 2176
+FTLN 2177
+30
+FTLN 2178
+FTLN 2179
+FTLN 2180
+FTLN 2181
+FTLN 2182
+35
+FTLN 2183
+FTLN 2184
+FTLN 2185
+FTLN 2186
+FTLN 2187
+40
+FTLN 2188
+FTLN 2189
+FTLN 2190
+FTLN 2191
+FTLN 2192
+45
+
+--- PAGE 98 / 118 ---
+193
+Henry VI, Part 1
+ACT 5. SC. 2
+KING HENRY
+All except Winchester and Legate  exit.
+WINCHESTER
+LEGATE
+He exits.
+WINCHESTER
+He exits.
+CHARLES
+ALANSON
+, handing a jewel to the Ambassador
+ 
+ In argument and proof of which contract,
+ Bear her this jewel, pledge of my affection.—
+ And so, my Lord Protector, see them guarded
+ And safely brought to Dover, where, inshipped,
+ Commit them to the fortune of the sea.
+ 
+ Stay, my Lord Legate; you shall first receive
+ The sum of money which I promisèd
+ Should be delivered to his Holiness
+ For clothing me in these grave ornaments.
+ 
+ I will attend upon your Lordship’s leisure. 
+ 
+ Now Winchester will not submit, I trow,
+ Or be inferior to the proudest peer.
+ Humphrey of Gloucester, thou shalt well perceive
+ That neither in birth or for authority
+ The Bishop will be overborne by thee.
+ I’ll either make thee stoop and bend thy knee,
+ Or sack this country with a mutiny.
+Enter Charles, Burgundy, Alanson, Bastard,
+Reignier, and Joan la Pucelle, with Soldiers.
+ 
+ These news, my lords, may cheer our drooping spirits:
+ ’Tis said the stout Parisians do revolt
+ And turn again unto the warlike French.
+ 
+ Then march to Paris, royal Charles of France,
+ And keep not back your powers in dalliance.
+FTLN 2193
+FTLN 2194
+FTLN 2195
+FTLN 2196
+FTLN 2197
+50
+FTLN 2198
+FTLN 2199
+FTLN 2200
+FTLN 2201
+FTLN 2202
+55
+FTLN 2203
+FTLN 2204
+FTLN 2205
+FTLN 2206
+FTLN 2207
+60
+FTLN 2208
+FTLN 2209
+Scene 2
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+5
+
+--- PAGE 99 / 118 ---
+195
+Henry VI, Part 1
+ACT 5. SC. 3
+PUCELLE
+SCOUT
+CHARLES
+SCOUT
+CHARLES
+BURGUNDY
+PUCELLE
+CHARLES
+They exit.
+PUCELLE
+ 
+ Peace be amongst them if they turn to us;
+ Else ruin combat with their palaces!
+Enter Scout.
+ 
+ Success unto our valiant general,
+ And happiness to his accomplices.
+ 
+ What tidings send our scouts? I prithee speak.
+ 
+ The English army that divided was
+ Into two parties is now conjoined in one,
+ And means to give you battle presently.
+ 
+ Somewhat too sudden, sirs, the warning is,
+ But we will presently provide for them.
+ 
+ I trust the ghost of Talbot is not there.
+ Now he is gone, my lord, you need not fear.
+ 
+ Of all base passions, fear is most accursed.
+ Command the conquest, Charles, it shall be thine;
+ Let Henry fret and all the world repine.
+ 
+ Then on, my lords, and France be fortunate!
+Alarum. Excursions. Enter Joan la  Pucelle.
+ 
+ The Regent conquers and the Frenchmen fly.
+ Now help, you charming spells and periapts,
+ And you choice spirits that admonish me,
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+10
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+15
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+FTLN 2229
+20
+FTLN 2230
+Scene 3
+FTLN 2231
+FTLN 2232
+FTLN 2233
+
+--- PAGE 100 / 118 ---
+197
+Henry VI, Part 1
+ACT 5. SC. 3
+Thunder.
+They walk, and speak not.
+They hang their heads.
+They shake their heads.
+They depart.
+She exits.
+ And give me signs of future accidents. 
+ You speedy helpers, that are substitutes
+ Under the lordly monarch of the north,
+ Appear, and aid me in this enterprise.
+Enter Fiends.
+ This speed  and quick appearance argues proof
+ Of your accustomed diligence to me.
+ Now, you familiar spirits that are culled
+ Out of the powerful regions under earth,
+ Help me this once, that France may get the field.
+ O, hold me not with silence overlong!
+ Where I was wont to feed you with my blood,
+ I’ll lop a member off and give it you
+ In earnest of a further benefit,
+ So you do condescend to help me now.
+ No hope to have redress? My body shall
+ Pay recompense if you will grant my suit.
+ Cannot my body nor blood-sacrifice
+ Entreat you to your wonted furtherance?
+ Then take my soul—my body, soul, and all—
+ Before that England give the French the foil.
+ See, they forsake me. Now the time is come
+ That France must vail her lofty-plumèd crest
+ And let her head fall into England’s lap.
+ My ancient incantations are too weak,
+ And hell too strong for me to buckle with.
+ Now, France, thy glory droopeth to the dust.
+FTLN 2234
+FTLN 2235
+5
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+FTLN 2240
+10
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+FTLN 2245
+15
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+FTLN 2250
+20
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+FTLN 2255
+25
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+
+--- PAGE 101 / 118 ---
+199
+Henry VI, Part 1
+ACT 5. SC. 3
+YORK
+PUCELLE
+YORK
+PUCELLE
+YORK
+PUCELLE
+YORK
+They exit.
+SUFFOLK
+Gazes on her.
+Excursions. Burgundy and York fight hand to hand.
+Burgundy and the  French fly as York and English
+soldiers capture Joan la Pucelle.
+ 
+ Damsel of France, I think I have you fast.
+ Unchain your spirits now with spelling charms,
+ And try if they can gain your liberty.
+ A goodly prize, fit for the devil’s grace!
+ See how the ugly witch doth bend her brows
+ As if with Circe she would change my shape.
+ 
+ Changed to a worser shape thou canst not be.
+ 
+ O, Charles the Dauphin is a proper man;
+ No shape but his can please your dainty eye.
+ 
+ A plaguing mischief light on Charles and thee,
+ And may you both be suddenly surprised
+ By bloody hands in sleeping on your beds!
+ 
+ Fell banning hag! Enchantress, hold thy tongue.
+ 
+ I prithee give me leave to curse awhile.
+ 
+ Curse, miscreant, when thou com’st to the stake.
+Alarum. Enter Suffolk with Margaret in his hand.
+ 
+ Be what thou wilt, thou art my prisoner.
+ O fairest beauty, do not fear nor fly,
+ For I will touch thee but with reverent hands.
+ I kiss these fingers for eternal peace
+FTLN 2260
+30
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+FTLN 2265
+35
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+FTLN 2270
+40
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+FTLN 2275
+45
+FTLN 2276
+FTLN 2277
+FTLN 2278
+
+--- PAGE 102 / 118 ---
+201
+Henry VI, Part 1
+ACT 5. SC. 3
+MARGARET
+SUFFOLK
+She is going.
+MARGARET
+SUFFOLK
+MARGARET
+ And lay them gently on thy tender side.
+ Who art thou? Say, that I may honor thee.
+ 
+ Margaret my name, and daughter to a king,
+ The King of Naples, whosoe’er thou art.
+ 
+ An earl I am, and Suffolk am I called.
+ Be not offended, nature’s miracle;
+ Thou art allotted to be ta’en by me.
+ So doth the swan her downy cygnets save,
+ Keeping them prisoner underneath her  wings.
+ Yet if this servile usage once offend,
+ Go and be free again as Suffolk’s friend.
+ O, stay!  ( Aside. ) I have no power to let her pass.
+ My hand would free her, but my heart says no.
+ As plays the sun upon the glassy streams,
+ Twinkling another counterfeited beam,
+ So seems this gorgeous beauty to mine eyes.
+ Fain would I woo her, yet I dare not speak.
+ I’ll call for pen and ink and write my mind.
+ Fie, de la Pole, disable not thyself!
+ Hast not a tongue? Is she not here?
+ Wilt thou be daunted at a woman’s sight?
+ Ay. Beauty’s princely majesty is such
+ Confounds the tongue and makes the senses rough.
+ 
+ Say, Earl of Suffolk, if thy name be so,
+ What ransom must I pay before I pass?
+ For I perceive I am thy prisoner.
+, aside
+ 
+ How canst thou tell she will deny thy suit
+ Before thou make a trial of her love?
+ 
+ Why speak’st thou not? What ransom must I pay?
+FTLN 2279
+FTLN 2280
+50
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+FTLN 2285
+55
+FTLN 2286
+FTLN 2287
+FTLN 2288
+FTLN 2289
+FTLN 2290
+60
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+FTLN 2295
+65
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+FTLN 2300
+70
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+FTLN 2305
+75
+FTLN 2306
+FTLN 2307
+
+--- PAGE 103 / 118 ---
+203
+Henry VI, Part 1
+ACT 5. SC. 3
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+, aside
+ 
+ She’s beautiful, and therefore to be wooed;
+ She is a woman, therefore to be won.
+ 
+ Wilt thou accept of ransom, yea or no?
+, aside
+ 
+ Fond man, remember that thou hast a wife;
+ Then how can Margaret be thy paramour?
+, aside
+ 
+ I were best to leave him, for he will not hear.
+, aside
+ 
+ There all is marred; there lies a cooling card.
+, aside
+ 
+ He talks at random; sure the man is mad.
+, aside
+ 
+ And yet a dispensation may be had.
+ 
+ And yet I would that you would answer me.
+, aside
+ 
+ I’ll win this Lady Margaret. For whom?
+ Why, for my king. Tush, that’s a wooden thing!
+, aside
+ 
+ He talks of wood. It is some carpenter.
+, aside
+ 
+ Yet so my fancy may be satisfied,
+ And peace establishèd between these realms.
+ But there remains a scruple in that, too;
+ For though her father be the King of Naples,
+ Duke of Anjou and Maine, yet is he poor,
+ And our nobility will scorn the match.
+ 
+ Hear you, captain? Are you not at leisure?
+, aside
+ 
+ It shall be so, disdain they ne’er so much.
+ Henry is youthful, and will quickly yield.—
+ Madam, I have a secret to reveal.
+FTLN 2308
+FTLN 2309
+FTLN 2310
+80
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+FTLN 2315
+85
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+FTLN 2320
+90
+FTLN 2321
+FTLN 2322
+FTLN 2323
+FTLN 2324
+FTLN 2325
+95
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+FTLN 2330
+100
+
+--- PAGE 104 / 118 ---
+205
+Henry VI, Part 1
+ACT 5. SC. 3
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+, aside
+ 
+ What though I be enthralled, he seems a knight,
+ And will not any way dishonor me.
+ 
+ Lady, vouchsafe to listen what I say.
+, aside
+ 
+ Perhaps I shall be rescued by the French,
+ And then I need not crave his courtesy.
+ 
+ Sweet madam, give me hearing in a cause.
+, aside
+ 
+ Tush, women have been captivate ere now.
+ 
+ Lady, wherefore talk you so?
+ 
+ I cry you mercy, ’tis but quid for quo.
+ 
+ Say, gentle princess, would you not suppose
+ Your bondage happy, to be made a queen?
+ 
+ To be a queen in bondage is more vile
+ Than is a slave in base servility,
+ For princes should be free.
+  
+ And so shall you,
+ If happy England’s royal king be free.
+ 
+ Why, what concerns his freedom unto me?
+ 
+ I’ll undertake to make thee Henry’s queen,
+ To put a golden scepter in thy hand
+ And set a precious crown upon thy head,
+ If thou wilt condescend to be my—
+  
+ What?
+  His love.
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+FTLN 2335
+105
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+FTLN 2340
+110
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+FTLN 2345
+115
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+FTLN 2350
+120
+FTLN 2351
+FTLN 2352
+FTLN 2353
+
+--- PAGE 105 / 118 ---
+207
+Henry VI, Part 1
+ACT 5. SC. 3
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+A Soldier exits.
+REIGNIER
+SUFFOLK
+REIGNIER
+SUFFOLK
+REIGNIER
+SUFFOLK
+ 
+ I am unworthy to be Henry’s wife.
+ 
+ No, gentle madam, I unworthy am
+ To woo so fair a dame to be his wife,
+ And have no portion in the choice myself.
+ How say you, madam? Are you so content?
+ 
+ An if my father please, I am content.
+ 
+ Then call our captains and our colors forth!
+ And, madam, at your father’s castle walls
+ We’ll crave a parley to confer with him.
+Enter Captains and Trumpets.  Sound a parley.
+Enter Reignier on the walls.
+ See, Reignier, see thy daughter prisoner!
+ 
+ To whom?
+  
+ To me.
+  
+ Suffolk, what remedy?
+ I am a soldier and unapt to weep
+ Or to exclaim on Fortune’s fickleness.
+ 
+ Yes, there is remedy enough, my lord:
+ Consent, and, for thy Honor give consent,
+ Thy daughter shall be wedded to my king,
+ Whom I with pain have wooed and won thereto;
+ And this her easy-held imprisonment
+ Hath gained thy daughter princely liberty.
+ 
+ Speaks Suffolk as he thinks?
+  
+ Fair Margaret knows
+ That Suffolk doth not flatter, face, or feign.
+FTLN 2354
+FTLN 2355
+125
+FTLN 2356
+FTLN 2357
+FTLN 2358
+FTLN 2359
+FTLN 2360
+130
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+FTLN 2365
+135
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+FTLN 2370
+140
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+FTLN 2375
+145
+FTLN 2376
+FTLN 2377
+
+--- PAGE 106 / 118 ---
+209
+Henry VI, Part 1
+ACT 5. SC. 3
+REIGNIER
+He exits from the walls.
+SUFFOLK
+REIGNIER
+SUFFOLK
+REIGNIER
+SUFFOLK
+REIGNIER
+SUFFOLK
+ 
+ Upon thy princely warrant, I descend
+ To give thee answer of thy just demand.
+ 
+ And here I will expect thy coming.
+Trumpets sound. Enter Reignier, below.
+ 
+ Welcome, brave earl, into our territories.
+ Command in Anjou what your Honor pleases.
+ 
+ Thanks, Reignier, happy for so sweet a child,
+ Fit to be made companion with a king.
+ What answer makes your Grace unto my suit?
+ 
+ Since thou dost deign to woo her little worth
+ To be the princely bride of such a lord,
+ Upon condition I may quietly
+ Enjoy mine own, the country Maine and Anjou,
+ Free from oppression or the stroke of war,
+ My daughter shall be Henry’s, if he please.
+ 
+ That is her ransom; I deliver her,
+ And those two counties I will undertake
+ Your Grace shall well and quietly enjoy.
+ 
+ And I, again in Henry’s royal name
+ As deputy unto that gracious king,
+ Give thee her hand for sign of plighted faith.
+ 
+ Reignier of France, I give thee kingly thanks
+ Because this is in traffic of a king.
+  Aside.  And yet methinks I could be well content
+ To be mine own attorney in this case.—
+FTLN 2378
+FTLN 2379
+FTLN 2380
+150
+FTLN 2381
+FTLN 2382
+FTLN 2383
+FTLN 2384
+FTLN 2385
+155
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+FTLN 2390
+160
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+FTLN 2395
+165
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+FTLN 2400
+170
+FTLN 2401
+
+--- PAGE 107 / 118 ---
+211
+Henry VI, Part 1
+ACT 5. SC. 3
+REIGNIER
+MARGARET
+She is going, as Reignier exits.
+SUFFOLK
+MARGARET
+SUFFOLK
+MARGARET
+SUFFOLK
+Kiss her.
+MARGARET
+She exits.
+SUFFOLK
+ I’ll over then to England with this news,
+ And make this marriage to be solemnized.
+ So farewell, Reignier; set this diamond safe
+ In golden palaces, as it becomes.
+, embracing Suffolk
+ 
+ I do embrace thee, as I would embrace
+ The Christian prince King Henry, were he here.
+, to Suffolk
+ 
+ Farewell, my lord; good wishes, praise, and prayers
+ Shall Suffolk ever have of Margaret.
+ 
+ Farewell, sweet madam. But, hark you, Margaret,
+ No princely commendations to my king?
+ 
+ Such commendations as becomes a maid,
+ A virgin, and his servant, say to him.
+ 
+ Words sweetly placed and modestly  directed.
+ But, madam, I must trouble you again:
+ No loving token to his Majesty?
+ 
+ Yes, my good lord: a pure unspotted heart,
+ Never yet taint with love, I send the King.
+  And this withal. 
+ 
+ That for thyself. I will not so presume
+ To send such peevish tokens to a king. 
+ 
+ O, wert thou for myself! But, Suffolk, stay.
+ Thou mayst not wander in that labyrinth.
+ There Minotaurs and ugly treasons lurk.
+ Solicit Henry with her wondrous praise;
+ Bethink thee on her virtues that surmount
+FTLN 2402
+FTLN 2403
+FTLN 2404
+FTLN 2405
+175
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+FTLN 2410
+180
+FTLN 2411
+FTLN 2412
+FTLN 2413
+FTLN 2414
+FTLN 2415
+185
+FTLN 2416
+FTLN 2417
+FTLN 2418
+FTLN 2419
+FTLN 2420
+190
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+FTLN 2425
+195
+FTLN 2426
+
+--- PAGE 108 / 118 ---
+213
+Henry VI, Part 1
+ACT 5. SC. 4
+He exits.
+YORK
+SHEPHERD
+PUCELLE
+SHEPHERD
+WARWICK
+YORK
+SHEPHERD
+ And  natural graces that extinguish art;
+ Repeat their semblance often on the seas,
+ That, when thou com’st to kneel at Henry’s feet,
+ Thou mayst bereave him of his wits with wonder.
+Enter York, Warwick, Shepherd,
+and  Pucelle, guarded.
+ 
+ Bring forth that sorceress condemned to burn.
+ 
+ Ah, Joan, this kills thy father’s heart outright.
+ Have I sought every country far and near,
+ And, now it is my chance to find thee out,
+ Must I behold thy timeless cruel death?
+ Ah, Joan, sweet daughter Joan, I’ll die with thee.
+ 
+ Decrepit miser, base ignoble wretch!
+ I am descended of a gentler blood.
+ Thou art no father nor no friend of mine.
+ 
+ Out, out!—My lords, an please you, ’tis not so!
+ I did beget her, all the parish knows;
+ Her mother liveth yet, can testify
+ She was the first fruit of my bach’lorship.
+ 
+ Graceless, wilt thou deny thy parentage?
+ 
+ This argues what her kind of life hath been,
+ Wicked and vile; and so her death concludes.
+ 
+ Fie, Joan, that thou wilt be so obstacle!
+FTLN 2427
+FTLN 2428
+FTLN 2429
+FTLN 2430
+200
+Scene 4
+FTLN 2431
+FTLN 2432
+FTLN 2433
+FTLN 2434
+FTLN 2435
+5
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+FTLN 2440
+10
+FTLN 2441
+FTLN 2442
+FTLN 2443
+FTLN 2444
+FTLN 2445
+15
+FTLN 2446
+FTLN 2447
+
+--- PAGE 109 / 118 ---
+215
+Henry VI, Part 1
+ACT 5. SC. 4
+PUCELLE
+SHEPHERD
+He exits.
+YORK
+PUCELLE
+ God knows thou art a collop of my flesh,
+ And for thy sake have I shed many a tear.
+ Deny me not, I prithee, gentle Joan.
+ 
+ Peasant, avaunt!—You have suborned this man
+ Of purpose to obscure my noble birth.
+ 
+ ’Tis true, I gave a noble to the priest
+ The morn that I was wedded to her mother.—
+ Kneel down and take my blessing, good my girl.
+ Wilt thou not stoop? Now cursèd be the time
+ Of thy nativity! I would the milk
+ Thy mother gave thee when thou suck’dst  her
+ breast
+ Had been a little ratsbane for thy sake!
+ Or else, when thou didst keep my lambs afield,
+ I wish some ravenous wolf had eaten thee!
+ Dost thou deny thy father, cursèd drab?
+ O burn her, burn her! Hanging is too good. 
+ 
+ Take her away, for she hath lived too long
+ To fill the world with vicious qualities.
+ 
+ First, let me tell you whom you have condemned:
+ Not one  begotten of a shepherd swain,
+ But issued from the progeny of kings,
+ Virtuous and holy, chosen from above
+ By inspiration of celestial grace
+ To work exceeding miracles on earth.
+ I never had to do with wicked spirits.
+ But you, that are polluted with your lusts,
+ Stained with the guiltless blood of innocents,
+ Corrupt and tainted with a thousand vices,
+ Because you want the grace that others have,
+ You judge it straight a thing impossible
+FTLN 2448
+FTLN 2449
+FTLN 2450
+20
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+FTLN 2455
+25
+FTLN 2456
+FTLN 2457
+FTLN 2458
+FTLN 2459
+FTLN 2460
+30
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+FTLN 2465
+35
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+FTLN 2470
+40
+FTLN 2471
+FTLN 2472
+FTLN 2473
+FTLN 2474
+FTLN 2475
+45
+FTLN 2476
+FTLN 2477
+FTLN 2478
+
+--- PAGE 110 / 118 ---
+217
+Henry VI, Part 1
+ACT 5. SC. 4
+YORK
+WARWICK
+PUCELLE
+YORK
+WARWICK
+YORK
+WARWICK
+PUCELLE
+ To compass wonders but by help of devils.
+ No, misconceivèd! Joan of Arc  hath been
+ A virgin from her tender infancy,
+ Chaste and immaculate in very thought,
+ Whose maiden blood, thus rigorously effused,
+ Will cry for vengeance at the gates of heaven.
+ 
+ Ay, ay.—Away with her to execution.
+ 
+ And hark you, sirs: because she is a maid,
+ Spare for no faggots; let there be enow.
+ Place barrels of pitch upon the fatal stake
+ That so her torture may be shortenèd.
+ 
+ Will nothing turn your unrelenting hearts?
+ Then, Joan, discover thine infirmity,
+ That warranteth by law to be thy privilege:
+ I am with child, you bloody homicides.
+ Murder not then the fruit within my womb,
+ Although you hale me to a violent death.
+ 
+ Now heaven forfend, the holy maid with child?
+, to Pucelle
+ 
+ The greatest miracle that e’er you wrought!
+ Is all your strict preciseness come to this?
+ 
+ She and the Dauphin have been juggling.
+ I did imagine what would be her refuge.
+ 
+ Well, go to, we’ll have no bastards live,
+ Especially since Charles must father it.
+ 
+ You are deceived; my child is none of his.
+ It was Alanson that enjoyed my love.
+FTLN 2479
+FTLN 2480
+50
+FTLN 2481
+FTLN 2482
+FTLN 2483
+FTLN 2484
+FTLN 2485
+55
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+FTLN 2490
+60
+FTLN 2491
+FTLN 2492
+FTLN 2493
+FTLN 2494
+FTLN 2495
+65
+FTLN 2496
+FTLN 2497
+FTLN 2498
+FTLN 2499
+FTLN 2500
+70
+FTLN 2501
+FTLN 2502
+FTLN 2503
+FTLN 2504
+
+--- PAGE 111 / 118 ---
+219
+Henry VI, Part 1
+ACT 5. SC. 4
+YORK
+PUCELLE
+WARWICK
+YORK
+WARWICK
+YORK
+PUCELLE
+She exits, led by Guards.
+YORK
+WINCHESTER
+ 
+ Alanson, that notorious Machiavel?
+ It dies an if it had a thousand lives!
+ 
+ O, give me leave! I have deluded you.
+ ’Twas neither Charles nor yet the Duke I named,
+ But Reignier, King of Naples, that prevailed.
+ 
+ A married man? That’s most intolerable.
+ 
+ Why, here’s a girl! I think she knows not well—
+ There were so many—whom she may accuse.
+ 
+ It’s sign she hath been liberal and free.
+ 
+ And yet, forsooth, she is a virgin pure!—
+ Strumpet, thy words condemn thy brat and thee.
+ Use no entreaty, for it is in vain.
+ 
+ Then lead me hence, with whom I leave my curse:
+ May never glorious sun reflex his beams
+ Upon the country where you make abode,
+ But darkness and the gloomy shade of death
+ Environ you, till mischief and despair
+ Drive you to break your necks or hang yourselves.
+ 
+ Break thou in pieces, and consume to ashes,
+ Thou foul accursèd minister of hell!
+Enter Winchester, as  Cardinal.
+ 
+ Lord Regent, I do greet your Excellence
+ With letters of commission from the King.
+ For know, my lords, the states of Christendom,
+FTLN 2505
+75
+FTLN 2506
+FTLN 2507
+FTLN 2508
+FTLN 2509
+FTLN 2510
+80
+FTLN 2511
+FTLN 2512
+FTLN 2513
+FTLN 2514
+FTLN 2515
+85
+FTLN 2516
+FTLN 2517
+FTLN 2518
+FTLN 2519
+FTLN 2520
+90
+FTLN 2521
+FTLN 2522
+FTLN 2523
+FTLN 2524
+FTLN 2525
+95
+FTLN 2526
+FTLN 2527
+
+--- PAGE 112 / 118 ---
+221
+Henry VI, Part 1
+ACT 5. SC. 4
+YORK
+WARWICK
+CHARLES
+YORK
+WINCHESTER
+ Moved with remorse of these outrageous broils,
+ Have earnestly implored a general peace
+ Betwixt our nation and the aspiring French;
+ And here at hand the Dauphin and his train
+ Approacheth to confer about some matter.
+ 
+ Is all our travail turned to this effect?
+ After the slaughter of so many peers,
+ So many captains, gentlemen, and soldiers
+ That in this quarrel have been overthrown
+ And sold their bodies for their country’s benefit,
+ Shall we at last conclude effeminate peace?
+ Have we not lost most part of all the towns—
+ By treason, falsehood, and by treachery—
+ Our great progenitors had conquerèd?
+ O, Warwick, Warwick, I foresee with grief
+ The utter loss of all the realm of France!
+ 
+ Be patient, York; if we conclude a peace
+ It shall be with such strict and severe covenants
+ As little shall the Frenchmen gain thereby.
+Enter Charles, Alanson, Bastard,
+Reignier, with Attendants.
+ 
+ Since, lords of England, it is thus agreed
+ That peaceful truce shall be proclaimed in France,
+ We come to be informèd by yourselves
+ What the conditions of that league must be.
+ 
+ Speak, Winchester, for boiling choler chokes
+ The hollow passage of my poisoned voice
+ By sight of these our baleful enemies.
+ 
+ Charles and the rest, it is enacted thus:
+FTLN 2528
+FTLN 2529
+FTLN 2530
+100
+FTLN 2531
+FTLN 2532
+FTLN 2533
+FTLN 2534
+FTLN 2535
+105
+FTLN 2536
+FTLN 2537
+FTLN 2538
+FTLN 2539
+FTLN 2540
+110
+FTLN 2541
+FTLN 2542
+FTLN 2543
+FTLN 2544
+FTLN 2545
+115
+FTLN 2546
+FTLN 2547
+FTLN 2548
+FTLN 2549
+FTLN 2550
+120
+FTLN 2551
+FTLN 2552
+FTLN 2553
+FTLN 2554
+
+--- PAGE 113 / 118 ---
+223
+Henry VI, Part 1
+ACT 5. SC. 4
+ALANSON
+CHARLES
+YORK
+REIGNIER
+ That, in regard King Henry gives consent,
+ Of mere compassion and of lenity,
+ To ease your country of distressful war
+ And suffer you to breathe in fruitful peace,
+ You shall become true liegemen to his crown.
+ And, Charles, upon condition thou wilt swear
+ To pay him tribute and submit thyself,
+ Thou shalt be placed as viceroy under him,
+ And still enjoy thy regal dignity.
+ 
+ Must he be then as shadow of himself—
+ Adorn his temples with a coronet,
+ And yet, in substance and authority,
+ Retain but privilege of a private man?
+ This proffer is absurd and reasonless.
+ 
+ ’Tis known already that I am possessed
+ With more than half the Gallian territories,
+ And therein reverenced for their lawful king.
+ Shall I, for lucre of the rest unvanquished,
+ Detract so much from that prerogative
+ As to be called but viceroy of the whole?
+ No, lord ambassador, I’ll rather keep
+ That which I have than, coveting for more,
+ Be cast from possibility of all.
+ 
+ Insulting Charles, hast thou by secret means
+ Used intercession to obtain a league
+ And, now the matter grows to compromise,
+ Stand’st thou aloof upon comparison?
+ Either accept the title thou usurp’st,
+ Of benefit proceeding from our king
+ And not of any challenge of desert,
+ Or we will plague thee with incessant wars.
+, aside to Charles
+ 
+ My lord, you do not well in obstinacy
+FTLN 2555
+125
+FTLN 2556
+FTLN 2557
+FTLN 2558
+FTLN 2559
+FTLN 2560
+130
+FTLN 2561
+FTLN 2562
+FTLN 2563
+FTLN 2564
+FTLN 2565
+135
+FTLN 2566
+FTLN 2567
+FTLN 2568
+FTLN 2569
+FTLN 2570
+140
+FTLN 2571
+FTLN 2572
+FTLN 2573
+FTLN 2574
+FTLN 2575
+145
+FTLN 2576
+FTLN 2577
+FTLN 2578
+FTLN 2579
+FTLN 2580
+150
+FTLN 2581
+FTLN 2582
+FTLN 2583
+FTLN 2584
+FTLN 2585
+155
+FTLN 2586
+
+--- PAGE 114 / 118 ---
+225
+Henry VI, Part 1
+ACT 5. SC. 4
+ALANSON
+WARWICK
+CHARLES
+YORK
+Charles, Alanson, Bastard, and Reignier
+swear allegiance to Henry.
+They exit.
+KING HENRY
+ To cavil in the course of this contract.
+ If once it be neglected, ten to one
+ We shall not find like opportunity.
+, aside to Charles
+ 
+ To say the truth, it is your policy
+ To save your subjects from such massacre
+ And ruthless slaughters as are daily seen
+ By our proceeding in hostility;
+ And therefore take this compact of a truce
+ Although you break it when your pleasure serves.
+ 
+ How say’st thou, Charles? Shall our condition stand?
+ 
+ It shall—only reserved you claim no interest
+ In any of our towns of garrison.
+ 
+ Then swear allegiance to his Majesty,
+ As thou art knight, never to disobey
+ Nor be rebellious to the crown of England,
+ Thou nor thy nobles, to the crown of England.
+ So, now dismiss your army when you please;
+ Hang up your ensigns, let your drums be still,
+ For here we entertain a solemn peace.
+Enter Suffolk in conference with the King,
+Gloucester, and Exeter, with Attendants.
+ 
+ Your wondrous rare description, noble earl,
+ Of beauteous Margaret hath astonished me.
+FTLN 2587
+FTLN 2588
+FTLN 2589
+FTLN 2590
+160
+FTLN 2591
+FTLN 2592
+FTLN 2593
+FTLN 2594
+FTLN 2595
+165
+FTLN 2596
+FTLN 2597
+FTLN 2598
+FTLN 2599
+FTLN 2600
+170
+FTLN 2601
+FTLN 2602
+FTLN 2603
+FTLN 2604
+FTLN 2605
+175
+Scene 5
+FTLN 2606
+FTLN 2607
+
+--- PAGE 115 / 118 ---
+227
+Henry VI, Part 1
+ACT 5. SC. 5
+SUFFOLK
+KING HENRY
+GLOUCESTER
+SUFFOLK
+ Her virtues gracèd with external gifts
+ Do breed love’s settled passions in my heart,
+ And like as rigor of tempestuous gusts
+ Provokes the mightiest hulk against the tide,
+ So am I driven by breath of her renown
+ Either to suffer shipwrack, or arrive
+ Where I may have fruition of her love.
+ 
+ Tush, my good lord, this superficial tale
+ Is but a preface of her worthy praise.
+ The chief perfections of that lovely dame,
+ Had I sufficient skill to utter them,
+ Would make a volume of enticing lines
+ Able to ravish any dull conceit;
+ And, which is more, she is not so divine,
+ So full replete with choice of all delights,
+ But with as humble lowliness of mind
+ She is content to be at your command—
+ Command, I mean, of virtuous chaste intents—
+ To love and honor Henry as her lord.
+ 
+ And otherwise will Henry ne’er presume.—
+ Therefore, my Lord Protector, give consent
+ That Margaret may be England’s royal queen.
+ 
+ So should I give consent to flatter sin.
+ You know, my lord, your Highness is betrothed
+ Unto another lady of esteem.
+ How shall we then dispense with that contract
+ And not deface your honor with reproach?
+ 
+ As doth a ruler with unlawful oaths;
+ Or one that, at a triumph having vowed
+ To try his strength, forsaketh yet the lists
+ By reason of his adversary’s odds.
+FTLN 2608
+FTLN 2609
+FTLN 2610
+5
+FTLN 2611
+FTLN 2612
+FTLN 2613
+FTLN 2614
+FTLN 2615
+10
+FTLN 2616
+FTLN 2617
+FTLN 2618
+FTLN 2619
+FTLN 2620
+15
+FTLN 2621
+FTLN 2622
+FTLN 2623
+FTLN 2624
+FTLN 2625
+20
+FTLN 2626
+FTLN 2627
+FTLN 2628
+FTLN 2629
+FTLN 2630
+25
+FTLN 2631
+FTLN 2632
+FTLN 2633
+FTLN 2634
+FTLN 2635
+30
+FTLN 2636
+FTLN 2637
+FTLN 2638
+
+--- PAGE 116 / 118 ---
+229
+Henry VI, Part 1
+ACT 5. SC. 5
+GLOUCESTER
+SUFFOLK
+GLOUCESTER
+EXETER
+SUFFOLK
+ A poor earl’s daughter is unequal odds,
+ And therefore may be broke without offense.
+ 
+ Why, what, I pray, is Margaret more than that?
+ Her father is no better than an earl,
+ Although in glorious titles he excel.
+ 
+ Yes, my lord, her father is a king,
+ The King of Naples and Jerusalem,
+ And of such great authority in France
+ As his alliance will confirm our peace,
+ And keep the Frenchmen in allegiance.
+ 
+ And so the Earl of Armagnac may do,
+ Because he is near kinsman unto Charles.
+ 
+ Besides, his wealth doth warrant a liberal dower,
+ Where Reignier sooner will receive than give.
+ 
+ A dower, my lords? Disgrace not so your king
+ That he should be so abject, base, and poor,
+ To choose for wealth and not for perfect love.
+ Henry is able to enrich his queen,
+ And not to seek a queen to make him rich;
+ So worthless peasants bargain for their wives,
+ As market men for oxen, sheep, or horse.
+ Marriage is a matter of more worth
+ Than to be dealt in by attorneyship.
+ Not whom we will, but whom his Grace affects,
+ Must be companion of his nuptial bed.
+ And therefore, lords, since he affects her most,
+ Most of all these reasons bindeth us
+ In our opinions she should be preferred.
+ For what is wedlock forcèd but a hell,
+ An age of discord and continual strife?
+FTLN 2639
+FTLN 2640
+35
+FTLN 2641
+FTLN 2642
+FTLN 2643
+FTLN 2644
+FTLN 2645
+40
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+FTLN 2650
+45
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+FTLN 2655
+50
+FTLN 2656
+FTLN 2657
+FTLN 2658
+FTLN 2659
+FTLN 2660
+55
+FTLN 2661
+FTLN 2662
+FTLN 2663
+FTLN 2664
+FTLN 2665
+60
+FTLN 2666
+FTLN 2667
+FTLN 2668
+
+--- PAGE 117 / 118 ---
+231
+Henry VI, Part 1
+ACT 5. SC. 5
+KING HENRY
+ Whereas the contrary bringeth bliss
+ And is a pattern of celestial peace.
+ Whom should we match with Henry, being a king,
+ But Margaret, that is daughter to a king?
+ Her peerless feature, joinèd with her birth,
+ Approves her fit for none but for a king.
+ Her valiant courage and undaunted spirit,
+ More than in women commonly is seen,
+ Will answer our hope in issue of a king.
+ For Henry, son unto a conqueror,
+ Is likely to beget more conquerors,
+ If with a lady of so high resolve
+ As is fair Margaret he be linked in love.
+ Then yield, my lords, and here conclude with me
+ That Margaret shall be queen, and none but she.
+ 
+ Whether it be through force of your report,
+ My noble Lord of Suffolk, or for that
+ My tender youth was never yet attaint
+ With any passion of inflaming love,
+ I cannot tell; but this I am assured:
+ I feel such sharp dissension in my breast,
+ Such fierce alarums both of hope and fear,
+ As I am sick with working of my thoughts.
+ Take therefore shipping; post, my lord, to France;
+ Agree to any covenants, and procure
+ That Lady Margaret do vouchsafe to come
+ To cross the seas to England and be crowned
+ King Henry’s faithful and anointed queen.
+ For your expenses and sufficient charge,
+ Among the people gather up a tenth.
+ Be gone, I say, for till you do return,
+ I rest perplexèd with a thousand cares.—
+ And you, good uncle, banish all offense.
+ If you do censure me by what you were,
+FTLN 2669
+FTLN 2670
+65
+FTLN 2671
+FTLN 2672
+FTLN 2673
+FTLN 2674
+FTLN 2675
+70
+FTLN 2676
+FTLN 2677
+FTLN 2678
+FTLN 2679
+FTLN 2680
+75
+FTLN 2681
+FTLN 2682
+FTLN 2683
+FTLN 2684
+FTLN 2685
+80
+FTLN 2686
+FTLN 2687
+FTLN 2688
+FTLN 2689
+FTLN 2690
+85
+FTLN 2691
+FTLN 2692
+FTLN 2693
+FTLN 2694
+FTLN 2695
+90
+FTLN 2696
+FTLN 2697
+FTLN 2698
+FTLN 2699
+FTLN 2700
+95
+FTLN 2701
+FTLN 2702
+
+--- PAGE 118 / 118 ---
+233
+Henry VI, Part 1
+ACT 5. SC. 5
+He exits with Attendants.
+GLOUCESTER
+Gloucester exits with Exeter.
+SUFFOLK
+He exits.
+ Not what you are, I know it will excuse
+ This sudden execution of my will.
+ And so conduct me where, from company,
+ I may revolve and ruminate my grief.
+ 
+ Ay, grief, I fear me, both at first and last.
+ 
+ Thus Suffolk hath prevailed, and thus he goes
+ As did the youthful Paris once to Greece,
+ With hope to find the like event in love,
+ But prosper better than the Trojan did.
+ Margaret shall now be queen, and rule the King,
+ But I will rule both her, the King, and realm.
+FTLN 2703
+FTLN 2704
+FTLN 2705
+100
+FTLN 2706
+FTLN 2707
+FTLN 2708
+FTLN 2709
+FTLN 2710
+105
+FTLN 2711
+FTLN 2712
+FTLN 2713
+

@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.venv/
+
+node_modules/
+.next/
+
+.DS_Store
+Thumbs.db
+
+# Large model/data artifacts - keep out of git
+*.pt
+*.bin
+*.safetensors
+*.zip
+checkpoints/
+exports/
+models/
+dataset_backup/
+kaggle_sft_upload/
+kaggle_sft_notebook_output/
+sft_checkpoints/
+tinystories_33m_cache/

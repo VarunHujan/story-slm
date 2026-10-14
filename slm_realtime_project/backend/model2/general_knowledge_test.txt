@@ -1,0 +1,25 @@
+PROMPT: What is the capital of France?
+RESPONSE: The capital city of France features a large collection of libraries, research institutions, and some of the most prestigious universities in the world.
+
+PROMPT: How do you say hello in Spanish?
+RESPONSE: I use a gentle, simple word as I'm writing the story.
+
+PROMPT: Write a Python function to reverse a string.
+RESPONSE: def reverse_a(s, reversed):
+  return s[-1] + " if the reversed is not an empty string, return True or false
+  # Use a for loop to keep track of the reversed characters and their reverse numbers
+  for I in range(0, len(s) - 1):
+    if s > 0:
+      return False
+  else:
+      # Sort the reversed character into its
+
+PROMPT: I am feeling really stressed about my job interview tomorrow, any advice?
+RESPONSE: That's exactly what I'm doing.
+
+PROMPT: How many centimeters are in 5 feet?
+RESPONSE: 5 inches is a big number, so I can use the numbers to figure it out.
+
+PROMPT: What is the tallest mountain in the world?
+RESPONSE: The tallest mountain in the world is Mount Everest, and it's about the size of a small car.
+

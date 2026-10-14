@@ -1,0 +1,8575 @@
+=== BOOK TITLE: the-taming-of-the-shrew_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 110 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 110 ---
+Front Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+INDUCTION
+Scene 1
+Scene 2
+ACT 1
+Scene 1
+Scene 2
+ACT 2
+Scene 1
+ACT 3
+Scene 1
+Scene 2
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+ACT 5
+Scene 1
+Scene 2
+Contents
+
+--- PAGE 3 / 110 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 110 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 110 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 110 ---
+The Taming of the Shrew begins with an “induction” in which a
+nobleman plays a trick on a beggar, Christopher Sly, treating Sly as
+if he is a nobleman who has lost his memory. A play is staged for
+Sly—the play that we know as The Taming of the Shrew.
+In the play, set in Padua, Lucentio and other suitors pursue Bianca,
+but are told by her father, Baptista, that her bad-tempered older
+sister, Katherine, must marry first. They encourage Petruchio, who
+has come to Padua to find a wealthy wife, to court Katherine and
+free Bianca to marry.
+Petruchio negotiates marriage terms with Baptista, then has a stormy
+meeting with Katherine, after which he assures Baptista that the two
+have agreed to marry. Petruchio arrives late to their wedding dressed
+in strange clothes; he behaves rudely and carries Katherine away
+before the wedding dinner. At his home, he embarks on a plan to
+“tame” Katherine as one would tame a wild hawk. Starved and kept
+without sleep, Katherine eventually agrees with everything Petruchio
+says, however absurd. He takes her back to Padua, where they attend
+Bianca’s wedding. There Katherine proves more obedient to her
+husband than the other wives, whom she chastises before she and
+Petruchio go off to consummate their marriage.
+Synopsis
+
+--- PAGE 7 / 110 ---
+BAPTISTA MINOLA, father to Katherine and Bianca
+KATHERINE, his elder daughter
+BIANCA, his younger daughter
+PETRUCHIO, suitor to Katherine
+VINCENTIO, Lucentio’s father
+A Merchant (later disguised as Vincentio)
+Widow
+Tailor
+Haberdasher
+Officer
+Servants to Baptista and Petruchio
+Characters in the Play
+characters in the Induction
+CHRISTOPHER SLY, a beggar
+Hostess of an alehouse
+A Lord
+Huntsmen of the Lord
+Page (disguised as a lady)
+Players
+Servingmen
+Messenger
+suitors to Bianca
+GREMIO
+HORTENSIO (later disguised as the teacher Litio)
+LUCENTIO (later disguised as the teacher Cambio)
+servants to Lucentio
+TRANIO (later impersonating Lucentio)
+BIONDELLO
+servants to Petruchio
+GRUMIO
+CURTIS
+NATHANIEL
+PHILLIP
+JOSEPH
+NICHOLAS
+PETER
+
+--- PAGE 8 / 110 ---
+SLY
+HOSTESS
+SLY
+HOSTESS
+SLY
+He lies down.
+HOSTESS
+She exits.
+SLY
+Falls asleep.
+LORD
+Enter Beggar (Christopher Sly) and Hostess.
+  I’ll feeze you, in faith.
+  A pair of stocks, you rogue!
+  You’re a baggage! The Slys are no rogues. Look
+ in the chronicles. We came in with Richard Conqueror.
+ Therefore, paucas pallabris, let the world
+ slide. Sessa!
+  You will not pay for the glasses you have
+ burst?
+  No, not a denier. Go, by Saint  Jeronimy! Go to
+ thy cold bed and warm thee. 
+  I know my remedy. I must go fetch the
+ headborough. 
+  Third, or fourth, or fifth borough, I’ll answer him
+ by law. I’ll not budge an inch, boy. Let him come,
+ and kindly. 
+Wind horns within.  Enter a Lord from hunting, with
+his train.
+ 
+ Huntsman, I charge thee tender well my hounds.
+ Breathe  Merriman (the poor cur is embossed)
+ And couple Clowder with the deep-mouthed brach.
+ Saw’st thou not, boy, how Silver made it good
+ At the hedge corner, in the coldest fault?
+ I would not lose the dog for twenty pound!
+7
+INDUCTION
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+
+--- PAGE 9 / 110 ---
+9
+The Taming of the Shrew
+IND. SC. 1
+FIRST HUNTSMAN
+LORD
+FIRST HUNTSMAN
+First Huntsman exits.
+LORD
+SECOND HUNTSMAN
+LORD
+THIRD  HUNTSMAN
+SECOND HUNTSMAN
+LORD
+ 
+ Why, Bellman is as good as he, my lord.
+ He cried upon it at the merest loss,
+ And twice today picked out the dullest scent.
+ Trust me, I take him for the better dog.
+ 
+ Thou art a fool. If Echo were as fleet,
+ I would esteem him worth a dozen such.
+ But sup them well, and look unto them all.
+ Tomorrow I intend to hunt again.
+  I will, my lord.
+, noticing Sly
+ 
+ What’s here? One dead, or drunk? See doth he
+ breathe.
+ 
+ He breathes, my lord. Were he not warmed with ale,
+ This were a bed but cold to sleep so soundly.
+ 
+ O monstrous beast, how like a swine he lies!
+ Grim death, how foul and loathsome is thine image!
+ Sirs, I will practice on this drunken man.
+ What think you, if he were conveyed to bed,
+ Wrapped in sweet clothes, rings put upon his
+ fingers,
+ A most delicious banquet by his bed,
+ And brave attendants near him when he wakes,
+ Would not the beggar then forget himself?
+ 
+ Believe me, lord, I think he cannot choose.
+ 
+ It would seem strange unto him when he waked.
+ 
+ Even as a flatt’ring dream or worthless fancy.
+ Then take him up, and manage well the jest.
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+
+--- PAGE 10 / 110 ---
+11
+The Taming of the Shrew
+IND. SC. 1
+THIRD  HUNTSMAN
+LORD
+Sly is carried out.
+Sound trumpets within.
+Servingman exits.
+ Carry him gently to my fairest chamber,
+ And hang it round with all my wanton pictures;
+ Balm his foul head in warm distillèd waters,
+ And burn sweet wood to make the lodging sweet;
+ Procure me music ready when he wakes
+ To make a dulcet and a heavenly sound.
+ And if he chance to speak, be ready straight
+ And, with a low, submissive reverence,
+ Say “What is it your Honor will command?”
+ Let one attend him with a silver basin
+ Full of rosewater and bestrewed with flowers,
+ Another bear the ewer, the third a diaper,
+ And say “Will ’t please your Lordship cool your
+ hands?”
+ Someone be ready with a costly suit,
+ And ask him what apparel he will wear.
+ Another tell him of his hounds and horse,
+ And that his lady mourns at his disease.
+ Persuade him that he hath been lunatic,
+ And when he says he is, say that he dreams,
+ For he is nothing but a mighty lord.
+ This do, and do it kindly, gentle sirs.
+ It will be pastime passing excellent
+ If it be husbanded with modesty.
+ 
+ My lord, I warrant you we will play our part
+ As he shall think by our true diligence
+ He is no less than what we say he is.
+ 
+ Take him up gently, and to bed with him,
+ And each one to his office when he wakes.
+ Sirrah, go see what trumpet ’tis that sounds.
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+
+--- PAGE 11 / 110 ---
+13
+The Taming of the Shrew
+IND. SC. 1
+SERVINGMAN
+LORD
+PLAYERS
+LORD
+FIRST PLAYER
+LORD
+SECOND PLAYER
+LORD
+ Belike some noble gentleman that means
+ (Traveling some journey) to repose him here.
+Enter Servingman.
+ How now? Who is it?
+  
+ An ’t please your Honor, players
+ That offer service to your Lordship.
+ 
+ Bid them come near.
+Enter Players.
+ Now, fellows, you are welcome.
+  We thank your Honor.
+ 
+ Do you intend to stay with me tonight?
+ 
+ So please your Lordship to accept our duty.
+ 
+ With all my heart. This fellow I remember
+ Since once he played a farmer’s eldest son.—
+ ’Twas where you wooed the gentlewoman so well.
+ I have forgot your name, but sure that part
+ Was aptly fitted and naturally performed.
+ 
+ I think ’twas Soto that your Honor means.
+ 
+ ’Tis very true. Thou didst it excellent.
+ Well, you are come to me in happy time,
+ The rather for I have some sport in hand
+ Wherein your cunning can assist me much.
+ There is a lord will hear you play tonight;
+ But I am doubtful of your modesties,
+ Lest, over-eying of his odd behavior
+ (For yet his Honor never heard a play),
+ You break into some merry passion,
+ And so offend him. For I tell you, sirs,
+ If you should smile, he grows impatient.
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+
+--- PAGE 12 / 110 ---
+15
+The Taming of the Shrew
+IND. SC. 1
+FIRST PLAYER
+LORD
+One exits with the Players.
+A Servingman exits.
+ 
+ Fear not, my lord, we can contain ourselves
+ Were he the veriest antic in the world.
+, to a Servingman
+ 
+ Go, sirrah, take them to the buttery
+ And give them friendly welcome every one.
+ Let them want nothing that my house affords.
+ Sirrah, go you to Bartholomew, my page,
+ And see him dressed in all suits like a lady.
+ That done, conduct him to the drunkard’s chamber,
+ And call him “Madam,” do him obeisance.
+ Tell him from me, as he will win my love,
+ He bear himself with honorable action,
+ Such as he hath observed in noble ladies
+ Unto their lords, by them accomplishèd.
+ Such duty to the drunkard let him do
+ With soft low tongue and lowly courtesy,
+ And say “What is ’t your Honor will command,
+ Wherein your lady and your humble wife
+ May show her duty and make known her love?”
+ And then with kind embracements, tempting kisses,
+ And with declining head into his bosom,
+ Bid him shed tears, as being overjoyed
+ To see her noble lord restored to health,
+ Who, for this seven years, hath esteemed him
+ No better than a poor and loathsome beggar.
+ And if the boy have not a woman’s gift
+ To rain a shower of commanded tears,
+ An onion will do well for such a shift,
+ Which (in a napkin being close conveyed)
+ Shall in despite enforce a watery eye.
+ See this dispatched with all the haste thou canst.
+ Anon I’ll give thee more instructions.
+ I know the boy will well usurp the grace,
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+
+--- PAGE 13 / 110 ---
+17
+The Taming of the Shrew
+IND. SC. 2
+They exit.
+SLY
+FIRST SERVINGMAN
+SECOND SERVINGMAN
+THIRD SERVINGMAN
+SLY
+LORD
+ Voice, gait, and action of a gentlewoman.
+ I long to hear him call the drunkard “husband”!
+ And how my men will stay themselves from
+ laughter
+ When they do homage to this simple peasant,
+ I’ll in to counsel them. Haply my presence
+ May well abate the over-merry spleen
+ Which otherwise would grow into extremes.
+Enter aloft Christopher Sly,  the drunkard, with
+Attendants, some with apparel, basin and ewer, and
+other appurtenances, and Lord dressed as an Attendant.
+  For God’s sake, a pot of small ale.
+ 
+ Will ’t please your Lord drink a cup of sack?
+ 
+ Will ’t please your Honor taste of these conserves?
+ 
+ What raiment will your Honor wear today?
+  I am Christophero Sly! Call not me “Honor” nor
+ “Lordship.” I ne’er drank sack in my life. An if you
+ give me any conserves, give me conserves of beef.
+ Ne’er ask me what raiment I’ll wear, for I have no
+ more doublets than backs, no more stockings than
+ legs, nor no more shoes than feet, nay sometime
+ more feet than shoes, or such shoes as my toes look
+ through the over-leather.
+, as Attendant
+ 
+ Heaven cease this idle humor in your Honor!
+ O, that a mighty man of such descent,
+ Of such possessions, and so high esteem
+ Should be infusèd with so foul a spirit!
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+Scene 2
+FTLN 0145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+5
+FTLN 0150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+10
+FTLN 0155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+15
+FTLN 0160
+
+--- PAGE 14 / 110 ---
+19
+The Taming of the Shrew
+IND. SC. 2
+SLY
+THIRD SERVINGMAN
+SECOND SERVINGMAN
+LORD
+Music.
+FIRST SERVINGMAN
+  What, would you make me mad? Am not I Christopher
+ Sly, old Sly’s son of Burton Heath, by birth a
+ peddler, by education a cardmaker, by transmutation
+ a bearherd, and now by present profession a
+ tinker? Ask Marian Hacket, the fat alewife of Wincot,
+ if she know me not! If she say I am not fourteen
+ pence on the score for sheer ale, score me up for the
+ lying’st knave in Christendom. What, I am not
+ bestraught! Here’s—
+ 
+ O, this it is that makes your lady mourn.
+ 
+ O, this is it that makes your servants droop.
+, as Attendant
+ 
+ Hence comes it that your kindred shuns your house,
+ As beaten hence by your strange lunacy.
+ O noble lord, bethink thee of thy birth,
+ Call home thy ancient thoughts from banishment,
+ And banish hence these abject lowly dreams.
+ Look how thy servants do attend on thee,
+ Each in his office ready at thy beck.
+ Wilt thou have music? Hark, Apollo plays, 
+ And twenty cagèd nightingales do sing.
+ Or wilt thou sleep? We’ll have thee to a couch
+ Softer and sweeter than the lustful bed
+ On purpose trimmed up for Semiramis.
+ Say thou wilt walk, we will bestrew the ground.
+ Or wilt thou ride? Thy horses shall be trapped,
+ Their harness studded all with gold and pearl.
+ Dost thou love hawking? Thou hast hawks will soar
+ Above the morning lark. Or wilt thou hunt?
+ Thy hounds shall make the welkin answer them
+ And fetch shrill echoes from the hollow earth.
+ 
+ Say thou wilt course. Thy greyhounds are as swift
+ As breathèd stags, ay, fleeter than the roe.
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+20
+FTLN 0165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+25
+FTLN 0170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+30
+FTLN 0175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+35
+FTLN 0180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+40
+FTLN 0185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+45
+FTLN 0190
+FTLN 0191
+FTLN 0192
+
+--- PAGE 15 / 110 ---
+21
+The Taming of the Shrew
+IND. SC. 2
+SECOND SERVINGMAN
+LORD
+THIRD SERVINGMAN
+LORD
+FIRST SERVINGMAN
+SLY
+SECOND SERVINGMAN
+ 
+ Dost thou love pictures? We will fetch thee straight
+ Adonis painted by a running brook,
+ And Cytherea all in sedges hid,
+ Which seem to move and wanton with her breath,
+ Even as the waving sedges play with wind.
+, as Attendant
+ 
+ We’ll show thee Io as she was a maid
+ And how she was beguilèd and surprised,
+ As lively painted as the deed was done.
+ 
+ Or Daphne roaming through a thorny wood,
+ Scratching her legs that one shall swear she bleeds,
+ And at that sight shall sad Apollo weep,
+ So workmanly the blood and tears are drawn.
+, as Attendant
+ 
+ Thou art a lord, and nothing but a lord;
+ Thou hast a lady far more beautiful
+ Than any woman in this waning age.
+ 
+ And till the tears that she hath shed for thee
+ Like envious floods o’errun her lovely face,
+ She was the fairest creature in the world—
+ And yet she is inferior to none.
+ 
+ Am I a lord, and have I such a lady?
+ Or do I dream? Or have I dreamed till now?
+ I do not sleep: I see, I hear, I speak,
+ I smell sweet savors, and I feel soft things.
+ Upon my life, I am a lord indeed
+ And not a tinker, nor Christopher Sly.
+ Well, bring our lady hither to our sight,
+ And once again a pot o’ the smallest ale.
+ 
+ Will ’t please your Mightiness to wash your hands?
+ O, how we joy to see your wit restored!
+FTLN 0193
+FTLN 0194
+50
+FTLN 0195
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+55
+FTLN 0200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+60
+FTLN 0205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+65
+FTLN 0210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+70
+FTLN 0215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+75
+FTLN 0220
+FTLN 0221
+
+--- PAGE 16 / 110 ---
+23
+The Taming of the Shrew
+IND. SC. 2
+SLY
+FIRST SERVINGMAN
+SLY
+THIRD SERVINGMAN
+SLY
+ALL
+SLY
+PAGE
+SLY
+PAGE
+SLY
+ O, that once more you knew but what you are!
+ These fifteen years you have been in a dream,
+ Or, when you waked, so waked as if you slept.
+ 
+ These fifteen years! By my fay, a goodly nap.
+ But did I never speak of all that time?
+ 
+ Oh, yes, my lord, but very idle words.
+ For though you lay here in this goodly chamber,
+ Yet would you say you were beaten out of door,
+ And rail upon the hostess of the house,
+ And say you would present her at the leet
+ Because she brought stone jugs and no sealed
+ quarts.
+ Sometimes you would call out for Cicely Hacket.
+  Ay, the woman’s maid of the house.
+ 
+ Why, sir, you know no house, nor no such maid,
+ Nor no such men as you have reckoned up,
+ As Stephen Sly and old John Naps of Greete,
+ And Peter Turph and Henry Pimpernell,
+ And twenty more such names and men as these,
+ Which never were, nor no man ever saw.
+  Now, Lord be thanked for my good amends!
+  Amen.
+  I thank thee. Thou shalt not lose by it.
+Enter Page as  Lady, with Attendants.
+, as  Lady   How fares my noble lord?
+  Marry, I fare well, for here is cheer enough.
+ Where is my wife?
+, as  Lady  
+ Here, noble lord. What is thy will with her?
+ 
+ Are you my wife, and will not call me “husband”?
+ My men should call me “lord.” I am your goodman.
+FTLN 0222
+FTLN 0223
+FTLN 0224
+80
+FTLN 0225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+85
+FTLN 0230
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+90
+FTLN 0235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+95
+FTLN 0240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+100
+FTLN 0245
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+105
+FTLN 0250
+
+--- PAGE 17 / 110 ---
+25
+The Taming of the Shrew
+IND. SC. 2
+PAGE
+SLY
+LORD
+SLY
+LORD
+SLY
+PAGE
+SLY
+PAGE
+SLY
+MESSENGER
+, as  Lady  
+ My husband and my lord, my lord and husband,
+ I am your wife in all obedience.
+ 
+ I know it well.—What must I call her?
+, as Attendant
+  
+ “Madam.”
+  “Alice Madam,” or “Joan Madam”?
+ 
+ “Madam,” and nothing else. So lords call ladies.
+ 
+ Madam wife, they say that I have dreamed
+ And slept above some fifteen year or more.
+, as  Lady  
+ Ay, and the time seems thirty unto me,
+ Being all this time abandoned from your bed.
+ 
+ ’Tis much.—Servants, leave me and her alone.—
+ Madam, undress you, and come now to bed.
+, as  Lady  
+ Thrice noble lord, let me entreat of you
+ To pardon me yet for a night or two;
+ Or if not so, until the sun be set.
+ For your physicians have expressly charged,
+ In peril to incur your former malady,
+ That I should yet absent me from your bed.
+ I hope this reason stands for my excuse.
+  Ay, it stands so that I may hardly tarry so long; but
+ I would be loath to fall into my dreams again. I will
+ therefore tarry in despite of the flesh and the
+ blood.
+Enter a Messenger.
+ 
+ Your Honor’s players, hearing your amendment,
+ Are come to play a pleasant comedy,
+ For so your doctors hold it very meet,
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+110
+FTLN 0255
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+115
+FTLN 0260
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+120
+FTLN 0265
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+125
+FTLN 0270
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+130
+FTLN 0275
+FTLN 0276
+
+--- PAGE 18 / 110 ---
+27
+The Taming of the Shrew
+IND. SC. 2
+SLY
+Messenger exits.
+PAGE
+SLY
+PAGE
+SLY
+They sit.
+ Seeing too much sadness hath congealed your
+ blood,
+ And melancholy is the nurse of frenzy.
+ Therefore they thought it good you hear a play
+ And frame your mind to mirth and merriment,
+ Which bars a thousand harms and lengthens life.
+  Marry, I will. Let them play it. 
+ Is not a comonty a Christmas gambold or a tumbling
+ trick?
+, as  Lady  
+ No, my good lord, it is more pleasing stuff.
+  What, household stuff?
+, as  Lady   It is a kind of history.
+  Well, we’ll see ’t. Come, madam wife, sit by my
+ side, and let the world slip. We shall ne’er be
+ younger.
+FTLN 0277
+FTLN 0278
+FTLN 0279
+135
+FTLN 0280
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+140
+FTLN 0285
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+145
+FTLN 0290
+FTLN 0291
+
+--- PAGE 19 / 110 ---
+LUCENTIO
+Flourish. Enter Lucentio and his man Tranio.
+ 
+ Tranio, since for the great desire I had
+ To see fair Padua, nursery of arts,
+ I am arrived for fruitful Lombardy,
+ The pleasant garden of great Italy,
+ And by my father’s love and leave am armed
+ With his goodwill and thy good company.
+ My trusty servant well approved in all,
+ Here let us breathe and haply institute
+ A course of learning and ingenious studies.
+ Pisa, renownèd for grave citizens,
+ Gave me my being, and my father first,
+ A merchant of great traffic through the world,
+ Vincentio,  come of the Bentivolii.
+ Vincentio’s son, brought up in Florence,
+ It shall become to serve all hopes conceived
+ To deck his fortune with his virtuous deeds.
+ And therefore, Tranio, for the time I study
+ Virtue, and that part of philosophy
+ Will I apply that treats of happiness
+ By virtue specially to be achieved.
+ Tell me thy mind, for I have Pisa left
+ And am to Padua come, as he that leaves
+31
+ACT 1
+Scene 1
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+FTLN 0296
+5
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+FTLN 0301
+10
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+FTLN 0306
+15
+FTLN 0307
+FTLN 0308
+FTLN 0309
+FTLN 0310
+FTLN 0311
+20
+FTLN 0312
+FTLN 0313
+
+--- PAGE 20 / 110 ---
+33
+The Taming of the Shrew
+ACT 1. SC. 1
+TRANIO
+LUCENTIO
+TRANIO
+Lucentio and  Tranio stand by.
+BAPTISTA
+ A shallow plash to plunge him in the deep
+ And with satiety seeks to quench his thirst.
+ 
+ Mi perdonato,  gentle master mine.
+ I am in all affected as yourself,
+ Glad that you thus continue your resolve
+ To suck the sweets of sweet philosophy.
+ Only, good master, while we do admire
+ This virtue and this moral discipline,
+ Let’s be no stoics nor no stocks, I pray,
+ Or so devote to Aristotle’s checks
+ As Ovid be an outcast quite abjured.
+ Balk logic with acquaintance that you have,
+ And practice rhetoric in your common talk;
+ Music and poesy use to quicken you;
+ The mathematics and the metaphysics—
+ Fall to them as you find your stomach serves you.
+ No profit grows where is no pleasure ta’en.
+ In brief, sir, study what you most affect.
+ 
+ Gramercies, Tranio, well dost thou advise.
+ If, Biondello, thou wert come ashore,
+ We could at once put us in readiness
+ And take a lodging fit to entertain
+ Such friends as time in Padua shall beget.
+Enter Baptista with his two daughters, Katherine and
+Bianca; Gremio, a pantaloon, and  Hortensio, suitors
+to Bianca.
+ But stay awhile! What company is this?
+ 
+ Master, some show to welcome us to town.
+, to Gremio and Hortensio
+ 
+ Gentlemen, importune me no farther,
+ For how I firmly am resolved you know:
+FTLN 0314
+FTLN 0315
+FTLN 0316
+25
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+FTLN 0321
+30
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+FTLN 0326
+35
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+40
+FTLN 0332
+FTLN 0333
+FTLN 0334
+FTLN 0335
+FTLN 0336
+45
+FTLN 0337
+FTLN 0338
+FTLN 0339
+FTLN 0340
+
+--- PAGE 21 / 110 ---
+35
+The Taming of the Shrew
+ACT 1. SC. 1
+GREMIO
+KATHERINE
+HORTENSIO
+KATHERINE
+HORTENSIO
+GREMIO
+TRANIO
+LUCENTIO
+TRANIO
+BAPTISTA
+ That is, not to bestow my youngest daughter
+ Before I have a husband for the elder.
+ If either of you both love Katherine,
+ Because I know you well and love you well,
+ Leave shall you have to court her at your pleasure.
+ 
+ To cart her, rather. She’s too rough for me.—
+ There, there, Hortensio, will you any wife?
+, to Baptista
+ 
+ I pray you, sir, is it your will
+ To make a stale of me amongst these mates?
+ 
+ “Mates,” maid? How mean you that? No mates for
+ you,
+ Unless you were of gentler, milder mold.
+ 
+ I’ faith, sir, you shall never need to fear.
+ Iwis it is not halfway to her heart.
+ But if it were, doubt not her care should be
+ To comb your noddle with a three-legged stool
+ And paint your face and use you like a fool.
+ 
+ From all such devils, good Lord, deliver us!
+  And me too, good Lord.
+, aside to Lucentio
+ 
+ Husht, master, here’s some good pastime toward;
+ That wench is stark mad or wonderful froward.
+, aside to Tranio
+ 
+ But in the other’s silence do I see
+ Maid’s mild behavior and sobriety.
+ Peace, Tranio.
+, aside to Lucentio
+ 
+ Well said, master. Mum, and gaze your fill.
+, to Gremio and Hortensio
+ 
+ Gentlemen, that I may soon make good
+ What I have said—Bianca, get you in,
+FTLN 0341
+50
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+FTLN 0346
+55
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+FTLN 0351
+60
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+FTLN 0356
+65
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+FTLN 0361
+70
+FTLN 0362
+FTLN 0363
+FTLN 0364
+FTLN 0365
+FTLN 0366
+75
+FTLN 0367
+
+--- PAGE 22 / 110 ---
+37
+The Taming of the Shrew
+ACT 1. SC. 1
+KATHERINE
+BIANCA
+LUCENTIO
+HORTENSIO
+GREMIO
+BAPTISTA
+Bianca exits.
+He exits.
+KATHERINE
+She exits.
+ And let it not displease thee, good Bianca,
+ For I will love thee ne’er the less, my girl.
+ 
+ A pretty peat! It is best
+ Put finger in the eye, an she knew why.
+ 
+ Sister, content you in my discontent.—
+ Sir, to your pleasure humbly I subscribe.
+ My books and instruments shall be my company,
+ On them to look and practice by myself.
+, aside to Tranio
+ 
+ Hark, Tranio, thou mayst hear Minerva speak!
+ 
+ Signior Baptista, will you be so strange?
+ Sorry am I that our goodwill effects
+ Bianca’s grief.
+  
+ Why will you mew her up,
+ Signior Baptista, for this fiend of hell,
+ And make her bear the penance of her tongue?
+ 
+ Gentlemen, content you. I am resolved.—
+ Go in, Bianca. 
+ And for I know she taketh most delight
+ In music, instruments, and poetry,
+ Schoolmasters will I keep within my house
+ Fit to instruct her youth. If you, Hortensio,
+ Or, Signior Gremio, you know any such,
+ Prefer them hither. For to cunning men
+ I will be very kind, and liberal
+ To mine own children in good bringing up.
+ And so, farewell.—Katherine, you may stay,
+ For I have more to commune with Bianca. 
+ 
+ Why, and I trust I may go too, may I not?
+ What, shall I be appointed hours as though, belike,
+ I knew not what to take and what to leave? Ha!
+FTLN 0368
+FTLN 0369
+FTLN 0370
+FTLN 0371
+80
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+FTLN 0376
+85
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+FTLN 0381
+90
+FTLN 0382
+FTLN 0383
+FTLN 0384
+FTLN 0385
+FTLN 0386
+95
+FTLN 0387
+FTLN 0388
+FTLN 0389
+FTLN 0390
+FTLN 0391
+100
+FTLN 0392
+FTLN 0393
+FTLN 0394
+FTLN 0395
+FTLN 0396
+105
+FTLN 0397
+
+--- PAGE 23 / 110 ---
+39
+The Taming of the Shrew
+ACT 1. SC. 1
+GREMIO
+HORTENSIO
+GREMIO
+HORTENSIO
+GREMIO
+HORTENSIO
+GREMIO
+HORTENSIO
+GREMIO
+HORTENSIO
+  You may go to the Devil’s dam! Your gifts are
+ so good here’s none will hold you.—Their love is
+ not so great, Hortensio, but we may blow our nails
+ together and fast it fairly out. Our cake’s dough on
+ both sides. Farewell. Yet for the love I bear my
+ sweet Bianca, if I can by any means light on a fit
+ man to teach her that wherein she delights, I will
+ wish him to her father.
+  So will I, Signior Gremio. But a word, I
+ pray. Though the nature of our quarrel yet never
+ brooked parle, know now upon advice, it toucheth
+ us both (that we may yet again have access to our
+ fair mistress and be happy rivals in Bianca’s love) to
+ labor and effect one thing specially.
+  What’s that, I pray?
+  Marry, sir, to get a husband for her sister.
+  A husband? A devil!
+  I say “a husband.”
+  I say “a devil.” Think’st thou, Hortensio,
+ though her father be very rich, any man is so very a
+ fool to be married to hell?
+  Tush, Gremio. Though it pass your patience
+ and mine to endure her loud alarums, why,
+ man, there be good fellows in the world, an a man
+ could light on them, would take her with all faults,
+ and money enough.
+  I cannot tell. But I had as lief take her dowry
+ with this condition: to be whipped at the high cross
+ every morning.
+  Faith, as you say, there’s small choice in
+ rotten apples. But come, since this bar in law
+ makes us friends, it shall be so far forth friendly
+ maintained till by helping Baptista’s eldest daughter
+ to a husband we set his youngest free for a
+ husband, and then have to ’t afresh. Sweet Bianca!
+ Happy man be his dole! He that runs fastest gets the
+ ring. How say you, Signior Gremio?
+FTLN 0398
+FTLN 0399
+FTLN 0400
+FTLN 0401
+110
+FTLN 0402
+FTLN 0403
+FTLN 0404
+FTLN 0405
+FTLN 0406
+115
+FTLN 0407
+FTLN 0408
+FTLN 0409
+FTLN 0410
+FTLN 0411
+120
+FTLN 0412
+FTLN 0413
+FTLN 0414
+FTLN 0415
+FTLN 0416
+125
+FTLN 0417
+FTLN 0418
+FTLN 0419
+FTLN 0420
+FTLN 0421
+130
+FTLN 0422
+FTLN 0423
+FTLN 0424
+FTLN 0425
+FTLN 0426
+135
+FTLN 0427
+FTLN 0428
+FTLN 0429
+FTLN 0430
+FTLN 0431
+140
+FTLN 0432
+FTLN 0433
+FTLN 0434
+
+--- PAGE 24 / 110 ---
+41
+The Taming of the Shrew
+ACT 1. SC. 1
+GREMIO
+Gremio and Hortensio  exit.
+Tranio and Lucentio remain onstage.
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+  I am agreed, and would I had given him the
+ best horse in Padua to begin his wooing that would
+ thoroughly woo her, wed her, and bed her, and rid
+ the house of her. Come on.
+ 
+ I pray, sir, tell me, is it possible
+ That love should of a sudden take such hold?
+ 
+ O Tranio, till I found it to be true,
+ I never thought it possible or likely.
+ But see, while idly I stood looking on,
+ I found the effect of love-in-idleness,
+ And now in plainness do confess to thee
+ That art to me as secret and as dear
+ As Anna to the Queen of Carthage was:
+ Tranio, I burn, I pine! I perish, Tranio,
+ If I achieve not this young modest girl.
+ Counsel me, Tranio, for I know thou canst.
+ Assist me, Tranio, for I know thou wilt.
+ 
+ Master, it is no time to chide you now.
+ Affection is not rated from the heart.
+ If love have touched you, naught remains but so:
+ Redime te captum  quam queas minimo.
+ 
+ Gramercies, lad. Go forward. This contents;
+ The rest will comfort, for thy counsel’s sound.
+ 
+ Master, you looked so longly on the maid,
+ Perhaps you marked not what’s the pith of all.
+ 
+ O yes, I saw sweet beauty in her face,
+ Such as the daughter of Agenor had,
+ That made great Jove to humble him to her hand
+ When with his knees he kissed the Cretan strand.
+FTLN 0435
+FTLN 0436
+145
+FTLN 0437
+FTLN 0438
+FTLN 0439
+FTLN 0440
+FTLN 0441
+150
+FTLN 0442
+FTLN 0443
+FTLN 0444
+FTLN 0445
+FTLN 0446
+155
+FTLN 0447
+FTLN 0448
+FTLN 0449
+FTLN 0450
+FTLN 0451
+160
+FTLN 0452
+FTLN 0453
+FTLN 0454
+FTLN 0455
+FTLN 0456
+165
+FTLN 0457
+FTLN 0458
+FTLN 0459
+FTLN 0460
+FTLN 0461
+170
+FTLN 0462
+FTLN 0463
+
+--- PAGE 25 / 110 ---
+43
+The Taming of the Shrew
+ACT 1. SC. 1
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+TRANIO
+LUCENTIO
+TRANIO
+ 
+ Saw you no more? Marked you not how her sister
+ Began to scold and raise up such a storm
+ That mortal ears might hardly endure the din?
+ 
+ Tranio, I saw her coral lips to move,
+ And with her breath she did perfume the air.
+ Sacred and sweet was all I saw in her.
+, aside
+ 
+ Nay, then ’tis time to stir him from his trance.—
+ I pray, awake, sir! If you love the maid,
+ Bend thoughts and wits to achieve her. Thus it
+ stands:
+ Her elder sister is so curst and shrewd
+ That till the father rid his hands of her,
+ Master, your love must live a maid at home,
+ And therefore has he closely mewed her up,
+ Because she will not be annoyed with suitors.
+ 
+ Ah, Tranio, what a cruel father’s he!
+ But art thou not advised he took some care
+ To get her cunning schoolmasters to instruct her?
+ 
+ Ay, marry, am I, sir—and now ’tis plotted!
+ 
+ I have it, Tranio!
+  
+ Master, for my hand,
+ Both our inventions meet and jump in one.
+ 
+ Tell me thine first.
+  
+ You will be schoolmaster
+ And undertake the teaching of the maid:
+ That’s your device.
+  
+ It is. May it be done?
+ 
+ Not possible. For who shall bear your part
+FTLN 0464
+FTLN 0465
+FTLN 0466
+175
+FTLN 0467
+FTLN 0468
+FTLN 0469
+FTLN 0470
+FTLN 0471
+180
+FTLN 0472
+FTLN 0473
+FTLN 0474
+FTLN 0475
+FTLN 0476
+185
+FTLN 0477
+FTLN 0478
+FTLN 0479
+FTLN 0480
+FTLN 0481
+190
+FTLN 0482
+FTLN 0483
+FTLN 0484
+FTLN 0485
+FTLN 0486
+195
+FTLN 0487
+FTLN 0488
+FTLN 0489
+FTLN 0490
+FTLN 0491
+200
+
+--- PAGE 26 / 110 ---
+45
+The Taming of the Shrew
+ACT 1. SC. 1
+LUCENTIO
+They exchange clothes.
+TRANIO
+LUCENTIO
+BIONDELLO
+ And be in Padua here Vincentio’s son,
+ Keep house, and ply his book, welcome his friends,
+ Visit his countrymen and banquet them?
+ 
+ Basta, content thee, for I have it full.
+ We have not yet been seen in any house,
+ Nor can we be distinguished by our faces
+ For man or master. Then it follows thus:
+ Thou shalt be master, Tranio, in my stead,
+ Keep house, and port, and servants, as I should.
+ I will some other be, some Florentine,
+ Some Neapolitan, or meaner man of Pisa.
+ ’Tis hatched, and shall be so. Tranio, at once
+ Uncase thee. Take my colored hat and cloak.
+ When Biondello comes, he waits on thee,
+ But I will charm him first to keep his tongue.
+  So had you need.
+ In brief, sir, sith it your pleasure is,
+ And I am tied to be obedient
+ (For so your father charged me at our parting:
+ “Be serviceable to my son,” quoth he,
+ Although I think ’twas in another sense),
+ I am content to be Lucentio,
+ Because so well I love Lucentio.
+ 
+ Tranio, be so, because Lucentio loves,
+ And let me be a slave, t’ achieve that maid
+ Whose sudden sight hath thralled my wounded eye.
+Enter Biondello.
+ Here comes the rogue.—Sirrah, where have you
+ been?
+ 
+ Where have I been? Nay, how now, where are you?
+FTLN 0492
+FTLN 0493
+FTLN 0494
+FTLN 0495
+FTLN 0496
+205
+FTLN 0497
+FTLN 0498
+FTLN 0499
+FTLN 0500
+FTLN 0501
+210
+FTLN 0502
+FTLN 0503
+FTLN 0504
+FTLN 0505
+FTLN 0506
+215
+FTLN 0507
+FTLN 0508
+FTLN 0509
+FTLN 0510
+FTLN 0511
+220
+FTLN 0512
+FTLN 0513
+FTLN 0514
+FTLN 0515
+FTLN 0516
+225
+FTLN 0517
+FTLN 0518
+FTLN 0519
+FTLN 0520
+
+--- PAGE 27 / 110 ---
+47
+The Taming of the Shrew
+ACT 1. SC. 1
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+TRANIO
+LUCENTIO
+They exit.
+The Presenters above speak.
+FIRST SERVINGMAN
+ Master, has my fellow Tranio stolen your clothes?
+ Or you stolen his? Or both? Pray, what’s the news?
+ 
+ Sirrah, come hither. ’Tis no time to jest,
+ And therefore frame your manners to the time.
+ Your fellow, Tranio here, to save my life,
+ Puts my apparel and my count’nance on,
+ And I for my escape have put on his;
+ For in a quarrel since I came ashore
+ I killed a man and fear I was descried.
+ Wait you on him, I charge you, as becomes,
+ While I make way from hence to save my life.
+ You understand me?
+  
+ Ay, sir.  Aside.  Ne’er a whit.
+ 
+ And not a jot of “Tranio” in your mouth.
+ Tranio is changed into Lucentio.
+ 
+ The better for him. Would I were so too.
+ 
+ So could I, faith, boy, to have the next wish after,
+ That Lucentio indeed had Baptista’s youngest
+ daughter.
+ But, sirrah, not for my sake, but your master’s, I
+ advise
+ You use your manners discreetly in all kind of
+ companies.
+ When I am alone, why then I am Tranio;
+ But in all places else, your  master Lucentio.
+  Tranio, let’s go. One thing more rests, that
+ thyself execute, to make one among these wooers. If
+ thou ask me why, sufficeth my reasons are both
+ good and weighty. 
+ 
+ My lord, you nod. You do not mind the play.
+FTLN 0521
+230
+FTLN 0522
+FTLN 0523
+FTLN 0524
+FTLN 0525
+FTLN 0526
+235
+FTLN 0527
+FTLN 0528
+FTLN 0529
+FTLN 0530
+FTLN 0531
+240
+FTLN 0532
+FTLN 0533
+FTLN 0534
+FTLN 0535
+FTLN 0536
+245
+FTLN 0537
+FTLN 0538
+FTLN 0539
+FTLN 0540
+FTLN 0541
+250
+FTLN 0542
+FTLN 0543
+FTLN 0544
+FTLN 0545
+FTLN 0546
+255
+FTLN 0547
+FTLN 0548
+FTLN 0549
+FTLN 0550
+
+--- PAGE 28 / 110 ---
+49
+The Taming of the Shrew
+ACT 1. SC. 2
+SLY
+PAGE
+SLY
+They sit and mark.
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+He wrings him by the ears. Grumio falls.
+GRUMIO
+PETRUCHIO
+  Yes, by Saint Anne, do I. A good matter, surely.
+ Comes there any more of it?
+, as  Lady   My lord, ’tis but begun.
+  ’Tis a very excellent piece of work, madam lady.
+ Would ’twere done.
+Enter Petruchio and his man Grumio.
+ 
+ Verona, for a while I take my leave
+ To see my friends in Padua, but of all
+ My best belovèd and approvèd friend,
+ Hortensio. And I trow this is his house.
+ Here, sirrah Grumio, knock, I say.
+  Knock, sir? Whom should I knock? Is there
+ any man has rebused your Worship?
+  Villain, I say, knock me here soundly.
+  Knock you here, sir? Why, sir, what am I, sir,
+ that I should knock you here, sir?
+ 
+ Villain, I say, knock me at this gate
+ And rap me well, or I’ll knock your knave’s pate.
+ 
+ My master is grown quarrelsome. I should knock
+ you first,
+ And then I know after who comes by the worst.
+  Will it not be?
+ Faith, sirrah, an you’ll not knock, I’ll ring it.
+ I’ll try how you can sol, fa, and sing it.
+  Help, mistress, help! My master is mad.
+  Now knock when I bid you, sirrah
+ villain.
+FTLN 0551
+260
+FTLN 0552
+FTLN 0553
+FTLN 0554
+FTLN 0555
+Scene 2
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+FTLN 0560
+5
+FTLN 0561
+FTLN 0562
+FTLN 0563
+FTLN 0564
+FTLN 0565
+10
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+FTLN 0570
+15
+FTLN 0571
+FTLN 0572
+FTLN 0573
+FTLN 0574
+FTLN 0575
+20
+FTLN 0576
+
+--- PAGE 29 / 110 ---
+51
+The Taming of the Shrew
+ACT 1. SC. 2
+HORTENSIO
+PETRUCHIO
+HORTENSIO
+Grumio rises.
+GRUMIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+Enter Hortensio.
+  How now, what’s the matter? My old
+ friend Grumio and my good friend Petruchio? How
+ do you all at Verona?
+ 
+ Signior Hortensio, come you to part the fray?
+ Con tutto il cuore ben trovato,  may I say.
+  Alia nostra casa ben  venuto, molto
+ honorato  signor mio Petruchio.—Rise, Grumio,
+ rise. We will compound this quarrel. 
+  Nay, ’tis no matter, sir, what he ’leges in
+ Latin. If this be not a lawful cause for me to leave
+ his service—look you, sir: he bid me knock him
+ and rap him soundly, sir. Well, was it fit for a
+ servant to use his master so, being perhaps, for
+ aught I see, two-and-thirty, a pip out?
+ Whom, would to God, I had well knocked at first,
+ Then had not Grumio come by the worst.
+ 
+ A senseless villain, good Hortensio.
+ I bade the rascal knock upon your gate
+ And could not get him for my heart to do it.
+  Knock at the gate? O, heavens, spake you not
+ these words plain: “Sirrah, knock me here, rap me
+ here, knock me well, and knock me soundly”? And
+ come you now with “knocking at the gate”?
+ 
+ Sirrah, begone, or talk not, I advise you.
+ 
+ Petruchio, patience. I am Grumio’s pledge.
+ Why, this’ a heavy chance ’twixt him and you,
+ Your ancient, trusty, pleasant servant Grumio.
+ And tell me now, sweet friend, what happy gale
+ Blows you to Padua here from old Verona?
+ 
+ Such wind as scatters young men through the world
+FTLN 0577
+FTLN 0578
+FTLN 0579
+FTLN 0580
+25
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+FTLN 0585
+30
+FTLN 0586
+FTLN 0587
+FTLN 0588
+FTLN 0589
+FTLN 0590
+35
+FTLN 0591
+FTLN 0592
+FTLN 0593
+FTLN 0594
+FTLN 0595
+40
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+FTLN 0600
+45
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+FTLN 0605
+50
+FTLN 0606
+
+--- PAGE 30 / 110 ---
+53
+The Taming of the Shrew
+ACT 1. SC. 2
+HORTENSIO
+PETRUCHIO
+GRUMIO
+HORTENSIO
+ To seek their fortunes farther than at home,
+ Where small experience grows. But in a few,
+ Signior Hortensio, thus it stands with me:
+ Antonio, my father, is deceased,
+ And I have thrust myself into this maze,
+ Happily to wive and thrive, as best I may.
+ Crowns in my purse I have and goods at home,
+ And so am come abroad to see the world.
+ 
+ Petruchio, shall I then come roundly to thee
+ And wish thee to a shrewd ill-favored wife?
+ Thou ’dst thank me but a little for my counsel—
+ And yet I’ll promise thee she shall be rich,
+ And very rich. But thou ’rt too much my friend,
+ And I’ll not wish thee to her.
+ 
+ Signior Hortensio, ’twixt such friends as we
+ Few words suffice. And therefore, if thou know
+ One rich enough to be Petruchio’s wife
+ (As wealth is burden of my wooing dance),
+ Be she as foul as was Florentius’ love,
+ As old as Sibyl, and as curst and shrewd
+ As Socrates’ Xanthippe, or a worse,
+ She moves me not, or not removes at least
+ Affection’s edge in me, were she as rough
+ As are the swelling Adriatic seas.
+ I come to wive it wealthily in Padua;
+ If wealthily, then happily in Padua.
+, to Hortensio
+  Nay, look you, sir, he tells you
+ flatly what his mind is. Why, give him gold enough
+ and marry him to a puppet or an aglet-baby, or an
+ old trot with ne’er a tooth in her head, though she
+ have as many diseases as two-and-fifty horses. Why,
+ nothing comes amiss, so money comes withal.
+ 
+ Petruchio, since we are stepped thus far in,
+FTLN 0607
+FTLN 0608
+FTLN 0609
+FTLN 0610
+55
+FTLN 0611
+FTLN 0612
+FTLN 0613
+FTLN 0614
+FTLN 0615
+60
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+FTLN 0620
+65
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+FTLN 0625
+70
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+FTLN 0630
+75
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+FTLN 0635
+80
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+
+--- PAGE 31 / 110 ---
+55
+The Taming of the Shrew
+ACT 1. SC. 2
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+GRUMIO
+ I will continue that I broached in jest.
+ I can, Petruchio, help thee to a wife
+ With wealth enough, and young and beauteous,
+ Brought up as best becomes a gentlewoman.
+ Her only fault, and that is faults enough,
+ Is that she is intolerable curst,
+ And shrewd, and froward, so beyond all measure
+ That, were my state far worser than it is,
+ I would not wed her for a mine of gold.
+ 
+ Hortensio, peace. Thou know’st not gold’s effect.
+ Tell me her father’s name, and ’tis enough;
+ For I will board her, though she chide as loud
+ As thunder when the clouds in autumn crack.
+ 
+ Her father is Baptista Minola,
+ An affable and courteous gentleman.
+ Her name is Katherina Minola,
+ Renowned in Padua for her scolding tongue.
+ 
+ I know her father, though I know not her,
+ And he knew my deceasèd father well.
+ I will not sleep, Hortensio, till I see her,
+ And therefore let me be thus bold with you
+ To give you over at this first encounter—
+ Unless you will accompany me thither.
+, to Hortensio
+  I pray you, sir, let him go while
+ the humor lasts. O’ my word, an she knew him as
+ well as I do, she would think scolding would do little
+ good upon him. She may perhaps call him half a
+ score knaves or so. Why, that’s nothing; an he begin
+ once, he’ll rail in his rope tricks. I’ll tell you what,
+ sir, an she stand him but a little, he will throw a
+ figure in her face and so disfigure her with it that
+ she shall have no more eyes to see withal than a cat.
+ You know him not, sir.
+FTLN 0640
+85
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+FTLN 0645
+90
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+FTLN 0650
+95
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+FTLN 0655
+100
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+FTLN 0660
+105
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+FTLN 0665
+110
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+FTLN 0670
+115
+FTLN 0671
+FTLN 0672
+
+--- PAGE 32 / 110 ---
+57
+The Taming of the Shrew
+ACT 1. SC. 2
+HORTENSIO
+GRUMIO
+HORTENSIO
+GRUMIO
+HORTENSIO
+Petruchio, Hortensio, and Grumio stand aside.
+GRUMIO
+ 
+ Tarry, Petruchio. I must go with thee,
+ For in Baptista’s keep my treasure is.
+ He hath the jewel of my life in hold,
+ His youngest daughter, beautiful Bianca,
+ And her withholds from me and  other more,
+ Suitors to her and rivals in my love,
+ Supposing it a thing impossible,
+ For those defects I have before rehearsed,
+ That ever Katherina will be wooed.
+ Therefore this order hath Baptista ta’en,
+ That none shall have access unto Bianca
+ Till Katherine the curst have got a husband.
+  “Katherine the curst,”
+ A title for a maid, of all titles the worst.
+ 
+ Now shall my friend Petruchio do me grace
+ And offer me disguised in sober robes
+ To old Baptista as a schoolmaster
+ Well seen in music, to instruct Bianca,
+ That so I may, by this device at least,
+ Have leave and leisure to make love to her
+ And unsuspected court her by herself.
+  Here’s no knavery! See, to beguile the old
+ folks, how the young folks lay their heads together!
+Enter Gremio and Lucentio, disguised as Cambio, a
+schoolmaster.
+ Master, master, look about you. Who goes there, ha?
+ 
+ Peace, Grumio, it is the rival of my love.
+ Petruchio, stand by awhile.
+, aside
+ 
+ A proper stripling, and an amorous.
+FTLN 0673
+FTLN 0674
+FTLN 0675
+120
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+FTLN 0680
+125
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+FTLN 0685
+130
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+FTLN 0690
+135
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+FTLN 0695
+140
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+
+--- PAGE 33 / 110 ---
+59
+The Taming of the Shrew
+ACT 1. SC. 2
+GREMIO
+LUCENTIO
+GREMIO
+GRUMIO
+PETRUCHIO
+HORTENSIO
+Coming forward.
+GREMIO
+HORTENSIO
+, to Lucentio
+ 
+ O, very well, I have perused the note.
+ Hark you, sir, I’ll have them very fairly bound,
+ All books of love. See that at any hand,
+ And see you read no other lectures to her.
+ You understand me. Over and beside
+ Signior Baptista’s liberality,
+ I’ll mend it with a largess. Take your paper too.
+ And let me have them very well perfumed,
+ For she is sweeter than perfume itself
+ To whom they go to. What will you read to her?
+, as Cambio
+ 
+ Whate’er I read to her, I’ll plead for you
+ As for my patron, stand you so assured,
+ As firmly as yourself were still in place,
+ Yea, and perhaps with more successful words
+ Than you—unless you were a scholar, sir.
+ 
+ O this learning, what a thing it is!
+, aside
+ 
+ O this woodcock, what an ass it is!
+, aside
+  Peace, sirrah.
+, aside
+ 
+ Grumio, mum. 
+ God save you, Signior Gremio.
+ 
+ And you are well met, Signior Hortensio.
+ Trow you whither I am going? To Baptista Minola.
+ I promised to enquire carefully
+ About a schoolmaster for the fair Bianca,
+ And by good fortune I have lighted well
+ On this young man, for learning and behavior
+ Fit for her turn, well read in poetry
+ And other books—good ones, I warrant you.
+ 
+ ’Tis well. And I have met a gentleman
+FTLN 0700
+145
+FTLN 0701
+FTLN 0702
+FTLN 0703
+FTLN 0704
+FTLN 0705
+150
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+FTLN 0710
+155
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+FTLN 0715
+160
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+FTLN 0720
+165
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+FTLN 0725
+170
+FTLN 0726
+FTLN 0727
+FTLN 0728
+
+--- PAGE 34 / 110 ---
+61
+The Taming of the Shrew
+ACT 1. SC. 2
+GREMIO
+GRUMIO
+HORTENSIO
+Presenting Petruchio.
+GREMIO
+PETRUCHIO
+GREMIO
+PETRUCHIO
+GREMIO
+PETRUCHIO
+GRUMIO
+ Hath promised me to help me  to another,
+ A fine musician to instruct our mistress.
+ So shall I no whit be behind in duty
+ To fair Bianca, so beloved of me.
+ 
+ Beloved of me, and that my deeds shall prove.
+, aside
+  And that his bags shall prove.
+ 
+ Gremio, ’tis now no time to vent our love.
+ Listen to me, and if you speak me fair
+ I’ll tell you news indifferent good for either.
+ Here is a gentleman whom by chance I met,
+ Upon agreement from us to his liking,
+ Will undertake to woo curst Katherine,
+ Yea, and to marry her, if her dowry please.
+  So said, so done, is well.
+ Hortensio, have you told him all her faults?
+ 
+ I know she is an irksome, brawling scold.
+ If that be all, masters, I hear no harm.
+ 
+ No? Sayst me so, friend? What countryman?
+ 
+ Born in Verona, old Antonio’s son.
+ My father dead, my fortune lives for me,
+ And I do hope good days and long to see.
+ 
+ Oh, sir, such a life with such a wife were strange.
+ But if you have a stomach, to ’t, i’ God’s name!
+ You shall have me assisting you in all.
+ But will you woo this wildcat?
+  
+ Will I live?
+ 
+ Will he woo her? Ay, or I’ll hang her.
+FTLN 0729
+FTLN 0730
+175
+FTLN 0731
+FTLN 0732
+FTLN 0733
+FTLN 0734
+FTLN 0735
+180
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+FTLN 0740
+185
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+FTLN 0745
+190
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+FTLN 0750
+195
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+FTLN 0755
+200
+
+--- PAGE 35 / 110 ---
+63
+The Taming of the Shrew
+ACT 1. SC. 2
+PETRUCHIO
+GRUMIO
+GREMIO
+HORTENSIO
+GREMIO
+GRUMIO
+TRANIO
+BIONDELLO
+TRANIO
+GREMIO
+ 
+ Why came I hither but to that intent?
+ Think you a little din can daunt mine ears?
+ Have I not in my time heard lions roar?
+ Have I not heard the sea, puffed up with winds,
+ Rage like an angry boar chafèd with sweat?
+ Have I not heard great ordnance in the field
+ And heaven’s artillery thunder in the skies?
+ Have I not in a pitchèd battle heard
+ Loud ’larums, neighing steeds, and trumpets clang?
+ And do you tell me of a woman’s tongue,
+ That gives not half so great a blow to hear
+ As will a chestnut in a farmer’s fire?
+ Tush, tush, fear boys with bugs!
+  
+ For he fears none.
+  Hortensio, hark.
+ This gentleman is happily arrived,
+ My mind presumes, for his own good and yours.
+ 
+ I promised we would be contributors
+ And bear his charge of wooing whatsoe’er.
+ 
+ And so we will, provided that he win her.
+ 
+ I would I were as sure of a good dinner.
+Enter Tranio, disguised as Lucentio,  and Biondello.
+, as Lucentio
+ 
+ Gentlemen, God save you. If I may be bold,
+ Tell me, I beseech you, which is the readiest way
+ To the house of Signior Baptista Minola?
+  He that has the two fair daughters—is ’t
+ he you mean?
+, as Lucentio
+  Even he, Biondello.
+ 
+ Hark you, sir, you mean not her to—
+FTLN 0756
+FTLN 0757
+FTLN 0758
+FTLN 0759
+FTLN 0760
+205
+FTLN 0761
+FTLN 0762
+FTLN 0763
+FTLN 0764
+FTLN 0765
+210
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+FTLN 0770
+215
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+FTLN 0775
+220
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+FTLN 0780
+225
+FTLN 0781
+FTLN 0782
+FTLN 0783
+
+--- PAGE 36 / 110 ---
+65
+The Taming of the Shrew
+ACT 1. SC. 2
+TRANIO
+PETRUCHIO
+TRANIO
+LUCENTIO
+HORTENSIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+HORTENSIO
+TRANIO
+, as Lucentio
+ 
+ Perhaps him and her, sir. What have you to do?
+ 
+ Not her that chides, sir, at any hand, I pray.
+, as Lucentio
+ 
+ I love no chiders, sir. Biondello, let’s away.
+, aside
+ 
+ Well begun, Tranio.
+  
+ Sir, a word ere you go.
+ Are you a suitor to the maid you talk of, yea or no?
+, as Lucentio
+ 
+ An if I be, sir, is it any offense?
+ 
+ No, if without more words you will get you hence.
+, as Lucentio
+ 
+ Why sir, I pray, are not the streets as free
+ For me, as for you?
+  
+ But so is not she.
+, as Lucentio
+ 
+ For what reason, I beseech you?
+ 
+ For this reason, if you’ll know:
+ That she’s the choice love of Signior Gremio.
+ 
+ That she’s the chosen of Signior Hortensio.
+, as Lucentio
+ 
+ Softly, my masters. If you be gentlemen,
+ Do me this right: hear me with patience.
+ Baptista is a noble gentleman
+ To whom my father is not all unknown,
+ And were his daughter fairer than she is,
+ She may more suitors have, and me for one.
+ Fair Leda’s daughter had a thousand wooers.
+ Then well one more may fair Bianca have.
+ And so she shall. Lucentio shall make one,
+ Though Paris came in hope to speed alone.
+FTLN 0784
+FTLN 0785
+230
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+FTLN 0790
+235
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+FTLN 0795
+240
+FTLN 0796
+FTLN 0797
+FTLN 0798
+FTLN 0799
+FTLN 0800
+245
+FTLN 0801
+FTLN 0802
+FTLN 0803
+FTLN 0804
+FTLN 0805
+250
+FTLN 0806
+FTLN 0807
+FTLN 0808
+
+--- PAGE 37 / 110 ---
+67
+The Taming of the Shrew
+ACT 1. SC. 2
+GREMIO
+LUCENTIO
+PETRUCHIO
+HORTENSIO
+TRANIO
+PETRUCHIO
+GREMIO
+PETRUCHIO
+TRANIO
+HORTENSIO
+ 
+ What, this gentleman will out-talk us all!
+, as Cambio
+ 
+ Sir, give him head; I know he’ll prove a jade.
+ 
+ Hortensio, to what end are all these words?
+, to Tranio
+ 
+ Sir, let me be so bold as ask you,
+ Did you yet ever see Baptista’s daughter?
+, as Lucentio
+ 
+ No, sir, but hear I do that he hath two,
+ The one as famous for a scolding tongue
+ As is the other for beauteous modesty.
+ 
+ Sir, sir, the first’s for me; let her go by.
+ 
+ Yea, leave that labor to great Hercules,
+ And let it be more than Alcides’ twelve.
+, to Tranio
+ 
+ Sir, understand you this of me, in sooth:
+ The youngest daughter, whom you hearken for,
+ Her father keeps from all access of suitors
+ And will not promise her to any man
+ Until the elder sister first be wed.
+ The younger then is free, and not before.
+, as Lucentio
+ 
+ If it be so, sir, that you are the man
+ Must stead us all, and me amongst the rest,
+ And if you break the ice and do this feat,
+ Achieve the elder, set the younger free
+ For our access, whose hap shall be to have her
+ Will not so graceless be to be ingrate.
+ 
+ Sir, you say well, and well you do conceive.
+ And since you do profess to be a suitor,
+ You must, as we do, gratify this gentleman,
+ To whom we all rest generally beholding.
+FTLN 0809
+FTLN 0810
+255
+FTLN 0811
+FTLN 0812
+FTLN 0813
+FTLN 0814
+FTLN 0815
+260
+FTLN 0816
+FTLN 0817
+FTLN 0818
+FTLN 0819
+FTLN 0820
+265
+FTLN 0821
+FTLN 0822
+FTLN 0823
+FTLN 0824
+FTLN 0825
+270
+FTLN 0826
+FTLN 0827
+FTLN 0828
+FTLN 0829
+FTLN 0830
+275
+FTLN 0831
+FTLN 0832
+FTLN 0833
+FTLN 0834
+FTLN 0835
+280
+
+--- PAGE 38 / 110 ---
+69
+The Taming of the Shrew
+ACT 1. SC. 2
+TRANIO
+GRUMIO 
+AND  BIONDELLO
+HORTENSIO
+They exit.
+, as Lucentio
+ 
+ Sir, I shall not be slack; in sign whereof,
+ Please you we may contrive this afternoon
+ And quaff carouses to our mistress’ health,
+ And do as adversaries do in law,
+ Strive mightily, but eat and drink as friends.
+ 
+ O excellent motion! Fellows, let’s be gone.
+ 
+ The motion’s good indeed, and be it so.—
+ Petruchio, I shall be your ben  venuto.
+FTLN 0836
+FTLN 0837
+FTLN 0838
+FTLN 0839
+FTLN 0840
+285
+FTLN 0841
+FTLN 0842
+FTLN 0843
+
+--- PAGE 39 / 110 ---
+BIANCA
+KATHERINE
+BIANCA
+KATHERINE
+BIANCA
+KATHERINE
+Enter Katherine and Bianca with her hands tied.
+ 
+ Good sister, wrong me not, nor wrong yourself,
+ To make a bondmaid and a slave of me.
+ That I disdain. But for these other goods—
+ Unbind my hands, I’ll pull them off myself,
+ Yea, all my raiment to my petticoat,
+ Or what you will command me will I do,
+ So well I know my duty to my elders.
+ 
+ Of all thy suitors here I charge thee  tell
+ Whom thou lov’st best. See thou dissemble not.
+ 
+ Believe me, sister, of all the men alive
+ I never yet beheld that special face
+ Which I could fancy more than any other.
+ 
+ Minion, thou liest. Is ’t not Hortensio?
+ 
+ If you affect him, sister, here I swear
+ I’ll plead for you myself, but you shall have him.
+ 
+ O, then belike you fancy riches more.
+ You will have Gremio to keep you fair.
+73
+ACT 2
+Scene 1
+FTLN 0844
+FTLN 0845
+FTLN 0846
+FTLN 0847
+FTLN 0848
+5
+FTLN 0849
+FTLN 0850
+FTLN 0851
+FTLN 0852
+FTLN 0853
+10
+FTLN 0854
+FTLN 0855
+FTLN 0856
+FTLN 0857
+FTLN 0858
+15
+FTLN 0859
+FTLN 0860
+
+--- PAGE 40 / 110 ---
+75
+The Taming of the Shrew
+ACT 2. SC. 1
+BIANCA
+Katherine  strikes her.
+KATHERINE
+BAPTISTA
+He unties her hands.
+KATHERINE
+She  flies after Bianca.
+BAPTISTA
+Bianca  exits.
+KATHERINE
+She exits.
+BAPTISTA
+ 
+ Is it for him you do envy me so?
+ Nay, then, you jest, and now I well perceive
+ You have but jested with me all this while.
+ I prithee, sister Kate, untie my hands.
+ 
+ If that be jest, then all the rest was so.
+Enter Baptista.
+ 
+ Why, how now, dame, whence grows this
+ insolence?—
+ Bianca, stand aside.—Poor girl, she weeps!
+  To Bianca.  Go ply thy needle; meddle not with her.
+  To Katherine.  For shame, thou hilding of a devilish
+ spirit!
+ Why dost thou wrong her that did ne’er wrong
+ thee?
+ When did she cross thee with a bitter word?
+ 
+ Her silence flouts me, and I’ll be revenged!
+ 
+ What, in my sight?—Bianca, get thee in.
+ 
+ What, will you not suffer me? Nay, now I see
+ She is your treasure, she must have a husband,
+ I must dance barefoot on her wedding day
+ And, for your love to her, lead apes in hell.
+ Talk not to me. I will go sit and weep
+ Till I can find occasion of revenge. 
+ 
+ Was ever gentleman thus grieved as I?
+ But who comes here?
+FTLN 0861
+FTLN 0862
+FTLN 0863
+20
+FTLN 0864
+FTLN 0865
+FTLN 0866
+FTLN 0867
+FTLN 0868
+25
+FTLN 0869
+FTLN 0870
+FTLN 0871
+FTLN 0872
+FTLN 0873
+30
+FTLN 0874
+FTLN 0875
+FTLN 0876
+FTLN 0877
+FTLN 0878
+35
+FTLN 0879
+FTLN 0880
+FTLN 0881
+FTLN 0882
+FTLN 0883
+40
+FTLN 0884
+
+--- PAGE 41 / 110 ---
+77
+The Taming of the Shrew
+ACT 2. SC. 1
+GREMIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+GREMIO
+PETRUCHIO
+Presenting Hortensio, disguised as Litio
+BAPTISTA
+Enter Gremio; Lucentio disguised as Cambio
+in the habit of a mean man; Petruchio with
+Hortensio disguised as Litio; and  Tranio disguised
+as Lucentio,  with his boy, Biondello  bearing a lute
+and books.
+  Good morrow, neighbor Baptista.
+  Good morrow, neighbor Gremio.—God
+ save you, gentlemen.
+ 
+ And you, good sir. Pray, have you not a daughter
+ Called Katherina, fair and virtuous?
+ 
+ I have a daughter, sir, called Katherina.
+, to Petruchio
+ 
+ You are too blunt. Go to it orderly.
+ 
+ You wrong me, Signior Gremio. Give me leave.—
+ I am a gentleman of Verona, sir,
+ That hearing of her beauty and her wit,
+ Her affability and bashful modesty,
+ Her wondrous qualities and mild behavior,
+ Am bold to show myself a forward guest
+ Within your house, to make mine eye the witness
+ Of that report which I so oft have heard,
+ And, for an entrance to my entertainment,
+ I do present you with a man of mine,
+ Cunning in music and the mathematics,
+ To instruct her fully in those sciences,
+ Whereof I know she is not ignorant.
+ Accept of him, or else you do me wrong.
+ His name is Litio, born in Mantua.
+ 
+ You’re welcome, sir, and he for your good sake.
+FTLN 0885
+FTLN 0886
+FTLN 0887
+FTLN 0888
+45
+FTLN 0889
+FTLN 0890
+FTLN 0891
+FTLN 0892
+FTLN 0893
+50
+FTLN 0894
+FTLN 0895
+FTLN 0896
+FTLN 0897
+FTLN 0898
+55
+FTLN 0899
+FTLN 0900
+FTLN 0901
+FTLN 0902
+FTLN 0903
+60
+FTLN 0904
+FTLN 0905
+FTLN 0906
+FTLN 0907
+
+--- PAGE 42 / 110 ---
+79
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+GREMIO
+PETRUCHIO
+GREMIO
+BAPTISTA
+ But for my daughter Katherine, this I know,
+ She is not for your turn, the more my grief.
+ 
+ I see you do not mean to part with her,
+ Or else you like not of my company.
+ 
+ Mistake me not. I speak but as I find.
+ Whence are you, sir? What may I call your name?
+ 
+ Petruchio is my name, Antonio’s son,
+ A man well known throughout all Italy.
+ 
+ I know him well. You are welcome for his sake.
+ 
+ Saving your tale, Petruchio, I pray
+ Let us that are poor petitioners speak too!
+ Bacare, you are marvelous forward.
+ 
+ O, pardon me, Signior Gremio, I would fain be
+ doing.
+ 
+ I doubt it not, sir. But you will curse your wooing.
+  To Baptista. Neighbor,  this is a gift very grateful,
+ I am sure of it. To express the like kindness, myself,
+ that have been more kindly beholding to you than
+ any, freely give unto you  this young scholar  presenting
+ Lucentio, disguised as Cambio   that hath
+ been long studying at Rheims, as cunning in Greek,
+ Latin, and other languages as the other in music and
+ mathematics. His name is Cambio. Pray accept his
+ service.
+  A thousand thanks, Signior Gremio.—Welcome,
+ good Cambio.  To Tranio as Lucentio.  But,
+ gentle sir, methinks you walk like a stranger. May I
+ be so bold to know the cause of your coming?
+FTLN 0908
+65
+FTLN 0909
+FTLN 0910
+FTLN 0911
+FTLN 0912
+FTLN 0913
+70
+FTLN 0914
+FTLN 0915
+FTLN 0916
+FTLN 0917
+FTLN 0918
+75
+FTLN 0919
+FTLN 0920
+FTLN 0921
+FTLN 0922
+FTLN 0923
+80
+FTLN 0924
+FTLN 0925
+FTLN 0926
+FTLN 0927
+FTLN 0928
+85
+FTLN 0929
+FTLN 0930
+FTLN 0931
+FTLN 0932
+FTLN 0933
+90
+FTLN 0934
+FTLN 0935
+
+--- PAGE 43 / 110 ---
+81
+The Taming of the Shrew
+ACT 2. SC. 1
+TRANIO
+Biondello comes forward with the gifts.
+BAPTISTA
+TRANIO
+BAPTISTA
+Servant exits with Hortensio and Lucentio.
+, as Lucentio
+ 
+ Pardon me, sir, the boldness is mine own,
+ That being a stranger in this city here
+ Do make myself a suitor to your daughter,
+ Unto Bianca, fair and virtuous.
+ Nor is your firm resolve unknown to me,
+ In the preferment of the eldest sister.
+ This liberty is all that I request,
+ That, upon knowledge of my parentage,
+ I may have welcome ’mongst the rest that woo
+ And free access and favor as the rest.
+ And toward the education of your daughters
+ I here bestow a simple instrument
+ And this small packet of Greek and Latin books.
+ If you accept them, then their worth is great.
+ 
+ Lucentio is your name. Of whence, I pray?
+, as Lucentio
+ 
+ Of Pisa, sir, son to Vincentio.
+ 
+ A mighty man of Pisa. By report
+ I know him well. You are very welcome, sir.
+  To Hortensio as Litio.  Take you the lute,
+  To Lucentio as Cambio.  and you the set of books.
+ You shall go see your pupils presently.
+ Holla, within!
+Enter a Servant.
+ Sirrah, lead these gentlemen
+ To my daughters, and tell them both
+ These are their tutors. Bid them use them well.
+ We will go walk a little in the orchard,
+ And then to dinner. You are passing welcome,
+ And so I pray you all to think yourselves.
+FTLN 0936
+FTLN 0937
+FTLN 0938
+95
+FTLN 0939
+FTLN 0940
+FTLN 0941
+FTLN 0942
+FTLN 0943
+100
+FTLN 0944
+FTLN 0945
+FTLN 0946
+FTLN 0947
+FTLN 0948
+105
+FTLN 0949
+FTLN 0950
+FTLN 0951
+FTLN 0952
+FTLN 0953
+110
+FTLN 0954
+FTLN 0955
+FTLN 0956
+FTLN 0957
+FTLN 0958
+115
+FTLN 0959
+FTLN 0960
+FTLN 0961
+FTLN 0962
+FTLN 0963
+120
+
+--- PAGE 44 / 110 ---
+83
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+ 
+ Signior Baptista, my business asketh haste,
+ And every day I cannot come to woo.
+ You knew my father well, and in him me,
+ Left solely heir to all his lands and goods,
+ Which I have bettered rather than decreased.
+ Then tell me, if I get your daughter’s love,
+ What dowry shall I have with her to wife?
+ 
+ After my death, the one half of my lands,
+ And, in possession, twenty thousand crowns.
+ 
+ And, for that dowry, I’ll assure her of
+ Her widowhood, be it that she survive me,
+ In all my lands and leases whatsoever.
+ Let specialties be therefore drawn between us,
+ That covenants may be kept on either hand.
+ 
+ Ay, when the special thing is well obtained,
+ That is, her love, for that is all in all.
+ 
+ Why, that is nothing. For I tell you, father,
+ I am as peremptory as she proud-minded;
+ And where two raging fires meet together,
+ They do consume the thing that feeds their fury.
+ Though little fire grows great with little wind,
+ Yet extreme gusts will blow out fire and all.
+ So I to her and so she yields to me,
+ For I am rough and woo not like a babe.
+ 
+ Well mayst thou woo, and happy be thy speed.
+ But be thou armed for some unhappy words.
+ 
+ Ay, to the proof, as mountains are for winds,
+ That shakes not, though they blow perpetually.
+FTLN 0964
+FTLN 0965
+FTLN 0966
+FTLN 0967
+FTLN 0968
+125
+FTLN 0969
+FTLN 0970
+FTLN 0971
+FTLN 0972
+FTLN 0973
+130
+FTLN 0974
+FTLN 0975
+FTLN 0976
+FTLN 0977
+FTLN 0978
+135
+FTLN 0979
+FTLN 0980
+FTLN 0981
+FTLN 0982
+FTLN 0983
+140
+FTLN 0984
+FTLN 0985
+FTLN 0986
+FTLN 0987
+FTLN 0988
+145
+FTLN 0989
+FTLN 0990
+FTLN 0991
+
+--- PAGE 45 / 110 ---
+85
+The Taming of the Shrew
+ACT 2. SC. 1
+BAPTISTA
+HORTENSIO
+BAPTISTA
+HORTENSIO
+BAPTISTA
+HORTENSIO
+PETRUCHIO
+BAPTISTA
+Enter Hortensio as Litio  with his head broke.
+ 
+ How now, my friend, why dost thou look so pale?
+, as Litio
+ 
+ For fear, I promise you, if I look pale.
+ 
+ What, will my daughter prove a good musician?
+, as Litio
+ 
+ I think she’ll sooner prove a soldier!
+ Iron may hold with her, but never lutes.
+ 
+ Why, then thou canst not break her to the lute?
+, as Litio
+ 
+ Why, no, for she hath broke the lute to me.
+ I did but tell her she mistook her frets,
+ And bowed her hand to teach her fingering,
+ When, with a most impatient devilish spirit,
+ “‘Frets’ call you these?” quoth she. “I’ll fume with
+ them!”
+ And with that word she struck me on the head,
+ And through the instrument my pate made way,
+ And there I stood amazèd for a while,
+ As on a pillory, looking through the lute,
+ While she did call me “rascal fiddler,”
+ And “twangling Jack,” with twenty such vile terms,
+ As had she studied to misuse me so.
+ 
+ Now, by the world, it is a lusty wench.
+ I love her ten times more than ere I did.
+ O, how I long to have some chat with her!
+, to Hortensio as Litio
+ 
+ Well, go with me, and be not so discomfited.
+ Proceed in practice with my younger daughter.
+ She’s apt to learn, and thankful for good turns.—
+ Signior Petruchio, will you go with us,
+ Or shall I send my daughter Kate to you?
+FTLN 0992
+FTLN 0993
+150
+FTLN 0994
+FTLN 0995
+FTLN 0996
+FTLN 0997
+FTLN 0998
+155
+FTLN 0999
+FTLN 1000
+FTLN 1001
+FTLN 1002
+FTLN 1003
+160
+FTLN 1004
+FTLN 1005
+FTLN 1006
+FTLN 1007
+FTLN 1008
+165
+FTLN 1009
+FTLN 1010
+FTLN 1011
+FTLN 1012
+FTLN 1013
+170
+FTLN 1014
+FTLN 1015
+FTLN 1016
+FTLN 1017
+FTLN 1018
+175
+
+--- PAGE 46 / 110 ---
+87
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+All but Petruchio exit.
+KATHERINE
+PETRUCHIO
+KATHERINE
+ 
+ I pray you do. I’ll attend her here—
+ And woo her with some spirit when she comes!
+ Say that she rail, why then I’ll tell her plain
+ She sings as sweetly as a nightingale.
+ Say that she frown, I’ll say she looks as clear
+ As morning roses newly washed with dew.
+ Say she be mute and will not speak a word,
+ Then I’ll commend her volubility
+ And say she uttereth piercing eloquence.
+ If she do bid me pack, I’ll give her thanks
+ As though she bid me stay by her a week.
+ If she deny to wed, I’ll crave the day
+ When I shall ask the banns, and when be marrièd.
+ But here she comes—and now, Petruchio, speak.
+Enter Katherine.
+ Good morrow, Kate, for that’s your name, I hear.
+ 
+ Well have you heard, but something hard of hearing.
+ They call me Katherine that do talk of me.
+ 
+ You lie, in faith, for you are called plain Kate,
+ And bonny Kate, and sometimes Kate the curst.
+ But Kate, the prettiest Kate in Christendom,
+ Kate of Kate Hall, my super-dainty Kate
+ (For dainties are all Kates)—and therefore, Kate,
+ Take this of me, Kate of my consolation:
+ Hearing thy mildness praised in every town,
+ Thy virtues spoke of, and thy beauty sounded
+ (Yet not so deeply as to thee belongs),
+ Myself am moved to woo thee for my wife.
+ 
+ “Moved,” in good time! Let him that moved you
+ hither
+FTLN 1019
+FTLN 1020
+FTLN 1021
+FTLN 1022
+FTLN 1023
+180
+FTLN 1024
+FTLN 1025
+FTLN 1026
+FTLN 1027
+FTLN 1028
+185
+FTLN 1029
+FTLN 1030
+FTLN 1031
+FTLN 1032
+FTLN 1033
+190
+FTLN 1034
+FTLN 1035
+FTLN 1036
+FTLN 1037
+FTLN 1038
+195
+FTLN 1039
+FTLN 1040
+FTLN 1041
+FTLN 1042
+FTLN 1043
+200
+FTLN 1044
+FTLN 1045
+FTLN 1046
+FTLN 1047
+
+--- PAGE 47 / 110 ---
+89
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+ Remove you hence. I knew you at the first
+ You were a movable.
+ 
+ Why, what’s a movable?
+  
+ A joint stool.
+ 
+ Thou hast hit it. Come, sit on me.
+ 
+ Asses are made to bear, and so are you.
+ 
+ Women are made to bear, and so are you.
+ 
+ No such jade as you, if me you mean.
+ 
+ Alas, good Kate, I will not burden thee,
+ For knowing thee to be but young and light—
+ 
+ Too light for such a swain as you to catch,
+ And yet as heavy as my weight should be.
+ 
+ “Should be”—should buzz!
+  
+ Well ta’en, and like a
+ buzzard.
+ 
+ O slow-winged turtle, shall a buzzard take thee?
+ 
+ Ay, for a turtle, as he takes a buzzard.
+ 
+ Come, come, you wasp! I’ faith, you are too angry.
+ 
+ If I be waspish, best beware my sting.
+ 
+ My remedy is then to pluck it out.
+ 
+ Ay, if the fool could find it where it lies.
+FTLN 1048
+205
+FTLN 1049
+FTLN 1050
+FTLN 1051
+FTLN 1052
+FTLN 1053
+210
+FTLN 1054
+FTLN 1055
+FTLN 1056
+FTLN 1057
+FTLN 1058
+215
+FTLN 1059
+FTLN 1060
+FTLN 1061
+FTLN 1062
+FTLN 1063
+220
+FTLN 1064
+FTLN 1065
+FTLN 1066
+FTLN 1067
+FTLN 1068
+225
+
+--- PAGE 48 / 110 ---
+91
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+She strikes him.
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+ 
+ Who knows not where a wasp does wear his sting?
+ In his tail.
+  In his tongue.
+  Whose tongue?
+ 
+ Yours, if you talk of tales, and so farewell.
+  What, with my tongue in your tail?
+ Nay, come again, good Kate. I am a gentleman—
+  That I’ll try. 
+ 
+ I swear I’ll cuff you if you strike again.
+  So may you lose your arms.
+ If you strike me, you are no gentleman,
+ And if no gentleman, why then no arms.
+ 
+ A herald, Kate? O, put me in thy books.
+  What is your crest? A coxcomb?
+ 
+ A combless cock, so Kate will be my hen.
+ 
+ No cock of mine. You crow too like a craven.
+ 
+ Nay, come, Kate, come. You must not look so sour.
+ 
+ It is my fashion when I see a crab.
+ 
+ Why, here’s no crab, and therefore look not sour.
+  There is, there is.
+ 
+ Then show it me.
+  
+ Had I a glass, I would.
+  What, you mean my face?
+  Well aimed of such a young one.
+ 
+ Now, by Saint George, I am too young for you.
+FTLN 1069
+FTLN 1070
+FTLN 1071
+FTLN 1072
+FTLN 1073
+230
+FTLN 1074
+FTLN 1075
+FTLN 1076
+FTLN 1077
+FTLN 1078
+235
+FTLN 1079
+FTLN 1080
+FTLN 1081
+FTLN 1082
+FTLN 1083
+240
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+FTLN 1088
+245
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+FTLN 1093
+250
+
+--- PAGE 49 / 110 ---
+93
+The Taming of the Shrew
+ACT 2. SC. 1
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+ 
+ Yet you are withered.
+  
+ ’Tis with cares.
+  
+ I care not.
+ 
+ Nay, hear you, Kate—in sooth, you ’scape not so.
+ 
+ I chafe you if I tarry. Let me go.
+ 
+ No, not a whit. I find you passing gentle.
+ ’Twas told me you were rough, and coy, and sullen,
+ And now I find report a very liar.
+ For thou art pleasant, gamesome, passing
+ courteous,
+ But slow in speech, yet sweet as springtime flowers.
+ Thou canst not frown, thou canst not look askance,
+ Nor bite the lip as angry wenches will,
+ Nor hast thou pleasure to be cross in talk.
+ But thou with mildness entertain’st thy wooers,
+ With gentle conference, soft, and affable.
+ Why does the world report that Kate doth limp?
+ O sland’rous world! Kate like the hazel twig
+ Is straight, and slender, and as brown in hue
+ As hazelnuts, and sweeter than the kernels.
+ O, let me see thee walk! Thou dost not halt.
+ 
+ Go, fool, and whom thou keep’st command.
+ 
+ Did ever Dian so become a grove
+ As Kate this chamber with her princely gait?
+ O, be thou Dian and let her be Kate,
+ And then let Kate be chaste and Dian sportful.
+ 
+ Where did you study all this goodly speech?
+ 
+ It is extempore, from my mother wit.
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+FTLN 1098
+255
+FTLN 1099
+FTLN 1100
+FTLN 1101
+FTLN 1102
+FTLN 1103
+260
+FTLN 1104
+FTLN 1105
+FTLN 1106
+FTLN 1107
+FTLN 1108
+265
+FTLN 1109
+FTLN 1110
+FTLN 1111
+FTLN 1112
+FTLN 1113
+270
+FTLN 1114
+FTLN 1115
+FTLN 1116
+FTLN 1117
+FTLN 1118
+275
+FTLN 1119
+FTLN 1120
+FTLN 1121
+
+--- PAGE 50 / 110 ---
+95
+The Taming of the Shrew
+ACT 2. SC. 1
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+KATHERINE
+ 
+ A witty mother, witless else her son.
+  Am I not wise?
+  Yes, keep you warm.
+ 
+ Marry, so I mean, sweet Katherine, in thy bed.
+ And therefore, setting all this chat aside,
+ Thus in plain terms: your father hath consented
+ That you shall be my wife, your dowry ’greed on,
+ And, will you, nill you, I will marry you.
+ Now, Kate, I am a husband for your turn,
+ For by this light, whereby I see thy beauty,
+ Thy beauty that doth make me like thee well,
+ Thou must be married to no man but me.
+ For I am he am born to tame you, Kate,
+ And bring you from a wild Kate to a Kate
+ Conformable as other household Kates.
+Enter Baptista, Gremio, and  Tranio as Lucentio.
+ Here comes your father. Never make denial.
+ I must and will have Katherine to my wife.
+ 
+ Now, Signior Petruchio, how speed you with my
+ daughter?
+  How but well, sir? How but well?
+ It were impossible I should speed amiss.
+ 
+ Why, how now, daughter Katherine? In your
+ dumps?
+ 
+ Call you me daughter? Now I promise you
+ You have showed a tender fatherly regard,
+ To wish me wed to one half lunatic,
+ A madcap ruffian and a swearing Jack,
+ That thinks with oaths to face the matter out.
+FTLN 1122
+FTLN 1123
+280
+FTLN 1124
+FTLN 1125
+FTLN 1126
+FTLN 1127
+FTLN 1128
+285
+FTLN 1129
+FTLN 1130
+FTLN 1131
+FTLN 1132
+FTLN 1133
+290
+FTLN 1134
+FTLN 1135
+FTLN 1136
+FTLN 1137
+FTLN 1138
+295
+FTLN 1139
+FTLN 1140
+FTLN 1141
+FTLN 1142
+FTLN 1143
+300
+FTLN 1144
+FTLN 1145
+FTLN 1146
+FTLN 1147
+FTLN 1148
+305
+FTLN 1149
+
+--- PAGE 51 / 110 ---
+97
+The Taming of the Shrew
+ACT 2. SC. 1
+PETRUCHIO
+KATHERINE
+GREMIO
+TRANIO
+PETRUCHIO
+BAPTISTA
+ 
+ Father, ’tis thus: yourself and all the world
+ That talked of her have talked amiss of her.
+ If she be curst, it is for policy,
+ For she’s not froward, but modest as the dove;
+ She is not hot, but temperate as the morn.
+ For patience she will prove a second Grissel,
+ And Roman Lucrece for her chastity.
+ And to conclude, we have ’greed so well together
+ That upon Sunday is the wedding day.
+ 
+ I’ll see thee hanged on Sunday first.
+  Hark, Petruchio, she says she’ll see thee
+ hanged first.
+, as Lucentio
+  Is this your speeding? Nay,
+ then, goodnight our part.
+ 
+ Be patient, gentlemen. I choose her for myself.
+ If she and I be pleased, what’s that to you?
+ ’Tis bargained ’twixt us twain, being alone,
+ That she shall still be curst in company.
+ I tell you, ’tis incredible to believe
+ How much she loves me. O, the kindest Kate!
+ She hung about my neck, and kiss on kiss
+ She vied so fast, protesting oath on oath,
+ That in a twink she won me to her love.
+ O, you are novices! ’Tis a world to see
+ How tame, when men and women are alone,
+ A meacock wretch can make the curstest shrew.—
+ Give me thy hand, Kate. I will unto Venice
+ To buy apparel ’gainst the wedding day.—
+ Provide the feast, father, and bid the guests.
+ I will be sure my Katherine shall be fine.
+ 
+ I know not what to say, but give me your hands.
+ God send you joy, Petruchio. ’Tis a match.
+FTLN 1150
+FTLN 1151
+FTLN 1152
+FTLN 1153
+310
+FTLN 1154
+FTLN 1155
+FTLN 1156
+FTLN 1157
+FTLN 1158
+315
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+FTLN 1163
+320
+FTLN 1164
+FTLN 1165
+FTLN 1166
+FTLN 1167
+FTLN 1168
+325
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+FTLN 1173
+330
+FTLN 1174
+FTLN 1175
+FTLN 1176
+FTLN 1177
+FTLN 1178
+335
+FTLN 1179
+FTLN 1180
+FTLN 1181
+
+--- PAGE 52 / 110 ---
+99
+The Taming of the Shrew
+ACT 2. SC. 1
+GREMIO AND TRANIO
+PETRUCHIO
+Petruchio and Katherine exit
+through different doors.
+GREMIO
+BAPTISTA
+TRANIO
+BAPTISTA
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+, as Lucentio
+ 
+ Amen, say we. We will be witnesses.
+ 
+ Father, and wife, and gentlemen, adieu.
+ I will to Venice. Sunday comes apace.
+ We will have rings, and things, and fine array,
+ And kiss me, Kate. We will be married o’ Sunday.
+ 
+ Was ever match clapped up so suddenly?
+ 
+ Faith, gentlemen, now I play a merchant’s part
+ And venture madly on a desperate mart.
+, as Lucentio
+ 
+ ’Twas a commodity lay fretting by you.
+ ’Twill bring you gain, or perish on the seas.
+ 
+ The gain I seek, is quiet in  the match.
+ 
+ No doubt but he hath got a quiet catch.
+ But now, Baptista, to your younger daughter.
+ Now is the day we long have lookèd for.
+ I am your neighbor and was suitor first.
+, as Lucentio
+ 
+ And I am one that love Bianca more
+ Than words can witness or your thoughts can guess.
+ 
+ Youngling, thou canst not love so dear as I.
+, as Lucentio
+ 
+ Graybeard, thy love doth freeze.
+  
+ But thine doth fry!
+ Skipper, stand back. ’Tis age that nourisheth.
+, as Lucentio
+ 
+ But youth in ladies’ eyes that flourisheth.
+FTLN 1182
+FTLN 1183
+340
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+FTLN 1188
+345
+FTLN 1189
+FTLN 1190
+FTLN 1191
+FTLN 1192
+FTLN 1193
+350
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+FTLN 1198
+355
+FTLN 1199
+FTLN 1200
+FTLN 1201
+FTLN 1202
+FTLN 1203
+360
+
+--- PAGE 53 / 110 ---
+101
+The Taming of the Shrew
+ACT 2. SC. 1
+BAPTISTA
+GREMIO
+TRANIO
+ 
+ Content you, gentlemen. I will compound this strife.
+ ’Tis deeds must win the prize, and he of both
+ That can assure my daughter greatest dower
+ Shall have my Bianca’s love.
+ Say, Signior Gremio, what can you assure her?
+ 
+ First, as you know, my house within the city
+ Is richly furnishèd with plate and gold,
+ Basins and ewers to lave her dainty hands;
+ My hangings all of Tyrian tapestry;
+ In ivory coffers I have stuffed my crowns,
+ In cypress chests my arras counterpoints,
+ Costly apparel, tents, and canopies,
+ Fine linen, Turkey cushions bossed with pearl,
+ Valance of Venice gold in needlework,
+ Pewter and brass, and all things that belongs
+ To house or housekeeping. Then, at my farm
+ I have a hundred milch-kine to the pail,
+ Six score fat oxen standing in my stalls,
+ And all things answerable to this portion.
+ Myself am struck in years, I must confess,
+ And if I die tomorrow this is hers,
+ If whilst I live she will be only mine.
+, as Lucentio
+ 
+ That “only” came well in.  To Baptista.  Sir, list to
+ me:
+ I am my father’s heir and only son.
+ If I may have your daughter to my wife,
+ I’ll leave her houses three or four as good,
+ Within rich Pisa walls, as any one
+ Old Signior Gremio has in Padua,
+ Besides two thousand ducats by the year
+ Of fruitful land, all which shall be her jointure.—
+ What, have I pinched you, Signior Gremio?
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+FTLN 1208
+365
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+FTLN 1213
+370
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+FTLN 1218
+375
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+FTLN 1223
+380
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+FTLN 1228
+385
+FTLN 1229
+FTLN 1230
+FTLN 1231
+FTLN 1232
+FTLN 1233
+390
+FTLN 1234
+FTLN 1235
+
+--- PAGE 54 / 110 ---
+103
+The Taming of the Shrew
+ACT 2. SC. 1
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+BAPTISTA
+TRANIO
+GREMIO
+BAPTISTA
+ 
+ Two thousand ducats by the year of land?
+  Aside.  My land amounts not to so much in all.—
+ That she shall have, besides an argosy
+ That now is lying in Marcellus’ road.
+  To Tranio.  What, have I choked you with an argosy?
+, as Lucentio
+ 
+ Gremio, ’tis known my father hath no less
+ Than three great argosies, besides two galliasses
+ And twelve tight galleys. These I will assure her,
+ And twice as much whate’er thou off’rest next.
+ 
+ Nay, I have offered all. I have no more,
+ And she can have no more than all I have.
+  To Baptista.  If you like me, she shall have me and
+ mine.
+, as Lucentio
+ 
+ Why, then, the maid is mine from all the world,
+ By your firm promise. Gremio is outvied.
+ 
+ I must confess your offer is the best,
+ And, let your father make her the assurance,
+ She is your own; else, you must pardon me.
+ If you should die before him, where’s her dower?
+, as Lucentio
+ 
+ That’s but a cavil. He is old, I young.
+ 
+ And may not young men die as well as old?
+ 
+ Well, gentlemen, I am thus resolved:
+ On Sunday next, you know
+ My daughter Katherine is to be married.
+  To Tranio as Lucentio.  Now, on the Sunday
+ following, shall Bianca
+ Be bride to you, if you make this assurance.
+ If not, to Signior Gremio.
+ And so I take my leave, and thank you both.
+FTLN 1236
+FTLN 1237
+FTLN 1238
+395
+FTLN 1239
+FTLN 1240
+FTLN 1241
+FTLN 1242
+FTLN 1243
+400
+FTLN 1244
+FTLN 1245
+FTLN 1246
+FTLN 1247
+FTLN 1248
+405
+FTLN 1249
+FTLN 1250
+FTLN 1251
+FTLN 1252
+FTLN 1253
+410
+FTLN 1254
+FTLN 1255
+FTLN 1256
+FTLN 1257
+FTLN 1258
+415
+FTLN 1259
+FTLN 1260
+FTLN 1261
+FTLN 1262
+FTLN 1263
+420
+FTLN 1264
+
+--- PAGE 55 / 110 ---
+105
+The Taming of the Shrew
+ACT 2. SC. 1
+GREMIO
+Baptista  exits.
+Gremio  exits.
+TRANIO
+He exits.
+ 
+ Adieu, good neighbor. 
+ Now I fear thee not.
+ Sirrah young gamester, your father were a fool
+ To give thee all and in his waning age
+ Set foot under thy table. Tut, a toy!
+ An old Italian fox is not so kind, my boy.
+ 
+ A vengeance on your crafty withered hide!—
+ Yet I have faced it with a card of ten.
+ ’Tis in my head to do my master good.
+ I see no reason but supposed Lucentio
+ Must get a father, called “supposed Vincentio”—
+ And that’s a wonder. Fathers commonly
+ Do get their children. But in this case of wooing,
+ A child shall get a sire, if I fail not of my cunning.
+FTLN 1265
+FTLN 1266
+FTLN 1267
+FTLN 1268
+425
+FTLN 1269
+FTLN 1270
+FTLN 1271
+FTLN 1272
+FTLN 1273
+430
+FTLN 1274
+FTLN 1275
+FTLN 1276
+FTLN 1277
+FTLN 1278
+435
+
+--- PAGE 56 / 110 ---
+LUCENTIO
+HORTENSIO
+LUCENTIO
+HORTENSIO
+BIANCA
+Enter Lucentio as Cambio,  Hortensio as Litio,  and
+Bianca.
+, as Cambio
+ 
+ Fiddler, forbear. You grow too forward, sir.
+ Have you so soon forgot the entertainment
+ Her sister Katherine welcomed you withal?
+, as Litio
+  But, wrangling pedant, this is
+ The patroness of heavenly harmony.
+ Then give me leave to have prerogative,
+ And when in music we have spent an hour,
+ Your lecture shall have leisure for as much.
+, as Cambio
+ 
+ Preposterous ass, that never read so far
+ To know the cause why music was ordained.
+ Was it not to refresh the mind of man
+ After his studies or his usual pain?
+ Then give me leave to read philosophy,
+ And, while I pause, serve in your harmony.
+, as Litio
+ 
+ Sirrah, I will not bear these braves of thine.
+ 
+ Why, gentlemen, you do me double wrong
+ To strive for that which resteth in my choice.
+ I am no breeching scholar in the schools.
+ I’ll not be tied to hours, nor ’pointed times,
+ACT 3
+Scene 1
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+FTLN 1283
+5
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+FTLN 1288
+10
+FTLN 1289
+FTLN 1290
+FTLN 1291
+FTLN 1292
+FTLN 1293
+15
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+
+--- PAGE 57 / 110 ---
+111
+The Taming of the Shrew
+ACT 3. SC. 1
+HORTENSIO
+LUCENTIO
+Hortensio steps aside to tune his lute.
+BIANCA
+LUCENTIO
+Showing her a book.
+BIANCA
+LUCENTIO
+HORTENSIO
+BIANCA
+LUCENTIO
+Hortensio tunes his lute again.
+BIANCA
+HORTENSIO
+He plays again.
+LUCENTIO
+HORTENSIO
+ But learn my lessons as I please myself.
+ And, to cut off all strife, here sit we down.
+  To Hortensio.  Take you your instrument, play you
+ the whiles;
+ His lecture will be done ere you have tuned.
+, as Litio
+ 
+ You’ll leave his lecture when I am in tune?
+, aside
+ 
+ That will be never.  To Hortensio.  Tune your
+ instrument. 
+  Where left we last?
+, as Cambio
+  Here, madam:
+ Hic ibat Simois, hic est Sigeia  tellus,
+ Hic steterat Priami regia celsa senis.
+  Conster them.
+  Hic ibat, as I told you before, Simois, I am
+ Lucentio, hic est, son unto Vincentio of Pisa,
+ Sigeia  tellus, disguised thus to get your love, Hic
+ steterat, and that “Lucentio” that comes a-wooing,
+ Priami, is my man Tranio, regia, bearing my port,
+ celsa senis, that we might beguile the old pantaloon.
+, as Litio
+  Madam, my instrument’s in
+ tune.
+  Let’s hear.  He plays.  Oh fie, the treble jars!
+, as Cambio
+  Spit in the hole, man, and tune
+ again. 
+  Now let me see if I can conster it. Hic ibat
+ Simois, I know you not; hic est Sigeia  tellus, I trust
+ you not; Hic steterat  Priami, take heed he hear us
+ not; regia, presume not; celsa senis, despair not.
+, as Litio
+ 
+ Madam, ’tis now in tune. 
+, as Cambio
+  
+ All but the bass.
+, as Litio
+ 
+ The bass is right. ’Tis the base knave that jars.
+FTLN 1298
+20
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+25
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+30
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+35
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+40
+FTLN 1319
+FTLN 1320
+FTLN 1321
+FTLN 1322
+FTLN 1323
+45
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+FTLN 1328
+50
+
+--- PAGE 58 / 110 ---
+113
+The Taming of the Shrew
+ACT 3. SC. 1
+BIANCA
+LUCENTIO
+BIANCA
+HORTENSIO
+LUCENTIO
+He steps aside.
+HORTENSIO
+BIANCA
+HORTENSIO
+Giving her a paper.
+  Aside.  How fiery and forward our pedant is.
+ Now for my life the knave doth court my love!
+ Pedascule, I’ll watch you better yet.
+, to Lucentio
+ 
+ In time I may believe, yet I mistrust.
+ 
+ Mistrust it not, for sure Aeacides
+ Was Ajax, called so from his grandfather.
+ 
+ I must believe my master; else, I promise you,
+ I should be arguing still upon that doubt.
+ But let it rest.—Now, Litio, to you.
+ Good master, take it not unkindly, pray,
+ That I have been thus pleasant with you both.
+, as Litio, to Lucentio
+ 
+ You may go walk, and give me leave awhile.
+ My lessons make no music in three parts.
+, as Cambio
+ 
+ Are you so formal, sir? Well, I must wait
+  Aside.  And watch withal, for, but I be deceived,
+ Our fine musician groweth amorous.
+, as Litio
+ 
+ Madam, before you touch the instrument,
+ To learn the order of my fingering
+ I must begin with rudiments of art,
+ To teach you gamut in a briefer sort,
+ More pleasant, pithy, and effectual
+ Than hath been taught by any of my trade.
+ And there it is in writing fairly drawn.
+ 
+ Why, I am past my gamut long ago.
+ 
+ Yet read the gamut of Hortensio.
+FTLN 1329
+FTLN 1330
+FTLN 1331
+FTLN 1332
+FTLN 1333
+55
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+60
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+65
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+70
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+75
+
+--- PAGE 59 / 110 ---
+115
+The Taming of the Shrew
+ACT 3. SC. 2
+BIANCA
+SERVANT
+BIANCA
+LUCENTIO
+Bianca, the Servant, and Lucentio exit.
+HORTENSIO
+He exits.
+BAPTISTA
+ reads
+ 
+ “Gamut I am, the ground of all accord:
+ A re,  to plead Hortensio’s passion;
+ B mi,  Bianca, take him for thy lord,
+ C fa ut,  that loves with all affection;
+ D sol re, one clef, two notes have I;
+ E la mi, show pity or I die.”
+ Call you this “gamut”? Tut, I like it not.
+ Old fashions please me best. I am not so nice
+ To change  true rules for odd  inventions.
+Enter a Servant.
+ 
+ Mistress, your father prays you leave your books
+ And help to dress your sister’s chamber up.
+ You know tomorrow is the wedding day.
+ 
+ Farewell, sweet masters both. I must be gone.
+ 
+ Faith, mistress, then I have no cause to stay.
+ 
+ But I have cause to pry into this pedant.
+ Methinks he looks as though he were in love.
+ Yet if thy thoughts, Bianca, be so humble
+ To cast thy wand’ring eyes on every stale,
+ Seize thee that list! If once I find thee ranging,
+ Hortensio will be quit with thee by changing.
+Enter Baptista, Gremio, Tranio as Lucentio,  Katherine,
+Bianca, Lucentio as Cambio,  and others, Attendants.
+, to Tranio
+ 
+ Signior Lucentio, this is the ’pointed day
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+FTLN 1358
+80
+FTLN 1359
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+85
+FTLN 1364
+FTLN 1365
+FTLN 1366
+FTLN 1367
+FTLN 1368
+90
+FTLN 1369
+FTLN 1370
+FTLN 1371
+FTLN 1372
+FTLN 1373
+95
+Scene 2
+FTLN 1374
+
+--- PAGE 60 / 110 ---
+117
+The Taming of the Shrew
+ACT 3. SC. 2
+KATHERINE
+TRANIO
+KATHERINE
+She exits weeping.
+BAPTISTA
+BIONDELLO
+ That Katherine and Petruchio should be married,
+ And yet we hear not of our son-in-law.
+ What will be said? What mockery will it be,
+ To want the bridegroom when the priest attends
+ To speak the ceremonial rites of marriage?
+ What says Lucentio to this shame of ours?
+ 
+ No shame but mine. I must, forsooth, be forced
+ To give my hand, opposed against my heart,
+ Unto a mad-brain rudesby, full of spleen,
+ Who wooed in haste and means to wed at leisure.
+ I told you, I, he was a frantic fool,
+ Hiding his bitter jests in blunt behavior,
+ And, to be noted for a merry man,
+ He’ll woo a thousand, ’point the day of marriage,
+ Make friends, invite, and proclaim the banns,
+ Yet never means to wed where he hath wooed.
+ Now must the world point at poor Katherine
+ And say “Lo, there is mad Petruchio’s wife,
+ If it would please him come and marry her.”
+, as Lucentio
+ 
+ Patience, good Katherine, and Baptista too.
+ Upon my life, Petruchio means but well,
+ Whatever fortune stays him from his word.
+ Though he be blunt, I know him passing wise;
+ Though he be merry, yet withal he’s honest.
+ 
+ Would Katherine had never seen him, though!
+ 
+ Go, girl. I cannot blame thee now to weep,
+ For such an injury would vex a very saint,
+ Much more a shrew of thy  impatient humor.
+Enter Biondello.
+  Master, master, news! And such old
+ news as you never heard of!
+FTLN 1375
+FTLN 1376
+FTLN 1377
+FTLN 1378
+5
+FTLN 1379
+FTLN 1380
+FTLN 1381
+FTLN 1382
+FTLN 1383
+10
+FTLN 1384
+FTLN 1385
+FTLN 1386
+FTLN 1387
+FTLN 1388
+15
+FTLN 1389
+FTLN 1390
+FTLN 1391
+FTLN 1392
+FTLN 1393
+20
+FTLN 1394
+FTLN 1395
+FTLN 1396
+FTLN 1397
+FTLN 1398
+25
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+FTLN 1403
+30
+FTLN 1404
+
+--- PAGE 61 / 110 ---
+119
+The Taming of the Shrew
+ACT 3. SC. 2
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+TRANIO
+BIONDELLO
+BAPTISTA
+ 
+ Is it new and old too? How may that be?
+  Why, is it not news to hear  of Petruchio’s
+ coming?
+  Is he come?
+  Why, no, sir.
+ 
+ What then?
+   He is coming.
+  
+ When will he be here?
+ 
+ When he stands where I am, and sees you there.
+, as Lucentio
+  But say, what to thine old news?
+  Why, Petruchio is coming in a new hat and
+ an old jerkin, a pair of old breeches thrice turned,
+ a pair of boots that have been candle-cases, one
+ buckled, another laced; an old rusty sword ta’en
+ out of the town armory, with a broken hilt, and
+ chapeless; with two broken points; his horse
+ hipped, with an old mothy saddle and stirrups of no
+ kindred, besides possessed with the glanders and
+ like to mose in the chine, troubled with the lampass,
+ infected with the fashions, full of windgalls,
+ sped with spavins, rayed with the yellows, past cure
+ of the fives, stark spoiled with the staggers, begnawn
+ with the bots, swayed  in the back and shoulder-shotten,
+ near-legged before, and with a half-checked
+ bit and a headstall of sheep’s leather,
+ which, being restrained to keep him from stumbling,
+ hath been often burst, and now repaired with
+ knots; one girth six times pieced, and a woman’s
+ crupper of velour, which hath two letters for her
+ name fairly set down in studs, and here and there
+ pieced with packthread.
+  Who comes with him?
+FTLN 1405
+FTLN 1406
+FTLN 1407
+FTLN 1408
+35
+FTLN 1409
+FTLN 1410
+FTLN 1411
+FTLN 1412
+FTLN 1413
+40
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+FTLN 1418
+45
+FTLN 1419
+FTLN 1420
+FTLN 1421
+FTLN 1422
+FTLN 1423
+50
+FTLN 1424
+FTLN 1425
+FTLN 1426
+FTLN 1427
+FTLN 1428
+55
+FTLN 1429
+FTLN 1430
+FTLN 1431
+FTLN 1432
+FTLN 1433
+60
+FTLN 1434
+FTLN 1435
+FTLN 1436
+
+--- PAGE 62 / 110 ---
+121
+The Taming of the Shrew
+ACT 3. SC. 2
+BIONDELLO
+TRANIO
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+BAPTISTA
+BIONDELLO
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+BAPTISTA
+TRANIO
+PETRUCHIO
+  Oh, sir, his lackey, for all the world caparisoned
+ like the horse: with a linen stock on one leg
+ and a kersey boot-hose on the other, gartered with
+ a red and blue list; an old hat, and the humor of
+ forty fancies pricked in ’t for a feather. A monster,
+ a very monster in apparel, and not like a Christian
+ footboy or a gentleman’s lackey.
+, as Lucentio
+ 
+ ’Tis some odd humor pricks him to this fashion,
+ Yet oftentimes he goes but mean-appareled.
+ 
+ I am glad he’s come, howsoe’er he comes.
+  Why, sir, he comes not.
+  Didst thou not say he comes?
+  Who? That Petruchio came?
+  Ay, that Petruchio came!
+  No, sir, I say his horse comes with him on
+ his back.
+  Why, that’s all one.
+ 
+ Nay, by Saint Jamy.
+ I hold you a penny,
+ A horse and a man
+ Is more than one,
+ And yet not many.
+Enter Petruchio and Grumio.
+ 
+ Come, where be these gallants? Who’s at home?
+  You are welcome, sir.
+  And yet I come not well.
+  And yet you halt not.
+, as Lucentio
+  Not so well appareled as I wish
+ you were.
+ 
+ Were it better I should rush in thus—
+FTLN 1437
+FTLN 1438
+65
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+FTLN 1443
+70
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+FTLN 1448
+75
+FTLN 1449
+FTLN 1450
+FTLN 1451
+FTLN 1452
+FTLN 1453
+80
+FTLN 1454
+FTLN 1455
+FTLN 1456
+FTLN 1457
+FTLN 1458
+85
+FTLN 1459
+FTLN 1460
+FTLN 1461
+FTLN 1462
+FTLN 1463
+90
+FTLN 1464
+FTLN 1465
+
+--- PAGE 63 / 110 ---
+123
+The Taming of the Shrew
+ACT 3. SC. 2
+BAPTISTA
+TRANIO
+PETRUCHIO
+TRANIO
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+ But where is Kate? Where is my lovely bride?
+ How does my father? Gentles, methinks you frown.
+ And wherefore gaze this goodly company
+ As if they saw some wondrous monument,
+ Some comet or unusual prodigy?
+ 
+ Why, sir, you know this is your wedding day.
+ First were we sad, fearing you would not come,
+ Now sadder that you come so unprovided.
+ Fie, doff this habit, shame to your estate,
+ An eyesore to our solemn festival.
+, as Lucentio
+ 
+ And tell us what occasion of import
+ Hath all so long detained you from your wife
+ And sent you hither so unlike yourself.
+ 
+ Tedious it were to tell, and harsh to hear.
+ Sufficeth I am come to keep my word,
+ Though in some part enforcèd to digress,
+ Which at more leisure I will so excuse
+ As you shall well be satisfied with all.
+ But where is Kate? I stay too long from her.
+ The morning wears. ’Tis time we were at church.
+, as Lucentio
+ 
+ See not your bride in these unreverent robes.
+ Go to my chamber, put on clothes of mine.
+ 
+ Not I, believe me. Thus I’ll visit her.
+ 
+ But thus, I trust, you will not marry her.
+ 
+ Good sooth, even thus. Therefore, ha’ done with
+ words.
+ To me she’s married, not unto my clothes.
+ Could I repair what she will wear in me,
+ As I can change these poor accoutrements,
+FTLN 1466
+FTLN 1467
+FTLN 1468
+95
+FTLN 1469
+FTLN 1470
+FTLN 1471
+FTLN 1472
+FTLN 1473
+100
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+FTLN 1478
+105
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+FTLN 1483
+110
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+FTLN 1488
+115
+FTLN 1489
+FTLN 1490
+FTLN 1491
+FTLN 1492
+FTLN 1493
+120
+FTLN 1494
+
+--- PAGE 64 / 110 ---
+125
+The Taming of the Shrew
+ACT 3. SC. 2
+Petruchio exits, with Grumio.
+TRANIO
+BAPTISTA
+All except Tranio and Lucentio  exit.
+TRANIO
+LUCENTIO
+TRANIO
+ ’Twere well for Kate and better for myself.
+ But what a fool am I to chat with you
+ When I should bid good morrow to my bride
+ And seal the title with a lovely kiss!
+, as Lucentio
+ 
+ He hath some meaning in his mad attire.
+ We will persuade him, be it possible,
+ To put on better ere he go to church.
+ 
+ I’ll after him, and see the event of this.
+ 
+ But, sir, to  love concerneth us to add
+ Her father’s liking, which to bring to pass,
+ As I  before imparted to your Worship,
+ I am to get a man (whate’er he be
+ It skills not much, we’ll fit him to our turn),
+ And he shall be “Vincentio of Pisa,”
+ And make assurance here in Padua
+ Of greater sums than I have promisèd.
+ So shall you quietly enjoy your hope
+ And marry sweet Bianca with consent.
+ 
+ Were it not that my fellow schoolmaster
+ Doth watch Bianca’s steps so narrowly,
+ ’Twere good, methinks, to steal our marriage,
+ Which, once performed, let all the world say no,
+ I’ll keep mine own despite of all the world.
+ 
+ That by degrees we mean to look into,
+ And watch our vantage in this business.
+ We’ll overreach the graybeard, Gremio,
+ The narrow prying father, Minola,
+ The quaint musician, amorous Litio,
+ All for my master’s sake, Lucentio.
+FTLN 1495
+FTLN 1496
+FTLN 1497
+FTLN 1498
+125
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+FTLN 1503
+130
+FTLN 1504
+FTLN 1505
+FTLN 1506
+FTLN 1507
+FTLN 1508
+135
+FTLN 1509
+FTLN 1510
+FTLN 1511
+FTLN 1512
+FTLN 1513
+140
+FTLN 1514
+FTLN 1515
+FTLN 1516
+FTLN 1517
+FTLN 1518
+145
+FTLN 1519
+FTLN 1520
+FTLN 1521
+FTLN 1522
+FTLN 1523
+150
+
+--- PAGE 65 / 110 ---
+127
+The Taming of the Shrew
+ACT 3. SC. 2
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+TRANIO
+GREMIO
+Enter Gremio.
+, as Lucentio
+ 
+ Signior Gremio, came you from the church?
+ 
+ As willingly as e’er I came from school.
+, as Lucentio
+ 
+ And is the bride and bridegroom coming home?
+ 
+ A bridegroom, say you? ’Tis a groom indeed,
+ A grumbling groom, and that the girl shall find.
+, as Lucentio
+ 
+ Curster than she? Why, ’tis impossible.
+ 
+ Why, he’s a devil, a devil, a very fiend.
+, as Lucentio
+ 
+ Why, she’s a devil, a devil, the devil’s dam.
+ 
+ Tut, she’s a lamb, a dove, a fool to him.
+ I’ll tell you, Sir Lucentio: when the priest
+ Should ask if Katherine should be his wife,
+ “Ay, by gog’s wouns!” quoth he, and swore so loud
+ That, all amazed, the priest let fall the book,
+ And as he stooped again to take it up,
+ This mad-brained bridegroom took him such a cuff
+ That down fell priest and book, and book and priest.
+ “Now, take them up,” quoth he, “if any list.”
+, as Lucentio
+ 
+ What said the wench when he rose again?
+ 
+ Trembled and shook, for why he stamped and swore
+ As if the vicar meant to cozen him.
+ But after many ceremonies done,
+ He calls for wine. “A health!” quoth he, as if
+ He had been aboard, carousing to his mates
+ After a storm; quaffed off the muscatel
+FTLN 1524
+FTLN 1525
+FTLN 1526
+FTLN 1527
+FTLN 1528
+155
+FTLN 1529
+FTLN 1530
+FTLN 1531
+FTLN 1532
+FTLN 1533
+160
+FTLN 1534
+FTLN 1535
+FTLN 1536
+FTLN 1537
+FTLN 1538
+165
+FTLN 1539
+FTLN 1540
+FTLN 1541
+FTLN 1542
+FTLN 1543
+170
+FTLN 1544
+FTLN 1545
+FTLN 1546
+FTLN 1547
+
+--- PAGE 66 / 110 ---
+129
+The Taming of the Shrew
+ACT 3. SC. 2
+Music plays.
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+TRANIO
+PETRUCHIO
+GREMIO
+PETRUCHIO
+ And threw the sops all in the sexton’s face,
+ Having no other reason
+ But that his beard grew thin and hungerly,
+ And seemed to ask him sops as he was drinking.
+ This done, he took the bride about the neck
+ And kissed her lips with such a clamorous smack
+ That at the parting all the church did echo.
+ And I, seeing this, came thence for very shame,
+ And after me I know the rout is coming.
+ Such a mad marriage never was before! 
+ Hark, hark, I hear the minstrels play.
+Enter Petruchio, Katherine, Bianca, Hortensio, Baptista,
+Grumio, and Attendants.
+ 
+ Gentlemen and friends, I thank you for your pains.
+ I know you think to dine with me today
+ And have prepared great store of wedding cheer,
+ But so it is, my haste doth call me hence,
+ And therefore here I mean to take my leave.
+ 
+ Is ’t possible you will away tonight?
+ 
+ I must away today, before night come.
+ Make it no wonder. If you knew my business,
+ You would entreat me rather go than stay.
+ And, honest company, I thank you all,
+ That have beheld me give away myself
+ To this most patient, sweet, and virtuous wife.
+ Dine with my father, drink a health to me,
+ For I must hence, and farewell to you all.
+, as Lucentio
+ 
+ Let us entreat you stay till after dinner.
+  It may not be.
+  Let me entreat you.
+  It cannot be.
+FTLN 1548
+175
+FTLN 1549
+FTLN 1550
+FTLN 1551
+FTLN 1552
+FTLN 1553
+180
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+FTLN 1558
+185
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+FTLN 1563
+190
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+FTLN 1568
+195
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+FTLN 1573
+200
+FTLN 1574
+FTLN 1575
+FTLN 1576
+
+--- PAGE 67 / 110 ---
+131
+The Taming of the Shrew
+ACT 3. SC. 2
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+GRUMIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+GREMIO
+KATHERINE
+PETRUCHIO
+  Let me entreat you.
+ 
+ I am content.
+  
+ Are you content to stay?
+ 
+ I am content you shall entreat me stay,
+ But yet not stay, entreat me how you can.
+ 
+ Now, if you love me, stay.
+  
+ Grumio, my horse.
+  Ay, sir, they be ready; the oats have eaten the
+ horses.
+  Nay, then,
+ Do what thou canst, I will not go today,
+ No, nor tomorrow, not till I please myself.
+ The door is open, sir. There lies your way.
+ You may be jogging whiles your boots are green.
+ For me, I’ll not be gone till I please myself.
+ ’Tis like you’ll prove a jolly surly groom,
+ That take it on you at the first so roundly.
+ 
+ O Kate, content thee. Prithee, be not angry.
+ 
+ I will be angry. What hast thou to do?—
+ Father, be quiet. He shall stay my leisure.
+ 
+ Ay, marry, sir, now it begins to work.
+ 
+ Gentlemen, forward to the bridal dinner.
+ I see a woman may be made a fool
+ If she had not a spirit to resist.
+ 
+ They shall go forward, Kate, at thy command.—
+ Obey the bride, you that attend on her.
+ Go to the feast, revel and domineer,
+ Carouse full measure to her maidenhead,
+FTLN 1577
+FTLN 1578
+205
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+FTLN 1583
+210
+FTLN 1584
+FTLN 1585
+FTLN 1586
+FTLN 1587
+FTLN 1588
+215
+FTLN 1589
+FTLN 1590
+FTLN 1591
+FTLN 1592
+FTLN 1593
+220
+FTLN 1594
+FTLN 1595
+FTLN 1596
+FTLN 1597
+FTLN 1598
+225
+FTLN 1599
+FTLN 1600
+FTLN 1601
+FTLN 1602
+FTLN 1603
+230
+FTLN 1604
+
+--- PAGE 68 / 110 ---
+133
+The Taming of the Shrew
+ACT 3. SC. 2
+Petruchio and Katherine exit, with Grumio.
+BAPTISTA
+GREMIO
+TRANIO
+LUCENTIO
+BIANCA
+GREMIO
+BAPTISTA
+ Be mad and merry, or go hang yourselves.
+ But for my bonny Kate, she must with me.
+ Nay, look not big, nor stamp, nor stare, nor fret;
+ I will be master of what is mine own.
+ She is my goods, my chattels; she is my house,
+ My household stuff, my field, my barn,
+ My horse, my ox, my ass, my anything.
+ And here she stands, touch her whoever dare.
+ I’ll bring mine action on the proudest he
+ That stops my way in Padua.—Grumio,
+ Draw forth thy weapon. We are beset with thieves.
+ Rescue thy mistress if thou be a man!—
+ Fear not, sweet wench, they shall not touch thee,
+ Kate.
+ I’ll buckler thee against a million.
+ 
+ Nay, let them go. A couple of quiet ones!
+ 
+ Went they not quickly, I should die with laughing.
+, as Lucentio
+ 
+ Of all mad matches never was the like.
+, as Cambio
+ 
+ Mistress, what’s your opinion of your sister?
+ 
+ That being mad herself, she’s madly mated.
+ 
+ I warrant him, Petruchio is Kated.
+ 
+ Neighbors and friends, though bride and
+ bridegroom wants
+ For to supply the places at the table,
+ You know there wants no junkets at the feast.
+  To Tranio.  Lucentio, you shall supply the
+ bridegroom’s place,
+ And let Bianca take her sister’s room.
+FTLN 1605
+FTLN 1606
+FTLN 1607
+FTLN 1608
+235
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+FTLN 1613
+240
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+FTLN 1618
+245
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+FTLN 1623
+250
+FTLN 1624
+FTLN 1625
+FTLN 1626
+FTLN 1627
+FTLN 1628
+255
+FTLN 1629
+FTLN 1630
+FTLN 1631
+FTLN 1632
+
+--- PAGE 69 / 110 ---
+135
+The Taming of the Shrew
+ACT 3. SC. 2
+TRANIO
+BAPTISTA
+They exit.
+, as Lucentio
+ 
+ Shall sweet Bianca practice how to bride it?
+, to Tranio
+ 
+ She shall, Lucentio. Come, gentlemen, let’s go.
+FTLN 1633
+260
+FTLN 1634
+
+--- PAGE 70 / 110 ---
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+Enter Grumio.
+  Fie, fie on all tired jades, on all mad masters,
+ and all foul ways! Was ever man so beaten? Was
+ ever man so ’rayed? Was ever man so weary? I am
+ sent before to make a fire, and they are coming
+ after to warm them. Now were not I a little pot and
+ soon hot, my very lips might freeze to my teeth, my
+ tongue to the roof of my mouth, my heart in my
+ belly, ere I should come by a fire to thaw me. But I
+ with blowing the fire shall warm myself. For, considering
+ the weather, a taller man than I will take
+ cold.—Holla, ho, Curtis!
+Enter Curtis.
+  Who is that calls so coldly?
+  A piece of ice. If thou doubt it, thou mayst
+ slide from my shoulder to my heel with no greater
+ a run but my head and my neck. A fire, good Curtis!
+  Is my master and his wife coming, Grumio?
+  Oh, ay, Curtis, ay, and therefore fire, fire! Cast
+ on no water.
+  Is she so hot a shrew as she’s reported?
+  She was, good Curtis, before this frost. But
+ thou know’st winter tames man, woman, and
+139
+ACT 4
+Scene 1
+FTLN 1635
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+5
+FTLN 1640
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+10
+FTLN 1645
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+15
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+20
+FTLN 1655
+
+--- PAGE 71 / 110 ---
+141
+The Taming of the Shrew
+ACT 4. SC. 1
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+ beast, for it hath tamed my old master and my new
+ mistress and myself, fellow Curtis.
+  Away, you three-inch fool, I am no beast!
+  Am I but three inches? Why, thy horn is a
+ foot, and so long am I, at the least. But wilt thou
+ make a fire? Or shall I complain on thee to our
+ mistress, whose hand (she being now at hand) thou
+ shalt soon feel, to thy cold comfort, for being slow in
+ thy hot office?
+  I prithee, good Grumio, tell me, how goes the
+ world?
+  A cold world, Curtis, in every office but thine,
+ and therefore fire! Do thy duty, and have thy duty,
+ for my master and mistress are almost frozen to
+ death.
+  There’s fire ready. And therefore, good Grumio,
+ the news!
+  Why, “Jack boy, ho boy!” and as much news
+ as wilt thou.
+  Come, you are so full of cony-catching.
+  Why, therefore fire, for I have caught extreme
+ cold. Where’s the cook? Is supper ready, the house
+ trimmed, rushes strewed, cobwebs swept, the servingmen
+ in their new fustian, their  white stockings,
+ and every officer his wedding garment on? Be
+ the Jacks fair within, the Jills fair without, the
+ carpets laid, and everything in order?
+  All ready. And therefore, I pray thee, news.
+  First, know my horse is tired, my master and
+ mistress fallen out.
+  How?
+  Out of their saddles into the dirt, and thereby
+ hangs a tale.
+  Let’s ha’ t, good Grumio.
+  Lend thine ear.
+  Here.
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+25
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+30
+FTLN 1665
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+35
+FTLN 1670
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+40
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+45
+FTLN 1680
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+50
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+55
+FTLN 1690
+FTLN 1691
+
+--- PAGE 72 / 110 ---
+143
+The Taming of the Shrew
+ACT 4. SC. 1
+GRUMIO
+He slaps Curtis on the ear.
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+  There! 
+  This ’tis to feel a tale, not to hear a tale.
+  And therefore ’tis called a sensible tale. And
+ this cuff was but to knock at your ear and beseech
+ list’ning. Now I begin: Imprimis, we came down a
+ foul hill, my master riding behind my mistress—
+  Both of one horse?
+  What’s that to thee?
+  Why, a horse.
+  Tell thou the tale! But hadst thou not crossed
+ me, thou shouldst have heard how her horse fell,
+ and she under her horse; thou shouldst have heard
+ in how miry a place, how she was bemoiled, how he
+ left her with the horse upon her, how he beat me
+ because her horse stumbled, how she waded
+ through the dirt to pluck him off me, how he swore,
+ how she prayed that never prayed before, how I
+ cried, how the horses ran away, how her bridle was
+ burst, how I lost my crupper, with many things of
+ worthy memory which now shall die in oblivion,
+ and thou return unexperienced to thy grave.
+  By this reck’ning, he is more shrew than she.
+  Ay, and that thou and the proudest of you all
+ shall find when he comes home. But what talk I of
+ this? Call forth Nathaniel, Joseph, Nicholas, Phillip,
+ Walter, Sugarsop, and the rest. Let their heads
+ be slickly combed, their blue coats brushed, and
+ their garters of an indifferent knit. Let them curtsy
+ with their left legs, and not presume to touch a hair
+ of my master’s horse-tail till they kiss their hands.
+ Are they all ready?
+  They are.
+  Call them forth.
+, calling out
+  Do you hear, ho? You must meet
+ my master to countenance my mistress.
+  Why, she hath a face of her own.
+FTLN 1692
+FTLN 1693
+FTLN 1694
+60
+FTLN 1695
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+65
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+70
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+75
+FTLN 1710
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+80
+FTLN 1715
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+85
+FTLN 1720
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+90
+FTLN 1725
+FTLN 1726
+FTLN 1727
+
+--- PAGE 73 / 110 ---
+145
+The Taming of the Shrew
+ACT 4. SC. 1
+CURTIS
+GRUMIO
+CURTIS
+GRUMIO
+NATHANIEL
+PHILLIP
+JOSEPH
+NICHOLAS
+NATHANIEL
+GRUMIO
+NATHANIEL
+GRUMIO
+PETRUCHIO
+ALL THE SERVANTS
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+  Who knows not that?
+  Thou, it seems, that calls for company to
+ countenance her.
+  I call them forth to credit her.
+  Why, she comes to borrow nothing of them.
+Enter four or five Servingmen.
+  Welcome home, Grumio.
+  How now, Grumio?
+  What, Grumio!
+  Fellow Grumio!
+  How now, old lad?
+  Welcome, you!—How now, you?—What,
+ you!—Fellow, you!—And thus much for greeting.
+ Now, my spruce companions, is all ready and all
+ things neat?
+  All things is ready. How near is our
+ master?
+  E’en at hand, alighted by this. And therefore
+ be not—Cock’s passion, silence! I hear my master.
+Enter Petruchio and Katherine.
+ 
+ Where be these knaves? What, no man at door
+ To hold my stirrup nor to take my horse?
+ Where is Nathaniel, Gregory, Phillip?
+  Here! Here, sir, here, sir!
+ 
+ “Here, sir! Here, sir! Here, sir! Here, sir!”
+ You loggerheaded and unpolished grooms.
+ What? No attendance? No regard? No duty?
+ Where is the foolish knave I sent before?
+ 
+ Here, sir, as foolish as I was before.
+ 
+ You peasant swain, you whoreson malt-horse
+ drudge!
+FTLN 1728
+FTLN 1729
+95
+FTLN 1730
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+100
+FTLN 1735
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+105
+FTLN 1740
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+110
+FTLN 1745
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+115
+FTLN 1750
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+120
+FTLN 1755
+FTLN 1756
+
+--- PAGE 74 / 110 ---
+147
+The Taming of the Shrew
+ACT 4. SC. 1
+GRUMIO
+PETRUCHIO
+The Servants exit.
+They sit at a table.
+Servant begins to remove Petruchio’s boots.
+He hits the Servant.
+A Servant exits.
+ Did I not bid thee meet me in the park
+ And bring along these rascal knaves with thee?
+ 
+ Nathaniel’s coat, sir, was not fully made,
+ And Gabriel’s pumps were all unpinked i’ th’ heel.
+ There was no link to color Peter’s hat,
+ And Walter’s dagger was not come from sheathing.
+ There were none fine but Adam, Rafe, and Gregory.
+ The rest were ragged, old, and beggarly.
+ Yet, as they are, here are they come to meet you.
+ 
+ Go, rascals, go, and fetch my supper in!
+Sings.   Where is the life that late I led?
+ Where are those—
+ Sit down, Kate, and welcome.
+ Soud, soud, soud, soud!
+Enter Servants with supper.
+ Why, when, I say?—Nay, good sweet Kate, be
+ merry.—
+ Off with my boots, you rogues, you villains! When?
+Sings.   It was the friar of orders gray,
+ As he forth walkèd on his way—
+ Out, you rogue! You pluck my foot awry.
+ Take that! 
+ And mend the plucking of the other.—
+ Be merry, Kate.—Some water here! What ho!
+Enter one with water.
+ Where’s my spaniel Troilus? Sirrah, get you hence
+ And bid my cousin Ferdinand come hither.
+FTLN 1757
+FTLN 1758
+FTLN 1759
+125
+FTLN 1760
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+130
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+135
+FTLN 1770
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+140
+FTLN 1775
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+145
+FTLN 1780
+FTLN 1781
+
+--- PAGE 75 / 110 ---
+149
+The Taming of the Shrew
+ACT 4. SC. 1
+He hits the Servant.
+KATHERINE
+PETRUCHIO
+FIRST SERVANT
+PETRUCHIO
+PETER
+PETRUCHIO
+He throws the food and dishes at them.
+The Servants exit.
+KATHERINE
+PETRUCHIO
+ One, Kate, that you must kiss and be acquainted
+ with.—
+ Where are my slippers? Shall I have some water?—
+ Come, Kate, and wash, and welcome heartily.—
+ You whoreson villain, will you let it fall?
+ 
+ Patience, I pray you, ’twas a fault unwilling.
+ 
+ A whoreson beetle-headed flap-eared knave!—
+ Come, Kate, sit down. I know you have a stomach.
+ Will you give thanks, sweet Kate, or else shall I?—
+ What’s this? Mutton?
+  
+ Ay.
+  
+ Who brought it?
+  
+ I.
+  ’Tis burnt, and so is all the meat.
+ What dogs are these? Where is the rascal cook?
+ How durst you, villains, bring it from the dresser
+ And serve it thus to me that love it not?
+ There, take it to you, trenchers, cups, and all!
+ You heedless joltheads and unmannered slaves!
+ What, do you grumble? I’ll be with you straight.
+ 
+ I pray you, husband, be not so disquiet.
+ The meat was well, if you were so contented.
+ 
+ I tell thee, Kate, ’twas burnt and dried away,
+ And I expressly am forbid to touch it,
+ For it engenders choler, planteth anger,
+ And better ’twere that both of us did fast
+ (Since of ourselves, ourselves are choleric)
+ Than feed it with such over-roasted flesh.
+ Be patient. Tomorrow ’t shall be mended,
+FTLN 1782
+FTLN 1783
+FTLN 1784
+150
+FTLN 1785
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+155
+FTLN 1790
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+160
+FTLN 1795
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+165
+FTLN 1800
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+170
+FTLN 1805
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+175
+FTLN 1810
+
+--- PAGE 76 / 110 ---
+151
+The Taming of the Shrew
+ACT 4. SC. 1
+They exit.
+NATHANIEL
+PETER
+GRUMIO
+CURTIS
+The Servants exit.
+PETRUCHIO
+ And for this night we’ll fast for company.
+ Come, I will bring thee to thy bridal chamber.
+Enter Servants severally.
+  Peter, didst ever see the like?
+  He kills her in her own humor.
+Enter Curtis.
+  Where is he?
+  In her chamber,
+ Making a sermon of continency to her,
+ And rails and swears and rates, that she (poor soul)
+ Knows not which way to stand, to look, to speak,
+ And sits as one new-risen from a dream.
+ Away, away, for he is coming hither!
+Enter Petruchio.
+ 
+ Thus have I politicly begun my reign,
+ And ’tis my hope to end successfully.
+ My falcon now is sharp and passing empty,
+ And, till she stoop, she must not be full-gorged,
+ For then she never looks upon her lure.
+ Another way I have to man my haggard,
+ To make her come and know her keeper’s call.
+ That is, to watch her, as we watch these kites
+ That bate and beat and will not be obedient.
+ She ate no meat today, nor none shall eat.
+ Last night she slept not, nor tonight she shall not.
+ As with the meat, some undeservèd fault
+ I’ll find about the making of the bed,
+ And here I’ll fling the pillow, there the bolster,
+ This way the coverlet, another way the sheets.
+ Ay, and amid this hurly I intend
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+180
+FTLN 1815
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+185
+FTLN 1820
+FTLN 1821
+FTLN 1822
+FTLN 1823
+FTLN 1824
+190
+FTLN 1825
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+195
+FTLN 1830
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+200
+FTLN 1835
+FTLN 1836
+FTLN 1837
+
+--- PAGE 77 / 110 ---
+153
+The Taming of the Shrew
+ACT 4. SC. 2
+He exits.
+TRANIO
+HORTENSIO
+They stand aside.
+LUCENTIO
+BIANCA
+LUCENTIO
+BIANCA
+LUCENTIO
+They move aside and kiss and talk.
+HORTENSIO
+ That all is done in reverend care of her.
+ And, in conclusion, she shall watch all night,
+ And, if she chance to nod, I’ll rail and brawl,
+ And with the clamor keep her still awake.
+ This is a way to kill a wife with kindness.
+ And thus I’ll curb her mad and headstrong humor.
+ He that knows better how to tame a shrew,
+ Now let him speak; ’tis charity to shew.
+Enter Tranio as Lucentio  and Hortensio as Litio.
+, as Lucentio
+ 
+ Is ’t possible, friend Litio, that mistress Bianca
+ Doth fancy any other but Lucentio?
+ I tell you, sir, she bears me fair in hand.
+, as Litio
+ 
+ Sir, to satisfy you in what I have said,
+ Stand by, and mark the manner of his teaching.
+Enter Bianca and Lucentio as Cambio.
+, as Cambio
+ 
+ Now mistress, profit you in what you read?
+ 
+ What, master, read you? First resolve me that.
+, as Cambio
+ 
+ I read that I profess, The Art to Love.
+ 
+ And may you prove, sir, master of your art.
+, as Cambio
+ 
+ While you, sweet dear, prove mistress of my heart.
+, as Litio
+ 
+ Quick proceeders, marry! Now tell me, I pray,
+FTLN 1838
+FTLN 1839
+205
+FTLN 1840
+FTLN 1841
+FTLN 1842
+FTLN 1843
+FTLN 1844
+210
+FTLN 1845
+Scene 2
+FTLN 1846
+FTLN 1847
+FTLN 1848
+FTLN 1849
+FTLN 1850
+5
+FTLN 1851
+FTLN 1852
+FTLN 1853
+FTLN 1854
+FTLN 1855
+10
+FTLN 1856
+
+--- PAGE 78 / 110 ---
+155
+The Taming of the Shrew
+ACT 4. SC. 2
+TRANIO
+HORTENSIO
+TRANIO
+HORTENSIO
+TRANIO
+HORTENSIO
+ You that durst swear that your mistress Bianca
+ Loved none  in the world so well as Lucentio.
+, as Lucentio
+ 
+ O despiteful love, unconstant womankind!
+ I tell thee, Litio, this is wonderful!
+ 
+ Mistake no more. I am not Litio,
+ Nor a musician as I seem to be,
+ But one that scorn to live in this disguise
+ For such a one as leaves a gentleman
+ And makes a god of such a cullion.
+ Know, sir, that I am called Hortensio.
+, as Lucentio
+ 
+ Signior Hortensio, I have often heard
+ Of your entire affection to Bianca,
+ And since mine eyes are witness of her lightness,
+ I will with you, if you be so contented,
+ Forswear Bianca and her love forever.
+ 
+ See how they kiss and court! Signior Lucentio,
+ Here is my hand, and here I firmly vow
+ Never to woo her more, but do forswear her
+ As one unworthy all the former favors
+ That I have fondly flattered her  withal.
+, as Lucentio
+ 
+ And here I take the like unfeignèd oath,
+ Never to marry with her, though she would entreat.
+ Fie on her, see how beastly she doth court him!
+ 
+ Would all the world but he had quite forsworn!
+ For me, that I may surely keep mine oath,
+ I will be married to a wealthy widow
+ Ere three days pass, which hath as long loved me
+ As I have loved this proud disdainful haggard.
+ And so farewell, Signior Lucentio.
+ Kindness in women, not their beauteous looks,
+FTLN 1857
+FTLN 1858
+FTLN 1859
+FTLN 1860
+15
+FTLN 1861
+FTLN 1862
+FTLN 1863
+FTLN 1864
+FTLN 1865
+20
+FTLN 1866
+FTLN 1867
+FTLN 1868
+FTLN 1869
+FTLN 1870
+25
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+FTLN 1875
+30
+FTLN 1876
+FTLN 1877
+FTLN 1878
+FTLN 1879
+FTLN 1880
+35
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+FTLN 1885
+40
+FTLN 1886
+
+--- PAGE 79 / 110 ---
+157
+The Taming of the Shrew
+ACT 4. SC. 2
+Hortensio exits;
+Bianca and Lucentio come forward.
+TRANIO
+BIANCA
+TRANIO
+LUCENTIO
+TRANIO
+BIANCA
+TRANIO
+BIANCA
+TRANIO
+BIANCA
+TRANIO
+BIONDELLO
+ Shall win my love, and so I take my leave,
+ In resolution as I swore before.
+ 
+ Mistress Bianca, bless you with such grace
+ As ’longeth to a lover’s blessèd case!
+ Nay, I have ta’en you napping, gentle love,
+ And have forsworn you with Hortensio.
+ 
+ Tranio, you jest. But have you both forsworn me?
+ 
+ Mistress, we have.
+  
+ Then we are rid of Litio.
+ 
+ I’ faith, he’ll have a lusty widow now
+ That shall be wooed and wedded in a day.
+  God give him joy.
+ 
+ Ay, and he’ll tame her.
+  
+ He says so, Tranio?
+ 
+ Faith, he is gone unto the taming school.
+ 
+ The taming school? What, is there such a place?
+ 
+ Ay, mistress, and Petruchio is the master,
+ That teacheth tricks eleven and twenty long
+ To tame a shrew and charm her chattering tongue.
+Enter Biondello.
+ 
+ O master, master, I have watched so long
+ That I am dog-weary, but at last I spied
+ An ancient angel coming down the hill
+ Will serve the turn.
+FTLN 1887
+FTLN 1888
+FTLN 1889
+FTLN 1890
+45
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+FTLN 1895
+50
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+FTLN 1900
+55
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+FTLN 1905
+60
+FTLN 1906
+FTLN 1907
+FTLN 1908
+FTLN 1909
+
+--- PAGE 80 / 110 ---
+159
+The Taming of the Shrew
+ACT 4. SC. 2
+TRANIO
+BIONDELLO
+LUCENTIO
+TRANIO
+Lucentio and Bianca exit.
+MERCHANT
+TRANIO
+MERCHANT
+TRANIO
+MERCHANT
+TRANIO
+MERCHANT
+TRANIO
+  
+ What is he, Biondello?
+ 
+ Master, a marcantant, or a pedant,
+ I know not what, but formal in apparel,
+ In gait and countenance surely like a father.
+  And what of him, Tranio?
+ 
+ If he be credulous, and trust my tale,
+ I’ll make him glad to seem Vincentio
+ And give assurance to Baptista Minola
+ As if he were the right Vincentio.
+ Take in  your love, and then let me alone.
+Enter a Merchant.
+ 
+ God save you, sir.
+, as Lucentio
+   And you, sir. You are welcome.
+ Travel you far on, or are you at the farthest?
+ 
+ Sir, at the farthest for a week or two,
+ But then up farther, and as far as Rome,
+ And so to Tripoli, if God lend me life.
+, as Lucentio
+ 
+ What countryman, I pray?
+  
+ Of Mantua.
+, as Lucentio
+ 
+ Of Mantua, sir? Marry, God forbid!
+ And come to Padua, careless of your life?
+ 
+ My life, sir? How, I pray? For that goes hard.
+, as Lucentio
+ 
+ ’Tis death for anyone in Mantua
+ To come to Padua. Know you not the cause?
+ Your ships are stayed at Venice, and the Duke,
+ For private quarrel ’twixt your duke and him,
+FTLN 1910
+65
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+FTLN 1915
+70
+FTLN 1916
+FTLN 1917
+FTLN 1918
+FTLN 1919
+FTLN 1920
+75
+FTLN 1921
+FTLN 1922
+FTLN 1923
+FTLN 1924
+FTLN 1925
+80
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+FTLN 1930
+85
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+
+--- PAGE 81 / 110 ---
+161
+The Taming of the Shrew
+ACT 4. SC. 2
+MERCHANT
+TRANIO
+MERCHANT
+TRANIO
+MERCHANT
+TRANIO
+BIONDELLO
+TRANIO
+ Hath published and proclaimed it openly.
+ ’Tis marvel, but that you are but newly come,
+ You might have heard it else proclaimed about.
+ 
+ Alas, sir, it is worse for me than so,
+ For I have bills for money by exchange
+ From Florence, and must here deliver them.
+, as Lucentio
+ 
+ Well, sir, to do you courtesy,
+ This will I do, and this I will advise you.
+ First tell me, have you ever been at Pisa?
+ 
+ Ay, sir, in Pisa have I often been,
+ Pisa renownèd for grave citizens.
+, as Lucentio
+ 
+ Among them know you one Vincentio?
+ 
+ I know him not, but I have heard of him:
+ A merchant of incomparable wealth.
+, as Lucentio
+ 
+ He is my father, sir, and sooth to say,
+ In count’nance somewhat doth resemble you.
+, aside
+  As much as an apple doth an
+ oyster, and all one.
+, as Lucentio
+ 
+ To save your life in this extremity,
+ This favor will I do you for his sake
+ (And think it not the worst of all your fortunes
+ That you are like to Sir Vincentio):
+ His name and credit shall you undertake,
+ And in my house you shall be friendly lodged.
+ Look that you take upon you as you should.
+ You understand me, sir. So shall you stay
+ Till you have done your business in the city.
+ If this be court’sy, sir, accept of it.
+FTLN 1935
+90
+FTLN 1936
+FTLN 1937
+FTLN 1938
+FTLN 1939
+FTLN 1940
+95
+FTLN 1941
+FTLN 1942
+FTLN 1943
+FTLN 1944
+FTLN 1945
+100
+FTLN 1946
+FTLN 1947
+FTLN 1948
+FTLN 1949
+FTLN 1950
+105
+FTLN 1951
+FTLN 1952
+FTLN 1953
+FTLN 1954
+FTLN 1955
+110
+FTLN 1956
+FTLN 1957
+FTLN 1958
+FTLN 1959
+FTLN 1960
+115
+FTLN 1961
+FTLN 1962
+
+--- PAGE 82 / 110 ---
+163
+The Taming of the Shrew
+ACT 4. SC. 3
+MERCHANT
+TRANIO
+They exit.
+GRUMIO
+KATHERINE
+GRUMIO
+ 
+ O sir, I do, and will repute you ever
+ The patron of my life and liberty.
+, as Lucentio
+ 
+ Then go with me, to make the matter good.
+ This, by the way, I let you understand:
+ My father is here looked for every day
+ To pass assurance of a dower in marriage
+ ’Twixt me and one Baptista’s daughter here.
+ In all these circumstances I’ll instruct you.
+ Go with me to clothe you as becomes you.
+Enter Katherine and Grumio.
+ 
+ No, no, forsooth, I dare not for my life.
+ 
+ The more my wrong, the more his spite appears.
+ What, did he marry me to famish me?
+ Beggars that come unto my father’s door
+ Upon entreaty have a present alms.
+ If not, elsewhere they meet with charity.
+ But I, who never knew how to entreat,
+ Nor never needed that I should entreat,
+ Am starved for meat, giddy for lack of sleep,
+ With oaths kept waking and with brawling fed.
+ And that which spites me more than all these wants,
+ He does it under name of perfect love,
+ As who should say, if I should sleep or eat
+ ’Twere deadly sickness or else present death.
+ I prithee, go, and get me some repast,
+ I care not what, so it be wholesome food.
+  What say you to a neat’s foot?
+FTLN 1963
+FTLN 1964
+FTLN 1965
+120
+FTLN 1966
+FTLN 1967
+FTLN 1968
+FTLN 1969
+FTLN 1970
+125
+FTLN 1971
+Scene 3
+FTLN 1972
+FTLN 1973
+FTLN 1974
+FTLN 1975
+FTLN 1976
+5
+FTLN 1977
+FTLN 1978
+FTLN 1979
+FTLN 1980
+FTLN 1981
+10
+FTLN 1982
+FTLN 1983
+FTLN 1984
+FTLN 1985
+FTLN 1986
+15
+FTLN 1987
+FTLN 1988
+
+--- PAGE 83 / 110 ---
+165
+The Taming of the Shrew
+ACT 4. SC. 3
+KATHERINE
+GRUMIO
+KATHERINE
+GRUMIO
+KATHERINE
+GRUMIO
+KATHERINE
+GRUMIO
+KATHERINE
+GRUMIO
+KATHERINE
+She  beats him.
+PETRUCHIO
+HORTENSIO
+KATHERINE
+ 
+ ’Tis passing good. I prithee let me have it.
+ 
+ I fear it is too choleric a meat.
+ How say you to a fat tripe finely broiled?
+ 
+ I like it well. Good Grumio, fetch it me.
+ 
+ I cannot tell. I fear ’tis choleric.
+ What say you to a piece of beef and mustard?
+ 
+ A dish that I do love to feed upon.
+ 
+ Ay, but the mustard is too hot a little.
+ 
+ Why then, the beef, and let the mustard rest.
+ 
+ Nay then, I will not. You shall have the mustard
+ Or else you get no beef of Grumio.
+ 
+ Then both, or one, or any thing thou wilt.
+ 
+ Why then, the mustard without the beef.
+ 
+ Go, get thee gone, thou false deluding slave,
+ That feed’st me with the very name of meat.
+ Sorrow on thee, and all the pack of you
+ That triumph thus upon my misery.
+ Go, get thee gone, I say.
+Enter Petruchio and Hortensio with meat.
+ 
+ How fares my Kate? What, sweeting, all amort?
+ 
+ Mistress, what cheer?
+  
+ Faith, as cold as can be.
+FTLN 1989
+FTLN 1990
+FTLN 1991
+20
+FTLN 1992
+FTLN 1993
+FTLN 1994
+FTLN 1995
+FTLN 1996
+25
+FTLN 1997
+FTLN 1998
+FTLN 1999
+FTLN 2000
+FTLN 2001
+30
+FTLN 2002
+FTLN 2003
+FTLN 2004
+FTLN 2005
+FTLN 2006
+35
+FTLN 2007
+FTLN 2008
+FTLN 2009
+
+--- PAGE 84 / 110 ---
+167
+The Taming of the Shrew
+ACT 4. SC. 3
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+HORTENSIO
+PETRUCHIO
+Katherine and Hortensio prepare to eat.
+ 
+ Pluck up thy spirits. Look cheerfully upon me.
+ Here, love, thou seest how diligent I am,
+ To dress thy meat myself and bring it thee.
+ I am sure, sweet Kate, this kindness merits thanks.
+ What, not a word? Nay then, thou lov’st it not,
+ And all my pains is sorted to no proof.
+ Here, take away this dish.
+  I pray you, let it stand.
+ 
+ The poorest service is repaid with thanks,
+ And so shall mine before you touch the meat.
+  I thank you, sir.
+ 
+ Signior Petruchio, fie, you are to blame.
+ Come, Mistress Kate, I’ll bear you company.
+, aside to Hortensio
+ 
+ Eat it up all, Hortensio, if thou lovest me.—
+ Much good do it unto thy gentle heart.
+ Kate, eat apace.
+ And now, my honey love,
+ Will we return unto thy father’s house
+ And revel it as bravely as the best,
+ With silken coats and caps and golden rings,
+ With ruffs and cuffs and farthingales and things,
+ With scarves and fans and double change of brav’ry,
+ With amber bracelets, beads, and all this knav’ry.
+ What, hast thou dined? The tailor stays thy leisure
+ To deck thy body with his ruffling treasure.
+Enter Tailor.
+ Come, tailor, let us see these ornaments.
+ Lay forth the gown.
+Enter Haberdasher.
+ What news with you, sir?
+FTLN 2010
+FTLN 2011
+40
+FTLN 2012
+FTLN 2013
+FTLN 2014
+FTLN 2015
+FTLN 2016
+45
+FTLN 2017
+FTLN 2018
+FTLN 2019
+FTLN 2020
+FTLN 2021
+50
+FTLN 2022
+FTLN 2023
+FTLN 2024
+FTLN 2025
+FTLN 2026
+55
+FTLN 2027
+FTLN 2028
+FTLN 2029
+FTLN 2030
+FTLN 2031
+60
+FTLN 2032
+FTLN 2033
+FTLN 2034
+FTLN 2035
+FTLN 2036
+65
+FTLN 2037
+
+--- PAGE 85 / 110 ---
+169
+The Taming of the Shrew
+ACT 4. SC. 3
+HABERDASHER
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+HORTENSIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+Exit Haberdasher.
+PETRUCHIO
+ 
+ Here is the cap your Worship did bespeak.
+ 
+ Why, this was molded on a porringer!
+ A velvet dish! Fie, fie, ’tis lewd and filthy.
+ Why, ’tis a cockle or a walnut shell,
+ A knack, a toy, a trick, a baby’s cap.
+ Away with it! Come, let me have a bigger.
+ 
+ I’ll have no bigger. This doth fit the time,
+ And gentlewomen wear such caps as these.
+ 
+ When you are gentle, you shall have one too,
+ And not till then.
+, aside
+   That will not be in haste.
+ 
+ Why, sir, I trust I may have leave to speak,
+ And speak I will. I am no child, no babe.
+ Your betters have endured me say my mind,
+ And if you cannot, best you stop your ears.
+ My tongue will tell the anger of my heart,
+ Or else my heart, concealing it, will break,
+ And, rather than it shall, I will be free
+ Even to the uttermost, as I please, in words.
+ 
+ Why, thou sayst true. It is a  paltry cap,
+ A custard-coffin, a bauble, a silken pie.
+ I love thee well in that thou lik’st it not.
+ 
+ Love me, or love me not, I like the cap,
+ And it I will have, or I will have none.
+ 
+ Thy gown? Why, ay. Come, tailor, let us see ’t.
+ O mercy God, what masking-stuff is here?
+FTLN 2038
+FTLN 2039
+FTLN 2040
+FTLN 2041
+70
+FTLN 2042
+FTLN 2043
+FTLN 2044
+FTLN 2045
+FTLN 2046
+75
+FTLN 2047
+FTLN 2048
+FTLN 2049
+FTLN 2050
+FTLN 2051
+80
+FTLN 2052
+FTLN 2053
+FTLN 2054
+FTLN 2055
+FTLN 2056
+85
+FTLN 2057
+FTLN 2058
+FTLN 2059
+FTLN 2060
+FTLN 2061
+90
+FTLN 2062
+FTLN 2063
+
+--- PAGE 86 / 110 ---
+171
+The Taming of the Shrew
+ACT 4. SC. 3
+HORTENSIO
+TAILOR
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+TAILOR
+PETRUCHIO
+ What’s this? A sleeve? ’Tis like a  demi-cannon.
+ What, up and down carved like an apple tart?
+ Here’s snip and nip and cut and slish and slash,
+ Like to a censer in a barber’s shop.
+ Why, what a devil’s name, tailor, call’st thou this?
+, aside
+ 
+ I see she’s like to have neither cap nor gown.
+ 
+ You bid me make it orderly and well,
+ According to the fashion and the time.
+ 
+ Marry, and did. But if you be remembered,
+ I did not bid you mar it to the time.
+ Go, hop me over every kennel home,
+ For you shall hop without my custom, sir.
+ I’ll none of it. Hence, make your best of it.
+ 
+ I never saw a better-fashioned gown,
+ More quaint, more pleasing, nor more
+ commendable.
+ Belike you mean to make a puppet of me.
+ 
+ Why, true, he means to make a puppet of thee.
+ 
+ She says your Worship means to make a puppet of
+ her.
+ 
+ O monstrous arrogance! Thou liest, thou thread,
+ thou thimble,
+ Thou yard, three-quarters, half-yard, quarter, nail!
+ Thou flea, thou nit, thou winter cricket, thou!
+ Braved in mine own house with a skein of thread?
+ Away, thou rag, thou quantity, thou remnant,
+ Or I shall so be-mete thee with thy yard
+ As thou shalt think on prating whilst thou liv’st.
+ I tell thee, I, that thou hast marred her gown.
+FTLN 2064
+FTLN 2065
+FTLN 2066
+95
+FTLN 2067
+FTLN 2068
+FTLN 2069
+FTLN 2070
+FTLN 2071
+100
+FTLN 2072
+FTLN 2073
+FTLN 2074
+FTLN 2075
+FTLN 2076
+105
+FTLN 2077
+FTLN 2078
+FTLN 2079
+FTLN 2080
+FTLN 2081
+110
+FTLN 2082
+FTLN 2083
+FTLN 2084
+FTLN 2085
+FTLN 2086
+115
+FTLN 2087
+FTLN 2088
+FTLN 2089
+FTLN 2090
+FTLN 2091
+120
+FTLN 2092
+
+--- PAGE 87 / 110 ---
+173
+The Taming of the Shrew
+ACT 4. SC. 3
+TAILOR
+GRUMIO
+TAILOR
+GRUMIO
+TAILOR
+GRUMIO
+TAILOR
+GRUMIO
+TAILOR
+He shows a paper.
+PETRUCHIO
+GRUMIO
+TAILOR
+GRUMIO
+PETRUCHIO
+TAILOR
+GRUMIO
+TAILOR
+GRUMIO
+TAILOR
+PETRUCHIO
+GRUMIO
+ 
+ Your Worship is deceived. The gown is made
+ Just as my master had direction.
+ Grumio gave order how it should be done.
+  I gave him no order. I gave him the stuff.
+ 
+ But how did you desire it should be made?
+  Marry, sir, with needle and thread.
+ 
+ But did you not request to have it cut?
+  Thou hast faced many things.
+  I have.
+  Face not me. Thou hast braved many men;
+ brave not me. I will neither be faced nor braved. I
+ say unto thee, I bid thy master cut out the gown,
+ but I did not bid him cut it to pieces. Ergo, thou
+ liest.
+  Why, here is the note of the fashion to testify.
+  Read it.
+  The note lies in ’s throat, if he say I said so.
+ reads
+  “Imprimis, a loose-bodied gown—”
+  Master, if ever I said “loose-bodied gown,”
+ sew me in the skirts of it and beat me to death with
+ a bottom of brown thread. I said “a gown.”
+  Proceed.
+ reads
+  “With a small-compassed cape—”
+  I confess the cape.
+ reads
+  “With a trunk sleeve—”
+  I confess two sleeves.
+ reads
+  “The sleeves curiously cut.”
+  Ay, there’s the villainy.
+  Error i’ th’ bill, sir, error i’ th’ bill! I commanded
+ the sleeves should be cut out and sewed
+ up again, and that I’ll prove upon thee, though thy
+ little finger be armed in a thimble.
+FTLN 2093
+FTLN 2094
+FTLN 2095
+FTLN 2096
+125
+FTLN 2097
+FTLN 2098
+FTLN 2099
+FTLN 2100
+FTLN 2101
+130
+FTLN 2102
+FTLN 2103
+FTLN 2104
+FTLN 2105
+FTLN 2106
+135
+FTLN 2107
+FTLN 2108
+FTLN 2109
+FTLN 2110
+FTLN 2111
+140
+FTLN 2112
+FTLN 2113
+FTLN 2114
+FTLN 2115
+FTLN 2116
+145
+FTLN 2117
+FTLN 2118
+FTLN 2119
+FTLN 2120
+FTLN 2121
+150
+FTLN 2122
+FTLN 2123
+FTLN 2124
+
+--- PAGE 88 / 110 ---
+175
+The Taming of the Shrew
+ACT 4. SC. 3
+TAILOR
+GRUMIO
+HORTENSIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+GRUMIO
+PETRUCHIO
+HORTENSIO
+Tailor exits.
+PETRUCHIO
+  This is true that I say. An I had thee in place
+ where, thou shouldst know it.
+  I am for thee straight. Take thou the bill, give
+ me thy mete-yard, and spare not me.
+  God-a-mercy, Grumio, then he shall have
+ no odds.
+ 
+ Well, sir, in brief, the gown is not for me.
+  You are i’ th’ right, sir, ’tis for my mistress.
+ 
+ Go, take it up unto thy master’s use.
+  Villain, not for thy life! Take up my mistress’
+ gown for thy master’s use!
+  Why, sir, what’s your conceit in that?
+  O, sir, the conceit is deeper than you think
+ for. Take up my mistress’ gown to his master’s use!
+ O, fie, fie, fie!
+, aside to Hortensio
+ 
+ Hortensio, say thou wilt see the tailor paid.
+  To Tailor.  Go, take it hence. Begone, and say no
+ more.
+, aside to Tailor
+ 
+ Tailor, I’ll pay thee for thy gown tomorrow.
+ Take no unkindness of his hasty words.
+ Away, I say. Commend me to thy master.
+ 
+ Well, come, my Kate, we will unto your father’s,
+ Even in these honest mean habiliments.
+ Our purses shall be proud, our garments poor,
+ For ’tis the mind that makes the body rich,
+ And as the sun breaks through the darkest clouds,
+ So honor peereth in the meanest habit.
+ What, is the jay more precious than the lark
+ Because his feathers are more beautiful?
+ Or is the adder better than the eel
+FTLN 2125
+FTLN 2126
+155
+FTLN 2127
+FTLN 2128
+FTLN 2129
+FTLN 2130
+FTLN 2131
+160
+FTLN 2132
+FTLN 2133
+FTLN 2134
+FTLN 2135
+FTLN 2136
+165
+FTLN 2137
+FTLN 2138
+FTLN 2139
+FTLN 2140
+FTLN 2141
+170
+FTLN 2142
+FTLN 2143
+FTLN 2144
+FTLN 2145
+FTLN 2146
+175
+FTLN 2147
+FTLN 2148
+FTLN 2149
+FTLN 2150
+FTLN 2151
+180
+FTLN 2152
+FTLN 2153
+FTLN 2154
+
+--- PAGE 89 / 110 ---
+177
+The Taming of the Shrew
+ACT 4. SC. 4
+KATHERINE
+PETRUCHIO
+HORTENSIO
+They exit.
+TRANIO
+MERCHANT
+ Because his painted skin contents the eye?
+ O no, good Kate. Neither art thou the worse
+ For this poor furniture and mean array.
+ If thou account’st  it shame, lay it on me,
+ And therefore frolic! We will hence forthwith
+ To feast and sport us at thy father’s house.
+  To Grumio.  Go, call my men, and let us straight to
+ him,
+ And bring our horses unto Long-lane end.
+ There will we mount, and thither walk on foot.
+ Let’s see, I think ’tis now some seven o’clock,
+ And well we may come there by dinner time.
+ 
+ I dare assure you, sir, ’tis almost two,
+ And ’twill be supper time ere you come there.
+ 
+ It shall be seven ere I go to horse.
+ Look what I speak, or do, or think to do,
+ You are still crossing it.—Sirs, let ’t alone.
+ I will not go today, and, ere I do,
+ It shall be what o’clock I say it is.
+, aside
+ 
+ Why, so, this gallant will command the sun!
+Enter Tranio as Lucentio,  and the Merchant,  booted,
+and dressed like Vincentio.
+, as Lucentio
+ 
+ Sir,  this is the house. Please it you that I call?
+ 
+ Ay, what else? And but I be deceived,
+ Signior Baptista may remember me,
+ Near twenty years ago, in Genoa,
+ Where we were lodgers at the Pegasus.
+FTLN 2155
+FTLN 2156
+185
+FTLN 2157
+FTLN 2158
+FTLN 2159
+FTLN 2160
+FTLN 2161
+190
+FTLN 2162
+FTLN 2163
+FTLN 2164
+FTLN 2165
+FTLN 2166
+195
+FTLN 2167
+FTLN 2168
+FTLN 2169
+FTLN 2170
+FTLN 2171
+200
+FTLN 2172
+FTLN 2173
+FTLN 2174
+Scene 4
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+FTLN 2179
+5
+
+--- PAGE 90 / 110 ---
+179
+The Taming of the Shrew
+ACT 4. SC. 4
+TRANIO
+MERCHANT
+TRANIO
+BIONDELLO
+TRANIO
+BIONDELLO
+TRANIO
+He gives him money.
+Merchant stands  bareheaded.
+TRANIO
+MERCHANT
+, as Lucentio
+ 
+ ’Tis well. And hold your own in any case
+ With such austerity as ’longeth to a father.
+ 
+ I warrant you.
+Enter Biondello.
+ But, sir, here comes your boy.
+ ’Twere good he were schooled.
+, as Lucentio
+ 
+ Fear you not him.—Sirrah Biondello,
+ Now do your duty throughly, I advise you.
+ Imagine ’twere the right Vincentio.
+  Tut, fear not me.
+, as Lucentio
+ 
+ But hast thou done thy errand to Baptista?
+ 
+ I told him that your father was at Venice,
+ And that you looked for him this day in Padua.
+, as Lucentio
+ 
+ Thou ’rt a tall fellow. Hold thee that to drink.
+Enter Baptista and Lucentio as Cambio.
+ Here comes Baptista. Set your countenance, sir.
+, as Lucentio
+ 
+ Signior Baptista, you are happily met.—
+ Sir, this is the gentleman I told you of.
+ I pray you stand good father to me now.
+ Give me Bianca for my patrimony.
+, as Vincentio
+  Soft, son.—
+ Sir, by your leave, having come to Padua
+ To gather in some debts, my son Lucentio
+ Made me acquainted with a weighty cause
+ Of love between your daughter and himself.
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+FTLN 2184
+10
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+FTLN 2189
+15
+FTLN 2190
+FTLN 2191
+FTLN 2192
+FTLN 2193
+FTLN 2194
+20
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+FTLN 2199
+25
+FTLN 2200
+FTLN 2201
+FTLN 2202
+
+--- PAGE 91 / 110 ---
+181
+The Taming of the Shrew
+ACT 4. SC. 4
+BAPTISTA
+TRANIO
+BAPTISTA
+TRANIO
+He indicates Lucentio, and winks at him.
+ And, for the good report I hear of you,
+ And for the love he beareth to your daughter
+ And she to him, to stay him not too long,
+ I am content, in a good father’s care,
+ To have him matched. And if you please to like
+ No worse than I, upon some agreement
+ Me shall you find ready and willing
+ With one consent to have her so bestowed,
+ For curious I cannot be with you,
+ Signior Baptista, of whom I hear so well.
+ 
+ Sir, pardon me in what I have to say.
+ Your plainness and your shortness please me well.
+ Right true it is your son Lucentio here
+ Doth love my daughter, and she loveth him,
+ Or both dissemble deeply their affections.
+ And therefore, if you say no more than this,
+ That like a father you will deal with him
+ And pass my daughter a sufficient dower,
+ The match is made, and all is done.
+ Your son shall have my daughter with consent.
+, as Lucentio
+ 
+ I thank you, sir. Where then do you know best
+ We be affied and such assurance ta’en
+ As shall with either part’s agreement stand?
+ 
+ Not in my house, Lucentio, for you know
+ Pitchers have ears, and I have many servants.
+ Besides, old Gremio is heark’ning still,
+ And happily we might be interrupted.
+, as Lucentio
+ 
+ Then at my lodging, an it like you.
+ There doth my father lie, and there this night
+ We’ll pass the business privately and well.
+ Send for your daughter by your servant here.
+FTLN 2203
+FTLN 2204
+30
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+FTLN 2209
+35
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+40
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+45
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+50
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+FTLN 2229
+55
+FTLN 2230
+FTLN 2231
+FTLN 2232
+FTLN 2233
+
+--- PAGE 92 / 110 ---
+183
+The Taming of the Shrew
+ACT 4. SC. 4
+BAPTISTA
+Lucentio exits.
+BIONDELLO
+TRANIO
+BAPTISTA
+All but Biondello  exit.
+BIONDELLO
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+ My boy shall fetch the scrivener presently.
+ The worst is this: that at so slender warning
+ You are like to have a thin and slender pittance.
+ 
+ It likes me well.—Cambio, hie you home,
+ And bid Bianca make her ready straight.
+ And, if you will, tell what hath happenèd:
+ Lucentio’s father is arrived in Padua,
+ And how she’s like to be Lucentio’s wife.
+ 
+ I pray the gods she may, with all my heart.
+, as Lucentio
+ 
+ Dally not with the gods, but get thee gone.—
+ Signior Baptista, shall I lead the way?
+ Welcome! One mess is like to be your cheer.
+ Come, sir, we will better it in Pisa.
+  I follow you.
+Enter Lucentio.
+  Cambio.
+  What sayst thou, Biondello?
+  You saw my master wink and laugh upon
+ you?
+  Biondello, what of that?
+  Faith, nothing; but ’has left me here behind
+ to expound the meaning or moral of his signs
+ and tokens.
+  I pray thee, moralize them.
+  Then thus: Baptista is safe, talking with
+ the deceiving father of a deceitful son.
+  And what of him?
+  His daughter is to be brought by you to the
+ supper.
+FTLN 2234
+60
+FTLN 2235
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+65
+FTLN 2240
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+70
+FTLN 2245
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+75
+FTLN 2250
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+80
+FTLN 2255
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+85
+FTLN 2260
+FTLN 2261
+
+--- PAGE 93 / 110 ---
+185
+The Taming of the Shrew
+ACT 4. SC. 5
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+LUCENTIO
+BIONDELLO
+He exits.
+LUCENTIO
+He exits.
+PETRUCHIO
+KATHERINE
+  And then?
+  The old priest at Saint Luke’s Church is at
+ your command at all hours.
+  And what of all this?
+  I cannot tell, except  they are busied
+ about a counterfeit assurance. Take you assurance
+ of her cum privilegio ad imprimendum solum. To th’
+ church take the priest, clerk, and some sufficient
+ honest witnesses.
+ If this be not that you look for, I have no more to
+ say,
+ But bid Bianca farewell forever and a day.
+  Hear’st thou, Biondello?
+  I cannot tarry. I knew a wench married in
+ an afternoon as she went to the garden for parsley
+ to stuff a rabbit, and so may you, sir. And so adieu,
+ sir. My master hath appointed me to go to Saint
+ Luke’s to bid the priest be ready to come against
+ you come with your appendix. 
+ 
+ I may, and will, if she be so contented.
+ She will be pleased. Then wherefore should I
+ doubt?
+ Hap what hap may, I’ll roundly go about her.
+ It shall go hard if “Cambio” go without her.
+Enter Petruchio, Katherine, Hortensio, and Servants.
+ 
+ Come on, i’ God’s name, once more toward our
+ father’s.
+ Good Lord, how bright and goodly shines the moon!
+ 
+ The moon? The sun! It is not moonlight now.
+FTLN 2262
+FTLN 2263
+FTLN 2264
+90
+FTLN 2265
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+95
+FTLN 2270
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+100
+FTLN 2275
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+105
+FTLN 2280
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+110
+FTLN 2285
+Scene 5
+FTLN 2286
+FTLN 2287
+FTLN 2288
+FTLN 2289
+
+--- PAGE 94 / 110 ---
+187
+The Taming of the Shrew
+ACT 4. SC. 5
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+HORTENSIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+HORTENSIO
+PETRUCHIO
+ 
+ I say it is the moon that shines so bright.
+ 
+ I know it is the sun that shines so bright.
+ 
+ Now, by my mother’s son, and that’s myself,
+ It shall be moon, or star, or what I list,
+ Or e’er I journey to your father’s house.
+  To Servants.  Go on, and fetch our horses back
+ again.—
+ Evermore crossed and crossed, nothing but crossed!
+, to Katherine
+ 
+ Say as he says, or we shall never go.
+ 
+ Forward, I pray, since we have come so far,
+ And be it moon, or sun, or what you please.
+ And if you please to call it a rush candle,
+ Henceforth I vow it shall be so for me.
+  I say it is the moon.
+  I know it is the moon.
+ 
+ Nay, then you lie. It is the blessèd sun.
+ 
+ Then God be blest, it is  the blessèd sun.
+ But sun it is not, when you say it is not,
+ And the moon changes even as your mind.
+ What you will have it named, even that it is,
+ And so it shall be so for Katherine.
+ 
+ Petruchio, go thy ways, the field is won.
+ 
+ Well, forward, forward. Thus the bowl should run,
+ And not unluckily against the bias.
+ But soft! Company is coming here.
+Enter Vincentio.
+FTLN 2290
+5
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+FTLN 2295
+10
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+FTLN 2300
+15
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+FTLN 2305
+20
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+FTLN 2310
+25
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+
+--- PAGE 95 / 110 ---
+189
+The Taming of the Shrew
+ACT 4. SC. 5
+HORTENSIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+VINCENTIO
+  To Vincentio.  Good morrow, gentle mistress, where
+ away?—
+ Tell me, sweet Kate, and tell me truly, too,
+ Hast thou beheld a fresher gentlewoman?
+ Such war of white and red within her cheeks!
+ What stars do spangle heaven with such beauty
+ As those two eyes become that heavenly face?—
+ Fair lovely maid, once more good day to thee.—
+ Sweet Kate, embrace her for her beauty’s sake.
+, aside
+ 
+ He will make the man mad, to make the woman of
+ him.
+ 
+ Young budding virgin, fair and fresh and sweet,
+ Whither away, or where  is thy abode?
+ Happy the parents of so fair a child!
+ Happier the man whom favorable stars
+ Allots  thee for his lovely bedfellow.
+ 
+ Why, how now, Kate? I hope thou art not mad!
+ This is a man—old, wrinkled, faded, withered—
+ And not a maiden, as thou sayst he is.
+ 
+ Pardon, old father, my mistaking eyes
+ That have been so bedazzled with the sun
+ That everything I look on seemeth green.
+ Now I perceive thou art a reverend father.
+ Pardon, I pray thee, for my mad mistaking.
+ 
+ Do, good old grandsire, and withal make known
+ Which way thou travelest. If along with us,
+ We shall be joyful of thy company.
+ 
+ Fair sir, and you, my merry mistress,
+ That with your strange encounter much amazed me,
+ My name is called Vincentio, my dwelling Pisa,
+FTLN 2315
+30
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+FTLN 2320
+35
+FTLN 2321
+FTLN 2322
+FTLN 2323
+FTLN 2324
+FTLN 2325
+40
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+FTLN 2330
+45
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+FTLN 2335
+50
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+FTLN 2340
+55
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+
+--- PAGE 96 / 110 ---
+191
+The Taming of the Shrew
+ACT 4. SC. 5
+PETRUCHIO
+VINCENTIO
+PETRUCHIO
+VINCENTIO
+HORTENSIO
+PETRUCHIO
+All but Hortensio  exit.
+HORTENSIO
+He exits.
+ And bound I am to Padua, there to visit
+ A son of mine which long I have not seen.
+ 
+ What is his name?
+  
+ Lucentio, gentle sir.
+ 
+ Happily met, the happier for thy son.
+ And now by law as well as reverend age,
+ I may entitle thee my loving father.
+ The sister to my wife, this gentlewoman,
+ Thy son by this hath married. Wonder not,
+ Nor be not grieved. She is of good esteem,
+ Her dowry wealthy, and of worthy birth;
+ Beside, so qualified as may beseem
+ The spouse of any noble gentleman.
+ Let me embrace with old Vincentio,
+ And wander we to see thy honest son,
+ Who will of thy arrival be full joyous.
+ 
+ But is this true, or is it else your pleasure,
+ Like pleasant travelers, to break a jest
+ Upon the company you overtake?
+ 
+ I do assure thee, father, so it is.
+ 
+ Come, go along and see the truth hereof,
+ For our first merriment hath made thee jealous.
+ 
+ Well, Petruchio, this has put me in heart!
+ Have to my widow, and if she be  froward,
+ Then hast thou taught Hortensio to be untoward.
+FTLN 2345
+60
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+FTLN 2350
+65
+FTLN 2351
+FTLN 2352
+FTLN 2353
+FTLN 2354
+FTLN 2355
+70
+FTLN 2356
+FTLN 2357
+FTLN 2358
+FTLN 2359
+FTLN 2360
+75
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+FTLN 2365
+80
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+
+--- PAGE 97 / 110 ---
+BIONDELLO
+LUCENTIO
+Lucentio exits with Bianca.
+BIONDELLO
+He exits.
+GREMIO
+PETRUCHIO
+VINCENTIO
+He  knocks.
+Enter Biondello, Lucentio as himself,  and Bianca.
+Gremio is out before and stands to the side.
+  Softly and swiftly, sir, for the priest is
+ ready.
+  I fly, Biondello. But they may chance to
+ need thee at home. Therefore leave us.
+  Nay, faith, I’ll see the church a’ your back,
+ and then come back to my master’s  as soon as I
+ can. 
+  I marvel Cambio comes not all this while.
+Enter Petruchio, Katherine, Vincentio, Grumio, with
+Attendants.
+ 
+ Sir, here’s the door. This is Lucentio’s house.
+ My father’s bears more toward the marketplace.
+ Thither must I, and here I leave you, sir.
+ 
+ You shall not choose but drink before you go.
+ I think I shall command your welcome here,
+ And by all likelihood some cheer is toward.
+195
+ACT 5
+Scene 1
+FTLN 2370
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+5
+FTLN 2375
+FTLN 2376
+FTLN 2377
+FTLN 2378
+FTLN 2379
+10
+FTLN 2380
+FTLN 2381
+FTLN 2382
+FTLN 2383
+
+--- PAGE 98 / 110 ---
+197
+The Taming of the Shrew
+ACT 5. SC. 1
+GREMIO
+Merchant  looks out of the window.
+MERCHANT
+VINCENTIO
+MERCHANT
+VINCENTIO
+MERCHANT
+PETRUCHIO
+MERCHANT
+VINCENTIO
+MERCHANT
+PETRUCHIO
+MERCHANT
+BIONDELLO
+, coming forward
+ 
+ They’re busy within. You were best knock louder.
+, as Vincentio
+  What’s he that knocks as
+ he would beat down the gate?
+  Is Signior Lucentio within, sir?
+, as Vincentio
+  He’s within, sir, but not to
+ be spoken withal.
+  What if a man bring him a hundred pound
+ or two to make merry withal?
+, as Vincentio
+  Keep your hundred
+ pounds to yourself. He shall need none so long as I
+ live.
+, to Vincentio
+  Nay, I told you your son was
+ well beloved in Padua.—Do you hear, sir? To leave
+ frivolous circumstances, I pray you tell Signior
+ Lucentio that his father is come from Pisa and is
+ here at the door to speak with him.
+, as Vincentio
+  Thou liest. His father is
+ come from Padua and here looking out at the
+ window.
+  Art thou his father?
+, as Vincentio
+  Ay, sir, so his mother says,
+ if I may believe her.
+, to Vincentio
+  Why, how now, gentleman!
+ Why, this is flat knavery, to take upon you another
+ man’s name.
+, as Vincentio
+  Lay hands on the villain. I
+ believe he means to cosen somebody in this city
+ under my countenance.
+Enter Biondello.
+, aside
+  I have seen them in the church
+ together. God send ’em good shipping! But who is
+ here? Mine old master Vincentio! Now we are
+ undone and brought to nothing.
+FTLN 2384
+15
+FTLN 2385
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+20
+FTLN 2390
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+25
+FTLN 2395
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+30
+FTLN 2400
+FTLN 2401
+FTLN 2402
+FTLN 2403
+FTLN 2404
+35
+FTLN 2405
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+40
+FTLN 2410
+FTLN 2411
+FTLN 2412
+FTLN 2413
+FTLN 2414
+45
+FTLN 2415
+
+--- PAGE 99 / 110 ---
+199
+The Taming of the Shrew
+ACT 5. SC. 1
+VINCENTIO
+BIONDELLO
+VINCENTIO
+BIONDELLO
+VINCENTIO
+BIONDELLO
+VINCENTIO
+He beats Biondello.
+BIONDELLO
+Biondello exits.
+MERCHANT
+He exits from window.
+PETRUCHIO
+They move aside.
+TRANIO
+VINCENTIO
+TRANIO
+BAPTISTA
+TRANIO
+, to Biondello
+  Come hither, crack-hemp.
+  I hope I may choose, sir.
+  Come hither, you rogue! What, have you
+ forgot me?
+  Forgot you? No, sir. I could not forget you,
+ for I never saw you before in all my life.
+  What, you notorious villain, didst thou
+ never see thy master’s  father, Vincentio?
+  What, my old worshipful old master? Yes,
+ marry, sir. See where he looks out of the window.
+  Is ’t so indeed? 
+  Help, help, help! Here’s a madman will
+ murder me. 
+, as Vincentio
+  Help, son! Help, Signior
+ Baptista! 
+  Prithee, Kate, let’s stand aside and see the
+ end of this controversy. 
+Enter Merchant  with Servants, and  Baptista and
+Tranio disguised as Lucentio.
+, as Lucentio
+  Sir, what are you that offer to
+ beat my servant?
+  What am I, sir? Nay, what are you, sir! O
+ immortal gods! O fine villain! A silken doublet, a
+ velvet hose, a scarlet cloak, and a copatain hat! O, I
+ am undone, I am undone! While I play the good
+ husband at home, my son and my servant spend all
+ at the university.
+, as Lucentio
+  How now, what’s the matter?
+  What, is the man lunatic?
+, as Lucentio
+  Sir, you seem a sober ancient
+ gentleman by your habit, but your words show you
+ a madman. Why, sir, what ’cerns it you if I wear
+ pearl and gold? I thank my good father, I am able
+ to maintain it.
+FTLN 2416
+FTLN 2417
+FTLN 2418
+FTLN 2419
+50
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+55
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+FTLN 2429
+60
+FTLN 2430
+FTLN 2431
+FTLN 2432
+FTLN 2433
+FTLN 2434
+65
+FTLN 2435
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+70
+FTLN 2440
+FTLN 2441
+FTLN 2442
+FTLN 2443
+FTLN 2444
+75
+FTLN 2445
+FTLN 2446
+FTLN 2447
+
+--- PAGE 100 / 110 ---
+201
+The Taming of the Shrew
+ACT 5. SC. 1
+VINCENTIO
+BAPTISTA
+VINCENTIO
+MERCHANT
+VINCENTIO
+TRANIO
+VINCENTIO
+GREMIO
+BAPTISTA
+GREMIO
+MERCHANT
+GREMIO
+TRANIO
+GREMIO
+BAPTISTA
+VINCENTIO
+  Thy father! O villain, he is a sailmaker in
+ Bergamo.
+  You mistake, sir, you mistake, sir! Pray, what
+ do you think is his name?
+  His name? As if I knew not his name! I have
+ brought him up ever since he was three years old,
+ and his name is Tranio.
+, as Vincentio
+  Away, away, mad ass! His
+ name is Lucentio and he is mine only son, and heir
+ to the lands of me, Signior Vincentio.
+  Lucentio? O, he hath murdered his master!
+ Lay hold on him, I charge you in the Duke’s name.
+ O, my son, my son! Tell me, thou villain, where is
+ my son Lucentio?
+, as Lucentio
+  Call forth an officer.
+Enter an Officer.
+ Carry this mad knave to the jail.—Father Baptista, I
+ charge you see that he be forthcoming.
+  Carry me to the jail?
+  Stay, officer. He shall not go to prison.
+  Talk not, Signior Gremio. I say he shall go to
+ prison.
+  Take heed, Signior Baptista, lest you be cony-catched
+ in this business. I dare swear this is the
+ right Vincentio.
+, as Vincentio
+  Swear, if thou dar’st.
+  Nay, I dare not swear it.
+, as Lucentio
+  Then thou wert best say that I
+ am not Lucentio.
+  Yes, I know thee to be Signior Lucentio.
+  Away with the dotard, to the jail with him.
+  Thus strangers may be haled and abused.—
+ O monstrous villain!
+Enter Biondello, Lucentio and Bianca.
+FTLN 2448
+FTLN 2449
+80
+FTLN 2450
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+85
+FTLN 2455
+FTLN 2456
+FTLN 2457
+FTLN 2458
+FTLN 2459
+90
+FTLN 2460
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+95
+FTLN 2465
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+100
+FTLN 2470
+FTLN 2471
+FTLN 2472
+FTLN 2473
+FTLN 2474
+105
+FTLN 2475
+FTLN 2476
+FTLN 2477
+FTLN 2478
+FTLN 2479
+110
+
+--- PAGE 101 / 110 ---
+203
+The Taming of the Shrew
+ACT 5. SC. 1
+BIONDELLO
+Biondello, Tranio, and Merchant
+exit as fast as may be.
+LUCENTIO
+Lucentio and Bianca  kneel.
+VINCENTIO
+BIANCA
+BAPTISTA
+LUCENTIO
+GREMIO
+VINCENTIO
+BAPTISTA
+BIANCA
+LUCENTIO
+VINCENTIO
+BAPTISTA
+  O, we are spoiled, and yonder he is! Deny
+ him, forswear him, or else we are all undone.
+ 
+ Pardon, sweet father. 
+  
+ Lives my sweet son?
+ 
+ Pardon, dear father.
+  
+ How hast thou offended?
+ Where is Lucentio?
+  
+ Here’s Lucentio,
+ Right son to the right Vincentio,
+ That have by marriage made thy daughter mine
+ While counterfeit supposes bleared thine eyne.
+ 
+ Here’s packing, with a witness, to deceive us all!
+ 
+ Where is that damnèd villain, Tranio,
+ That faced and braved me in this matter so?
+ 
+ Why, tell me, is not this my Cambio?
+ 
+ Cambio is changed into Lucentio.
+ 
+ Love wrought these miracles. Bianca’s love
+ Made me exchange my state with Tranio,
+ While he did bear my countenance in the town,
+ And happily I have arrivèd at the last
+ Unto the wishèd haven of my bliss.
+ What Tranio did, myself enforced him to.
+ Then pardon him, sweet father, for my sake.
+  I’ll slit the villain’s nose that would have
+ sent me to the jail!
+  But do you hear, sir, have you married my
+ daughter without asking my goodwill?
+FTLN 2480
+FTLN 2481
+FTLN 2482
+FTLN 2483
+FTLN 2484
+115
+FTLN 2485
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+120
+FTLN 2490
+FTLN 2491
+FTLN 2492
+FTLN 2493
+FTLN 2494
+125
+FTLN 2495
+FTLN 2496
+FTLN 2497
+FTLN 2498
+FTLN 2499
+130
+FTLN 2500
+FTLN 2501
+FTLN 2502
+FTLN 2503
+FTLN 2504
+135
+FTLN 2505
+FTLN 2506
+
+--- PAGE 102 / 110 ---
+205
+The Taming of the Shrew
+ACT 5. SC. 2
+VINCENTIO
+He exits.
+BAPTISTA
+He exits.
+LUCENTIO
+They exit.
+GREMIO
+He exits.
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+KATHERINE
+She kisses him.
+PETRUCHIO
+They exit.
+LUCENTIO
+  Fear not, Baptista, we will content you. Go
+ to! But I will in to be revenged for this villainy.
+  And I to sound the depth of this knavery.
+  Look not pale, Bianca. Thy father will not
+ frown. 
+ 
+ My cake is dough, but I’ll in among the rest,
+ Out of hope of all but my share of the feast.
+  Husband, let’s follow to see the end of
+ this ado.
+  First kiss me, Kate, and we will.
+  What, in the midst of the street?
+  What, art thou ashamed of me?
+  No,  sir, God forbid, but ashamed to kiss.
+ 
+ Why, then, let’s home again.  To Grumio.  Come,
+ sirrah, let’s away.
+ 
+ Nay, I will give thee a kiss. 
+ Now pray thee, love, stay.
+ 
+ Is not this well? Come, my sweet Kate.
+ Better once than never, for never too late.
+Enter Baptista, Vincentio, Gremio, the Merchant,
+Lucentio, and Bianca; Hortensio  and the  Widow,
+Petruchio and Katherine;  Tranio, Biondello, and
+Grumio, with  Servingmen bringing in a banquet.
+ 
+ At last, though long, our jarring notes agree,
+FTLN 2507
+FTLN 2508
+FTLN 2509
+140
+FTLN 2510
+FTLN 2511
+FTLN 2512
+FTLN 2513
+FTLN 2514
+145
+FTLN 2515
+FTLN 2516
+FTLN 2517
+FTLN 2518
+FTLN 2519
+150
+FTLN 2520
+FTLN 2521
+FTLN 2522
+FTLN 2523
+FTLN 2524
+155
+FTLN 2525
+Scene 2
+FTLN 2526
+
+--- PAGE 103 / 110 ---
+207
+The Taming of the Shrew
+ACT 5. SC. 2
+They sit.
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+WIDOW
+PETRUCHIO
+WIDOW
+PETRUCHIO
+KATHERINE
+WIDOW
+PETRUCHIO
+HORTENSIO
+ And time it is when raging war is done
+ To smile at ’scapes and perils overblown.
+ My fair Bianca, bid my father welcome,
+ While I with selfsame kindness welcome thine.
+ Brother Petruchio, sister Katherina,
+ And thou, Hortensio, with thy loving widow,
+ Feast with the best, and welcome to my house.
+ My banquet is to close our stomachs up
+ After our great good cheer. Pray you, sit down,
+ For now we sit to chat as well as eat. 
+ 
+ Nothing but sit and sit, and eat and eat!
+ 
+ Padua affords this kindness, son Petruchio.
+ 
+ Padua affords nothing but what is kind.
+ 
+ For both our sakes I would that word were true.
+ 
+ Now, for my life, Hortensio fears his widow!
+ 
+ Then never trust me if I be afeard.
+ 
+ You are very sensible, and yet you miss my sense:
+ I mean Hortensio is afeard of you.
+ 
+ He that is giddy thinks the world turns round.
+ 
+ Roundly replied.
+  
+ Mistress, how mean you that?
+  Thus I conceive by him.
+ 
+ Conceives by me? How likes Hortensio that?
+ 
+ My widow says, thus she conceives her tale.
+FTLN 2527
+FTLN 2528
+FTLN 2529
+FTLN 2530
+5
+FTLN 2531
+FTLN 2532
+FTLN 2533
+FTLN 2534
+FTLN 2535
+10
+FTLN 2536
+FTLN 2537
+FTLN 2538
+FTLN 2539
+FTLN 2540
+15
+FTLN 2541
+FTLN 2542
+FTLN 2543
+FTLN 2544
+FTLN 2545
+20
+FTLN 2546
+FTLN 2547
+FTLN 2548
+FTLN 2549
+FTLN 2550
+25
+
+--- PAGE 104 / 110 ---
+209
+The Taming of the Shrew
+ACT 5. SC. 2
+PETRUCHIO
+KATHERINE
+WIDOW
+KATHERINE
+WIDOW
+KATHERINE
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+He  drinks to Hortensio.
+BAPTISTA
+GREMIO
+BIANCA
+VINCENTIO
+BIANCA
+PETRUCHIO
+ 
+ Very well mended. Kiss him for that, good widow.
+ 
+ “He that is giddy thinks the world turns round”—
+ I pray you tell me what you meant by that.
+ 
+ Your husband being troubled with a shrew
+ Measures my husband’s sorrow by his woe.
+ And now you know my meaning.
+ 
+ A very mean meaning.
+  
+ Right, I mean you.
+ 
+ And I am mean indeed, respecting you.
+  To her, Kate!
+  To her, widow!
+ 
+ A hundred marks, my Kate does put her down.
+  That’s my office.
+ 
+ Spoke like an officer! Ha’ to thee, lad.
+ 
+ How likes Gremio these quick-witted folks?
+ 
+ Believe me, sir, they butt together well.
+ 
+ Head and butt! An hasty-witted body
+ Would say your head and butt were head and horn.
+ 
+ Ay, mistress bride, hath that awakened you?
+ 
+ Ay, but not frighted me. Therefore I’ll sleep again.
+ 
+ Nay, that you shall not. Since you have begun,
+ Have at you for a bitter  jest or two.
+FTLN 2551
+FTLN 2552
+FTLN 2553
+FTLN 2554
+FTLN 2555
+30
+FTLN 2556
+FTLN 2557
+FTLN 2558
+FTLN 2559
+FTLN 2560
+35
+FTLN 2561
+FTLN 2562
+FTLN 2563
+FTLN 2564
+FTLN 2565
+40
+FTLN 2566
+FTLN 2567
+FTLN 2568
+FTLN 2569
+FTLN 2570
+45
+FTLN 2571
+FTLN 2572
+
+--- PAGE 105 / 110 ---
+211
+The Taming of the Shrew
+ACT 5. SC. 2
+BIANCA
+Bianca, Katherine, and the Widow  exit.
+PETRUCHIO
+TRANIO
+PETRUCHIO
+TRANIO
+BAPTISTA
+LUCENTIO
+HORTENSIO
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+ 
+ Am I your bird? I mean to shift my bush,
+ And then pursue me as you draw your bow.—
+ You are welcome all. 
+ 
+ She hath prevented me. Here, Signior Tranio,
+ This bird you aimed at, though you hit her not.—
+ Therefore a health to all that shot and missed.
+ 
+ O, sir, Lucentio slipped me like his greyhound,
+ Which runs himself and catches for his master.
+ 
+ A good swift simile, but something currish.
+ 
+ ’Tis well, sir, that you hunted for yourself.
+ ’Tis thought your deer does hold you at a bay.
+ 
+ O, O, Petruchio! Tranio hits you now.
+ 
+ I thank thee for that gird, good Tranio.
+ 
+ Confess, confess! Hath he not hit you here?
+ 
+ He has a little galled me, I confess.
+ And as the jest did glance away from me,
+ ’Tis ten to one it maimed you two outright.
+ 
+ Now, in good sadness, son Petruchio,
+ I think thou hast the veriest shrew of all.
+ 
+ Well, I say no. And therefore, for  assurance,
+ Let’s each one send unto his wife,
+ And he whose wife is most obedient
+ To come at first when he doth send for her
+ Shall win the wager which we will propose.
+FTLN 2573
+FTLN 2574
+FTLN 2575
+50
+FTLN 2576
+FTLN 2577
+FTLN 2578
+FTLN 2579
+FTLN 2580
+55
+FTLN 2581
+FTLN 2582
+FTLN 2583
+FTLN 2584
+FTLN 2585
+60
+FTLN 2586
+FTLN 2587
+FTLN 2588
+FTLN 2589
+FTLN 2590
+65
+FTLN 2591
+FTLN 2592
+FTLN 2593
+FTLN 2594
+FTLN 2595
+70
+FTLN 2596
+
+--- PAGE 106 / 110 ---
+213
+The Taming of the Shrew
+ACT 5. SC. 2
+HORTENSIO
+LUCENTIO
+PETRUCHIO
+LUCENTIO
+HORTENSIO
+PETRUCHIO
+HORTENSIO
+LUCENTIO
+BIONDELLO
+He exits.
+BAPTISTA
+LUCENTIO
+BIONDELLO
+PETRUCHIO
+GREMIO
+PETRUCHIO
+HORTENSIO
+Biondello exits.
+PETRUCHIO
+ 
+ Content, what’s the wager?
+  
+ Twenty crowns.
+  Twenty crowns?
+ I’ll venture so much of my hawk or hound,
+ But twenty times so much upon my wife.
+ 
+ A hundred, then.
+  
+ Content.
+  
+ A match! ’Tis done.
+  Who shall begin?
+  That will I.
+ Go, Biondello, bid your mistress come to me.
+  I go. 
+ 
+ Son, I’ll be your half Bianca comes.
+ 
+ I’ll have no halves. I’ll bear it all myself.
+Enter Biondello.
+ How now, what news?
+  
+ Sir, my mistress sends you
+ word
+ That she is busy, and she cannot come.
+ 
+ How? “She’s busy, and she cannot come”?
+ Is that an answer?
+  
+ Ay, and a kind one, too.
+ Pray God, sir, your wife send you not a worse.
+  I hope better.
+ 
+ Sirrah Biondello, go and entreat my wife
+ To come to me forthwith. 
+  
+ O ho, entreat her!
+ Nay, then, she must needs come.
+FTLN 2597
+FTLN 2598
+FTLN 2599
+FTLN 2600
+75
+FTLN 2601
+FTLN 2602
+FTLN 2603
+FTLN 2604
+FTLN 2605
+80
+FTLN 2606
+FTLN 2607
+FTLN 2608
+FTLN 2609
+FTLN 2610
+85
+FTLN 2611
+FTLN 2612
+FTLN 2613
+FTLN 2614
+FTLN 2615
+90
+FTLN 2616
+FTLN 2617
+FTLN 2618
+FTLN 2619
+FTLN 2620
+95
+FTLN 2621
+FTLN 2622
+FTLN 2623
+
+--- PAGE 107 / 110 ---
+215
+The Taming of the Shrew
+ACT 5. SC. 2
+HORTENSIO
+BIONDELLO
+PETRUCHIO
+Grumio  exits.
+HORTENSIO
+PETRUCHIO
+HORTENSIO
+PETRUCHIO
+BAPTISTA
+KATHERINE
+PETRUCHIO
+KATHERINE
+PETRUCHIO
+Katherine exits.
+LUCENTIO
+HORTENSIO
+  
+ I am afraid, sir,
+ Do what you can, yours will not be entreated.
+Enter Biondello.
+ Now, where’s my wife?
+ 
+ She says you have some goodly jest in hand.
+ She will not come. She bids you come to her.
+  Worse and worse. She will not come!
+ O vile, intolerable, not to be endured!—
+ Sirrah Grumio, go to your mistress,
+ Say I command her come to me. 
+ 
+ I know her answer.
+  
+ What?
+  
+ She will not.
+ 
+ The fouler fortune mine, and there an end.
+Enter Katherine.
+ 
+ Now by my holidam, here comes Katherina!
+ 
+ What is your will, sir, that you send for me?
+ 
+ Where is your sister, and Hortensio’s wife?
+ 
+ They sit conferring by the parlor fire.
+ 
+ Go fetch them hither. If they deny to come,
+ Swinge me them soundly forth unto their husbands.
+ Away, I say, and bring them hither straight.
+ 
+ Here is a wonder, if you talk of a wonder.
+ 
+ And so it is. I wonder what it bodes.
+FTLN 2624
+FTLN 2625
+100
+FTLN 2626
+FTLN 2627
+FTLN 2628
+FTLN 2629
+FTLN 2630
+105
+FTLN 2631
+FTLN 2632
+FTLN 2633
+FTLN 2634
+FTLN 2635
+110
+FTLN 2636
+FTLN 2637
+FTLN 2638
+FTLN 2639
+FTLN 2640
+115
+FTLN 2641
+FTLN 2642
+FTLN 2643
+FTLN 2644
+FTLN 2645
+120
+
+--- PAGE 108 / 110 ---
+217
+The Taming of the Shrew
+ACT 5. SC. 2
+PETRUCHIO
+BAPTISTA
+PETRUCHIO
+She obeys.
+WIDOW
+BIANCA
+LUCENTIO
+BIANCA
+PETRUCHIO
+ 
+ Marry, peace it bodes, and love, and quiet life,
+ An awful rule, and right supremacy,
+ And, to be short, what not that’s sweet and happy.
+ 
+ Now fair befall thee, good Petruchio!
+ The wager thou hast won, and I will add
+ Unto their losses twenty thousand crowns,
+ Another dowry to another daughter,
+ For she is changed as she had never been.
+ 
+ Nay, I will win my wager better yet,
+ And show more sign of her obedience,
+ Her new-built virtue and obedience.
+Enter Katherine, Bianca, and Widow.
+ See where she comes, and brings your froward
+ wives
+ As prisoners to her womanly persuasion.—
+ Katherine, that cap of yours becomes you not.
+ Off with that bauble, throw it underfoot.
+ 
+ Lord, let me never have a cause to sigh
+ Till I be brought to such a silly pass.
+ 
+ Fie, what a foolish duty call you this?
+ 
+ I would your duty were as foolish too.
+ The wisdom of your duty, fair Bianca,
+ Hath cost me a  hundred crowns since suppertime.
+ 
+ The more fool you for laying on my duty.
+ 
+ Katherine, I charge thee tell these headstrong
+ women
+ What duty they do owe their lords and husbands.
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+FTLN 2650
+125
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+FTLN 2655
+130
+FTLN 2656
+FTLN 2657
+FTLN 2658
+FTLN 2659
+FTLN 2660
+135
+FTLN 2661
+FTLN 2662
+FTLN 2663
+FTLN 2664
+FTLN 2665
+140
+FTLN 2666
+FTLN 2667
+FTLN 2668
+FTLN 2669
+FTLN 2670
+145
+FTLN 2671
+
+--- PAGE 109 / 110 ---
+219
+The Taming of the Shrew
+ACT 5. SC. 2
+WIDOW
+PETRUCHIO
+WIDOW
+PETRUCHIO
+KATHERINE
+ 
+ Come, come, you’re  mocking. We will have no
+ telling.
+ 
+ Come on, I say, and first begin with her.
+  She shall not.
+ 
+ I say she shall.—And first begin with her.
+ 
+ Fie, fie! Unknit that threat’ning unkind brow,
+ And dart not scornful glances from those eyes
+ To wound thy lord, thy king, thy governor.
+ It blots thy beauty as frosts do bite the meads,
+ Confounds thy fame as whirlwinds shake fair buds,
+ And in no sense is meet or amiable.
+ A woman moved is like a fountain troubled,
+ Muddy, ill-seeming, thick, bereft of beauty,
+ And while it is so, none so dry or thirsty
+ Will deign to sip or touch one drop of it.
+ Thy husband is thy lord, thy life, thy keeper,
+ Thy head, thy sovereign, one that cares for thee,
+ And for thy maintenance commits his body
+ To painful labor both by sea and land,
+ To watch the night in storms, the day in cold,
+ Whilst thou liest warm at home, secure and safe,
+ And craves no other tribute at thy hands
+ But love, fair looks, and true obedience—
+ Too little payment for so great a debt.
+ Such duty as the subject owes the prince,
+ Even such a woman oweth to her husband;
+ And when she is froward, peevish, sullen, sour,
+ And not obedient to his honest will,
+ What is she but a foul contending rebel
+ And graceless traitor to her loving lord?
+ I am ashamed that women are so simple
+ To offer war where they should kneel for peace,
+FTLN 2672
+FTLN 2673
+FTLN 2674
+FTLN 2675
+150
+FTLN 2676
+FTLN 2677
+FTLN 2678
+FTLN 2679
+FTLN 2680
+155
+FTLN 2681
+FTLN 2682
+FTLN 2683
+FTLN 2684
+FTLN 2685
+160
+FTLN 2686
+FTLN 2687
+FTLN 2688
+FTLN 2689
+FTLN 2690
+165
+FTLN 2691
+FTLN 2692
+FTLN 2693
+FTLN 2694
+FTLN 2695
+170
+FTLN 2696
+FTLN 2697
+FTLN 2698
+FTLN 2699
+FTLN 2700
+175
+FTLN 2701
+FTLN 2702
+FTLN 2703
+
+--- PAGE 110 / 110 ---
+221
+The Taming of the Shrew
+ACT 5. SC. 2
+PETRUCHIO
+They kiss.
+LUCENTIO
+VINCENTIO
+LUCENTIO
+PETRUCHIO
+Petruchio and Katherine  exit.
+HORTENSIO
+LUCENTIO
+They exit.
+ Or seek for rule, supremacy, and sway
+ When they are bound to serve, love, and obey.
+ Why are our bodies soft and weak and smooth,
+ Unapt to toil and trouble in the world,
+ But that our soft conditions and our hearts
+ Should well agree with our external parts?
+ Come, come, you froward and unable worms!
+ My mind hath been as big as one of yours,
+ My heart as great, my reason haply more,
+ To bandy word for word and frown for frown;
+ But now I see our lances are but straws,
+ Our strength as weak, our weakness past compare,
+ That seeming to be most which we indeed least are.
+ Then vail your stomachs, for it is no boot,
+ And place your hands below your husband’s foot;
+ In token of which duty, if he please,
+ My hand is ready, may it do him ease.
+ 
+ Why, there’s a wench! Come on, and kiss me, Kate.
+ 
+ Well, go thy ways, old lad, for thou shalt ha ’t.
+ 
+ ’Tis a good hearing when children are toward.
+ 
+ But a harsh hearing when women are froward.
+  Come, Kate, we’ll to bed.
+ We three are married, but you two are sped.
+  To Lucentio.  ’Twas I won the wager, though you
+ hit the white,
+ And being a winner, God give you good night.
+ 
+ Now, go thy ways, thou hast tamed a curst shrow.
+ 
+ ’Tis a wonder, by your leave, she will be tamed so.
+FTLN 2704
+FTLN 2705
+180
+FTLN 2706
+FTLN 2707
+FTLN 2708
+FTLN 2709
+FTLN 2710
+185
+FTLN 2711
+FTLN 2712
+FTLN 2713
+FTLN 2714
+FTLN 2715
+190
+FTLN 2716
+FTLN 2717
+FTLN 2718
+FTLN 2719
+FTLN 2720
+195
+FTLN 2721
+FTLN 2722
+FTLN 2723
+FTLN 2724
+FTLN 2725
+200
+FTLN 2726
+FTLN 2727
+FTLN 2728
+FTLN 2729
+FTLN 2730
+205
+FTLN 2731
+

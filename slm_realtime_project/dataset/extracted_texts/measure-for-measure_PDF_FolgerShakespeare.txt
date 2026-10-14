@@ -1,0 +1,8849 @@
+=== BOOK TITLE: measure-for-measure_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 106 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 106 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 3
+Scene 1
+Scene 2
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+ACT 5
+Scene 1
+Contents
+
+--- PAGE 3 / 106 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 106 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 106 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 106 ---
+Human nature and the law often collide in Measure for Measure. As
+the play begins, the Duke of Vienna announces he is going away and
+puts his deputy Angelo in charge of the state. Angelo immediately
+enforces a law prohibiting sex outside of marriage, sentencing
+Claudio to death for sleeping with Juliet, Claudio’s now-pregnant
+fiancée.
+Claudio’s sister Isabella, a novice nun, appeals to Angelo to save her
+brother. But the supposedly pure Angelo demands that Isabella sleep
+with him to save Claudio. To Claudio’s dismay, Isabella refuses.
+The duke, who has remained in Vienna disguised as a friar, suggests
+that Angelo’s jilted fiancée, Mariana, could take Isabella’s place.
+Although the trick succeeds, Angelo orders Claudio beheaded
+anyway. The duke saves Claudio, but he tells Isabella that Claudio is
+dead.
+The duke, resuming his identity, sentences Angelo to wed Mariana
+and then be put to death. But Mariana and Isabella plead for
+Angelo’s life. Revealing that Claudio is alive, the duke pardons
+Angelo and proposes to Isabella.
+Synopsis
+
+--- PAGE 7 / 106 ---
+DUKE of Vienna, later called Friar Lodowick
+ESCALUS, a judge
+PROVOST
+ELBOW, a constable
+ABHORSON, an executioner
+A JUSTICE
+VARRIUS, friend to the Duke
+ANGELO, deputy to the Duke
+MARIANA, betrothed to Angelo
+BOY singer
+SERVANT to Angelo
+MESSENGER from Angelo
+ISABELLA, a novice in the Order of Saint Clare
+FRANCISCA, a nun
+CLAUDIO, brother to Isabella
+JULIET, betrothed to Claudio
+LUCIO, friend to Claudio
+TWO GENTLEMEN, associates of Lucio
+FRIAR THOMAS
+FRIAR PETER
+MISTRESS OVERDONE, a bawd
+POMPEY the Clown, her servant
+FROTH, Pompey’s customer
+BARNARDINE, a prisoner
+Lords, Officers, Citizens, Servants, and Attendants
+Characters in the Play
+
+--- PAGE 8 / 106 ---
+DUKE
+ESCALUS
+DUKE
+He hands Escalus a paper.
+An Attendant exits.
+Enter Duke, Escalus, Lords, and Attendants.
+  Escalus.
+  My lord.
+ 
+ Of government the properties to unfold
+ Would seem in me t’ affect speech and discourse,
+ Since I am put to know that your own science
+ Exceeds, in that, the lists of all advice
+ My strength can give you. Then no more remains
+ But that, to your sufficiency, as your worth is able,
+ And let them work. The nature of our people,
+ Our city’s institutions, and the terms
+ For common justice, you’re as pregnant in
+ As art and practice hath enrichèd any
+ That we remember. There is our commission,
+ From which we would not have you warp.—Call
+ hither,
+ I say, bid come before us Angelo.
+ What figure of us think you he will bear?
+ For you must know, we have with special soul
+ Elected him our absence to supply,
+ Lent him our terror, dressed him with our love,
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+
+--- PAGE 9 / 106 ---
+9
+Measure for Measure
+ACT 1. SC. 1
+ESCALUS
+DUKE
+ANGELO
+DUKE
+He hands Angelo a paper.
+ANGELO
+ And given his deputation all the organs
+ Of our own power. What think you of it?
+ 
+ If any in Vienna be of worth
+ To undergo such ample grace and honor,
+ It is Lord Angelo.
+Enter Angelo.
+  
+ Look where he comes.
+ 
+ Always obedient to your Grace’s will,
+ I come to know your pleasure.
+  
+ Angelo,
+ There is a kind of character in thy life
+ That to th’ observer doth thy history
+ Fully unfold. Thyself and thy belongings
+ Are not thine own so proper as to waste
+ Thyself upon thy virtues, they on thee.
+ Heaven doth with us as we with torches do,
+ Not light them for themselves; for if our virtues
+ Did not go forth of us, ’twere all alike
+ As if we had them not. Spirits are not finely touched
+ But to fine issues, nor nature never lends
+ The smallest scruple of her excellence
+ But, like a thrifty goddess, she determines
+ Herself the glory of a creditor,
+ Both thanks and use. But I do bend my speech
+ To one that can my part in him advertise.
+ Hold, therefore, Angelo.
+ In our remove be thou at full ourself.
+ Mortality and mercy in Vienna
+ Live in thy tongue and heart. Old Escalus,
+ Though first in question, is thy secondary.
+ Take thy commission. 
+  
+ Now, good my lord,
+ Let there be some more test made of my mettle
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+
+--- PAGE 10 / 106 ---
+11
+Measure for Measure
+ACT 1. SC. 1
+DUKE
+ANGELO
+DUKE
+ANGELO
+ESCALUS
+DUKE
+He exits.
+ESCALUS
+ Before so noble and so great a figure
+ Be stamped upon it.
+  
+ No more evasion.
+ We have with a leavened and preparèd choice
+ Proceeded to you. Therefore, take your honors.
+ Our haste from hence is of so quick condition
+ That it prefers itself and leaves unquestioned
+ Matters of needful value. We shall write to you,
+ As time and our concernings shall importune,
+ How it goes with us, and do look to know
+ What doth befall you here. So fare you well.
+ To th’ hopeful execution do I leave you
+ Of your commissions.
+  
+ Yet give leave, my lord,
+ That we may bring you something on the way.
+  My haste may not admit it.
+ Nor need you, on mine honor, have to do
+ With any scruple. Your scope is as mine own,
+ So to enforce or qualify the laws
+ As to your soul seems good. Give me your hand.
+ I’ll privily away. I love the people,
+ But do not like to stage me to their eyes.
+ Though it do well, I do not relish well
+ Their loud applause and aves vehement,
+ Nor do I think the man of safe discretion
+ That does affect it. Once more, fare you well.
+ 
+ The heavens give safety to your purposes.
+ 
+ Lead forth and bring you back in happiness.
+  I thank you. Fare you well. 
+, to Angelo
+ 
+ I shall desire you, sir, to give me leave
+ To have free speech with you; and it concerns me
+ To look into the bottom of my place.
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+
+--- PAGE 11 / 106 ---
+13
+Measure for Measure
+ACT 1. SC. 2
+ANGELO
+ESCALUS
+They exit.
+LUCIO
+FIRST GENTLEMAN
+SECOND GENTLEMAN
+LUCIO
+SECOND GENTLEMAN
+LUCIO
+FIRST GENTLEMAN
+SECOND GENTLEMAN
+LUCIO
+SECOND GENTLEMAN
+FIRST GENTLEMAN
+LUCIO
+FIRST GENTLEMAN
+ A power I have, but of what strength and nature
+ I am not yet instructed.
+ 
+ ’Tis so with me. Let us withdraw together,
+ And we may soon our satisfaction have
+ Touching that point.
+  
+ I’ll wait upon your Honor.
+Enter Lucio and two other Gentlemen.
+  If the Duke, with the other dukes, come not to
+ composition with the King of Hungary, why then all
+ the dukes fall upon the King.
+  Heaven grant us its peace, but not
+ the King of Hungary’s!
+  Amen.
+  Thou conclud’st like the sanctimonious pirate
+ that went to sea with the ten commandments but
+ scraped one out of the table.
+  “Thou shalt not steal”?
+  Ay, that he razed.
+  Why, ’twas a commandment to command
+ the Captain and all the rest from their functions!
+ They put forth to steal. There’s not a soldier of
+ us all that in the thanksgiving before meat do relish
+ the petition well that prays for peace.
+  I never heard any soldier dislike it.
+  I believe thee, for I think thou never wast where
+ grace was said.
+  No? A dozen times at least.
+  What? In meter?
+  In any proportion or in any language.
+  I think, or in any religion.
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+Scene 2
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+5
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+10
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+15
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+20
+FTLN 0111
+FTLN 0112
+FTLN 0113
+
+--- PAGE 12 / 106 ---
+15
+Measure for Measure
+ACT 1. SC. 2
+LUCIO
+FIRST GENTLEMAN
+LUCIO
+FIRST GENTLEMAN
+LUCIO
+FIRST GENTLEMAN
+SECOND GENTLEMAN
+LUCIO
+SECOND GENTLEMAN
+LUCIO
+SECOND GENTLEMAN
+FIRST GENTLEMAN
+LUCIO
+FIRST GENTLEMAN
+LUCIO
+  Ay, why not? Grace is grace, despite of all
+ controversy; as, for example, thou thyself art a
+ wicked villain, despite of all grace.
+  Well, there went but a pair of shears
+ between us.
+  I grant, as there may between the lists and the
+ velvet. Thou art the list.
+  And thou the velvet. Thou art good
+ velvet; thou ’rt a three-piled piece, I warrant thee. I
+ had as lief be a list of an English kersey as be piled,
+ as thou art piled, for a French velvet. Do I speak
+ feelingly now?
+  I think thou dost, and indeed with most painful
+ feeling of thy speech. I will, out of thine own
+ confession, learn to begin thy health, but, whilst I
+ live, forget to drink after thee.
+  I think I have done myself wrong,
+ have I not?
+  Yes, that thou hast, whether thou
+ art tainted or free.
+Enter Mistress Overdone, a  Bawd.
+  Behold, behold, where Madam Mitigation
+ comes! I have purchased as many diseases under
+ her roof as come to—
+  To what, I pray?
+  Judge.
+  To three thousand dolors a year.
+  Ay, and more.
+  A French crown more.
+  Thou art always figuring diseases in
+ me, but thou art full of error. I am sound.
+  Nay, not, as one would say, healthy, but so sound
+ as things that are hollow. Thy bones are hollow.
+ Impiety has made a feast of thee.
+FTLN 0114
+FTLN 0115
+25
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+30
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+35
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+40
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+45
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+50
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+55
+FTLN 0146
+
+--- PAGE 13 / 106 ---
+17
+Measure for Measure
+ACT 1. SC. 2
+FIRST GENTLEMAN
+BAWD
+SECOND GENTLEMAN
+BAWD
+FIRST GENTLEMAN
+BAWD
+LUCIO
+BAWD
+LUCIO
+SECOND GENTLEMAN
+FIRST GENTLEMAN
+LUCIO
+Lucio and Gentlemen  exit.
+BAWD
+POMPEY
+BAWD
+POMPEY
+BAWD
+POMPEY
+BAWD
+, to Bawd
+  How now, which of your
+ hips has the most profound sciatica?
+  Well, well. There’s one yonder arrested and
+ carried to prison was worth five thousand of you all.
+  Who’s that, I pray thee?
+  Marry, sir, that’s Claudio, Signior Claudio.
+  Claudio to prison? ’Tis not so.
+  Nay, but I know ’tis so. I saw him arrested, saw
+ him carried away; and, which is more, within these
+ three days his head to be chopped off.
+  But, after all this fooling, I would not have it so!
+ Art thou sure of this?
+  I am too sure of it. And it is for getting Madam
+ Julietta with child.
+  Believe me, this may be. He promised to meet
+ me two hours since, and he was ever precise in
+ promise-keeping.
+  Besides, you know, it draws something
+ near to the speech we had to such a purpose.
+  But most of all agreeing with the
+ proclamation.
+  Away. Let’s go learn the truth of it.
+  Thus, what with the war, what with the sweat,
+ what with the gallows, and what with poverty, I am
+ custom-shrunk.
+Enter Pompey.
+ How now? What’s the news with you?
+  Yonder man is carried to prison.
+  Well, what has he done?
+  A woman.
+  But what’s his offense?
+  Groping for trouts in a peculiar river.
+  What? Is there a maid with child by him?
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+60
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+65
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+70
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+75
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+80
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+85
+FTLN 0176
+FTLN 0177
+FTLN 0178
+
+--- PAGE 14 / 106 ---
+19
+Measure for Measure
+ACT 1. SC. 2
+POMPEY
+BAWD
+POMPEY
+BAWD
+POMPEY
+BAWD
+POMPEY
+BAWD
+POMPEY
+BAWD
+POMPEY
+Bawd and Pompey  exit.
+CLAUDIO
+PROVOST
+CLAUDIO
+  No, but there’s a woman with maid by him.
+ You have not heard of the proclamation, have you?
+  What proclamation, man?
+  All houses in the suburbs of Vienna must be
+ plucked down.
+  And what shall become of those in the city?
+  They shall stand for seed. They had gone down
+ too, but that a wise burgher put in for them.
+  But shall all our houses of resort in the suburbs
+ be pulled down?
+  To the ground, mistress.
+  Why, here’s a change indeed in the commonwealth!
+ What shall become of me?
+  Come, fear not you. Good counselors lack no
+ clients. Though you change your place, you need
+ not change your trade. I’ll be your tapster still.
+ Courage. There will be pity taken on you. You that
+ have worn your eyes almost out in the service, you
+ will be considered.
+Enter Provost, Claudio, Juliet, and  Officers.
+  What’s to do here, Thomas Tapster? Let’s
+ withdraw.
+  Here comes Signior Claudio, led by the Provost
+ to prison. And there’s Madam Juliet.
+, to Provost
+ 
+ Fellow, why dost thou show me thus to th’ world?
+ Bear me to prison, where I am committed.
+ 
+ I do it not in evil disposition,
+ But from Lord Angelo by special charge.
+ 
+ Thus can the demigod Authority
+ Make us pay down for our offense, by weight,
+FTLN 0179
+FTLN 0180
+90
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+95
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+100
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+105
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+110
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+115
+FTLN 0206
+FTLN 0207
+
+--- PAGE 15 / 106 ---
+21
+Measure for Measure
+ACT 1. SC. 2
+LUCIO
+CLAUDIO
+LUCIO
+CLAUDIO
+LUCIO
+CLAUDIO
+LUCIO
+CLAUDIO
+PROVOST
+CLAUDIO
+LUCIO
+CLAUDIO
+ The words of heaven: on whom it will, it will;
+ On whom it will not, so; yet still ’tis just.
+Enter Lucio and Second Gentleman.
+ 
+ Why, how now, Claudio? Whence comes this
+ restraint?
+ 
+ From too much liberty, my Lucio, liberty.
+ As surfeit is the father of much fast,
+ So every scope by the immoderate use
+ Turns to restraint. Our natures do pursue,
+ Like rats that raven down their proper bane,
+ A thirsty evil, and when we drink, we die.
+  If I could speak so wisely under an arrest, I
+ would send for certain of my creditors. And yet, to
+ say the truth, I had as lief have the foppery of
+ freedom as the mortality of imprisonment. What’s
+ thy offense, Claudio?
+ 
+ What but to speak of would offend again.
+  What, is ’t murder?
+  No.
+  Lechery?
+  Call it so.
+  Away, sir. You must go.
+ 
+ One word, good friend.—Lucio, a word with you.
+  A hundred, if they’ll do you any good. Is lechery
+ so looked after?
+ 
+ Thus stands it with me: upon a true contract
+ I got possession of Julietta’s bed.
+ You know the lady. She is fast my wife,
+ Save that we do the denunciation lack
+ Of outward order. This we came not to
+FTLN 0208
+FTLN 0209
+FTLN 0210
+120
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+125
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+130
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+135
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+140
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+145
+FTLN 0236
+
+--- PAGE 16 / 106 ---
+23
+Measure for Measure
+ACT 1. SC. 2
+LUCIO
+CLAUDIO
+LUCIO
+CLAUDIO
+ Only for propagation of a dower
+ Remaining in the coffer of her friends,
+ From whom we thought it meet to hide our love
+ Till time had made them for us. But it chances
+ The stealth of our most mutual entertainment
+ With character too gross is writ on Juliet.
+ 
+ With child, perhaps?
+  
+ Unhappily, even so.
+ And the new deputy now for the Duke—
+ Whether it be the fault and glimpse of newness,
+ Or whether that the body public be
+ A horse whereon the governor doth ride,
+ Who, newly in the seat, that it may know
+ He can command, lets it straight feel the spur;
+ Whether the tyranny be in his place
+ Or in his eminence that fills it up,
+ I stagger in—but this new governor
+ Awakes me all the enrollèd penalties
+ Which have, like unscoured armor, hung by th’ wall
+ So long that nineteen zodiacs have gone round,
+ And none of them been worn; and for a name
+ Now puts the drowsy and neglected act
+ Freshly on me. ’Tis surely for a name.
+  I warrant it is. And thy head stands so tickle on
+ thy shoulders that a milkmaid, if she be in love, may
+ sigh it off. Send after the Duke and appeal to him.
+ 
+ I have done so, but he’s not to be found.
+ I prithee, Lucio, do me this kind service:
+ This day my sister should the cloister enter
+ And there receive her approbation.
+ Acquaint her with the danger of my state;
+ Implore her, in my voice, that she make friends
+ To the strict deputy; bid herself assay him.
+ I have great hope in that, for in her youth
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+150
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+155
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+160
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+165
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+170
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+175
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+180
+
+--- PAGE 17 / 106 ---
+25
+Measure for Measure
+ACT 1. SC. 3
+LUCIO
+CLAUDIO
+LUCIO
+CLAUDIO
+They exit.
+DUKE
+FRIAR THOMAS
+DUKE
+ There is a prone and speechless dialect
+ Such as move men. Besides, she hath prosperous art
+ When she will play with reason and discourse,
+ And well she can persuade.
+  I pray she may, as well for the encouragement of
+ the like, which else would stand under grievous
+ imposition, as for the enjoying of thy life, who I
+ would be sorry should be thus foolishly lost at a
+ game of tick-tack. I’ll to her.
+  I thank you, good friend Lucio.
+  Within two hours.
+  Come, officer, away.
+Enter Duke and Friar Thomas.
+ 
+ No, holy father, throw away that thought.
+ Believe not that the dribbling dart of love
+ Can pierce a complete bosom. Why I desire thee
+ To give me secret harbor hath a purpose
+ More grave and wrinkled than the aims and ends
+ Of burning youth.
+  
+ May your Grace speak of it?
+ 
+ My holy sir, none better knows than you
+ How I have ever loved the life removed,
+ And held in idle price to haunt assemblies
+ Where youth and cost witless bravery keeps.
+ I have delivered to Lord Angelo,
+ A man of stricture and firm abstinence,
+ My absolute power and place here in Vienna,
+ And he supposes me traveled to Poland,
+ For so I have strewed it in the common ear,
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+185
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+190
+FTLN 0281
+FTLN 0282
+Scene 3
+FTLN 0283
+FTLN 0284
+FTLN 0285
+FTLN 0286
+FTLN 0287
+5
+FTLN 0288
+FTLN 0289
+FTLN 0290
+FTLN 0291
+FTLN 0292
+10
+FTLN 0293
+FTLN 0294
+FTLN 0295
+FTLN 0296
+FTLN 0297
+15
+FTLN 0298
+
+--- PAGE 18 / 106 ---
+27
+Measure for Measure
+ACT 1. SC. 3
+FRIAR THOMAS
+DUKE
+FRIAR THOMAS
+DUKE
+ And so it is received. Now, pious sir,
+ You will demand of me why I do this.
+  Gladly, my lord.
+ 
+ We have strict statutes and most biting laws,
+ The needful bits and curbs to headstrong weeds,
+ Which for this fourteen years we have let slip,
+ Even like an o’ergrown lion in a cave
+ That goes not out to prey. Now, as fond fathers,
+ Having bound up the threat’ning twigs of birch
+ Only to stick it in their children’s sight
+ For terror, not to use—in time the rod
+ More mocked than feared—so our decrees,
+ Dead to infliction, to themselves are dead,
+ And liberty plucks justice by the nose,
+ The baby beats the nurse, and quite athwart
+ Goes all decorum.
+  
+ It rested in your Grace
+ To unloose this tied-up justice when you pleased,
+ And it in you more dreadful would have seemed
+ Than in Lord Angelo.
+  
+ I do fear, too dreadful.
+ Sith ’twas my fault to give the people scope,
+ ’Twould be my tyranny to strike and gall them
+ For what I bid them do; for we bid this be done
+ When evil deeds have their permissive pass
+ And not the punishment. Therefore, indeed, my
+ father,
+ I have on Angelo imposed the office,
+ Who may in th’ ambush of my name strike home,
+ And yet my nature never in the fight
+ To do in slander. And to behold his sway
+ I will, as ’twere a brother of your order,
+ Visit both prince and people. Therefore I prithee
+ Supply me with the habit, and instruct me
+ How I may formally in person bear
+FTLN 0299
+FTLN 0300
+FTLN 0301
+FTLN 0302
+20
+FTLN 0303
+FTLN 0304
+FTLN 0305
+FTLN 0306
+FTLN 0307
+25
+FTLN 0308
+FTLN 0309
+FTLN 0310
+FTLN 0311
+FTLN 0312
+30
+FTLN 0313
+FTLN 0314
+FTLN 0315
+FTLN 0316
+FTLN 0317
+35
+FTLN 0318
+FTLN 0319
+FTLN 0320
+FTLN 0321
+FTLN 0322
+40
+FTLN 0323
+FTLN 0324
+FTLN 0325
+FTLN 0326
+FTLN 0327
+45
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+FTLN 0332
+50
+FTLN 0333
+
+--- PAGE 19 / 106 ---
+29
+Measure for Measure
+ACT 1. SC. 4
+They  exit.
+ISABELLA
+NUN
+ISABELLA
+LUCIO
+ISABELLA
+NUN
+ISABELLA
+ Like a true friar. More reasons for this action
+ At our more leisure shall I render you.
+ Only this one: Lord Angelo is precise,
+ Stands at a guard with envy, scarce confesses
+ That his blood flows or that his appetite
+ Is more to bread than stone. Hence shall we see,
+ If power change purpose, what our seemers be.
+Enter Isabella and Francisca, a Nun.
+ 
+ And have you nuns no farther privileges?
+  Are not these large enough?
+ 
+ Yes, truly. I speak not as desiring more,
+ But rather wishing a more strict restraint
+ Upon the sisterhood, the votarists of Saint Clare.
+, within  
+ Ho, peace be in this place!
+  
+ Who’s that which calls?
+ 
+ It is a man’s voice. Gentle Isabella,
+ Turn you the key and know his business of him.
+ You may; I may not. You are yet unsworn.
+ When you have vowed, you must not speak with men
+ But in the presence of the Prioress.
+ Then, if you speak, you must not show your face;
+ Or if you show your face, you must not speak.
+ He calls again. I pray you answer him.
+ 
+ Peace and prosperity! Who is ’t that calls?
+Enter Lucio.
+FTLN 0334
+FTLN 0335
+FTLN 0336
+FTLN 0337
+55
+FTLN 0338
+FTLN 0339
+FTLN 0340
+Scene 4
+FTLN 0341
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+5
+FTLN 0346
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+10
+FTLN 0351
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+15
+FTLN 0356
+
+--- PAGE 20 / 106 ---
+31
+Measure for Measure
+ACT 1. SC. 4
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ 
+ Hail, virgin, if you be, as those cheek-roses
+ Proclaim you are no less. Can you so stead me
+ As bring me to the sight of Isabella,
+ A novice of this place and the fair sister
+ To her unhappy brother, Claudio?
+ 
+ Why “her unhappy brother”? Let me ask,
+ The rather for I now must make you know
+ I am that Isabella, and his sister.
+ 
+ Gentle and fair, your brother kindly greets you.
+ Not to be weary with you, he’s in prison.
+  Woe me, for what?
+ 
+ For that which, if myself might be his judge,
+ He should receive his punishment in thanks:
+ He hath got his friend with child.
+ 
+ Sir, make me not your story.
+  
+ ’Tis true.
+ I would not, though ’tis my familiar sin
+ With maids to seem the lapwing and to jest,
+ Tongue far from heart, play with all virgins so.
+ I hold you as a thing enskied and sainted,
+ By your renouncement an immortal spirit,
+ And to be talked with in sincerity
+ As with a saint.
+ 
+ You do blaspheme the good in mocking me.
+ 
+ Do not believe it. Fewness and truth, ’tis thus:
+ Your brother and his lover have embraced;
+ As those that feed grow full, as blossoming time
+ That from the seedness the bare fallow brings
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+20
+FTLN 0361
+FTLN 0362
+FTLN 0363
+FTLN 0364
+FTLN 0365
+25
+FTLN 0366
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+30
+FTLN 0371
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+35
+FTLN 0376
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+40
+FTLN 0381
+FTLN 0382
+FTLN 0383
+FTLN 0384
+
+--- PAGE 21 / 106 ---
+33
+Measure for Measure
+ACT 1. SC. 4
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+ To teeming foison, even so her plenteous womb
+ Expresseth his full tilth and husbandry.
+ 
+ Someone with child by him? My cousin Juliet?
+  Is she your cousin?
+ 
+ Adoptedly, as schoolmaids change their names
+ By vain though apt affection.
+  
+ She it is.
+ 
+ O, let him marry her!
+  
+ This is the point.
+ The Duke is very strangely gone from hence;
+ Bore many gentlemen, myself being one,
+ In hand, and hope of action; but we do learn,
+ By those that know the very nerves of state,
+ His givings-out  were of an infinite distance
+ From his true-meant design. Upon his place,
+ And with full line of his authority,
+ Governs Lord Angelo, a man whose blood
+ Is very snow-broth; one who never feels
+ The wanton stings and motions of the sense,
+ But doth rebate and blunt his natural edge
+ With profits of the mind: study and fast.
+ He—to give fear to use and liberty,
+ Which have for long run by the hideous law
+ As mice by lions—hath picked out an act
+ Under whose heavy sense your brother’s life
+ Falls into forfeit. He arrests him on it,
+ And follows close the rigor of the statute
+ To make him an example. All hope is gone
+ Unless you have the grace by your fair prayer
+ To soften Angelo. And that’s my pith of business
+ ’Twixt you and your poor brother.
+  
+ Doth he so
+ Seek his life?
+FTLN 0385
+45
+FTLN 0386
+FTLN 0387
+FTLN 0388
+FTLN 0389
+FTLN 0390
+50
+FTLN 0391
+FTLN 0392
+FTLN 0393
+FTLN 0394
+FTLN 0395
+55
+FTLN 0396
+FTLN 0397
+FTLN 0398
+FTLN 0399
+FTLN 0400
+60
+FTLN 0401
+FTLN 0402
+FTLN 0403
+FTLN 0404
+FTLN 0405
+65
+FTLN 0406
+FTLN 0407
+FTLN 0408
+FTLN 0409
+FTLN 0410
+70
+FTLN 0411
+FTLN 0412
+FTLN 0413
+FTLN 0414
+FTLN 0415
+75
+FTLN 0416
+FTLN 0417
+
+--- PAGE 22 / 106 ---
+35
+Measure for Measure
+ACT 1. SC. 4
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ISABELLA
+They exit.
+  
+ Has censured him already,
+ And, as I hear, the Provost hath a warrant
+ For ’s execution.
+ 
+ Alas, what poor ability’s in me
+ To do him good?
+  
+ Assay the power you have.
+ 
+ My power? Alas, I doubt—
+  
+ Our doubts are traitors
+ And makes us lose the good we oft might win
+ By fearing to attempt. Go to Lord Angelo
+ And let him learn to know, when maidens sue
+ Men give like gods; but when they weep and kneel,
+ All their petitions are as freely theirs
+ As they themselves would owe them.
+  I’ll see what I can do.
+  But speedily!
+  I will about it straight,
+ No longer staying but to give the Mother
+ Notice of my affair. I humbly thank you.
+ Commend me to my brother. Soon at night
+ I’ll send him certain word of my success.
+ 
+ I take my leave of you.
+  
+ Good sir, adieu.
+FTLN 0418
+FTLN 0419
+FTLN 0420
+80
+FTLN 0421
+FTLN 0422
+FTLN 0423
+FTLN 0424
+FTLN 0425
+85
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+FTLN 0430
+90
+FTLN 0431
+FTLN 0432
+FTLN 0433
+FTLN 0434
+FTLN 0435
+95
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+FTLN 0440
+100
+
+--- PAGE 23 / 106 ---
+ANGELO
+ESCALUS
+ANGELO
+Enter Angelo, Escalus, Servants, and a  Justice.
+ 
+ We must not make a scarecrow of the law,
+ Setting it up to fear the birds of prey,
+ And let it keep one shape till custom make it
+ Their perch and not their terror.
+  
+ Ay, but yet
+ Let us be keen and rather cut a little
+ Than fall and bruise to death. Alas, this gentleman
+ Whom I would save had a most noble father.
+ Let but your Honor know,
+ Whom I believe to be most strait in virtue,
+ That, in the working of your own affections,
+ Had time cohered with place, or place with wishing,
+ Or that the resolute acting of your  blood
+ Could have attained th’ effect of your own purpose,
+ Whether you had not sometime in your life
+ Erred in this point which now you censure him,
+ And pulled the law upon you.
+ 
+ ’Tis one thing to be tempted, Escalus,
+ Another thing to fall. I not deny
+ The jury passing on the prisoner’s life
+ May in the sworn twelve have a thief or two
+ Guiltier than him they try. What’s open made to
+ justice,
+39
+ACT 2
+Scene 1
+FTLN 0441
+FTLN 0442
+FTLN 0443
+FTLN 0444
+FTLN 0445
+5
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+FTLN 0450
+10
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+FTLN 0455
+15
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+FTLN 0460
+20
+FTLN 0461
+FTLN 0462
+FTLN 0463
+
+--- PAGE 24 / 106 ---
+41
+Measure for Measure
+ACT 2. SC. 1
+ESCALUS
+ANGELO
+PROVOST
+ANGELO
+Provost exits.
+ESCALUS
+ELBOW
+ANGELO
+ That justice seizes. What knows the laws
+ That thieves do pass on thieves? ’Tis very pregnant,
+ The jewel that we find, we stoop and take ’t
+ Because we see it; but what we do not see,
+ We tread upon and never think of it.
+ You may not so extenuate his offense
+ For I have had such faults; but rather tell me,
+ When I that censure him do so offend,
+ Let mine own judgment pattern out my death,
+ And nothing come in partial. Sir, he must die.
+Enter Provost.
+ 
+ Be it as your wisdom will.
+  
+ Where is the Provost?
+ 
+ Here, if it like your Honor.
+  
+ See that Claudio
+ Be executed by nine tomorrow morning.
+ Bring him his confessor, let him be prepared,
+ For that’s the utmost of his pilgrimage.
+ 
+ Well, heaven forgive him and forgive us all.
+ Some rise by sin and some by virtue fall.
+ Some run from brakes of ice and answer none,
+ And some condemnèd for a fault alone.
+Enter Elbow and  Officers, with  Froth
+and Pompey.
+, to Officers
+  Come, bring them away. If these
+ be good people in a commonweal that do nothing
+ but use their abuses in common houses, I know no
+ law. Bring them away.
+  How now, sir, what’s your name? And what’s
+ the matter?
+FTLN 0464
+FTLN 0465
+25
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+FTLN 0470
+30
+FTLN 0471
+FTLN 0472
+FTLN 0473
+FTLN 0474
+FTLN 0475
+35
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+FTLN 0480
+40
+FTLN 0481
+FTLN 0482
+FTLN 0483
+FTLN 0484
+FTLN 0485
+45
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+FTLN 0490
+50
+
+--- PAGE 25 / 106 ---
+43
+Measure for Measure
+ACT 2. SC. 1
+ELBOW
+ANGELO
+ELBOW
+ESCALUS
+ANGELO
+POMPEY
+ANGELO
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+  If it please your Honor, I am the poor duke’s
+ constable, and my name is Elbow. I do lean upon
+ justice, sir, and do bring in here before your good
+ Honor two notorious benefactors.
+  Benefactors? Well, what benefactors are they?
+ Are they not malefactors?
+  If it please your Honor, I know not well what
+ they are, but precise villains they are, that I am sure
+ of, and void of all profanation in the world that
+ good Christians ought to have.
+, to Angelo
+  This comes off well. Here’s a wise
+ officer.
+, to Elbow
+  Go to. What quality are they of?
+ Elbow is your name? Why dost thou not speak,
+ Elbow?
+  He cannot, sir. He’s out at elbow.
+  What are you, sir?
+  He, sir? A tapster, sir, parcel bawd; one that
+ serves a bad woman, whose house, sir, was, as they
+ say, plucked down in the suburbs, and now she
+ professes a hothouse, which I think is a very ill
+ house too.
+  How know you that?
+  My wife, sir, whom I detest before heaven and
+ your Honor—
+  How? Thy wife?
+  Ay, sir, whom I thank heaven is an honest
+ woman—
+  Dost thou detest her therefore?
+  I say, sir, I will detest myself also, as well as she,
+ that this house, if it be not a bawd’s house, it is pity
+ of her life, for it is a naughty house.
+  How dost thou know that, constable?
+  Marry, sir, by my wife, who, if she had been a
+ woman cardinally given, might have been accused
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+FTLN 0495
+55
+FTLN 0496
+FTLN 0497
+FTLN 0498
+FTLN 0499
+FTLN 0500
+60
+FTLN 0501
+FTLN 0502
+FTLN 0503
+FTLN 0504
+FTLN 0505
+65
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+FTLN 0510
+70
+FTLN 0511
+FTLN 0512
+FTLN 0513
+FTLN 0514
+FTLN 0515
+75
+FTLN 0516
+FTLN 0517
+FTLN 0518
+FTLN 0519
+FTLN 0520
+80
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+FTLN 0525
+85
+
+--- PAGE 26 / 106 ---
+45
+Measure for Measure
+ACT 2. SC. 1
+ESCALUS
+ELBOW
+POMPEY
+ELBOW
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+FROTH
+POMPEY
+FROTH
+POMPEY
+FROTH
+ in fornication, adultery, and all uncleanliness
+ there.
+  By the woman’s means?
+  Ay, sir, by Mistress Overdone’s means; but as
+ she spit in his face, so she defied him.
+, to Escalus
+  Sir, if it please your Honor, this is
+ not so.
+  Prove it before these varlets here, thou honorable
+ man, prove it.
+, to Angelo
+  Do you hear how he misplaces?
+  Sir, she came in great with child, and longing,
+ saving your Honor’s reverence, for stewed prunes.
+ Sir, we had but two in the house, which at that very
+ distant time stood, as it were, in a fruit dish, a dish
+ of some threepence; your Honors have seen such
+ dishes; they are not china dishes, but very good
+ dishes—
+  Go to, go to. No matter for the dish, sir.
+  No, indeed, sir, not of a pin; you are therein in
+ the right. But to the point: as I say, this Mistress
+ Elbow, being, as I say, with child, and being great-bellied,
+ and longing, as I said, for prunes; and
+ having but two in the dish, as I said, Master Froth
+ here, this very man, having eaten the rest, as I said,
+ and, as I say, paying for them very honestly—for, as
+ you know, Master Froth, I could not give you threepence
+ again—
+  No, indeed.
+  Very well. You being then, if you be remembered,
+ cracking the stones of the foresaid prunes—
+  Ay, so I did indeed.
+  Why, very well. I telling you then, if you be
+ remembered, that such a one and such a one were
+ past cure of the thing you wot of, unless they kept
+ very good diet, as I told you—
+  All this is true.
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+FTLN 0530
+90
+FTLN 0531
+FTLN 0532
+FTLN 0533
+FTLN 0534
+FTLN 0535
+95
+FTLN 0536
+FTLN 0537
+FTLN 0538
+FTLN 0539
+FTLN 0540
+100
+FTLN 0541
+FTLN 0542
+FTLN 0543
+FTLN 0544
+FTLN 0545
+105
+FTLN 0546
+FTLN 0547
+FTLN 0548
+FTLN 0549
+FTLN 0550
+110
+FTLN 0551
+FTLN 0552
+FTLN 0553
+FTLN 0554
+FTLN 0555
+115
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+FTLN 0560
+120
+FTLN 0561
+
+--- PAGE 27 / 106 ---
+47
+Measure for Measure
+ACT 2. SC. 1
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+FROTH
+POMPEY
+FROTH
+POMPEY
+ANGELO
+ESCALUS
+Angelo  exits.
+POMPEY
+ELBOW
+POMPEY
+ESCALUS
+POMPEY
+  Why, very well then—
+  Come, you are a tedious fool. To the purpose:
+ what was done to Elbow’s wife that he hath cause to
+ complain of? Come me to what was done to her.
+  Sir, your Honor cannot come to that yet.
+  No, sir, nor I mean it not.
+  Sir, but you shall come to it, by your Honor’s
+ leave. And I beseech you, look into Master Froth
+ here, sir, a man of fourscore pound a year, whose
+ father died at Hallowmas—was ’t not at Hallowmas,
+ Master Froth?
+  All-hallond Eve.
+  Why, very well. I hope here be truths.—He,
+ sir, sitting, as I say, in a lower chair, sir— To Froth.
+ ’Twas in the Bunch of Grapes, where indeed you
+ have a delight to sit, have you not?
+  I have so, because it is an open room, and good
+ for winter.
+  Why, very well then. I hope here be truths.
+, to Escalus
+ 
+ This will last out a night in Russia
+ When nights are longest there. I’ll take my leave,
+ And leave you to the hearing of the cause,
+ Hoping you’ll find good cause to whip them all.
+ 
+ I think no less. Good morrow to your Lordship
+ Now, sir, come on. What was done to Elbow’s wife,
+ once more?
+  Once, sir? There was nothing done to her
+ once.
+, to Escalus
+  I beseech you, sir, ask him what
+ this man did to my wife.
+, to Escalus
+  I beseech your Honor, ask me.
+  Well, sir, what did this gentleman to her?
+  I beseech you, sir, look in this gentleman’s
+FTLN 0562
+FTLN 0563
+FTLN 0564
+FTLN 0565
+125
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+FTLN 0570
+130
+FTLN 0571
+FTLN 0572
+FTLN 0573
+FTLN 0574
+FTLN 0575
+135
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+FTLN 0580
+140
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+FTLN 0585
+145
+FTLN 0586
+FTLN 0587
+FTLN 0588
+FTLN 0589
+FTLN 0590
+150
+FTLN 0591
+FTLN 0592
+FTLN 0593
+FTLN 0594
+
+--- PAGE 28 / 106 ---
+49
+Measure for Measure
+ACT 2. SC. 1
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+ELBOW
+POMPEY
+ELBOW
+POMPEY
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ face.—Good Master Froth, look upon his Honor.
+ ’Tis for a good purpose.—Doth your Honor mark
+ his face?
+  Ay, sir, very well.
+  Nay, I beseech you, mark it well.
+  Well, I do so.
+  Doth your Honor see any harm in his face?
+  Why, no.
+  I’ll be supposed upon a book, his face is the
+ worst thing about him. Good, then, if his face be the
+ worst thing about him, how could Master Froth do
+ the Constable’s wife any harm? I would know that
+ of your Honor.
+  He’s in the right, constable. What say you to
+ it?
+  First, an it like you, the house is a respected
+ house; next, this is a respected fellow, and his
+ mistress is a respected woman.
+  By this hand, sir, his wife is a more respected
+ person than any of us all.
+  Varlet, thou liest; thou liest, wicked varlet! The
+ time is yet to come that she was ever respected with
+ man, woman, or child.
+  Sir, she was respected with him before he
+ married with her.
+  Which is the wiser here, Justice or Iniquity?
+ Is this true?
+, to Pompey
+  O thou caitiff! O thou varlet! O
+ thou wicked Hannibal! I respected with her before I
+ was married to her?—If ever I was respected with
+ her, or she with me, let not your Worship think me
+ the poor duke’s officer.—Prove this, thou wicked
+ Hannibal, or I’ll have mine action of batt’ry on thee.
+  If he took you a box o’ th’ ear, you might have
+ your action of slander too.
+  Marry, I thank your good Worship for it. What
+FTLN 0595
+155
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+FTLN 0600
+160
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+FTLN 0605
+165
+FTLN 0606
+FTLN 0607
+FTLN 0608
+FTLN 0609
+FTLN 0610
+170
+FTLN 0611
+FTLN 0612
+FTLN 0613
+FTLN 0614
+FTLN 0615
+175
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+FTLN 0620
+180
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+FTLN 0625
+185
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+FTLN 0630
+190
+
+--- PAGE 29 / 106 ---
+51
+Measure for Measure
+ACT 2. SC. 1
+ESCALUS
+ELBOW
+ESCALUS
+FROTH
+ESCALUS
+FROTH
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+FROTH
+ESCALUS
+Froth exits.
+POMPEY
+ESCALUS
+POMPEY
+ is ’t your Worship’s pleasure I shall do with this
+ wicked caitiff?
+  Truly, officer, because he hath some offenses
+ in him that thou wouldst discover if thou couldst,
+ let him continue in his courses till thou know’st
+ what they are.
+  Marry, I thank your Worship for it.  To Pompey.
+ Thou seest, thou wicked varlet, now, what’s
+ come upon thee. Thou art to continue now, thou
+ varlet, thou art to continue.
+, to Froth
+  Where were you born, friend?
+  Here in Vienna, sir.
+  Are you of fourscore pounds a year?
+  Yes, an ’t please you, sir.
+  So.  To Pompey.  What trade are you of, sir?
+  A tapster, a poor widow’s tapster.
+  Your mistress’ name?
+  Mistress Overdone.
+  Hath she had any more than one husband?
+  Nine, sir. Overdone by the last.
+  Nine?—Come hither to me, Master Froth.
+ Master Froth, I would not have you acquainted with
+ tapsters; they will draw you, Master Froth, and you
+ will hang them. Get you gone, and let me hear no
+ more of you.
+  I thank your Worship. For mine own part, I
+ never come into any room in a taphouse but I am
+ drawn in.
+  Well, no more of it, Master Froth. Farewell.
+ Come you hither to me, Master Tapster. What’s your
+ name, Master Tapster?
+  Pompey.
+  What else?
+  Bum, sir.
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+FTLN 0635
+195
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+FTLN 0640
+200
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+FTLN 0645
+205
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+FTLN 0650
+210
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+FTLN 0655
+215
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+FTLN 0660
+220
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+
+--- PAGE 30 / 106 ---
+53
+Measure for Measure
+ACT 2. SC. 1
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+ESCALUS
+POMPEY
+  Troth, and your bum is the greatest thing
+ about you, so that in the beastliest sense you are
+ Pompey the Great. Pompey, you are partly a bawd,
+ Pompey, howsoever you color it in being a tapster,
+ are you not? Come, tell me true. It shall be the
+ better for you.
+  Truly, sir, I am a poor fellow that would live.
+  How would you live, Pompey? By being a
+ bawd? What do you think of the trade, Pompey? Is it
+ a lawful trade?
+  If the law would allow it, sir.
+  But the law will not allow it, Pompey, nor it
+ shall not be allowed in Vienna.
+  Does your Worship mean to geld and splay all
+ the youth of the city?
+  No, Pompey.
+  Truly, sir, in my poor opinion, they will to ’t
+ then. If your Worship will take order for the drabs
+ and the knaves, you need not to fear the bawds.
+  There is pretty orders beginning, I can tell
+ you. It is but heading and hanging.
+  If you head and hang all that offend that way
+ but for ten year together, you’ll be glad to give out a
+ commission for more heads. If this law hold in
+ Vienna ten year, I’ll rent the fairest house in it after
+ threepence a bay. If you live to see this come to
+ pass, say Pompey told you so.
+  Thank you, good Pompey. And in requital of
+ your prophecy, hark you: I advise you let me not
+ find you before me again upon any complaint
+ whatsoever; no, not for dwelling where you do. If I
+ do, Pompey, I shall beat you to your tent and prove
+ a shrewd Caesar to you. In plain dealing, Pompey, I
+ shall have you whipped. So, for this time, Pompey,
+ fare you well.
+  I thank your Worship for your good counsel.
+FTLN 0665
+225
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+FTLN 0670
+230
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+FTLN 0675
+235
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+FTLN 0680
+240
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+FTLN 0685
+245
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+FTLN 0690
+250
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+FTLN 0695
+255
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+FTLN 0700
+260
+
+--- PAGE 31 / 106 ---
+55
+Measure for Measure
+ACT 2. SC. 1
+He exits.
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+ELBOW
+ESCALUS
+Elbow and Officers exit.
+JUSTICE
+ESCALUS
+JUSTICE
+ESCALUS
+JUSTICE
+ESCALUS
+  Aside.  But I shall follow it as the flesh and fortune
+ shall better determine.
+ Whip me? No, no, let carman whip his jade.
+ The valiant heart’s not whipped out of his trade.
+  Come hither to me, Master Elbow. Come
+ hither, Master Constable. How long have you been
+ in this place of constable?
+  Seven year and a half, sir.
+  I thought, by the readiness in the office, you
+ had continued in it some time. You say seven years
+ together?
+  And a half, sir.
+  Alas, it hath been great pains to you. They do
+ you wrong to put you so oft upon ’t. Are there not
+ men in your ward sufficient to serve it?
+  Faith, sir, few of any wit in such matters. As
+ they are chosen, they are glad to choose me for
+ them. I do it for some piece of money and go
+ through with all.
+  Look you bring me in the names of some six
+ or seven, the most sufficient of your parish.
+  To your Worship’s house, sir?
+  To my house. Fare you well.
+  To Justice.  What’s o’clock, think you?
+  Eleven, sir.
+  I pray you home to dinner with me.
+  I humbly thank you.
+ 
+ It grieves me for the death of Claudio,
+ But there’s no remedy.
+ 
+ Lord Angelo is severe.
+  
+ It is but needful.
+ Mercy is not itself that oft looks so.
+FTLN 0701
+FTLN 0702
+FTLN 0703
+FTLN 0704
+FTLN 0705
+265
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+FTLN 0710
+270
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+FTLN 0715
+275
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+FTLN 0720
+280
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+FTLN 0725
+285
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+FTLN 0730
+290
+FTLN 0731
+FTLN 0732
+
+--- PAGE 32 / 106 ---
+57
+Measure for Measure
+ACT 2. SC. 2
+They exit.
+SERVANT
+PROVOST
+Servant exits.
+ANGELO
+PROVOST
+ANGELO
+PROVOST
+ANGELO
+PROVOST
+ Pardon is still the nurse of second woe.
+ But yet, poor Claudio. There is no remedy.
+ Come, sir.
+Enter Provost and a  Servant.
+ 
+ He’s hearing of a cause. He will come straight.
+ I’ll tell him of you.
+  
+ Pray you do.
+ I’ll know
+ His pleasure. Maybe he will relent. Alas,
+ He hath but as offended in a dream.
+ All sects, all ages smack of this vice, and he
+ To die for ’t?
+Enter Angelo.
+  
+ Now, what’s the matter, provost?
+ 
+ Is it your will Claudio shall die tomorrow?
+ 
+ Did not I tell thee yea? Hadst thou not order?
+ Why dost thou ask again?
+  Lest I might be too rash.
+ Under your good correction, I have seen
+ When, after execution, judgment hath
+ Repented o’er his doom.
+  Go to. Let that be mine.
+ Do you your office, or give up your place
+ And you shall well be spared.
+  I crave your Honor’s pardon.
+FTLN 0733
+FTLN 0734
+FTLN 0735
+295
+Scene 2
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+FTLN 0740
+5
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+FTLN 0745
+10
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+FTLN 0750
+15
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+FTLN 0755
+20
+
+--- PAGE 33 / 106 ---
+59
+Measure for Measure
+ACT 2. SC. 2
+ANGELO
+SERVANT
+ANGELO
+PROVOST
+ANGELO
+Servant exits.
+PROVOST
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ What shall be done, sir, with the groaning Juliet?
+ She’s very near her hour.
+  
+ Dispose of her
+ To some more fitter place, and that with speed.
+Enter Servant.
+ 
+ Here is the sister of the man condemned
+ Desires access to you.
+  
+ Hath he a sister?
+ 
+ Ay, my good lord, a very virtuous maid,
+ And to be shortly of a sisterhood,
+ If not already.
+, to Servant
+   Well, let her be admitted.
+ See you the fornicatress be removed.
+ Let her have needful but not lavish means.
+ There shall be order for ’t.
+Enter Lucio and Isabella.
+, beginning to exit
+  Save your Honor.
+ 
+ Stay a little while.  To Isabella.  You’re welcome.
+ What’s your will?
+ 
+ I am a woeful suitor to your Honor,
+ Please but your Honor hear me.
+  
+ Well, what’s your
+ suit?
+ 
+ There is a vice that most I do abhor,
+ And most desire should meet the blow of justice,
+ For which I would not plead, but that I must;
+FTLN 0756
+FTLN 0757
+FTLN 0758
+FTLN 0759
+FTLN 0760
+25
+FTLN 0761
+FTLN 0762
+FTLN 0763
+FTLN 0764
+FTLN 0765
+30
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+FTLN 0770
+35
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+FTLN 0775
+40
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+
+--- PAGE 34 / 106 ---
+61
+Measure for Measure
+ACT 2. SC. 2
+ANGELO
+ISABELLA
+PROVOST
+ANGELO
+ISABELLA
+LUCIO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ For which I must not plead, but that I am
+ At war ’twixt will and will not.
+  
+ Well, the matter?
+ 
+ I have a brother is condemned to die.
+ I do beseech you let it be his fault
+ And not my brother.
+, aside
+  
+ Heaven give thee moving
+ graces.
+ 
+ Condemn the fault, and not the actor of it?
+ Why, every fault’s condemned ere it be done.
+ Mine were the very cipher of a function
+ To fine the faults whose fine stands in record
+ And let go by the actor.
+  O just but severe law!
+ I had a brother, then. Heaven keep your Honor.
+, aside to Isabella
+ 
+ Give ’t not o’er so. To him again, entreat him,
+ Kneel down before him, hang upon his gown.
+ You are too cold. If you should need a pin,
+ You could not with more tame a tongue desire it.
+ To him, I say.
+, to Angelo
+ 
+ Must he needs die?
+  
+ Maiden, no remedy.
+ 
+ Yes, I do think that you might pardon him,
+ And neither heaven nor man grieve at the mercy.
+ 
+ I will not do ’t.
+  
+ But can you if you would?
+ 
+ Look what I will not, that I cannot do.
+ 
+ But might you do ’t and do the world no wrong
+FTLN 0780
+45
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+FTLN 0785
+50
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+FTLN 0790
+55
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+FTLN 0795
+60
+FTLN 0796
+FTLN 0797
+FTLN 0798
+FTLN 0799
+FTLN 0800
+65
+FTLN 0801
+FTLN 0802
+FTLN 0803
+FTLN 0804
+FTLN 0805
+70
+FTLN 0806
+FTLN 0807
+
+--- PAGE 35 / 106 ---
+63
+Measure for Measure
+ACT 2. SC. 2
+ANGELO
+LUCIO
+ISABELLA
+ANGELO
+ISABELLA
+LUCIO
+ANGELO
+ISABELLA
+ANGELO
+ If so your heart were touched with that remorse
+ As mine is to him?
+  He’s sentenced. ’Tis too late.
+, aside to Isabella
+  You are too cold.
+ 
+ Too late? Why, no. I that do speak a word
+ May call it back  again. Well believe this:
+ No ceremony that to great ones longs,
+ Not the king’s crown, nor the deputed sword,
+ The marshal’s truncheon, nor the judge’s robe
+ Become them with one half so good a grace
+ As mercy does.
+ If he had been as you, and you as he,
+ You would have slipped like him, but he like you
+ Would not have been so stern.
+  
+ Pray you begone.
+ 
+ I would to heaven I had your potency,
+ And you were Isabel. Should it then be thus?
+ No. I would tell what ’twere to be a judge
+ And what a prisoner.
+, aside to Isabella
+   Ay, touch him; there’s the
+ vein.
+ 
+ Your brother is a forfeit of the law,
+ And you but waste your words.
+  
+ Alas, alas!
+ Why all the souls that were were forfeit once,
+ And He that might the vantage best have took
+ Found out the remedy. How would you be
+ If He which is the top of judgment should
+ But judge you as you are? O, think on that,
+ And mercy then will breathe within your lips
+ Like man new-made.
+  
+ Be you content, fair maid.
+ It is the law, not I, condemn your brother.
+FTLN 0808
+FTLN 0809
+FTLN 0810
+75
+FTLN 0811
+FTLN 0812
+FTLN 0813
+FTLN 0814
+FTLN 0815
+80
+FTLN 0816
+FTLN 0817
+FTLN 0818
+FTLN 0819
+FTLN 0820
+85
+FTLN 0821
+FTLN 0822
+FTLN 0823
+FTLN 0824
+FTLN 0825
+90
+FTLN 0826
+FTLN 0827
+FTLN 0828
+FTLN 0829
+FTLN 0830
+95
+FTLN 0831
+FTLN 0832
+FTLN 0833
+FTLN 0834
+FTLN 0835
+100
+FTLN 0836
+FTLN 0837
+FTLN 0838
+FTLN 0839
+FTLN 0840
+105
+
+--- PAGE 36 / 106 ---
+65
+Measure for Measure
+ACT 2. SC. 2
+ISABELLA
+LUCIO
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ Were he my kinsman, brother, or my son,
+ It should be thus with him. He must die tomorrow.
+ 
+ Tomorrow? O, that’s sudden! Spare him, spare him.
+ He’s not prepared for death. Even for our kitchens
+ We kill the fowl of season. Shall we serve heaven
+ With less respect than we do minister
+ To our gross selves? Good, good my lord, bethink
+ you.
+ Who is it that hath died for this offense?
+ There’s many have committed it.
+, aside to Isabella
+  
+ Ay, well said.
+ 
+ The law hath not been dead, though it hath slept.
+ Those many had not dared to do that evil
+ If the first that did th’ edict infringe
+ Had answered for his deed. Now ’tis awake,
+ Takes note of what is done, and, like a prophet,
+ Looks in a glass that shows what future evils—
+ Either now, or by remissness new-conceived,
+ And so in progress to be hatched and born—
+ Are now to have no successive degrees
+ But, ere  they live, to end.
+  
+ Yet show some pity.
+ 
+ I show it most of all when I show justice,
+ For then I pity those I do not know,
+ Which a dismissed offense would after gall,
+ And do him right that, answering one foul wrong,
+ Lives not to act another. Be satisfied;
+ Your brother dies tomorrow; be content.
+ 
+ So you must be the first that gives this sentence,
+ And he that suffers. O, it is excellent
+ To have a giant’s strength, but it is tyrannous
+ To use it like a giant.
+FTLN 0841
+FTLN 0842
+FTLN 0843
+FTLN 0844
+FTLN 0845
+110
+FTLN 0846
+FTLN 0847
+FTLN 0848
+FTLN 0849
+FTLN 0850
+115
+FTLN 0851
+FTLN 0852
+FTLN 0853
+FTLN 0854
+FTLN 0855
+120
+FTLN 0856
+FTLN 0857
+FTLN 0858
+FTLN 0859
+FTLN 0860
+125
+FTLN 0861
+FTLN 0862
+FTLN 0863
+FTLN 0864
+FTLN 0865
+130
+FTLN 0866
+FTLN 0867
+FTLN 0868
+FTLN 0869
+FTLN 0870
+135
+FTLN 0871
+FTLN 0872
+
+--- PAGE 37 / 106 ---
+67
+Measure for Measure
+ACT 2. SC. 2
+LUCIO
+ISABELLA
+LUCIO
+PROVOST
+ISABELLA
+LUCIO
+ISABELLA
+LUCIO
+ANGELO
+ISABELLA
+, aside to Isabella
+   That’s well said.
+  Could great men thunder
+ As Jove himself does, Jove would never be quiet,
+ For every pelting, petty officer
+ Would use his heaven for thunder,
+ Nothing but thunder. Merciful heaven,
+ Thou rather with thy sharp and sulphurous bolt
+ Splits the unwedgeable and gnarlèd oak,
+ Than the soft myrtle. But man, proud man,
+ Dressed in a little brief authority,
+ Most ignorant of what he’s most assured,
+ His glassy essence, like an angry ape
+ Plays such fantastic tricks before high heaven
+ As makes the angels weep, who with our spleens
+ Would all themselves laugh mortal.
+, aside to Isabella
+ 
+ O, to him, to him, wench. He will relent.
+ He’s coming. I perceive ’t.
+, aside
+  
+ Pray heaven she win him.
+ 
+ We cannot weigh our brother with ourself.
+ Great men may jest with saints; ’tis wit in them,
+ But in the less, foul profanation.
+, aside to Isabella
+ 
+ Thou ’rt i’ th’ right, girl. More o’ that.
+ 
+ That in the captain’s but a choleric word
+ Which in the soldier is flat blasphemy.
+, aside to Isabella
+ 
+ Art avised o’ that? More on ’t.
+ 
+ Why do you put these sayings upon me?
+ 
+ Because authority, though it err like others,
+ Hath yet a kind of medicine in itself
+FTLN 0873
+FTLN 0874
+FTLN 0875
+140
+FTLN 0876
+FTLN 0877
+FTLN 0878
+FTLN 0879
+FTLN 0880
+145
+FTLN 0881
+FTLN 0882
+FTLN 0883
+FTLN 0884
+FTLN 0885
+150
+FTLN 0886
+FTLN 0887
+FTLN 0888
+FTLN 0889
+FTLN 0890
+155
+FTLN 0891
+FTLN 0892
+FTLN 0893
+FTLN 0894
+FTLN 0895
+160
+FTLN 0896
+FTLN 0897
+FTLN 0898
+FTLN 0899
+FTLN 0900
+165
+
+--- PAGE 38 / 106 ---
+69
+Measure for Measure
+ACT 2. SC. 2
+ANGELO
+He begins to exit.
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+LUCIO
+ISABELLA
+ANGELO
+LUCIO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ That skins the vice o’ th’ top. Go to your bosom,
+ Knock there, and ask your heart what it doth know
+ That’s like my brother’s fault. If it confess
+ A natural guiltiness such as is his,
+ Let it not sound a thought upon your tongue
+ Against my brother’s life.
+, aside
+  She speaks, and ’tis such sense
+ That my sense breeds with it. 
+ Fare you well.
+  Gentle my lord, turn back.
+ 
+ I will bethink me. Come again tomorrow.
+ 
+ Hark how I’ll bribe you. Good my lord, turn back.
+  How? Bribe me?
+ 
+ Ay, with such gifts that heaven shall share with you.
+, aside to Isabella
+  You had marred all else.
+ 
+ Not with fond sicles of the tested gold,
+ Or stones whose rate are either rich or poor
+ As fancy values them, but with true prayers
+ That shall be up at heaven and enter there
+ Ere sunrise, prayers from preservèd souls,
+ From fasting maids whose minds are dedicate
+ To nothing temporal.
+  
+ Well, come to me tomorrow.
+, aside to Isabella
+  Go to, ’tis well; away.
+ 
+ Heaven keep your Honor safe.
+, aside
+  
+ Amen.
+ For I am that way going to temptation
+ Where prayers cross.
+  
+ At what hour tomorrow
+ Shall I attend your Lordship?
+  At any time ’fore noon.
+FTLN 0901
+FTLN 0902
+FTLN 0903
+FTLN 0904
+FTLN 0905
+170
+FTLN 0906
+FTLN 0907
+FTLN 0908
+FTLN 0909
+FTLN 0910
+175
+FTLN 0911
+FTLN 0912
+FTLN 0913
+FTLN 0914
+FTLN 0915
+180
+FTLN 0916
+FTLN 0917
+FTLN 0918
+FTLN 0919
+FTLN 0920
+185
+FTLN 0921
+FTLN 0922
+FTLN 0923
+FTLN 0924
+FTLN 0925
+190
+FTLN 0926
+FTLN 0927
+FTLN 0928
+FTLN 0929
+FTLN 0930
+195
+FTLN 0931
+
+--- PAGE 39 / 106 ---
+71
+Measure for Measure
+ACT 2. SC. 2
+ISABELLA
+She exits, with Lucio and Provost.
+ANGELO
+He exits.
+  Save your Honor.
+  From thee, even from thy virtue.
+ What’s this? What’s this? Is this her fault or mine?
+ The tempter or the tempted, who sins most, ha?
+ Not she, nor doth she tempt; but it is I
+ That, lying by the violet in the sun,
+ Do as the carrion does, not as the flower,
+ Corrupt with virtuous season. Can it be
+ That modesty may more betray our sense
+ Than woman’s lightness? Having waste ground
+ enough,
+ Shall we desire to raze the sanctuary
+ And pitch our evils there? O fie, fie, fie!
+ What dost thou, or what art thou, Angelo?
+ Dost thou desire her foully for those things
+ That make her good? O, let her brother live.
+ Thieves for their robbery have authority
+ When judges steal themselves. What, do I love her
+ That I desire to hear her speak again
+ And feast upon her eyes? What is ’t I dream on?
+ O cunning enemy that, to catch a saint,
+ With saints dost bait thy hook. Most dangerous
+ Is that temptation that doth goad us on
+ To sin in loving virtue. Never could the strumpet
+ With all her double vigor, art and nature,
+ Once stir my temper, but this virtuous maid
+ Subdues me quite. Ever till now
+ When men were fond, I smiled and wondered how.
+FTLN 0932
+FTLN 0933
+FTLN 0934
+FTLN 0935
+200
+FTLN 0936
+FTLN 0937
+FTLN 0938
+FTLN 0939
+FTLN 0940
+205
+FTLN 0941
+FTLN 0942
+FTLN 0943
+FTLN 0944
+FTLN 0945
+210
+FTLN 0946
+FTLN 0947
+FTLN 0948
+FTLN 0949
+FTLN 0950
+215
+FTLN 0951
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+220
+FTLN 0956
+FTLN 0957
+FTLN 0958
+FTLN 0959
+
+--- PAGE 40 / 106 ---
+73
+Measure for Measure
+ACT 2. SC. 3
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+JULIET
+DUKE
+Enter Duke, disguised as a Friar,  and Provost.
+, as Friar
+ 
+ Hail to you, provost, so I think you are.
+ 
+ I am the Provost. What’s your will, good friar?
+, as Friar
+ 
+ Bound by my charity and my blest order,
+ I come to visit the afflicted spirits
+ Here in the prison. Do me the common right
+ To let me see them, and to make me know
+ The nature of their crimes, that I may minister
+ To them accordingly.
+ 
+ I would do more than that if more were needful.
+Enter Juliet.
+ Look, here comes one, a gentlewoman of mine,
+ Who, falling in the flaws of her own youth,
+ Hath blistered her report. She is with child,
+ And he that got it, sentenced—a young man,
+ More fit to do another such offense
+ Than die for this.
+, as Friar
+ 
+ When must he die?
+  
+ As I do think, tomorrow.
+  To Juliet.  I have provided for you. Stay awhile
+ And you shall be conducted.
+, as Friar, to Juliet
+ 
+ Repent you, fair one, of the sin you carry?
+ 
+ I do; and bear the shame most patiently.
+, as Friar
+ 
+ I’ll teach you how you shall arraign your conscience,
+Scene 3
+FTLN 0960
+FTLN 0961
+FTLN 0962
+FTLN 0963
+FTLN 0964
+5
+FTLN 0965
+FTLN 0966
+FTLN 0967
+FTLN 0968
+FTLN 0969
+10
+FTLN 0970
+FTLN 0971
+FTLN 0972
+FTLN 0973
+FTLN 0974
+15
+FTLN 0975
+FTLN 0976
+FTLN 0977
+FTLN 0978
+FTLN 0979
+20
+FTLN 0980
+FTLN 0981
+
+--- PAGE 41 / 106 ---
+75
+Measure for Measure
+ACT 2. SC. 3
+JULIET
+DUKE
+JULIET
+DUKE
+JULIET
+DUKE
+JULIET
+DUKE
+JULIET
+DUKE
+He exits.
+JULIET
+PROVOST
+They exit.
+ And try your penitence, if it be sound
+ Or hollowly put on.
+  
+ I’ll gladly learn.
+, as Friar
+  Love you the man that wronged you?
+ 
+ Yes, as I love the woman that wronged him.
+, as Friar
+ 
+ So then it seems your most offenseful act
+ Was mutually committed?
+  
+ Mutually.
+, as Friar
+ 
+ Then was your sin of heavier kind than his.
+ 
+ I do confess it and repent it, father.
+, as Friar
+ 
+ ’Tis meet so, daughter; but lest you do repent
+ As that the sin hath brought you to this shame,
+ Which sorrow is always toward ourselves, not
+ heaven,
+ Showing we would not spare heaven as we love it,
+ But as we stand in fear—
+ 
+ I do repent me as it is an evil,
+ And take the shame with joy.
+, as Friar
+  
+ There rest.
+ Your partner, as I hear, must die tomorrow,
+ And I am going with instruction to him.
+ Grace go with you. Benedicite. 
+ 
+ Must die tomorrow? O injurious love
+ That respites me a life, whose very comfort
+ Is still a dying horror.
+  
+ ’Tis pity of him.
+FTLN 0982
+FTLN 0983
+FTLN 0984
+25
+FTLN 0985
+FTLN 0986
+FTLN 0987
+FTLN 0988
+FTLN 0989
+30
+FTLN 0990
+FTLN 0991
+FTLN 0992
+FTLN 0993
+FTLN 0994
+35
+FTLN 0995
+FTLN 0996
+FTLN 0997
+FTLN 0998
+FTLN 0999
+40
+FTLN 1000
+FTLN 1001
+FTLN 1002
+FTLN 1003
+FTLN 1004
+45
+FTLN 1005
+FTLN 1006
+FTLN 1007
+
+--- PAGE 42 / 106 ---
+77
+Measure for Measure
+ACT 2. SC. 4
+ANGELO
+SERVANT
+ANGELO
+Enter Angelo.
+ 
+ When I would pray and think, I think and pray
+ To several subjects. Heaven hath my empty words,
+ Whilst my invention, hearing not my tongue,
+ Anchors on Isabel. God  in my mouth,
+ As if I did but only chew His name,
+ And in my heart the strong and swelling evil
+ Of my conception. The state whereon I studied
+ Is, like a good thing being often read,
+ Grown sere  and tedious. Yea, my gravity,
+ Wherein—let no man hear me—I take pride,
+ Could I with boot change for an idle plume
+ Which the air beats for vain. O place, O form,
+ How often dost thou with thy case, thy habit,
+ Wrench awe from fools, and tie the wiser souls
+ To thy false seeming! Blood, thou art blood.
+ Let’s write “good angel” on the devil’s horn.
+ ’Tis not the devil’s crest.  Knock within.  How now,
+ who’s there?
+Enter Servant.
+ 
+ One Isabel, a sister, desires access to you.
+ 
+ Teach her the way.  Servant exits.  O heavens,
+ Why does my blood thus muster to my heart,
+ Making both it unable for itself
+ And dispossessing all my other parts
+ Of necessary fitness?
+ So play the foolish throngs with one that swoons,
+ Come all to help him, and so stop the air
+ By which he should revive. And even so
+ The general subject to a well-wished king
+Scene 4
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+FTLN 1012
+5
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+FTLN 1017
+10
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+FTLN 1022
+15
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+FTLN 1027
+20
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+FTLN 1032
+25
+FTLN 1033
+FTLN 1034
+FTLN 1035
+
+--- PAGE 43 / 106 ---
+79
+Measure for Measure
+ACT 2. SC. 4
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ Quit their own part, and in obsequious fondness
+ Crowd to his presence, where their untaught love
+ Must needs appear offense.
+Enter Isabella.
+ How now, fair maid?
+  I am come to know your pleasure.
+ 
+ That you might know it would much better please me
+ Than to demand what ’tis. Your brother cannot live.
+  Even so. Heaven keep your Honor.
+ 
+ Yet may he live a while. And it may be
+ As long as you or I. Yet he must die.
+  Under your sentence?
+  Yea.
+ 
+ When, I beseech you? That in his reprieve,
+ Longer or shorter, he may be so fitted
+ That his soul sicken not.
+ 
+ Ha! Fie, these filthy vices! It were as good
+ To pardon him that hath from nature stolen
+ A man already made, as to remit
+ Their saucy sweetness that do coin God’s  image
+ In stamps that are forbid. ’Tis all as easy
+ Falsely to take away a life true made
+ As to put metal in restrainèd means
+ To make a false one.
+ 
+ ’Tis set down so in heaven, but not in Earth.
+ 
+ Say you so? Then I shall pose you quickly:
+ Which had you rather, that the most just law
+ Now took your brother’s life, or,  to redeem him,
+FTLN 1036
+FTLN 1037
+30
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+FTLN 1042
+35
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+FTLN 1047
+40
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+FTLN 1052
+45
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+FTLN 1057
+50
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+FTLN 1062
+55
+
+--- PAGE 44 / 106 ---
+81
+Measure for Measure
+ACT 2. SC. 4
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ Give up your body to such sweet uncleanness
+ As she that he hath stained?
+  
+ Sir, believe this:
+ I had rather give my body than my soul.
+ 
+ I talk not of your soul. Our compelled sins
+ Stand more for number than for accompt.
+  How say you?
+ 
+ Nay, I’ll not warrant that, for I can speak
+ Against the thing I say. Answer to this:
+ I, now the voice of the recorded law,
+ Pronounce a sentence on your brother’s life.
+ Might there not be a charity in sin
+ To save this brother’s life?
+  
+ Please you to do ’t,
+ I’ll take it as a peril to my soul,
+ It is no sin at all, but charity.
+ 
+ Pleased you to do ’t, at peril of your soul,
+ Were equal poise of sin and charity.
+ 
+ That I do beg his life, if it be sin
+ Heaven let me bear it. You granting of my suit,
+ If that be sin, I’ll make it my morn prayer
+ To have it added to the faults of mine
+ And nothing of your answer.
+  
+ Nay, but hear me.
+ Your sense pursues not mine. Either you are
+ ignorant,
+ Or seem so, crafty, and that’s not good.
+ 
+ Let me  be ignorant and in nothing good,
+ But graciously to know I am no better.
+ 
+ Thus wisdom wishes to appear most bright
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+FTLN 1067
+60
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+FTLN 1072
+65
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+FTLN 1077
+70
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+FTLN 1082
+75
+FTLN 1083
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+80
+FTLN 1088
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+85
+
+--- PAGE 45 / 106 ---
+83
+Measure for Measure
+ACT 2. SC. 4
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ When it doth tax itself, as these black masks
+ Proclaim an enshield beauty ten times louder
+ Than beauty could, displayed. But mark me.
+ To be receivèd plain, I’ll speak more gross:
+ Your brother is to die.
+  So.
+ 
+ And his offense is so, as it appears,
+ Accountant to the law upon that pain.
+  True.
+ 
+ Admit no other way to save his life—
+ As I subscribe not that, nor any other—
+ But, in the loss of question, that you, his sister,
+ Finding yourself desired of such a person
+ Whose credit with the judge, or own great place,
+ Could fetch your brother from the manacles
+ Of the all- binding  law, and that there were
+ No earthly mean to save him but that either
+ You must lay down the treasures of your body
+ To this supposed, or else to let him suffer,
+ What would you do?
+ 
+ As much for my poor brother as myself.
+ That is, were I under the terms of death,
+ Th’ impression of keen whips I’d wear as rubies
+ And strip myself to death as to a bed
+ That longing have been sick for, ere I’d yield
+ My body up to shame.
+  Then must your brother die.
+  And ’twere the cheaper way.
+ Better it were a brother died at once
+ Than that a sister, by redeeming him,
+ Should die forever.
+ 
+ Were not you then as cruel as the sentence
+ That you have slandered so?
+FTLN 1093
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+90
+FTLN 1098
+FTLN 1099
+FTLN 1100
+FTLN 1101
+FTLN 1102
+95
+FTLN 1103
+FTLN 1104
+FTLN 1105
+FTLN 1106
+FTLN 1107
+100
+FTLN 1108
+FTLN 1109
+FTLN 1110
+FTLN 1111
+FTLN 1112
+105
+FTLN 1113
+FTLN 1114
+FTLN 1115
+FTLN 1116
+FTLN 1117
+110
+FTLN 1118
+FTLN 1119
+FTLN 1120
+FTLN 1121
+FTLN 1122
+115
+FTLN 1123
+FTLN 1124
+FTLN 1125
+
+--- PAGE 46 / 106 ---
+85
+Measure for Measure
+ACT 2. SC. 4
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ 
+ Ignomy in ransom and free pardon
+ Are of two houses. Lawful mercy
+ Is nothing kin to foul redemption.
+ 
+ You seemed of late to make the law a tyrant,
+ And rather proved the sliding of your brother
+ A merriment than a vice.
+ 
+ O, pardon me, my lord. It oft falls out,
+ To have what we would have, we speak not what we
+ mean.
+ I something do excuse the thing I hate
+ For his advantage that I dearly love.
+ 
+ We are all frail.
+  
+ Else let my brother die,
+ If not a fedary but only he
+ Owe and succeed thy weakness.
+  Nay, women are frail too.
+ 
+ Ay, as the glasses where they view themselves,
+ Which are as easy broke as they make forms.
+ Women—help, heaven—men their creation mar
+ In profiting by them. Nay, call us ten times frail,
+ For we are soft as our complexions are,
+ And credulous to false prints.
+  
+ I think it well.
+ And from this testimony of your own sex,
+ Since I suppose we are made to be no stronger
+ Than faults may shake our frames, let me be bold.
+ I do arrest your words. Be that you are—
+ That is, a woman. If you be more, you’re none.
+ If you be one, as you are well expressed
+ By all external warrants, show it now
+ By putting on the destined livery.
+FTLN 1126
+FTLN 1127
+120
+FTLN 1128
+FTLN 1129
+FTLN 1130
+FTLN 1131
+FTLN 1132
+125
+FTLN 1133
+FTLN 1134
+FTLN 1135
+FTLN 1136
+FTLN 1137
+130
+FTLN 1138
+FTLN 1139
+FTLN 1140
+FTLN 1141
+FTLN 1142
+135
+FTLN 1143
+FTLN 1144
+FTLN 1145
+FTLN 1146
+FTLN 1147
+140
+FTLN 1148
+FTLN 1149
+FTLN 1150
+FTLN 1151
+FTLN 1152
+145
+FTLN 1153
+FTLN 1154
+FTLN 1155
+FTLN 1156
+
+--- PAGE 47 / 106 ---
+87
+Measure for Measure
+ACT 2. SC. 4
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ 
+ I have no tongue but one. Gentle my lord,
+ Let me entreat you speak the former language.
+  Plainly conceive I love you.
+  My brother did love Juliet,
+ And you tell me that he shall die for ’t.
+ 
+ He shall not, Isabel, if you give me love.
+ 
+ I know your virtue hath a license in ’t
+ Which seems a little fouler than it is
+ To pluck on others.
+  
+ Believe me, on mine honor,
+ My words express my purpose.
+ 
+ Ha! Little honor to be much believed,
+ And most pernicious purpose. Seeming, seeming!
+ I will proclaim thee, Angelo, look for ’t.
+ Sign me a present pardon for my brother
+ Or with an outstretched throat I’ll tell the world
+ aloud
+ What man thou art.
+  
+ Who will believe thee, Isabel?
+ My unsoiled name, th’ austereness of my life,
+ My vouch against you, and my place i’ th’ state
+ Will so your accusation overweigh
+ That you shall stifle in your own report
+ And smell of calumny. I have begun,
+ And now I give my sensual race the rein.
+ Fit thy consent to my sharp appetite;
+ Lay by all nicety and prolixious blushes
+ That banish what they sue for. Redeem thy brother
+ By yielding up thy body to my will,
+ Or else he must not only die the death,
+ But thy unkindness shall his death draw out
+ To ling’ring sufferance. Answer me tomorrow,
+FTLN 1157
+150
+FTLN 1158
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+155
+FTLN 1163
+FTLN 1164
+FTLN 1165
+FTLN 1166
+FTLN 1167
+160
+FTLN 1168
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+165
+FTLN 1173
+FTLN 1174
+FTLN 1175
+FTLN 1176
+FTLN 1177
+170
+FTLN 1178
+FTLN 1179
+FTLN 1180
+FTLN 1181
+FTLN 1182
+175
+FTLN 1183
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+180
+FTLN 1188
+
+--- PAGE 48 / 106 ---
+89
+Measure for Measure
+ACT 2. SC. 4
+He exits.
+ISABELLA
+She exits.
+ Or by the affection that now guides me most,
+ I’ll prove a tyrant to him. As for you,
+ Say what you can, my false o’erweighs your true.
+ 
+ To whom should I complain? Did I tell this,
+ Who would believe me? O, perilous mouths,
+ That bear in them one and the selfsame tongue,
+ Either of condemnation or approof,
+ Bidding the law make curtsy to their will,
+ Hooking both right and wrong to th’ appetite,
+ To follow as it draws. I’ll to my brother.
+ Though he hath fall’n by prompture of the blood,
+ Yet hath he in him such a mind of honor
+ That, had he twenty heads to tender down
+ On twenty bloody blocks, he’d yield them up
+ Before his sister should her body stoop
+ To such abhorred pollution.
+ Then, Isabel, live chaste, and, brother, die.
+ More than our brother is our chastity.
+ I’ll tell him yet of Angelo’s request,
+ And fit his mind to death, for his soul’s rest.
+FTLN 1189
+FTLN 1190
+FTLN 1191
+FTLN 1192
+185
+FTLN 1193
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+190
+FTLN 1198
+FTLN 1199
+FTLN 1200
+FTLN 1201
+FTLN 1202
+195
+FTLN 1203
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+200
+FTLN 1208
+
+--- PAGE 49 / 106 ---
+DUKE
+CLAUDIO
+DUKE
+Enter Duke as a Friar,  Claudio, and Provost.
+, as Friar
+ 
+ So then you hope of pardon from Lord Angelo?
+ 
+ The miserable have no other medicine
+ But only hope.
+ I have hope to live and am prepared to die.
+, as Friar
+ 
+ Be absolute for death. Either death or life
+ Shall thereby be the sweeter. Reason thus with life:
+ If I do lose thee, I do lose a thing
+ That none but fools would keep. A breath thou art,
+ Servile to all the skyey influences
+ That doth  this habitation where thou keep’st
+ Hourly afflict. Merely, thou art death’s fool,
+ For him thou labor’st by thy flight to shun,
+ And yet runn’st toward him still. Thou art not noble,
+ For all th’ accommodations that thou bear’st
+ Are nursed by baseness. Thou ’rt by no means
+ valiant,
+ For thou dost fear the soft and tender fork
+ Of a poor worm. Thy best of rest is sleep,
+ And that thou oft provok’st, yet grossly fear’st
+ Thy death, which is no more. Thou art not thyself,
+ For thou exists on many a thousand grains
+93
+ACT 3
+Scene 1
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+FTLN 1213
+5
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+FTLN 1218
+10
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+FTLN 1223
+15
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+FTLN 1228
+20
+FTLN 1229
+
+--- PAGE 50 / 106 ---
+95
+Measure for Measure
+ACT 3. SC. 1
+CLAUDIO
+ISABELLA
+PROVOST
+DUKE
+CLAUDIO
+ISABELLA
+ That issue out of dust. Happy thou art not,
+ For what thou hast not, still thou striv’st to get,
+ And what thou hast, forget’st. Thou art not certain,
+ For thy complexion shifts to strange effects
+ After the moon. If thou art rich, thou ’rt poor,
+ For, like an ass whose back with ingots bows,
+ Thou bear’st thy heavy riches but a journey,
+ And death unloads thee. Friend hast thou none,
+ For thine own bowels which do call thee sire,
+ The mere effusion of thy proper loins,
+ Do curse the gout, serpigo, and the rheum
+ For ending thee no sooner. Thou hast nor youth nor
+ age,
+ But as it were an after-dinner’s sleep
+ Dreaming on both, for all thy blessèd youth
+ Becomes as agèd and doth beg the alms
+ Of palsied eld; and when thou art old and rich,
+ Thou hast neither heat, affection, limb, nor beauty
+ To make thy riches pleasant. What’s yet in this
+ That bears the name of life? Yet in this life
+ Lie hid more thousand deaths; yet death we fear,
+ That makes these odds all even.
+  
+ I humbly thank you.
+ To sue to live, I find I seek to die,
+ And seeking death, find life. Let it come on.
+, within
+ 
+ What ho! Peace here, grace, and good company.
+ 
+ Who’s there? Come in. The wish deserves a welcome.
+, as Friar, to Claudio
+ 
+ Dear sir, ere long I’ll visit you again.
+  Most holy sir, I thank you.
+Enter Isabella.
+, to Provost
+ 
+ My business is a word or two with Claudio.
+FTLN 1230
+FTLN 1231
+FTLN 1232
+FTLN 1233
+25
+FTLN 1234
+FTLN 1235
+FTLN 1236
+FTLN 1237
+FTLN 1238
+30
+FTLN 1239
+FTLN 1240
+FTLN 1241
+FTLN 1242
+FTLN 1243
+35
+FTLN 1244
+FTLN 1245
+FTLN 1246
+FTLN 1247
+FTLN 1248
+40
+FTLN 1249
+FTLN 1250
+FTLN 1251
+FTLN 1252
+FTLN 1253
+45
+FTLN 1254
+FTLN 1255
+FTLN 1256
+FTLN 1257
+FTLN 1258
+50
+FTLN 1259
+
+--- PAGE 51 / 106 ---
+97
+Measure for Measure
+ACT 3. SC. 1
+PROVOST
+DUKE
+PROVOST
+DUKE
+Duke and Provost exit.
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+ 
+ And very welcome.—Look, signior, here’s your
+ sister.
+, as Friar
+  Provost, a word with you.
+  As many as you please.
+, as Friar, aside to Provost
+ 
+ Bring me  to hear them  speak, where I may be
+ concealed.
+  Now, sister, what’s the comfort?
+  Why,
+ As all comforts are, most good, most good indeed.
+ Lord Angelo, having affairs to heaven,
+ Intends you for his swift ambassador,
+ Where you shall be an everlasting leiger;
+ Therefore your best appointment make with speed.
+ Tomorrow you set on.
+  
+ Is there no remedy?
+ 
+ None but such remedy as, to save a head,
+ To cleave a heart in twain.
+  But is there any?
+  Yes, brother, you may live.
+ There is a devilish mercy in the judge,
+ If you’ll implore it, that will free your life
+ But fetter you till death.
+  
+ Perpetual durance?
+ 
+ Ay, just; perpetual durance, a restraint,
+ Though  all the world’s vastidity you had,
+ To a determined scope.
+  
+ But in what nature?
+ 
+ In such a one as, you consenting to ’t,
+ Would bark your honor from that trunk you bear
+ And leave you naked.
+FTLN 1260
+FTLN 1261
+FTLN 1262
+FTLN 1263
+55
+FTLN 1264
+FTLN 1265
+FTLN 1266
+FTLN 1267
+FTLN 1268
+60
+FTLN 1269
+FTLN 1270
+FTLN 1271
+FTLN 1272
+FTLN 1273
+65
+FTLN 1274
+FTLN 1275
+FTLN 1276
+FTLN 1277
+FTLN 1278
+70
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+FTLN 1283
+75
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+FTLN 1288
+80
+FTLN 1289
+
+--- PAGE 52 / 106 ---
+99
+Measure for Measure
+ACT 3. SC. 1
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+  
+ Let me know the point.
+ 
+ O, I do fear thee, Claudio, and I quake
+ Lest thou a feverous life shouldst entertain,
+ And six or seven winters more respect
+ Than a perpetual honor. Dar’st thou die?
+ The sense of death is most in apprehension,
+ And the poor beetle that we tread upon
+ In corporal sufferance finds a pang as great
+ As when a giant dies.
+  Why give you me this shame?
+ Think you I can a resolution fetch
+ From flowery tenderness? If I must die,
+ I will encounter darkness as a bride,
+ And hug it in mine arms.
+ 
+ There spake my brother! There my father’s grave
+ Did utter forth a voice. Yes, thou must die.
+ Thou art too noble to conserve a life
+ In base appliances. This outward-sainted deputy—
+ Whose settled visage and deliberate word
+ Nips youth i’ th’ head, and follies doth enew
+ As falcon doth the fowl—is yet a devil.
+ His filth within being cast, he would appear
+ A pond as deep as hell.
+  
+ The prenzie Angelo?
+ 
+ O, ’tis the cunning livery of hell
+ The damned’st body to invest and cover
+ In prenzie guards. Dost thou think, Claudio,
+ If I would yield him my virginity
+ Thou mightst be freed?
+  
+ O heavens, it cannot be!
+ 
+ Yes, he would give ’t thee; from this rank offense,
+ So to offend him still. This night’s the time
+FTLN 1290
+FTLN 1291
+FTLN 1292
+FTLN 1293
+85
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+FTLN 1298
+90
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+95
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+100
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+105
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+110
+FTLN 1319
+FTLN 1320
+FTLN 1321
+
+--- PAGE 53 / 106 ---
+101
+Measure for Measure
+ACT 3. SC. 1
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ That I should do what I abhor to name,
+ Or else thou diest tomorrow.
+  Thou shalt not do ’t.
+  O, were it but my life,
+ I’d throw it down for your deliverance
+ As frankly as a pin.
+  
+ Thanks, dear Isabel.
+ 
+ Be ready, Claudio, for your death tomorrow.
+  Yes. Has he affections in him
+ That thus can make him bite the law by th’ nose,
+ When he would force it? Sure it is no sin,
+ Or of the deadly seven it is the least.
+  Which is the least?
+ 
+ If it were damnable, he being so wise,
+ Why would he for the momentary trick
+ Be perdurably fined? O, Isabel—
+ 
+ What says my brother?
+  
+ Death is a fearful thing.
+  And shamèd life a hateful.
+ 
+ Ay, but to die, and go we know not where,
+ To lie in cold obstruction and to rot,
+ This sensible warm motion to become
+ A kneaded clod; and the delighted spirit
+ To bathe in fiery floods, or to reside
+ In thrilling region of thick-ribbèd ice,
+ To be imprisoned in the viewless winds
+ And blown with restless violence round about
+ The pendent world; or to be worse than worst
+ Of those that lawless and incertain thought
+ Imagine howling—’tis too horrible.
+ The weariest and most loathèd worldly life
+ That age, ache, penury,  and imprisonment
+FTLN 1322
+FTLN 1323
+115
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+FTLN 1328
+120
+FTLN 1329
+FTLN 1330
+FTLN 1331
+FTLN 1332
+FTLN 1333
+125
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+130
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+135
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+140
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+145
+
+--- PAGE 54 / 106 ---
+103
+Measure for Measure
+ACT 3. SC. 1
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+ISABELLA
+CLAUDIO
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+ Can lay on nature is a paradise
+ To what we fear of death.
+  Alas, alas!
+  Sweet sister, let me live.
+ What sin you do to save a brother’s life,
+ Nature dispenses with the deed so far
+ That it becomes a virtue.
+  
+ O, you beast!
+ O faithless coward, O dishonest wretch,
+ Wilt thou be made a man out of my vice?
+ Is ’t not a kind of incest to take life
+ From thine own sister’s shame? What should I think?
+ Heaven shield my mother played my father fair,
+ For such a warpèd slip of wilderness
+ Ne’er issued from his blood. Take my defiance;
+ Die, perish. Might but my bending down
+ Reprieve thee from thy fate, it should proceed.
+ I’ll pray a thousand prayers for thy death,
+ No word to save thee.
+  
+ Nay, hear me, Isabel—
+  O, fie, fie, fie!
+ Thy sin’s not accidental, but a trade.
+ Mercy to thee would prove itself a bawd.
+ ’Tis best that thou diest quickly.
+  O, hear me, Isabella—
+Enter Duke as a Friar.
+, as Friar, to Isabella
+ 
+ Vouchsafe a word, young sister, but one word.
+  What is your will?
+, as Friar
+  Might you dispense with your leisure, I
+ would by and by have some speech with you. The
+ satisfaction I would require is likewise your own
+ benefit.
+  I have no superfluous leisure. My stay must
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+FTLN 1358
+150
+FTLN 1359
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+155
+FTLN 1364
+FTLN 1365
+FTLN 1366
+FTLN 1367
+FTLN 1368
+160
+FTLN 1369
+FTLN 1370
+FTLN 1371
+FTLN 1372
+FTLN 1373
+165
+FTLN 1374
+FTLN 1375
+FTLN 1376
+FTLN 1377
+FTLN 1378
+170
+FTLN 1379
+FTLN 1380
+FTLN 1381
+FTLN 1382
+FTLN 1383
+175
+FTLN 1384
+FTLN 1385
+
+--- PAGE 55 / 106 ---
+105
+Measure for Measure
+ACT 3. SC. 1
+DUKE
+CLAUDIO
+DUKE
+PROVOST
+DUKE
+PROVOST
+He exits, with Claudio.
+DUKE
+ be stolen out of other affairs, but I will attend you
+ awhile.
+, as Friar, taking Claudio aside
+  Son, I have overheard
+ what hath passed between you and your
+ sister. Angelo had never the purpose to corrupt her;
+ only he hath made an assay of her virtue, to practice
+ his judgment with the disposition of natures. She,
+ having the truth of honor in her, hath made him
+ that gracious denial which he is most glad to
+ receive. I am confessor to Angelo, and I know this
+ to be true. Therefore prepare yourself to death. Do
+ not satisfy your resolution with hopes that are
+ fallible. Tomorrow you must die. Go to your knees
+ and make ready.
+  Let me ask my sister pardon. I am so out of
+ love with life that I will sue to be rid of it.
+, as Friar
+  Hold you there. Farewell.—Provost, a
+ word with you.
+Enter Provost.
+  What’s your will, father?
+, as Friar
+  That now you are come, you will be
+ gone. Leave me awhile with the maid. My mind
+ promises with my habit no loss shall touch her by
+ my company.
+  In good time. 
+, as Friar, to Isabella
+  The hand that hath made
+ you fair hath made you good. The goodness that is
+ cheap in beauty makes beauty brief in goodness,
+ but grace, being the soul of your complexion, shall
+ keep the body of it ever fair. The assault that Angelo
+ hath made to you, fortune hath conveyed to my
+ understanding; and but that frailty hath examples
+ for his falling, I should wonder at Angelo. How will
+ you do to content this substitute and to save your
+ brother?
+FTLN 1386
+FTLN 1387
+FTLN 1388
+180
+FTLN 1389
+FTLN 1390
+FTLN 1391
+FTLN 1392
+FTLN 1393
+185
+FTLN 1394
+FTLN 1395
+FTLN 1396
+FTLN 1397
+FTLN 1398
+190
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+FTLN 1403
+195
+FTLN 1404
+FTLN 1405
+FTLN 1406
+FTLN 1407
+FTLN 1408
+200
+FTLN 1409
+FTLN 1410
+FTLN 1411
+FTLN 1412
+FTLN 1413
+205
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+FTLN 1418
+210
+FTLN 1419
+
+--- PAGE 56 / 106 ---
+107
+Measure for Measure
+ACT 3. SC. 1
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+  I am now going to resolve him. I had rather
+ my brother die by the law than my son should be
+ unlawfully born. But, O, how much is the good
+ duke deceived in Angelo! If ever he return, and I
+ can speak to him, I will open my lips in vain, or
+ discover his government.
+, as Friar
+  That shall not be much amiss. Yet, as
+ the matter now stands, he will avoid your accusation:
+ he made trial of you only. Therefore, fasten
+ your ear on my advisings. To the love I have in doing
+ good, a remedy presents itself. I do make myself
+ believe that you may most uprighteously do a poor
+ wronged lady a merited benefit, redeem your brother
+ from the angry law, do no stain to your own
+ gracious person, and much please the absent duke,
+ if peradventure he shall ever return to have hearing
+ of this business.
+  Let me hear you speak farther. I have spirit to
+ do anything that appears not foul in the truth of my
+ spirit.
+, as Friar
+  Virtue is bold, and goodness never
+ fearful. Have you not heard speak of Mariana, the
+ sister of Frederick, the great soldier who miscarried
+ at sea?
+  I have heard of the lady, and good words
+ went with her name.
+, as Friar
+  She should this Angelo have married,
+ was affianced to her oath, and the nuptial appointed.
+ Between which time of the contract and
+ limit of the solemnity, her brother Frederick was
+ wracked at sea, having in that perished vessel the
+ dowry of his sister. But mark how heavily this befell
+ to the poor gentlewoman. There she lost a noble
+ and renowned brother, in his love toward her ever
+ most kind and natural; with him, the portion and
+ sinew of her fortune, her marriage dowry; with
+FTLN 1420
+FTLN 1421
+FTLN 1422
+FTLN 1423
+215
+FTLN 1424
+FTLN 1425
+FTLN 1426
+FTLN 1427
+FTLN 1428
+220
+FTLN 1429
+FTLN 1430
+FTLN 1431
+FTLN 1432
+FTLN 1433
+225
+FTLN 1434
+FTLN 1435
+FTLN 1436
+FTLN 1437
+FTLN 1438
+230
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+FTLN 1443
+235
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+FTLN 1448
+240
+FTLN 1449
+FTLN 1450
+FTLN 1451
+FTLN 1452
+FTLN 1453
+245
+FTLN 1454
+FTLN 1455
+
+--- PAGE 57 / 106 ---
+109
+Measure for Measure
+ACT 3. SC. 1
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ both, her combinate husband, this well-seeming
+ Angelo.
+  Can this be so? Did Angelo so leave her?
+, as Friar
+  Left her in her tears and dried not one
+ of them with his comfort, swallowed his vows
+ whole, pretending in her discoveries of dishonor; in
+ few, bestowed her on her own lamentation, which
+ she yet wears for his sake; and he, a marble to her
+ tears, is washed with them but relents not.
+  What a merit were it in death to take this
+ poor maid from the world! What corruption in this
+ life, that it will let this man live! But how out of this
+ can she avail?
+, as Friar
+  It is a rupture that you may easily heal,
+ and the cure of it not only saves your brother, but
+ keeps you from dishonor in doing it.
+  Show me how, good father.
+, as Friar
+  This forenamed maid hath yet in her
+ the continuance of her first affection. His unjust
+ unkindness, that in all reason should have
+ quenched her love, hath, like an impediment in the
+ current, made it more violent and unruly. Go you to
+ Angelo, answer his requiring with a plausible obedience,
+ agree with his demands to the point. Only
+ refer yourself to this advantage: first, that your stay
+ with him may not be long, that the time may have all
+ shadow and silence in it, and the place answer to
+ convenience. This being granted in course, and
+ now follows all: we shall advise this wronged maid
+ to stead up your appointment, go in your place. If
+ the encounter acknowledge itself hereafter, it may
+ compel him to her recompense; and here, by this, is
+ your brother saved, your honor untainted, the poor
+ Mariana advantaged, and the corrupt deputy
+ scaled. The maid will I frame and make fit for his
+ attempt. If you think well to carry this as you may,
+FTLN 1456
+FTLN 1457
+FTLN 1458
+250
+FTLN 1459
+FTLN 1460
+FTLN 1461
+FTLN 1462
+FTLN 1463
+255
+FTLN 1464
+FTLN 1465
+FTLN 1466
+FTLN 1467
+FTLN 1468
+260
+FTLN 1469
+FTLN 1470
+FTLN 1471
+FTLN 1472
+FTLN 1473
+265
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+FTLN 1478
+270
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+FTLN 1483
+275
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+FTLN 1488
+280
+FTLN 1489
+FTLN 1490
+FTLN 1491
+
+--- PAGE 58 / 106 ---
+111
+Measure for Measure
+ACT 3. SC. 2
+ISABELLA
+DUKE
+ISABELLA
+She exits. The Duke remains.
+ELBOW
+DUKE
+POMPEY
+ELBOW
+DUKE
+ELBOW
+ the doubleness of the benefit defends the deceit
+ from reproof. What think you of it?
+  The image of it gives me content already, and
+ I trust it will grow to a most prosperous perfection.
+, as Friar
+  It lies much in your holding up. Haste
+ you speedily to Angelo. If for this night he entreat
+ you to his bed, give him promise of satisfaction. I
+ will presently to Saint Luke’s. There at the moated
+ grange resides this dejected Mariana. At that place
+ call upon me, and dispatch with Angelo that it may
+ be quickly.
+  I thank you for this comfort. Fare you well,
+ good father.
+Enter Elbow, Pompey, and  Officers.
+, to Pompey
+  Nay, if there be no remedy for it
+ but that you will needs buy and sell men and
+ women like beasts, we shall have all the world drink
+ brown and white bastard.
+, as Friar, aside
+  O heavens, what stuff is here?
+  ’Twas never merry world since, of two usuries,
+ the merriest was put down, and the worser allowed
+ by order of law a furred gown to keep him warm,
+ and furred with fox and lambskins too, to signify
+ that craft, being richer than innocency, stands for
+ the facing.
+  Come your way, sir.—Bless you, good father
+ friar.
+, as Friar
+  And you, good brother father. What
+ offense hath this man made you, sir?
+  Marry, sir, he hath offended the law; and, sir,
+ we take him to be a thief too, sir, for we have found
+FTLN 1492
+FTLN 1493
+285
+FTLN 1494
+FTLN 1495
+FTLN 1496
+FTLN 1497
+FTLN 1498
+290
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+FTLN 1503
+295
+FTLN 1504
+Scene 2
+FTLN 1505
+FTLN 1506
+FTLN 1507
+FTLN 1508
+FTLN 1509
+5
+FTLN 1510
+FTLN 1511
+FTLN 1512
+FTLN 1513
+FTLN 1514
+10
+FTLN 1515
+FTLN 1516
+FTLN 1517
+FTLN 1518
+FTLN 1519
+15
+FTLN 1520
+FTLN 1521
+
+--- PAGE 59 / 106 ---
+113
+Measure for Measure
+ACT 3. SC. 2
+DUKE
+POMPEY
+DUKE
+ELBOW
+DUKE
+ELBOW
+POMPEY
+LUCIO
+ upon him, sir, a strange picklock, which we have
+ sent to the Deputy.
+, as Friar, to Pompey
+ 
+ Fie, sirrah, a bawd, a wicked bawd!
+ The evil that thou causest to be done,
+ That is thy means to live. Do thou but think
+ What ’tis to cram a maw or clothe a back
+ From such a filthy vice; say to thyself,
+ From their abominable and beastly touches
+ I drink, I eat, array  myself, and live.
+ Canst thou believe thy living is a life,
+ So stinkingly depending? Go mend, go mend.
+  Indeed, it does stink in some sort, sir. But yet,
+ sir, I would prove—
+, as Friar
+ 
+ Nay, if the devil have given thee proofs for sin,
+ Thou wilt prove his.—Take him to prison, officer.
+ Correction and instruction must both work
+ Ere this rude beast will profit.
+  He must before the Deputy, sir; he has given
+ him warning. The Deputy cannot abide a whoremaster.
+ If he be a whoremonger and comes before
+ him, he were as good go a mile on his errand.
+, as Friar
+ 
+ That we were all, as some would seem to be,
+ From our faults, as faults from seeming, free.
+  His neck will come to your waist—a cord, sir.
+Enter Lucio.
+  I spy comfort, I cry bail. Here’s a gentleman
+ and a friend of mine.
+  How now, noble Pompey? What, at the wheels of
+ Caesar? Art thou led in triumph? What, is there
+ none of Pygmalion’s images, newly made woman,
+ to be had now, for putting the hand in the pocket
+ and extracting it  clutched? What reply, ha? What
+FTLN 1522
+FTLN 1523
+FTLN 1524
+20
+FTLN 1525
+FTLN 1526
+FTLN 1527
+FTLN 1528
+FTLN 1529
+25
+FTLN 1530
+FTLN 1531
+FTLN 1532
+FTLN 1533
+FTLN 1534
+30
+FTLN 1535
+FTLN 1536
+FTLN 1537
+FTLN 1538
+FTLN 1539
+35
+FTLN 1540
+FTLN 1541
+FTLN 1542
+FTLN 1543
+FTLN 1544
+40
+FTLN 1545
+FTLN 1546
+FTLN 1547
+FTLN 1548
+FTLN 1549
+45
+FTLN 1550
+FTLN 1551
+FTLN 1552
+
+--- PAGE 60 / 106 ---
+115
+Measure for Measure
+ACT 3. SC. 2
+DUKE
+LUCIO
+POMPEY
+LUCIO
+POMPEY
+LUCIO
+ELBOW
+LUCIO
+POMPEY
+LUCIO
+DUKE
+LUCIO
+ELBOW
+POMPEY
+LUCIO
+ELBOW
+ sayst thou to this tune, matter, and method? Is ’t not
+ drowned i’ th’ last rain, ha? What sayst thou, trot? Is
+ the world as it was, man? Which is the way? Is it sad
+ and few words? Or how? The trick of it?
+, as Friar, aside
+  Still thus, and thus; still worse.
+, to Pompey
+  How doth my dear morsel, thy
+ mistress? Procures she still, ha?
+  Troth, sir, she hath eaten up all her beef, and
+ she is herself in the tub.
+  Why, ’tis good. It is the right of it. It must be so.
+ Ever your fresh whore and your powdered bawd, an
+ unshunned consequence; it must be so. Art going to
+ prison, Pompey?
+  Yes, faith, sir.
+  Why, ’tis not amiss, Pompey. Farewell. Go say I
+ sent thee thither. For debt, Pompey? Or how?
+  For being a bawd, for being a bawd.
+  Well, then, imprison him. If imprisonment be
+ the due of a bawd, why, ’tis his right. Bawd is he,
+ doubtless, and of antiquity too. Bawd born.—
+ Farewell, good Pompey. Commend me to the prison,
+ Pompey. You will turn good husband now,
+ Pompey; you will keep the house.
+  I hope, sir, your good Worship will be my bail.
+  No, indeed, will I not, Pompey; it is not the
+ wear. I will pray, Pompey, to increase your bondage.
+ If you take it not patiently, why, your mettle is
+ the more. Adieu, trusty Pompey.—Bless you, friar.
+, as Friar
+  And you.
+, to Pompey
+  Does Bridget paint still, Pompey,
+ ha?
+, to Pompey
+  Come your ways, sir, come.
+, to Lucio
+  You will not bail me, then, sir?
+  Then, Pompey, nor now.—What news abroad,
+ friar? What news?
+, to Pompey
+  Come your ways, sir, come.
+FTLN 1553
+FTLN 1554
+50
+FTLN 1555
+FTLN 1556
+FTLN 1557
+FTLN 1558
+FTLN 1559
+55
+FTLN 1560
+FTLN 1561
+FTLN 1562
+FTLN 1563
+FTLN 1564
+60
+FTLN 1565
+FTLN 1566
+FTLN 1567
+FTLN 1568
+FTLN 1569
+65
+FTLN 1570
+FTLN 1571
+FTLN 1572
+FTLN 1573
+FTLN 1574
+70
+FTLN 1575
+FTLN 1576
+FTLN 1577
+FTLN 1578
+FTLN 1579
+75
+FTLN 1580
+FTLN 1581
+FTLN 1582
+FTLN 1583
+FTLN 1584
+80
+FTLN 1585
+FTLN 1586
+FTLN 1587
+FTLN 1588
+
+--- PAGE 61 / 106 ---
+117
+Measure for Measure
+ACT 3. SC. 2
+LUCIO
+Elbow, Pompey, and Officers exit.
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+  Go to kennel, Pompey, go.
+ What news, friar, of the Duke?
+, as Friar
+  I know none. Can you tell me of any?
+  Some say he is with the Emperor of Russia;
+ other some, he is in Rome. But where is he, think
+ you?
+, as Friar
+  I know not where, but wheresoever, I
+ wish him well.
+  It was a mad fantastical trick of him to steal
+ from the state and usurp the beggary he was never
+ born to. Lord Angelo dukes it well in his absence.
+ He puts transgression to ’t.
+, as Friar
+  He does well in ’t.
+  A little more lenity to lechery would do no harm
+ in him. Something too crabbed that way, friar.
+, as Friar
+  It is too general a vice, and severity
+ must cure it.
+  Yes, in good sooth, the vice is of a great kindred;
+ it is well allied, but it is impossible to extirp it quite,
+ friar, till eating and drinking be put down. They say
+ this Angelo was not made by man and woman after
+ this downright way of creation. Is it true, think
+ you?
+, as Friar
+  How should he be made, then?
+  Some report a sea-maid spawned him; some,
+ that he was begot between two stockfishes. But it is
+ certain that when he makes water, his urine is
+ congealed ice; that I know to be true. And he is a
+ motion generative, that’s infallible.
+, as Friar
+  You are pleasant, sir, and speak apace.
+  Why, what a ruthless thing is this in him, for the
+ rebellion of a codpiece to take away the life of a
+ man! Would the duke that is absent have done this?
+ Ere he would have hanged a man for the getting
+ a hundred bastards, he would have paid for the
+FTLN 1589
+85
+FTLN 1590
+FTLN 1591
+FTLN 1592
+FTLN 1593
+FTLN 1594
+90
+FTLN 1595
+FTLN 1596
+FTLN 1597
+FTLN 1598
+FTLN 1599
+95
+FTLN 1600
+FTLN 1601
+FTLN 1602
+FTLN 1603
+FTLN 1604
+100
+FTLN 1605
+FTLN 1606
+FTLN 1607
+FTLN 1608
+FTLN 1609
+105
+FTLN 1610
+FTLN 1611
+FTLN 1612
+FTLN 1613
+FTLN 1614
+110
+FTLN 1615
+FTLN 1616
+FTLN 1617
+FTLN 1618
+FTLN 1619
+115
+FTLN 1620
+FTLN 1621
+FTLN 1622
+FTLN 1623
+
+--- PAGE 62 / 106 ---
+119
+Measure for Measure
+ACT 3. SC. 2
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+ nursing a thousand. He had some feeling of the
+ sport, he knew the service, and that instructed him
+ to mercy.
+, as Friar
+  I never heard the absent duke much
+ detected for women. He was not inclined that way.
+  O, sir, you are deceived.
+, as Friar
+  ’Tis not possible.
+  Who, not the Duke? Yes, your beggar of fifty;
+ and his use was to put a ducat in her clack-dish. The
+ Duke had crotchets in him. He would be drunk too,
+ that let me inform you.
+, as Friar
+  You do him wrong, surely.
+  Sir, I was an inward of his. A shy fellow was the
+ Duke, and I believe I know the cause of his
+ withdrawing.
+, as Friar
+  What, I prithee, might be the cause?
+  No, pardon. ’Tis a secret must be locked within
+ the teeth and the lips. But this I can let you
+ understand: the greater file of the subject held the
+ Duke to be wise.
+, as Friar
+  Wise? Why, no question but he was.
+  A very superficial, ignorant, unweighing fellow.
+, as Friar
+  Either this is envy in you, folly, or
+ mistaking. The very stream of his life and the
+ business he hath helmed must, upon a warranted
+ need, give him a better proclamation. Let him be
+ but testimonied in his own bringings-forth, and he
+ shall appear to the envious a scholar, a statesman,
+ and a soldier. Therefore you speak unskillfully. Or,
+ if your knowledge be more, it is much darkened in
+ your malice.
+  Sir, I know him, and I love him.
+, as Friar
+  Love talks with better knowledge, and
+ knowledge with dearer  love.
+  Come, sir, I know what I know.
+, as Friar
+  I can hardly believe that, since you
+FTLN 1624
+120
+FTLN 1625
+FTLN 1626
+FTLN 1627
+FTLN 1628
+FTLN 1629
+125
+FTLN 1630
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+130
+FTLN 1635
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+135
+FTLN 1640
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+140
+FTLN 1645
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+145
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+150
+FTLN 1655
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+155
+
+--- PAGE 63 / 106 ---
+121
+Measure for Measure
+ACT 3. SC. 2
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+He exits.
+DUKE
+ know not what you speak. But if ever the Duke
+ return, as our prayers are he may, let me desire you
+ to make your answer before him. If it be honest you
+ have spoke, you have courage to maintain it. I am
+ bound to call upon you, and, I pray you, your name?
+  Sir, my name is Lucio, well known to the Duke.
+, as Friar
+  He shall know you better, sir, if I may
+ live to report you.
+  I fear you not.
+, as Friar
+  O, you hope the Duke will return no
+ more, or you imagine me too unhurtful an opposite.
+ But indeed I can do you little harm; you’ll
+ forswear this again.
+  I’ll be hanged first. Thou art deceived in me,
+ friar. But no more of this. Canst thou tell if Claudio
+ die tomorrow or no?
+, as Friar
+  Why should he die, sir?
+  Why? For filling a bottle with a tundish. I would
+ the Duke we talk of were returned again. This
+ ungenitured agent will unpeople the province with
+ continency. Sparrows must not build in his house
+ eaves, because they are lecherous. The Duke yet
+ would have dark deeds darkly answered. He would
+ never bring them to light Would he were returned.
+ Marry, this Claudio is condemned for untrussing.
+ Farewell, good friar. I prithee pray for me. The
+ Duke, I say to thee again, would eat mutton on
+ Fridays. He’s now past it, yet—and I say to thee—
+ he would mouth with a beggar though she smelt
+ brown bread and garlic. Say that I said so. Farewell.
+ 
+ No might nor greatness in mortality
+ Can censure scape. Back-wounding calumny
+ The whitest virtue strikes. What king so strong
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+160
+FTLN 1665
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+165
+FTLN 1670
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+170
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+175
+FTLN 1680
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+180
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+185
+FTLN 1690
+FTLN 1691
+FTLN 1692
+
+--- PAGE 64 / 106 ---
+123
+Measure for Measure
+ACT 3. SC. 2
+ESCALUS
+BAWD
+ESCALUS
+PROVOST
+BAWD
+ESCALUS
+Officers exit with Bawd.
+PROVOST
+ESCALUS
+DUKE
+ESCALUS
+DUKE
+ Can tie the gall up in the slanderous tongue?
+ But who comes here?
+Enter Escalus, Provost, Officers,  and Mistress
+Overdone, a  Bawd.
+, to Officers
+  Go, away with her to prison.
+  Good my lord, be good to me. Your Honor is
+ accounted a merciful man, good my lord.
+  Double and treble admonition, and still forfeit
+ in the same kind? This would make mercy
+ swear and play the tyrant.
+  A bawd of eleven years’ continuance, may it
+ please your Honor.
+, to Escalus
+  My lord, this is one Lucio’s information
+ against me. Mistress Kate Keepdown was
+ with child by him in the Duke’s time; he promised
+ her marriage. His child is a year and a quarter old
+ come Philip and Jacob. I have kept it myself, and see
+ how he goes about to abuse me.
+  That fellow is a fellow of much license. Let
+ him be called before us. Away with her to prison.—
+ Go to, no more words. 
+ Provost, my brother Angelo will not be altered.
+ Claudio must die tomorrow. Let him be furnished
+ with divines and have all charitable preparation. If
+ my brother wrought by my pity, it should not be so
+ with him.
+  So please you, this friar hath been with him,
+ and advised him for th’ entertainment of death.
+  Good even, good father.
+, as Friar
+  Bliss and goodness on you.
+  Of whence are you?
+, as Friar
+ 
+ Not of this country, though my chance is now
+ To use it for my time. I am a brother
+FTLN 1693
+FTLN 1694
+190
+FTLN 1695
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+195
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+200
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+205
+FTLN 1710
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+210
+FTLN 1715
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+215
+FTLN 1720
+FTLN 1721
+FTLN 1722
+FTLN 1723
+
+--- PAGE 65 / 106 ---
+125
+Measure for Measure
+ACT 3. SC. 2
+ESCALUS
+DUKE
+ESCALUS
+DUKE
+ESCALUS
+DUKE
+ESCALUS
+ Of gracious order, late come from the See
+ In special business from his Holiness.
+  What news abroad i’ th’ world?
+, as Friar
+  None but that there is so great a fever
+ on goodness that the dissolution of it must cure it.
+ Novelty is only in request, and it is as dangerous to
+ be aged in any kind of course as it is virtuous to be
+ constant in any undertaking. There is scarce truth
+ enough alive to make societies secure, but security
+ enough to make fellowships accursed. Much upon
+ this riddle runs the wisdom of the world. This news
+ is old enough, yet it is every day’s news. I pray you,
+ sir, of what disposition was the Duke?
+  One that, above all other strifes, contended
+ especially to know himself.
+, as Friar
+  What pleasure was he given to?
+  Rather rejoicing to see another merry than
+ merry at anything which professed to make him
+ rejoice—a gentleman of all temperance. But leave
+ we him to his events, with a prayer they may prove
+ prosperous, and let me desire to know how you find
+ Claudio prepared. I am made to understand that
+ you have lent him visitation.
+, as Friar
+  He professes to have received no
+ sinister measure from his judge but most willingly
+ humbles himself to the determination of justice. Yet
+ had he framed to himself, by the instruction of his
+ frailty, many deceiving promises of life, which I, by
+ my good leisure, have discredited to him, and now
+ is he resolved to die.
+  You have paid the heavens your function and
+ the prisoner the very debt of your calling. I have
+ labored for the poor gentleman to the extremest
+ shore of my modesty, but my brother justice have I
+ found so severe that he hath forced me to tell him
+ he is indeed Justice.
+FTLN 1724
+220
+FTLN 1725
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+225
+FTLN 1730
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+230
+FTLN 1735
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+235
+FTLN 1740
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+240
+FTLN 1745
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+245
+FTLN 1750
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+250
+FTLN 1755
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+255
+
+--- PAGE 66 / 106 ---
+127
+Measure for Measure
+ACT 3. SC. 2
+DUKE
+ESCALUS
+DUKE
+Escalus and Provost exit.
+DUKE
+He exits.
+, as Friar
+  If his own life answer the straitness of
+ his proceeding, it shall become him well; wherein if
+ he chance to fail, he hath sentenced himself.
+  I am going to visit the prisoner. Fare you well.
+, as Friar
+  Peace be with you.
+ 
+ He who the sword of heaven will bear
+ Should be as holy as severe,
+ Pattern in himself to know,
+ Grace to stand, and virtue go;
+ More nor less to others paying
+ Than by self-offenses weighing.
+ Shame to him whose cruel striking
+ Kills for faults of his own liking.
+ Twice treble shame on Angelo,
+ To weed my vice, and let his grow.
+ O, what may man within him hide,
+ Though angel on the outward side!
+ How may likeness made in crimes,
+ Making practice on the times,
+ To draw with idle spiders’ strings
+ Most ponderous and substantial things.
+ Craft against vice I must apply.
+ With Angelo tonight shall lie
+ His old betrothèd but despisèd.
+ So disguise shall, by th’ disguisèd,
+ Pay with falsehood false exacting
+ And perform an old contracting.
+FTLN 1760
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+260
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+265
+FTLN 1770
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+270
+FTLN 1775
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+275
+FTLN 1780
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+280
+FTLN 1785
+FTLN 1786
+
+--- PAGE 67 / 106 ---
+MARIANA
+Boy exits.
+DUKE
+Enter Mariana, and Boy singing.
+Song.
+ 
+ 
+ Take, O take those lips away,
+  That so sweetly were forsworn,
+ And those eyes, the break of day,
+  Lights that do mislead the morn.
+ But my kisses bring again, bring again,
+ Seals of love, but sealed in vain, sealed in vain.
+Enter Duke as a Friar.
+, to Boy
+ 
+ Break off thy song and haste thee quick away.
+ Here comes a man of comfort, whose advice
+ Hath often stilled my brawling discontent.
+ I cry you mercy, sir, and well could wish
+ You had not found me here so musical.
+ Let me excuse me, and believe me so,
+ My mirth it much displeased, but pleased my woe.
+, as Friar
+ 
+ ’Tis good, though music oft hath such a charm
+ To make bad good and good provoke to harm.
+ I pray you tell me, hath anybody inquired for me
+131
+ACT 4
+Scene 1
+FTLN 1787
+FTLN 1788
+FTLN 1789
+FTLN 1790
+FTLN 1791
+5
+FTLN 1792
+FTLN 1793
+FTLN 1794
+FTLN 1795
+FTLN 1796
+10
+FTLN 1797
+FTLN 1798
+FTLN 1799
+FTLN 1800
+FTLN 1801
+15
+FTLN 1802
+
+--- PAGE 68 / 106 ---
+133
+Measure for Measure
+ACT 4. SC. 1
+MARIANA
+DUKE
+MARIANA
+She exits.
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+ here today? Much upon this time have I promised
+ here to meet.
+  You have not been inquired after. I have sat
+ here all day.
+Enter Isabella.
+, as Friar
+  I do constantly believe you. The time is
+ come even now. I shall crave your forbearance a
+ little. Maybe I will call upon you anon for some
+ advantage to yourself.
+  I am always bound to you. 
+, as Friar
+  Very well met, and welcome.
+ What is the news from this good deputy?
+ 
+ He hath a garden circummured with brick,
+ Whose western side is with a vineyard backed;
+ And to that vineyard is a planchèd gate
+ That makes his opening with this bigger key.
+ This other doth command a little door
+ Which from the vineyard to the garden leads.
+ There have I made my promise, upon the
+ Heavy middle of the night, to call upon him.
+, as Friar
+ 
+ But shall you on your knowledge find this way?
+ 
+ I have ta’en a due and wary note upon ’t.
+ With whispering and most guilty diligence,
+ In action all of precept, he did show me
+ The way twice o’er.
+, as Friar
+  
+ Are there no other tokens
+ Between you ’greed concerning her observance?
+ 
+ No, none, but only a repair i’ th’ dark,
+ And that I have possessed him my most stay
+ Can be but brief, for I have made him know
+ I have a servant comes with me along
+FTLN 1803
+FTLN 1804
+FTLN 1805
+FTLN 1806
+20
+FTLN 1807
+FTLN 1808
+FTLN 1809
+FTLN 1810
+FTLN 1811
+25
+FTLN 1812
+FTLN 1813
+FTLN 1814
+FTLN 1815
+FTLN 1816
+30
+FTLN 1817
+FTLN 1818
+FTLN 1819
+FTLN 1820
+FTLN 1821
+35
+FTLN 1822
+FTLN 1823
+FTLN 1824
+FTLN 1825
+FTLN 1826
+40
+FTLN 1827
+FTLN 1828
+FTLN 1829
+FTLN 1830
+FTLN 1831
+45
+FTLN 1832
+
+--- PAGE 69 / 106 ---
+135
+Measure for Measure
+ACT 4. SC. 1
+DUKE
+ISABELLA
+DUKE
+MARIANA
+DUKE
+MARIANA
+Isabella and Mariana  exit.
+DUKE
+DUKE
+ISABELLA
+ That stays upon me, whose persuasion is
+ I come about my brother.
+, as Friar
+  
+ ’Tis well borne up.
+ I have not yet made known to Mariana
+ A word of this.—What ho, within; come forth.
+Enter Mariana.
+  To Mariana.  I pray you be acquainted with this
+ maid.
+ She comes to do you good.
+  I do desire the like.
+, as Friar, to Mariana
+ 
+ Do you persuade yourself that I respect you?
+ 
+ Good friar, I know you do, and have found it.
+, as Friar
+ 
+ Take then this your companion by the hand,
+ Who hath a story ready for your ear.
+ I shall attend your leisure. But make haste.
+ The vaporous night approaches.
+, to Isabella
+  Will ’t please you walk aside?
+ 
+ O place and greatness, millions of false eyes
+ Are stuck upon thee; volumes of report
+ Run with these false, and, most contrarious, quest
+ Upon thy doings; thousand escapes of wit
+ Make thee the father of their idle dream
+ And rack thee in their fancies.
+Enter Mariana and Isabella.
+, as Friar
+  
+ Welcome. How agreed?
+ 
+ She’ll take the enterprise upon her, father,
+ If you advise it.
+FTLN 1833
+FTLN 1834
+FTLN 1835
+FTLN 1836
+50
+FTLN 1837
+FTLN 1838
+FTLN 1839
+FTLN 1840
+FTLN 1841
+55
+FTLN 1842
+FTLN 1843
+FTLN 1844
+FTLN 1845
+FTLN 1846
+60
+FTLN 1847
+FTLN 1848
+FTLN 1849
+FTLN 1850
+FTLN 1851
+65
+FTLN 1852
+FTLN 1853
+FTLN 1854
+FTLN 1855
+FTLN 1856
+70
+FTLN 1857
+
+--- PAGE 70 / 106 ---
+137
+Measure for Measure
+ACT 4. SC. 2
+DUKE
+ISABELLA
+MARIANA
+DUKE
+They exit.
+PROVOST
+POMPEY
+PROVOST
+POMPEY
+, as Friar
+   It is not my consent
+ But my entreaty too.
+, to Mariana
+  Little have you to say
+ When you depart from him, but, soft and low,
+ “Remember now my brother.”
+  
+ Fear me not.
+, as Friar
+ 
+ Nor, gentle daughter, fear you not at all.
+ He is your husband on a precontract.
+ To bring you thus together ’tis no sin,
+ Sith that the justice of your title to him
+ Doth flourish the deceit. Come, let us go.
+ Our corn’s to reap, for yet our tithe’s to sow.
+Enter Provost, Pompey, and Officer.
+  Come hither, sirrah. Can you cut off a man’s
+ head?
+  If the man be a bachelor, sir, I can; but if he be
+ a married man, he’s his wife’s head, and I can never
+ cut off a woman’s head.
+  Come, sir, leave me your snatches, and yield
+ me a direct answer. Tomorrow morning are to die
+ Claudio and Barnardine. Here is in our prison a
+ common executioner, who in his office lacks a
+ helper. If you will take it on you to assist him, it
+ shall redeem you from your gyves; if not, you shall
+ have your full time of imprisonment and your
+ deliverance with an unpitied whipping, for you have
+ been a notorious bawd.
+  Sir, I have been an unlawful bawd time out of
+ mind, but yet I will be content to be a lawful
+FTLN 1858
+FTLN 1859
+FTLN 1860
+FTLN 1861
+75
+FTLN 1862
+FTLN 1863
+FTLN 1864
+FTLN 1865
+FTLN 1866
+80
+FTLN 1867
+FTLN 1868
+FTLN 1869
+Scene 2
+FTLN 1870
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+5
+FTLN 1875
+FTLN 1876
+FTLN 1877
+FTLN 1878
+FTLN 1879
+10
+FTLN 1880
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+15
+FTLN 1885
+
+--- PAGE 71 / 106 ---
+139
+Measure for Measure
+ACT 4. SC. 2
+PROVOST
+ABHORSON
+PROVOST
+ABHORSON
+PROVOST
+He exits.
+POMPEY
+ABHORSON
+POMPEY
+ABHORSON
+POMPEY
+ABHORSON
+PROVOST
+ hangman. I would be glad to receive some instruction
+ from my fellow partner.
+  What ho, Abhorson!—Where’s Abhorson
+ there?
+Enter Abhorson.
+  Do you call, sir?
+  Sirrah, here’s a fellow will help you tomorrow
+ in your execution. If you think it meet, compound
+ with him by the year and let him abide here
+ with you; if not, use him for the present and dismiss
+ him. He cannot plead his estimation with you; he
+ hath been a bawd.
+  A bawd, sir? Fie upon him! He will discredit
+ our mystery.
+  Go to, sir; you weigh equally. A feather will
+ turn the scale. 
+  Pray, sir, by your good favor—for surely, sir, a
+ good favor you have, but that you have a hanging
+ look—do you call, sir, your occupation a mystery?
+  Ay, sir, a mystery.
+  Painting, sir, I have heard say, is a mystery;
+ and your whores, sir, being members of my occupation,
+ using painting, do prove my occupation a
+ mystery; but what mystery there should be in hanging,
+ if I should be hanged, I cannot imagine.
+  Sir, it is a mystery.
+  Proof?
+  Every true man’s apparel fits your thief. If it
+ be too little for your thief, your true man thinks it
+ big enough; if it be too big for your thief, your thief
+ thinks it little enough. So every true man’s apparel
+ fits your thief.
+Enter Provost.
+  Are you agreed?
+FTLN 1886
+FTLN 1887
+FTLN 1888
+FTLN 1889
+20
+FTLN 1890
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+25
+FTLN 1895
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+30
+FTLN 1900
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+35
+FTLN 1905
+FTLN 1906
+FTLN 1907
+FTLN 1908
+FTLN 1909
+40
+FTLN 1910
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+45
+FTLN 1915
+FTLN 1916
+FTLN 1917
+
+--- PAGE 72 / 106 ---
+141
+Measure for Measure
+ACT 4. SC. 2
+POMPEY
+PROVOST
+ABHORSON
+POMPEY
+Pompey and Abhorson  exit.
+PROVOST
+Officer exits.
+CLAUDIO
+PROVOST
+  Sir, I will serve him, for I do find your hangman
+ is a more penitent trade than your bawd. He
+ doth oftener ask forgiveness.
+, to Abhorson
+  You, sirrah, provide your block
+ and your axe tomorrow, four o’clock.
+, to Pompey
+  Come on, bawd. I will instruct
+ thee in my trade. Follow.
+  I do desire to learn, sir; and I hope, if you have
+ occasion to use me for your own turn, you shall find
+ me yare.  For truly, sir, for your kindness, I owe
+ you a good turn. 
+, to Officer
+ 
+ Call hither Barnardine and Claudio.
+ Th’ one has my pity; not a jot the other,
+ Being a murderer, though he were my brother.
+Enter Claudio, with Officer.
+ Look, here’s the warrant, Claudio, for thy death.
+ ’Tis now dead midnight, and by eight tomorrow
+ Thou must be made immortal. Where’s Barnardine?
+ 
+ As fast locked up in sleep as guiltless labor
+ When it lies starkly in the traveler’s bones.
+ He will not wake.
+  
+ Who can do good on him?
+ Well, go, prepare yourself.  Knock within.  But hark,
+ what noise?—
+ Heaven give your spirits comfort.  Claudio exits,
+ with Officer. Knock within.   
+ By and by!—
+ I hope it is some pardon or reprieve
+ For the most gentle Claudio.
+Enter Duke, as a Friar.
+ Welcome, father.
+FTLN 1918
+FTLN 1919
+50
+FTLN 1920
+FTLN 1921
+FTLN 1922
+FTLN 1923
+FTLN 1924
+55
+FTLN 1925
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+60
+FTLN 1930
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+65
+FTLN 1935
+FTLN 1936
+FTLN 1937
+FTLN 1938
+FTLN 1939
+70
+FTLN 1940
+FTLN 1941
+FTLN 1942
+FTLN 1943
+FTLN 1944
+75
+FTLN 1945
+
+--- PAGE 73 / 106 ---
+143
+Measure for Measure
+ACT 4. SC. 2
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+Provost exits.
+PROVOST
+DUKE
+PROVOST
+, as Friar
+ 
+ The best and wholesom’st spirits of the night
+ Envelop you, good provost. Who called here of late?
+ 
+ None since the curfew rung.
+, as Friar
+  
+ Not Isabel?
+  
+ No.
+, as Friar
+  They will, then, ere ’t be long.
+  What comfort is for Claudio?
+, as Friar
+ 
+ There’s some in hope.
+  
+ It is a bitter deputy.
+, as Friar
+ 
+ Not so, not so. His life is paralleled
+ Even with the stroke and line of his great justice.
+ He doth with holy abstinence subdue
+ That in himself which he spurs on his power
+ To qualify in others. Were he mealed with that
+ Which he corrects, then were he tyrannous,
+ But this being so, he’s just.  Knock within.  Now are
+ they come. 
+ This is a gentle provost. Seldom when
+ The steelèd jailer is the friend of men.
+Enter Provost. Knocking continues.
+ How now, what noise? That spirit’s possessed with
+ haste
+ That wounds th’ unsisting postern with these strokes.
+ 
+ There he must stay until the officer
+ Arise to let him in. He is called up.
+, as Friar
+ 
+ Have you no countermand for Claudio yet,
+ But he must die tomorrow?
+  
+ None, sir, none.
+FTLN 1946
+FTLN 1947
+FTLN 1948
+FTLN 1949
+80
+FTLN 1950
+FTLN 1951
+FTLN 1952
+FTLN 1953
+FTLN 1954
+85
+FTLN 1955
+FTLN 1956
+FTLN 1957
+FTLN 1958
+FTLN 1959
+90
+FTLN 1960
+FTLN 1961
+FTLN 1962
+FTLN 1963
+FTLN 1964
+95
+FTLN 1965
+FTLN 1966
+FTLN 1967
+FTLN 1968
+FTLN 1969
+100
+FTLN 1970
+FTLN 1971
+FTLN 1972
+
+--- PAGE 74 / 106 ---
+145
+Measure for Measure
+ACT 4. SC. 2
+DUKE
+PROVOST
+DUKE
+MESSENGER
+PROVOST
+Provost reads message.
+Messenger exits.
+DUKE
+PROVOST
+DUKE
+PROVOST
+, as Friar
+ 
+ As near the dawning, provost, as it is,
+ You shall hear more ere morning.
+  
+ Happily
+ You something know, yet I believe there comes
+ No countermand. No such example have we.
+ Besides, upon the very siege of justice
+ Lord Angelo hath to the public ear
+ Professed the contrary.
+Enter a Messenger.
+ This is his Lordship’s  man.
+, as Friar
+  And here comes Claudio’s pardon.
+, giving Provost a paper
+  My lord hath sent
+ you this note, and by me this further charge: that
+ you swerve not from the smallest article of it,
+ neither in time, matter, or other circumstance.
+ Good morrow, for, as I take it, it is almost day.
+  I shall obey him. 
+, aside
+ 
+ This is his pardon, purchased by such sin
+ For which the pardoner himself is in.
+ Hence hath offense his quick celerity
+ When it is borne in high authority.
+ When vice makes mercy, mercy’s so extended
+ That for the fault’s love is th’ offender friended.
+  As Friar.  Now, sir, what news?
+  I told you: Lord Angelo, belike thinking me
+ remiss in mine office, awakens me with this unwonted
+ putting-on, methinks strangely; for he hath
+ not used it before.
+, as Friar
+  Pray you let’s hear.
+, reads  the letter.  
+ Whatsoever you may hear to the contrary, let Claudio
+ be executed by four of the clock, and in the afternoon
+FTLN 1973
+FTLN 1974
+105
+FTLN 1975
+FTLN 1976
+FTLN 1977
+FTLN 1978
+FTLN 1979
+110
+FTLN 1980
+FTLN 1981
+FTLN 1982
+FTLN 1983
+FTLN 1984
+115
+FTLN 1985
+FTLN 1986
+FTLN 1987
+FTLN 1988
+FTLN 1989
+120
+FTLN 1990
+FTLN 1991
+FTLN 1992
+FTLN 1993
+FTLN 1994
+125
+FTLN 1995
+FTLN 1996
+FTLN 1997
+FTLN 1998
+FTLN 1999
+130
+FTLN 2000
+FTLN 2001
+FTLN 2002
+
+--- PAGE 75 / 106 ---
+147
+Measure for Measure
+ACT 4. SC. 2
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+ Barnardine. For my better satisfaction, let me have
+ Claudio’s head sent me by five. Let this be duly
+ performed with a thought that more depends on it
+ than we must yet deliver. Thus fail not to do your
+ office, as you will answer it at your peril.
+ What say you to this, sir?
+, as Friar
+  What is that Barnardine who is to be
+ executed in th’ afternoon?
+  A Bohemian born, but here nursed up and
+ bred; one that is a prisoner nine years old.
+, as Friar
+  How came it that the absent duke had
+ not either delivered him to his liberty, or executed
+ him? I have heard it was ever his manner to do so.
+  His friends still wrought reprieves for him;
+ and indeed his fact, till now in the government of
+ Lord Angelo, came not to an undoubtful proof.
+, as Friar
+  It is now apparent?
+  Most manifest, and not denied by himself.
+, as Friar
+  Hath he borne himself penitently in
+ prison? How seems he to be touched?
+  A man that apprehends death no more dreadfully
+ but as a drunken sleep; careless, reckless, and
+ fearless of what’s past, present, or to come; insensible
+ of mortality and desperately mortal.
+, as Friar
+  He wants advice.
+  He will hear none. He hath evermore had the
+ liberty of the prison; give him leave to escape
+ hence, he would not. Drunk many times a day, if not
+ many days entirely drunk. We have very oft awaked
+ him, as if to carry him to execution, and showed
+ him a seeming warrant for it. It hath not moved him
+ at all.
+, as Friar
+  More of him anon. There is written in
+ your brow, provost, honesty and constancy; if I read
+ it not truly, my ancient skill beguiles me. But in the
+ boldness of my cunning, I will lay myself in hazard.
+FTLN 2003
+FTLN 2004
+135
+FTLN 2005
+FTLN 2006
+FTLN 2007
+FTLN 2008
+FTLN 2009
+140
+FTLN 2010
+FTLN 2011
+FTLN 2012
+FTLN 2013
+FTLN 2014
+145
+FTLN 2015
+FTLN 2016
+FTLN 2017
+FTLN 2018
+FTLN 2019
+150
+FTLN 2020
+FTLN 2021
+FTLN 2022
+FTLN 2023
+FTLN 2024
+155
+FTLN 2025
+FTLN 2026
+FTLN 2027
+FTLN 2028
+FTLN 2029
+160
+FTLN 2030
+FTLN 2031
+FTLN 2032
+FTLN 2033
+FTLN 2034
+165
+FTLN 2035
+FTLN 2036
+FTLN 2037
+FTLN 2038
+
+--- PAGE 76 / 106 ---
+149
+Measure for Measure
+ACT 4. SC. 2
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+ Claudio, whom here you have warrant to execute, is
+ no greater forfeit to the law than Angelo, who hath
+ sentenced him. To make you understand this in a
+ manifested effect, I crave but four days’ respite, for
+ the which you are to do me both a present and a
+ dangerous courtesy.
+  Pray, sir, in what?
+, as Friar
+  In the delaying death.
+  Alack, how may I do it, having the hour
+ limited, and an express command, under penalty,
+ to deliver his head in the view of Angelo? I may
+ make my case as Claudio’s, to cross this in the
+ smallest.
+, as Friar
+  By the vow of mine order I warrant
+ you, if my instructions may be your guide. Let this
+ Barnardine be this morning executed and his head
+ borne to Angelo.
+  Angelo hath seen them both and will discover
+ the favor.
+, as Friar
+  O, death’s a great disguiser, and you
+ may add to it. Shave the head and tie the beard, and
+ say it was the desire of the penitent to be so bared
+ before his death. You know the course is common.
+ If anything fall to you upon this, more than thanks
+ and good fortune, by the saint whom I profess, I
+ will plead against it with my life.
+  Pardon me, good father, it is against my oath.
+, as Friar
+  Were you sworn to the Duke or to the
+ Deputy?
+  To him and to his substitutes.
+, as Friar
+  You will think you have made no
+ offense if the Duke avouch the justice of your
+ dealing?
+  But what likelihood is in that?
+, as Friar
+  Not a resemblance, but a certainty; yet
+ since I see you fearful, that neither my coat, integrity,
+FTLN 2039
+170
+FTLN 2040
+FTLN 2041
+FTLN 2042
+FTLN 2043
+FTLN 2044
+175
+FTLN 2045
+FTLN 2046
+FTLN 2047
+FTLN 2048
+FTLN 2049
+180
+FTLN 2050
+FTLN 2051
+FTLN 2052
+FTLN 2053
+FTLN 2054
+185
+FTLN 2055
+FTLN 2056
+FTLN 2057
+FTLN 2058
+FTLN 2059
+190
+FTLN 2060
+FTLN 2061
+FTLN 2062
+FTLN 2063
+FTLN 2064
+195
+FTLN 2065
+FTLN 2066
+FTLN 2067
+FTLN 2068
+FTLN 2069
+200
+FTLN 2070
+FTLN 2071
+FTLN 2072
+FTLN 2073
+FTLN 2074
+205
+
+--- PAGE 77 / 106 ---
+151
+Measure for Measure
+ACT 4. SC. 3
+PROVOST
+DUKE
+He gives the Provost the paper.
+They  exit.
+POMPEY
+ nor persuasion can with ease attempt you, I will
+ go further than I meant, to pluck all fears out of
+ you. Look you, sir, here is the hand and seal of the
+ Duke.  He shows the Provost a paper.  You know the
+ character, I doubt not, and the signet is not strange
+ to you.
+  I know them both.
+, as Friar
+  The contents of this is the return of the
+ Duke; you shall anon overread it at your pleasure,
+ where you shall find within these two days he will
+ be here. This is a thing that Angelo knows not, for
+ he this very day receives letters of strange tenor,
+ perchance of the Duke’s death, perchance entering
+ into some monastery, but by chance nothing of
+ what is writ. Look, th’ unfolding star calls up the
+ shepherd. Put not yourself into amazement how
+ these things should be. All difficulties are but easy
+ when they are known. Call your executioner, and
+ off with Barnardine’s head. I will give him a present
+ shrift, and advise him for a better place. Yet you are
+ amazed, but this shall absolutely resolve you.
+ Come away; it is almost clear dawn.
+Enter Pompey.
+  I am as well acquainted here as I was in our
+ house of profession. One would think it were Mistress
+ Overdone’s own house, for here be many of
+ her old customers. First, here’s young Master Rash.
+ He’s in for a commodity of brown paper and old
+ ginger, ninescore and seventeen pounds, of which
+ he made five marks ready money. Marry, then
+FTLN 2075
+FTLN 2076
+FTLN 2077
+FTLN 2078
+FTLN 2079
+210
+FTLN 2080
+FTLN 2081
+FTLN 2082
+FTLN 2083
+FTLN 2084
+215
+FTLN 2085
+FTLN 2086
+FTLN 2087
+FTLN 2088
+FTLN 2089
+220
+FTLN 2090
+FTLN 2091
+FTLN 2092
+FTLN 2093
+FTLN 2094
+225
+FTLN 2095
+FTLN 2096
+Scene 3
+FTLN 2097
+FTLN 2098
+FTLN 2099
+FTLN 2100
+FTLN 2101
+5
+FTLN 2102
+FTLN 2103
+
+--- PAGE 78 / 106 ---
+153
+Measure for Measure
+ACT 4. SC. 3
+ABHORSON
+POMPEY
+ABHORSON
+BARNARDINE
+POMPEY
+BARNARDINE
+ABHORSON
+POMPEY
+ABHORSON
+POMPEY
+ABHORSON
+POMPEY
+ ginger was not much in request, for the old women
+ were all dead. Then is there here one Master Caper,
+ at the suit of Master Three-pile the mercer, for some
+ four suits of peach-colored satin, which now
+ peaches him a beggar. Then have we here young
+ Dizzy and young Master Deep-vow, and Master
+ Copper-spur and Master Starve-lackey the rapier-and-dagger
+ man, and young Drop-heir that killed
+ lusty Pudding, and Master Forth-light the tilter, and
+ brave Master Shoe-tie the great traveler, and wild
+ Half-can that stabbed Pots, and I think forty more,
+ all great doers in our trade, and are now “for the
+ Lord’s sake.”
+Enter Abhorson.
+  Sirrah, bring Barnardine hither.
+, calling
+  Master Barnardine, you must rise
+ and be hanged, Master Barnardine.
+, calling
+  What ho, Barnardine!
+, within   A pox o’ your throats! Who makes
+ that noise there? What are you?
+, calling to Barnardine offstage
+  Your friends,
+ sir, the hangman. You must be so good, sir, to rise
+ and be put to death.
+, within
+  Away, you rogue, away! I am
+ sleepy.
+, to Pompey
+  Tell him he must awake, and
+ that quickly too.
+, calling
+  Pray, Master Barnardine, awake till
+ you are executed, and sleep afterwards.
+  Go in to him, and fetch him out.
+  He is coming, sir, he is coming. I hear his
+ straw rustle.
+  Is the axe upon the block, sirrah?
+  Very ready, sir.
+Enter Barnardine.
+FTLN 2104
+FTLN 2105
+FTLN 2106
+10
+FTLN 2107
+FTLN 2108
+FTLN 2109
+FTLN 2110
+FTLN 2111
+15
+FTLN 2112
+FTLN 2113
+FTLN 2114
+FTLN 2115
+FTLN 2116
+20
+FTLN 2117
+FTLN 2118
+FTLN 2119
+FTLN 2120
+FTLN 2121
+25
+FTLN 2122
+FTLN 2123
+FTLN 2124
+FTLN 2125
+FTLN 2126
+30
+FTLN 2127
+FTLN 2128
+FTLN 2129
+FTLN 2130
+FTLN 2131
+35
+FTLN 2132
+FTLN 2133
+FTLN 2134
+FTLN 2135
+FTLN 2136
+40
+
+--- PAGE 79 / 106 ---
+155
+Measure for Measure
+ACT 4. SC. 3
+BARNARDINE
+ABHORSON
+BARNARDINE
+POMPEY
+ABHORSON
+DUKE
+BARNARDINE
+DUKE
+BARNARDINE
+DUKE
+BARNARDINE
+He exits.
+DUKE
+Abhorson and Pompey exit.
+  How now, Abhorson? What’s the news
+ with you?
+  Truly, sir, I would desire you to clap into
+ your prayers, for, look you, the warrant’s come.
+  You rogue, I have been drinking all night.
+ I am not fitted for ’t.
+  O, the better, sir, for he that drinks all night
+ and is hanged betimes in the morning may sleep the
+ sounder all the next day.
+Enter Duke, as a Friar.
+, to Barnardine
+  Look you, sir, here comes
+ your ghostly father. Do we jest now, think you?
+, as Friar, to Barnardine
+  Sir, induced by my
+ charity, and hearing how hastily you are to depart, I
+ am come to advise you, comfort you, and pray with
+ you.
+  Friar, not I. I have been drinking hard all
+ night, and I will have more time to prepare me, or
+ they shall beat out my brains with billets. I will not
+ consent to die this day, that’s certain.
+, as Friar
+  O, sir, you must. And therefore I
+ beseech you look forward on the journey you shall
+ go.
+  I swear I will not die today for any man’s
+ persuasion.
+, as Friar
+  But hear you—
+  Not a word. If you have anything to say to
+ me, come to my ward, for thence will not I today.
+, as Friar
+ 
+ Unfit to live or die. O gravel heart!
+ After him, fellows; bring him to the block.
+Enter Provost.
+FTLN 2137
+FTLN 2138
+FTLN 2139
+FTLN 2140
+FTLN 2141
+45
+FTLN 2142
+FTLN 2143
+FTLN 2144
+FTLN 2145
+FTLN 2146
+50
+FTLN 2147
+FTLN 2148
+FTLN 2149
+FTLN 2150
+FTLN 2151
+55
+FTLN 2152
+FTLN 2153
+FTLN 2154
+FTLN 2155
+FTLN 2156
+60
+FTLN 2157
+FTLN 2158
+FTLN 2159
+FTLN 2160
+FTLN 2161
+65
+FTLN 2162
+FTLN 2163
+FTLN 2164
+FTLN 2165
+
+--- PAGE 80 / 106 ---
+157
+Measure for Measure
+ACT 4. SC. 3
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+Provost  exits.
+ 
+ Now, sir, how do you find the prisoner?
+, as Friar
+ 
+ A creature unprepared, unmeet for death,
+ And to transport him in the mind he is
+ Were damnable.
+  
+ Here in the prison, father,
+ There died this morning of a cruel fever
+ One Ragozine, a most notorious pirate,
+ A man of Claudio’s years, his beard and head
+ Just of his color. What if we do omit
+ This reprobate till he were well inclined,
+ And satisfy the Deputy with the visage
+ Of Ragozine, more like to Claudio?
+, as Friar
+ 
+ O, ’tis an accident that heaven provides!
+ Dispatch it presently. The hour draws on
+ Prefixed by Angelo. See this be done
+ And sent according to command, whiles I
+ Persuade this rude wretch willingly to die.
+ 
+ This shall be done, good father, presently.
+ But Barnardine must die this afternoon,
+ And how shall we continue Claudio,
+ To save me from the danger that might come
+ If he were known alive?
+, as Friar
+  
+ Let this be done:
+ Put them in secret holds, both Barnardine and
+ Claudio.
+ Ere twice the sun hath made his journal greeting
+ To yonder  generation, you shall find
+ Your safety manifested.
+  I am your free dependent.
+, as Friar
+ 
+ Quick, dispatch, and send the head to Angelo.
+FTLN 2166
+70
+FTLN 2167
+FTLN 2168
+FTLN 2169
+FTLN 2170
+FTLN 2171
+75
+FTLN 2172
+FTLN 2173
+FTLN 2174
+FTLN 2175
+FTLN 2176
+80
+FTLN 2177
+FTLN 2178
+FTLN 2179
+FTLN 2180
+FTLN 2181
+85
+FTLN 2182
+FTLN 2183
+FTLN 2184
+FTLN 2185
+FTLN 2186
+90
+FTLN 2187
+FTLN 2188
+FTLN 2189
+FTLN 2190
+FTLN 2191
+95
+FTLN 2192
+FTLN 2193
+FTLN 2194
+FTLN 2195
+
+--- PAGE 81 / 106 ---
+159
+Measure for Measure
+ACT 4. SC. 3
+DUKE
+PROVOST
+DUKE
+PROVOST
+He exits.
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+ 
+ Now will I write letters to Angelo—
+ The Provost he shall bear them—whose contents
+ Shall witness to him I am near at home
+ And that by great injunctions I am bound
+ To enter publicly. Him I’ll desire
+ To meet me at the consecrated fount
+ A league below the city; and from thence,
+ By cold gradation and well-balanced form,
+ We shall proceed with Angelo.
+Enter Provost, carrying a head.
+ 
+ Here is the head. I’ll carry it myself.
+, as Friar
+ 
+ Convenient is it. Make a swift return,
+ For I would commune with you of such things
+ That want no ear but yours.
+  
+ I’ll make all speed.
+, within   Peace, ho, be here.
+ 
+ The tongue of Isabel. She’s come to know
+ If yet her brother’s pardon be come hither.
+ But I will keep her ignorant of her good
+ To make her heavenly comforts of despair
+ When it is least expected.
+Enter Isabella.
+  
+ Ho, by your leave.
+, as Friar
+ 
+ Good morning to you, fair and gracious daughter.
+ 
+ The better, given me by so holy a man.
+ Hath yet the Deputy sent my brother’s pardon?
+FTLN 2196
+100
+FTLN 2197
+FTLN 2198
+FTLN 2199
+FTLN 2200
+FTLN 2201
+105
+FTLN 2202
+FTLN 2203
+FTLN 2204
+FTLN 2205
+FTLN 2206
+110
+FTLN 2207
+FTLN 2208
+FTLN 2209
+FTLN 2210
+FTLN 2211
+115
+FTLN 2212
+FTLN 2213
+FTLN 2214
+FTLN 2215
+FTLN 2216
+120
+FTLN 2217
+FTLN 2218
+FTLN 2219
+
+--- PAGE 82 / 106 ---
+161
+Measure for Measure
+ACT 4. SC. 3
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+, as Friar
+ 
+ He hath released him, Isabel, from the world.
+ His head is off, and sent to Angelo.
+ 
+ Nay, but it is not so.
+, as Friar
+  
+ It is no other.
+ Show your wisdom, daughter, in your close patience.
+ 
+ O, I will to him and pluck out his eyes!
+, as Friar
+ 
+ You shall not be admitted to his sight.
+ 
+ Unhappy Claudio, wretched Isabel,
+ Injurious world, most damnèd Angelo!
+, as Friar
+ 
+ This nor hurts him nor profits you a jot.
+ Forbear it, therefore; give your cause to heaven.
+ Mark what I say, which you shall find
+ By every syllable a faithful verity.
+ The Duke comes home tomorrow—nay, dry your
+ eyes.
+ One of our convent, and his confessor,
+ Gives me this instance. Already he hath carried
+ Notice to Escalus and Angelo,
+ Who do prepare to meet him at the gates,
+ There to give up their power. If you can, pace your
+ wisdom
+ In that good path that I would wish it go,
+ And you shall have your bosom on this wretch,
+ Grace of the Duke, revenges to your heart,
+ And general honor.
+  
+ I am directed by you.
+, as Friar, showing her a paper
+ 
+ This letter, then, to Friar Peter give.
+ ’Tis that he sent me of the Duke’s return.
+ Say, by this token, I desire his company
+FTLN 2220
+FTLN 2221
+125
+FTLN 2222
+FTLN 2223
+FTLN 2224
+FTLN 2225
+FTLN 2226
+130
+FTLN 2227
+FTLN 2228
+FTLN 2229
+FTLN 2230
+FTLN 2231
+135
+FTLN 2232
+FTLN 2233
+FTLN 2234
+FTLN 2235
+FTLN 2236
+140
+FTLN 2237
+FTLN 2238
+FTLN 2239
+FTLN 2240
+FTLN 2241
+145
+FTLN 2242
+FTLN 2243
+FTLN 2244
+FTLN 2245
+FTLN 2246
+150
+FTLN 2247
+FTLN 2248
+
+--- PAGE 83 / 106 ---
+163
+Measure for Measure
+ACT 4. SC. 3
+He hands her the paper.
+LUCIO
+DUKE
+LUCIO
+Isabella exits.
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+ At Mariana’s house tonight. Her cause and yours
+ I’ll perfect him withal, and he shall bring you
+ Before the Duke, and to the head of Angelo
+ Accuse him home and home. For my poor self,
+ I am combinèd by a sacred vow
+ And shall be absent. Wend you with this letter.
+ Command these fretting waters from your eyes
+ With a light heart. Trust not my holy order
+ If I pervert your course.—Who’s here?
+Enter Lucio.
+  Good even, friar, where’s the Provost?
+, as Friar
+  Not within, sir.
+  O, pretty Isabella, I am pale at mine heart to see
+ thine eyes so red. Thou must be patient. I am fain to
+ dine and sup with water and bran. I dare not for my
+ head fill my belly. One fruitful meal would set me to
+ ’t. But they say the Duke will be here tomorrow. By
+ my troth, Isabel, I loved thy brother. If the old
+ fantastical duke of dark corners had been at home,
+ he had lived. 
+, as Friar
+  Sir, the Duke is marvelous little beholding
+ to your reports, but the best is, he lives not
+ in them.
+  Friar, thou knowest not the Duke so well as I do.
+ He’s a better woodman than thou tak’st him for.
+, as Friar
+  Well, you’ll answer this one day. Fare
+ you well.
+  Nay, tarry, I’ll go along with thee. I can tell thee
+ pretty tales of the Duke.
+, as Friar
+  You have told me too many of him
+ already, sir, if they be true; if not true, none were
+ enough.
+  I was once before him for getting a wench with
+ child.
+FTLN 2249
+FTLN 2250
+FTLN 2251
+155
+FTLN 2252
+FTLN 2253
+FTLN 2254
+FTLN 2255
+FTLN 2256
+160
+FTLN 2257
+FTLN 2258
+FTLN 2259
+FTLN 2260
+FTLN 2261
+165
+FTLN 2262
+FTLN 2263
+FTLN 2264
+FTLN 2265
+FTLN 2266
+170
+FTLN 2267
+FTLN 2268
+FTLN 2269
+FTLN 2270
+FTLN 2271
+175
+FTLN 2272
+FTLN 2273
+FTLN 2274
+FTLN 2275
+FTLN 2276
+180
+FTLN 2277
+FTLN 2278
+FTLN 2279
+FTLN 2280
+FTLN 2281
+185
+
+--- PAGE 84 / 106 ---
+165
+Measure for Measure
+ACT 4. SC. 4
+DUKE
+LUCIO
+DUKE
+LUCIO
+They exit.
+ESCALUS
+ANGELO
+ESCALUS
+ANGELO
+ESCALUS
+ANGELO
+ESCALUS
+, as Friar
+  Did you such a thing?
+  Yes, marry, did I, but I was fain to forswear it.
+ They would else have married me to the rotten
+ medlar.
+, as Friar
+  Sir, your company is fairer than honest.
+ Rest you well.
+  By my troth, I’ll go with thee to the lane’s end. If
+ bawdy talk offend you, we’ll have very little of it.
+ Nay, friar, I am a kind of burr. I shall stick.
+Enter Angelo and Escalus.
+  Every letter he hath writ hath disvouched
+ other.
+  In most uneven and distracted manner. His
+ actions show much like to madness. Pray heaven his
+ wisdom be not tainted. And why meet him at the
+ gates and deliver  our authorities there?
+  I guess not.
+  And why should we proclaim it in an hour
+ before his entering, that if any crave redress of
+ injustice, they should exhibit their petitions in the
+ street?
+  He shows his reason for that: to have a dispatch
+ of complaints, and to deliver us from devices
+ hereafter, which shall then have no power to stand
+ against us.
+  Well, I beseech you let it be proclaimed.
+ Betimes i’ th’ morn, I’ll call you at your house. Give
+ notice to such men of sort and suit as are to meet
+ him.
+  I shall, sir. Fare you well.
+FTLN 2282
+FTLN 2283
+FTLN 2284
+FTLN 2285
+FTLN 2286
+190
+FTLN 2287
+FTLN 2288
+FTLN 2289
+FTLN 2290
+Scene 4
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+FTLN 2295
+5
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+FTLN 2300
+10
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+FTLN 2305
+15
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+FTLN 2310
+20
+
+--- PAGE 85 / 106 ---
+167
+Measure for Measure
+ACT 4. SC. 5
+ANGELO
+Escalus  exits.
+He exits.
+DUKE
+FRIAR PETER
+He exits.
+  Good night. 
+ This deed unshapes me quite, makes me unpregnant
+ And dull to all proceedings. A deflowered maid,
+ And by an eminent body that enforced
+ The law against it. But that her tender shame
+ Will not proclaim against her maiden loss,
+ How might she tongue me! Yet reason dares her no,
+ For my authority bears of a credent bulk
+ That no particular scandal once can touch
+ But it confounds the breather. He should have lived,
+ Save that his riotous youth with dangerous sense
+ Might in the times to come have ta’en revenge
+ By so receiving a dishonored life
+ With ransom of such shame. Would yet he had lived.
+ Alack, when once our grace we have forgot,
+ Nothing goes right. We would, and we would not.
+Enter Duke and Friar Peter.
+, giving the Friar papers.
+ 
+ These letters at fit time deliver me.
+ The Provost knows our purpose and our plot.
+ The matter being afoot, keep your instruction
+ And hold you ever to our special drift,
+ Though sometimes you do blench from this to that
+ As cause doth minister. Go call at Flavius’  house
+ And tell him where I stay. Give the like notice
+ To Valencius, Rowland, and to Crassus,
+ And bid them bring the trumpets to the gate.
+ But send me Flavius first.
+  It shall be speeded well. 
+Enter Varrius.
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+FTLN 2315
+25
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+FTLN 2320
+30
+FTLN 2321
+FTLN 2322
+FTLN 2323
+FTLN 2324
+FTLN 2325
+35
+FTLN 2326
+Scene 5
+FTLN 2327
+FTLN 2328
+FTLN 2329
+FTLN 2330
+FTLN 2331
+5
+FTLN 2332
+FTLN 2333
+FTLN 2334
+FTLN 2335
+FTLN 2336
+10
+FTLN 2337
+
+--- PAGE 86 / 106 ---
+169
+Measure for Measure
+ACT 4. SC. 6
+DUKE
+They exit.
+ISABELLA
+MARIANA
+ISABELLA
+MARIANA
+ISABELLA
+FRIAR PETER
+They exit.
+ 
+ I thank thee, Varrius. Thou hast made good haste.
+ Come, we will walk. There’s other of our friends
+ Will greet us here anon. My gentle Varrius.
+Enter Isabella and Mariana.
+ 
+ To speak so indirectly I am loath.
+ I would say the truth, but to accuse him so
+ That is your part; yet I am advised to do it,
+ He says, to veil full purpose.
+  
+ Be ruled by him.
+ 
+ Besides, he tells me that, if peradventure
+ He speak against me on the adverse side,
+ I should not think it strange, for ’tis a physic
+ That’s bitter to sweet end.
+ 
+ I would Friar Peter—
+Enter Friar  Peter.
+  
+ O peace, the Friar is come.
+ 
+ Come, I have found you out a stand most fit,
+ Where you may have such vantage on the Duke
+ He shall not pass you. Twice have the trumpets
+ sounded.
+ The generous and gravest citizens
+ Have hent the gates, and very near upon
+ The Duke is entering. Therefore hence, away.
+FTLN 2338
+FTLN 2339
+FTLN 2340
+Scene 6
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+FTLN 2345
+5
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+FTLN 2350
+10
+FTLN 2351
+FTLN 2352
+FTLN 2353
+FTLN 2354
+FTLN 2355
+15
+FTLN 2356
+FTLN 2357
+FTLN 2358
+
+--- PAGE 87 / 106 ---
+DUKE
+ANGELO, ESCALUS
+DUKE
+ANGELO
+DUKE
+Enter Duke, Varrius, Lords, Angelo, Escalus, Lucio,
+Provost, Officers, and  Citizens at several doors.
+, to Angelo
+ 
+ My very worthy cousin, fairly met.
+  To Escalus.  Our old and faithful friend, we are
+ glad to see you.
+ 
+ Happy return be to your royal Grace.
+ 
+ Many and hearty thankings to you both.
+ We have made inquiry of you, and we hear
+ Such goodness of your justice that our soul
+ Cannot but yield you forth to public thanks,
+ Forerunning more requital.
+  You make my bonds still greater.
+ 
+ O, your desert speaks loud, and I should wrong it
+ To lock it in the wards of covert bosom
+ When it deserves with characters of brass
+ A forted residence ’gainst the tooth of time
+ And razure of oblivion. Give me  your hand
+ And let the subject see, to make them know
+ That outward courtesies would fain proclaim
+ Favors that keep within.—Come, Escalus,
+173
+ACT 5
+Scene 1
+FTLN 2359
+FTLN 2360
+FTLN 2361
+FTLN 2362
+FTLN 2363
+5
+FTLN 2364
+FTLN 2365
+FTLN 2366
+FTLN 2367
+FTLN 2368
+10
+FTLN 2369
+FTLN 2370
+FTLN 2371
+FTLN 2372
+FTLN 2373
+15
+FTLN 2374
+FTLN 2375
+FTLN 2376
+
+--- PAGE 88 / 106 ---
+175
+Measure for Measure
+ACT 5. SC. 1
+FRIAR PETER
+ISABELLA
+DUKE
+ISABELLA
+ANGELO
+ISABELLA
+ANGELO
+ISABELLA
+ You must walk by us on our other hand.
+ And good supporters are you.
+Enter Friar  Peter and Isabella.
+, to Isabella
+ 
+ Now is your time. Speak loud, and kneel before him.
+, kneeling
+ 
+ Justice, O royal duke. Vail your regard
+ Upon a wronged—I would fain have said, a maid.
+ O worthy prince, dishonor not your eye
+ By throwing it on any other object
+ Till you have heard me in my true complaint
+ And given me justice, justice, justice, justice.
+ 
+ Relate your wrongs. In what, by whom? Be brief.
+ Here is Lord Angelo shall give you justice.
+ Reveal yourself to him.
+  
+ O worthy duke,
+ You bid me seek redemption of the devil.
+ Hear me yourself, for that which I must speak
+ Must either punish me, not being believed,
+ Or wring redress from you. Hear me, O hear me,
+ here.
+ 
+ My lord, her wits, I fear me, are not firm.
+ She hath been a suitor to me for her brother
+ Cut off by course of justice.
+, standing
+  
+ By course of justice!
+ 
+ And she will speak most bitterly and strange.
+ 
+ Most strange, but yet most truly will I speak.
+ That Angelo’s forsworn, is it not strange?
+ That Angelo’s a murderer, is ’t not strange?
+ That Angelo is an adulterous thief,
+FTLN 2377
+FTLN 2378
+20
+FTLN 2379
+FTLN 2380
+FTLN 2381
+FTLN 2382
+FTLN 2383
+25
+FTLN 2384
+FTLN 2385
+FTLN 2386
+FTLN 2387
+FTLN 2388
+30
+FTLN 2389
+FTLN 2390
+FTLN 2391
+FTLN 2392
+FTLN 2393
+35
+FTLN 2394
+FTLN 2395
+FTLN 2396
+FTLN 2397
+FTLN 2398
+40
+FTLN 2399
+FTLN 2400
+FTLN 2401
+FTLN 2402
+FTLN 2403
+45
+
+--- PAGE 89 / 106 ---
+177
+Measure for Measure
+ACT 5. SC. 1
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ An hypocrite, a virgin-violator,
+ Is it not strange, and strange?
+  Nay, it is ten times strange.
+ 
+ It is not truer he is Angelo
+ Than this is all as true as it is strange.
+ Nay, it is ten times true, for truth is truth
+ To th’ end of reck’ning.
+  
+ Away with her. Poor soul,
+ She speaks this in th’ infirmity of sense.
+ 
+ O prince, I conjure thee, as thou believest
+ There is another comfort than this world,
+ That thou neglect me not with that opinion
+ That I am touched with madness. Make not
+ impossible
+ That which but seems unlike. ’Tis not impossible
+ But one, the wicked’st caitiff on the ground,
+ May seem as shy, as grave, as just, as absolute
+ As Angelo. Even so may Angelo,
+ In all his dressings, caracts, titles, forms,
+ Be an archvillain. Believe it, royal prince,
+ If he be less, he’s nothing, but he’s more,
+ Had I more name for badness.
+  
+ By mine honesty,
+ If she be mad—as I believe no other—
+ Her madness hath the oddest frame of sense,
+ Such a dependency of thing on thing,
+ As e’er I heard in madness.
+  
+ O gracious duke,
+ Harp not on that; nor do not banish reason
+ For inequality, but let your reason serve
+ To make the truth appear where it seems hid,
+ And hide the false seems true.
+  Many that are not mad
+ Have, sure, more lack of reason. What would you
+ say?
+FTLN 2404
+FTLN 2405
+FTLN 2406
+FTLN 2407
+FTLN 2408
+50
+FTLN 2409
+FTLN 2410
+FTLN 2411
+FTLN 2412
+FTLN 2413
+55
+FTLN 2414
+FTLN 2415
+FTLN 2416
+FTLN 2417
+FTLN 2418
+60
+FTLN 2419
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+65
+FTLN 2424
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+70
+FTLN 2429
+FTLN 2430
+FTLN 2431
+FTLN 2432
+FTLN 2433
+75
+FTLN 2434
+FTLN 2435
+FTLN 2436
+FTLN 2437
+FTLN 2438
+80
+
+--- PAGE 90 / 106 ---
+179
+Measure for Measure
+ACT 5. SC. 1
+ISABELLA
+LUCIO
+ISABELLA
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+ISABELLA
+LUCIO
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+ 
+ I am the sister of one Claudio,
+ Condemned upon the act of fornication
+ To lose his head, condemned by Angelo.
+ I, in probation of a sisterhood,
+ Was sent to by my brother; one Lucio
+ As then the messenger—
+, to Duke
+  That’s I, an ’t like your Grace.
+ I came to her from Claudio and desired her
+ To try her gracious fortune with Lord Angelo
+ For her poor brother’s pardon.
+, to Duke
+  
+ That’s he indeed.
+, to Lucio
+ 
+ You were not bid to speak.
+  
+ No, my good lord,
+ Nor wished to hold my peace.
+  
+ I wish you now, then.
+ Pray you take note of it, and when you have
+ A business for yourself, pray heaven you then
+ Be perfect.
+  I warrant your Honor.
+ 
+ The warrant’s for yourself. Take heed to ’t.
+ 
+ This gentleman told somewhat of my tale.
+  Right.
+ 
+ It may be right, but you are i’ the wrong
+ To speak before your time.—Proceed.
+  
+ I went
+ To this pernicious caitiff deputy—
+ 
+ That’s somewhat madly spoken.
+  
+ Pardon it;
+ The phrase is to the matter.
+FTLN 2439
+FTLN 2440
+FTLN 2441
+FTLN 2442
+FTLN 2443
+85
+FTLN 2444
+FTLN 2445
+FTLN 2446
+FTLN 2447
+FTLN 2448
+90
+FTLN 2449
+FTLN 2450
+FTLN 2451
+FTLN 2452
+FTLN 2453
+95
+FTLN 2454
+FTLN 2455
+FTLN 2456
+FTLN 2457
+FTLN 2458
+100
+FTLN 2459
+FTLN 2460
+FTLN 2461
+FTLN 2462
+FTLN 2463
+105
+FTLN 2464
+FTLN 2465
+FTLN 2466
+FTLN 2467
+
+--- PAGE 91 / 106 ---
+181
+Measure for Measure
+ACT 5. SC. 1
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+ 
+ Mended again. The matter; proceed.
+ 
+ In brief, to set the needless process by:
+ How I persuaded, how I prayed and kneeled,
+ How he refelled me, and how I replied—
+ For this was of much length—the vile conclusion
+ I now begin with grief and shame to utter.
+ He would not, but by gift of my chaste body
+ To his concupiscible intemperate lust,
+ Release my brother; and after much debatement,
+ My sisterly remorse confutes mine honor,
+ And I did yield to him. But the next morn betimes,
+ His purpose surfeiting, he sends a warrant
+ For my poor brother’s head.
+  
+ This is most likely!
+ 
+ O, that it were as like as it is true!
+ 
+ By heaven, fond wretch, thou know’st not what
+ thou speak’st,
+ Or else thou art suborned against his honor
+ In hateful practice. First, his integrity
+ Stands without blemish; next, it imports no reason
+ That with such vehemency he should pursue
+ Faults proper to himself. If he had so offended,
+ He would have weighed thy brother by himself
+ And not have cut him off. Someone hath set you on.
+ Confess the truth, and say by whose advice
+ Thou cam’st here to complain.
+  
+ And is this all?
+ Then, O you blessèd ministers above,
+ Keep me in patience, and with ripened time
+ Unfold the evil which is here wrapped up
+ In countenance. Heaven shield your Grace from
+ woe,
+FTLN 2468
+110
+FTLN 2469
+FTLN 2470
+FTLN 2471
+FTLN 2472
+FTLN 2473
+115
+FTLN 2474
+FTLN 2475
+FTLN 2476
+FTLN 2477
+FTLN 2478
+120
+FTLN 2479
+FTLN 2480
+FTLN 2481
+FTLN 2482
+FTLN 2483
+125
+FTLN 2484
+FTLN 2485
+FTLN 2486
+FTLN 2487
+FTLN 2488
+130
+FTLN 2489
+FTLN 2490
+FTLN 2491
+FTLN 2492
+FTLN 2493
+135
+FTLN 2494
+FTLN 2495
+FTLN 2496
+FTLN 2497
+FTLN 2498
+140
+FTLN 2499
+
+--- PAGE 92 / 106 ---
+183
+Measure for Measure
+ACT 5. SC. 1
+DUKE
+An Officer comes forward.
+ISABELLA
+Officer exits with Isabella.
+DUKE
+LUCIO
+DUKE
+LUCIO
+FRIAR PETER
+DUKE
+FRIAR PETER
+ As I, thus wronged, hence unbelievèd go.
+ 
+ I know you’d fain be gone.—An officer!
+ To prison with her. Shall we thus permit
+ A blasting and a scandalous breath to fall
+ On him so near us? This needs must be a practice.—
+ Who knew of your intent and coming hither?
+ 
+ One that I would were here, Friar Lodowick.
+ 
+ A ghostly father, belike. Who knows that Lodowick?
+ 
+ My lord, I know him. ’Tis a meddling friar.
+ I do not like the man. Had he been lay, my lord,
+ For certain words he spake against your Grace
+ In your retirement, I had swinged him soundly.
+ 
+ Words against me? This’ a good friar, belike.
+ And to set on this wretched woman here
+ Against our substitute! Let this friar be found.
+ 
+ But yesternight, my lord, she and that friar,
+ I saw them at the prison. A saucy friar,
+ A very scurvy fellow.
+, to Duke
+  Blessed be your royal Grace.
+ I have stood by, my lord, and I have heard
+ Your royal ear abused. First hath this woman
+ Most wrongfully accused your substitute,
+ Who is as free from touch or soil with her
+ As she from one ungot.
+  We did believe no less.
+ Know you that Friar Lodowick that she speaks of?
+ 
+ I know him for a man divine and holy,
+FTLN 2500
+FTLN 2501
+FTLN 2502
+FTLN 2503
+145
+FTLN 2504
+FTLN 2505
+FTLN 2506
+FTLN 2507
+FTLN 2508
+150
+FTLN 2509
+FTLN 2510
+FTLN 2511
+FTLN 2512
+FTLN 2513
+155
+FTLN 2514
+FTLN 2515
+FTLN 2516
+FTLN 2517
+FTLN 2518
+160
+FTLN 2519
+FTLN 2520
+FTLN 2521
+FTLN 2522
+FTLN 2523
+165
+FTLN 2524
+FTLN 2525
+FTLN 2526
+
+--- PAGE 93 / 106 ---
+185
+Measure for Measure
+ACT 5. SC. 1
+LUCIO
+FRIAR PETER
+DUKE
+Duke and Angelo are seated.
+MARIANA
+DUKE
+MARIANA
+DUKE
+ Not scurvy, nor a temporary meddler,
+ As he’s reported by this gentleman;
+ And on my trust, a man that never yet
+ Did, as he vouches, misreport your Grace.
+ 
+ My lord, most villainously, believe it.
+ 
+ Well, he in time may come to clear himself;
+ But at this instant he is sick, my lord,
+ Of a strange fever. Upon his mere request,
+ Being come to knowledge that there was complaint
+ Intended ’gainst Lord Angelo, came I hither
+ To speak as from his mouth, what he doth know
+ Is true and false, and what he with his oath
+ And all probation will make up full clear
+ Whensoever he’s convented. First, for this woman,
+ To justify this worthy nobleman,
+ So vulgarly and personally accused,
+ Her shall you hear disprovèd to her eyes
+ Till she herself confess it.
+  Good friar, let’s hear it.—
+ Do you not smile at this, Lord Angelo?
+ O heaven, the vanity of wretched fools!—
+ Give us some seats.—Come, cousin Angelo,
+ In this I’ll be impartial. Be you judge
+ Of your own cause. 
+Enter Mariana, veiled.
+ Is this the witness, friar?
+ First, let her show her  face, and after speak.
+ 
+ Pardon, my lord, I will not show my face
+ Until my husband bid me.
+  
+ What, are you married?
+  No, my lord.
+  Are you a maid?
+FTLN 2527
+FTLN 2528
+170
+FTLN 2529
+FTLN 2530
+FTLN 2531
+FTLN 2532
+FTLN 2533
+175
+FTLN 2534
+FTLN 2535
+FTLN 2536
+FTLN 2537
+FTLN 2538
+180
+FTLN 2539
+FTLN 2540
+FTLN 2541
+FTLN 2542
+FTLN 2543
+185
+FTLN 2544
+FTLN 2545
+FTLN 2546
+FTLN 2547
+FTLN 2548
+190
+FTLN 2549
+FTLN 2550
+FTLN 2551
+FTLN 2552
+FTLN 2553
+195
+FTLN 2554
+FTLN 2555
+FTLN 2556
+FTLN 2557
+
+--- PAGE 94 / 106 ---
+187
+Measure for Measure
+ACT 5. SC. 1
+MARIANA
+DUKE
+MARIANA
+DUKE
+LUCIO
+DUKE
+LUCIO
+MARIANA
+LUCIO
+DUKE
+LUCIO
+DUKE
+MARIANA
+ANGELO
+MARIANA
+DUKE
+MARIANA
+ANGELO
+  No, my lord.
+  A widow, then?
+  Neither, my lord.
+  Why you are nothing, then, neither maid, widow,
+ nor wife?
+  My lord, she may be a punk, for many of them
+ are neither maid, widow, nor wife.
+  Silence that fellow. I would he had some cause
+ to prattle for himself.
+  Well, my lord.
+ 
+ My lord, I do confess I ne’er was married,
+ And I confess besides I am no maid.
+ I have known my husband, yet my husband
+ Knows not that ever he knew me.
+  He was drunk, then, my lord; it can be no better.
+  For the benefit of silence, would thou wert so
+ too.
+  Well, my lord.
+ 
+ This is no witness for Lord Angelo.
+  Now I come to ’t, my lord.
+ She that accuses him of fornication
+ In selfsame manner doth accuse my husband,
+ And charges him, my lord, with such a time
+ When, I’ll depose, I had him in mine arms
+ With all th’ effect of love.
+  Charges she more than me?
+  Not that I know.
+  No? You say your husband.
+ 
+ Why, just, my lord, and that is Angelo,
+ Who thinks he knows that he ne’er knew my body,
+ But knows, he thinks, that he knows Isabel’s.
+ 
+ This is a strange abuse. Let’s see thy face.
+FTLN 2558
+200
+FTLN 2559
+FTLN 2560
+FTLN 2561
+FTLN 2562
+FTLN 2563
+205
+FTLN 2564
+FTLN 2565
+FTLN 2566
+FTLN 2567
+FTLN 2568
+210
+FTLN 2569
+FTLN 2570
+FTLN 2571
+FTLN 2572
+FTLN 2573
+215
+FTLN 2574
+FTLN 2575
+FTLN 2576
+FTLN 2577
+FTLN 2578
+220
+FTLN 2579
+FTLN 2580
+FTLN 2581
+FTLN 2582
+FTLN 2583
+225
+FTLN 2584
+FTLN 2585
+FTLN 2586
+FTLN 2587
+FTLN 2588
+230
+FTLN 2589
+
+--- PAGE 95 / 106 ---
+189
+Measure for Measure
+ACT 5. SC. 1
+MARIANA
+She removes her veil.
+DUKE
+LUCIO
+DUKE
+LUCIO
+ANGELO
+MARIANA
+ 
+ My husband bids me. Now I will unmask.
+ This is that face, thou cruel Angelo,
+ Which once thou swor’st was worth the looking on.
+ This is the hand which, with a vowed contract,
+ Was fast belocked in thine. This is the body
+ That took away the match from Isabel
+ And did supply thee at thy garden house
+ In her imagined person.
+, to Angelo
+  Know you this woman?
+  Carnally, she says.
+  Sirrah, no more.
+  Enough, my lord.
+ 
+ My lord, I must confess I know this woman,
+ And five years since there was some speech of
+ marriage
+ Betwixt myself and her, which was broke off,
+ Partly for that her promisèd proportions
+ Came short of composition, but in chief
+ For that her reputation was disvalued
+ In levity. Since which time of five years
+ I never spake with her, saw her, nor heard from her,
+ Upon my faith and honor.
+, kneeling, to Duke
+   Noble prince,
+ As there comes light from heaven and words from
+ breath,
+ As there is sense in truth and truth in virtue,
+ I am affianced this man’s wife as strongly
+ As words could make up vows. And, my good lord,
+ But Tuesday night last gone in ’s garden house
+ He knew me as a wife. As this is true,
+ Let me in safety raise me from my knees,
+ Or else forever be confixèd here
+ A marble monument.
+FTLN 2590
+FTLN 2591
+FTLN 2592
+FTLN 2593
+235
+FTLN 2594
+FTLN 2595
+FTLN 2596
+FTLN 2597
+FTLN 2598
+240
+FTLN 2599
+FTLN 2600
+FTLN 2601
+FTLN 2602
+FTLN 2603
+245
+FTLN 2604
+FTLN 2605
+FTLN 2606
+FTLN 2607
+FTLN 2608
+250
+FTLN 2609
+FTLN 2610
+FTLN 2611
+FTLN 2612
+FTLN 2613
+255
+FTLN 2614
+FTLN 2615
+FTLN 2616
+FTLN 2617
+FTLN 2618
+260
+FTLN 2619
+FTLN 2620
+FTLN 2621
+FTLN 2622
+
+--- PAGE 96 / 106 ---
+191
+Measure for Measure
+ACT 5. SC. 1
+ANGELO
+DUKE
+The Duke rises. Escalus is seated.
+FRIAR PETER
+DUKE
+Provost exits.
+ESCALUS
+Duke  exits.
+  I did but smile till now.
+ Now, good my lord, give me the scope of justice.
+ My patience here is touched. I do perceive
+ These poor informal women are no more
+ But instruments of some more mightier member
+ That sets them on. Let me have way, my lord,
+ To find this practice out.
+  
+ Ay, with my heart,
+ And punish them to your height of pleasure.—
+ Thou foolish friar, and thou pernicious woman,
+ Compact with her that’s gone, think’st thou thy
+ oaths,
+ Though they would swear down each particular
+ saint,
+ Were testimonies against his worth and credit
+ That’s sealed in approbation?—You, Lord Escalus,
+ Sit with my cousin; lend him your kind pains
+ To find out this abuse, whence ’tis derived.
+ There is another friar that set them on.
+ Let him be sent for.
+ 
+ Would he were here, my lord, for he indeed
+ Hath set the women on to this complaint;
+ Your provost knows the place where he abides,
+ And he may fetch him.
+, to Provost
+  
+ Go, do it instantly.
+  To Angelo.  And you, my noble and well-warranted
+ cousin,
+ Whom it concerns to hear this matter forth,
+ Do with your injuries as seems you best
+ In any chastisement. I for a while
+ Will leave you; but stir not you till you have
+ Well determined upon these slanderers.
+  My lord, we’ll do it throughly. 
+FTLN 2623
+265
+FTLN 2624
+FTLN 2625
+FTLN 2626
+FTLN 2627
+FTLN 2628
+270
+FTLN 2629
+FTLN 2630
+FTLN 2631
+FTLN 2632
+FTLN 2633
+275
+FTLN 2634
+FTLN 2635
+FTLN 2636
+FTLN 2637
+FTLN 2638
+280
+FTLN 2639
+FTLN 2640
+FTLN 2641
+FTLN 2642
+FTLN 2643
+285
+FTLN 2644
+FTLN 2645
+FTLN 2646
+FTLN 2647
+FTLN 2648
+290
+FTLN 2649
+FTLN 2650
+FTLN 2651
+FTLN 2652
+FTLN 2653
+295
+FTLN 2654
+FTLN 2655
+
+--- PAGE 97 / 106 ---
+193
+Measure for Measure
+ACT 5. SC. 1
+LUCIO
+ESCALUS
+LUCIO
+ESCALUS
+An Attendant exits.
+LUCIO
+ESCALUS
+LUCIO
+ESCALUS
+LUCIO
+ESCALUS
+LUCIO
+ESCALUS
+LUCIO
+ESCALUS
+DUKE
+ESCALUS
+ Signior Lucio, did not you say you knew that Friar
+ Lodowick to be a dishonest person?
+  Cucullus non facit monachum, honest in nothing
+ but in his clothes, and one that hath spoke most
+ villainous speeches of the Duke.
+  We shall entreat you to abide here till he
+ come, and enforce them against him. We shall find
+ this friar a notable fellow.
+  As any in Vienna, on my word.
+  Call that same Isabel here once again. I would
+ speak with her. 
+  To Angelo.  Pray you, my lord, give me leave to
+ question. You shall see how I’ll handle her.
+  Not better than he, by her own report.
+  Say you?
+  Marry, sir, I think, if you handled her privately,
+ she would sooner confess; perchance publicly she’ll
+ be ashamed.
+  I will go darkly to work with her.
+  That’s the way, for women are light at midnight.
+Enter Duke as a Friar,  Provost, and  Isabella,
+with Officers.
+, to Isabella
+  Come on, mistress. Here’s a gentlewoman
+ denies all that you have said.
+  My lord, here comes the rascal I spoke of, here
+ with the Provost.
+  In very good time. Speak not you to him till
+ we call upon you.
+  Mum.
+, to disguised Duke
+  Come, sir, did you set
+ these women on to slander Lord Angelo? They have
+ confessed you did.
+, as Friar
+ 
+ ’Tis false.
+  
+ How? Know you where you are?
+FTLN 2656
+FTLN 2657
+FTLN 2658
+300
+FTLN 2659
+FTLN 2660
+FTLN 2661
+FTLN 2662
+FTLN 2663
+305
+FTLN 2664
+FTLN 2665
+FTLN 2666
+FTLN 2667
+FTLN 2668
+310
+FTLN 2669
+FTLN 2670
+FTLN 2671
+FTLN 2672
+FTLN 2673
+315
+FTLN 2674
+FTLN 2675
+FTLN 2676
+FTLN 2677
+FTLN 2678
+320
+FTLN 2679
+FTLN 2680
+FTLN 2681
+FTLN 2682
+FTLN 2683
+325
+FTLN 2684
+FTLN 2685
+FTLN 2686
+FTLN 2687
+
+--- PAGE 98 / 106 ---
+195
+Measure for Measure
+ACT 5. SC. 1
+DUKE
+ESCALUS
+DUKE
+LUCIO
+ESCALUS
+DUKE
+, as Friar
+ 
+ Respect to your great place, and let the devil
+ Be sometime honored for his burning throne.
+ Where is the Duke? ’Tis he should hear me speak.
+ 
+ The Duke’s in us, and we will hear you speak.
+ Look you speak justly.
+, as Friar
+ 
+ Boldly, at least.—But, O, poor souls,
+ Come you to seek the lamb here of the fox?
+ Good night to your redress. Is the Duke gone?
+ Then is your cause gone too. The Duke’s unjust
+ Thus to retort your manifest appeal,
+ And put your trial in the villain’s mouth
+ Which here you come to accuse.
+ 
+ This is the rascal; this is he I spoke of.
+, to disguised Duke
+ 
+ Why, thou unreverend and unhallowed friar,
+ Is ’t not enough thou hast suborned these women
+ To accuse this worthy man, but, in foul mouth
+ And in the witness of his proper ear,
+ To call him villain? And then to glance from him
+ To th’ Duke himself, to tax him with injustice?—
+ Take him hence. To th’ rack with him. We’ll touse
+ him
+ Joint by joint, but we will know his purpose.
+ What? “Unjust”?
+, as Friar
+   Be not so hot. The Duke
+ Dare no more stretch this finger of mine than he
+ Dare rack his own. His subject am I not,
+ Nor here provincial. My business in this state
+ Made me a looker-on here in Vienna,
+ Where I have seen corruption boil and bubble
+ Till it o’errun the stew. Laws for all faults,
+ But faults so countenanced that the strong statutes
+FTLN 2688
+330
+FTLN 2689
+FTLN 2690
+FTLN 2691
+FTLN 2692
+FTLN 2693
+335
+FTLN 2694
+FTLN 2695
+FTLN 2696
+FTLN 2697
+FTLN 2698
+340
+FTLN 2699
+FTLN 2700
+FTLN 2701
+FTLN 2702
+FTLN 2703
+345
+FTLN 2704
+FTLN 2705
+FTLN 2706
+FTLN 2707
+FTLN 2708
+350
+FTLN 2709
+FTLN 2710
+FTLN 2711
+FTLN 2712
+FTLN 2713
+355
+FTLN 2714
+FTLN 2715
+FTLN 2716
+FTLN 2717
+FTLN 2718
+360
+
+--- PAGE 99 / 106 ---
+197
+Measure for Measure
+ACT 5. SC. 1
+ESCALUS
+ANGELO
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+ANGELO
+ESCALUS
+Provost seizes the disguised Duke.
+DUKE
+ANGELO
+LUCIO
+ Stand like the forfeits in a barber’s shop,
+ As much in mock as mark.
+  
+ Slander to th’ state!
+ Away with him to prison.
+, to Lucio
+ 
+ What can you vouch against him, Signior Lucio?
+ Is this the man that you did tell us of?
+  ’Tis he, my lord.—Come hither, Goodman Baldpate.
+ Do you know me?
+, as Friar
+  I remember you, sir, by the sound of
+ your voice. I met you at the prison in the absence of
+ the Duke.
+  O, did you so? And do you remember what you
+ said of the Duke?
+, as Friar
+  Most notedly, sir.
+  Do you so, sir? And was the Duke a fleshmonger,
+ a fool, and a coward, as you then reported him to
+ be?
+, as Friar
+  You must, sir, change persons with me
+ ere you make that my report. You indeed spoke so
+ of him, and much more, much worse.
+  O, thou damnable fellow! Did not I pluck thee by
+ the nose for thy speeches?
+, as Friar
+  I protest I love the Duke as I love
+ myself.
+  Hark how the villain would close now, after
+ his treasonable abuses!
+  Such a fellow is not to be talked withal. Away
+ with him to prison. Where is the Provost?  Provost
+ comes forward.   Away with him to prison. Lay bolts
+ enough upon him. Let him speak no more. Away
+ with those giglets too, and with the other confederate
+ companion.
+, as Friar
+  Stay, sir, stay awhile.
+  What, resists he?—Help him, Lucio.
+, to the disguised Duke
+  Come, sir, come, sir,
+FTLN 2719
+FTLN 2720
+FTLN 2721
+FTLN 2722
+FTLN 2723
+365
+FTLN 2724
+FTLN 2725
+FTLN 2726
+FTLN 2727
+FTLN 2728
+370
+FTLN 2729
+FTLN 2730
+FTLN 2731
+FTLN 2732
+FTLN 2733
+375
+FTLN 2734
+FTLN 2735
+FTLN 2736
+FTLN 2737
+FTLN 2738
+380
+FTLN 2739
+FTLN 2740
+FTLN 2741
+FTLN 2742
+FTLN 2743
+385
+FTLN 2744
+FTLN 2745
+FTLN 2746
+FTLN 2747
+FTLN 2748
+390
+FTLN 2749
+FTLN 2750
+FTLN 2751
+FTLN 2752
+FTLN 2753
+395
+
+--- PAGE 100 / 106 ---
+199
+Measure for Measure
+ACT 5. SC. 1
+He pulls off the friar’s hood, and reveals the Duke.
+Angelo and Escalus stand.
+DUKE
+LUCIO
+DUKE
+ANGELO
+DUKE
+Mariana stands and comes forward.
+ANGELO
+DUKE
+ come, sir. Foh, sir! Why you bald-pated, lying rascal,
+ you must be hooded, must you? Show your knave’s
+ visage, with a pox to you! Show your sheep-biting
+ face, and be hanged an hour! Will ’t not off?
+ 
+ Thou art the first knave that e’er mad’st a duke.—
+ First, provost, let me bail these gentle three.
+  To Lucio.  Sneak not away, sir, for the friar and
+ you
+ Must have a word anon.—Lay hold on him.
+  This may prove worse than hanging.
+, to Escalus
+ 
+ What you have spoke I pardon. Sit you down.
+ We’ll borrow place of him.  To Angelo.  Sir, by your
+ leave.
+ Hast thou or word, or wit, or impudence
+ That yet can do thee office? If thou hast,
+ Rely upon it till my tale be heard,
+ And hold no longer out.
+  
+ O my dread lord,
+ I should be guiltier than my guiltiness
+ To think I can be undiscernible,
+ When I perceive your Grace, like power divine,
+ Hath looked upon my passes. Then, good prince,
+ No longer session hold upon my shame,
+ But let my trial be mine own confession.
+ Immediate sentence then and sequent death
+ Is all the grace I beg.
+  
+ Come hither, Mariana.
+  To Angelo.  Say, wast thou e’er contracted to this
+ woman?
+  I was, my lord.
+ 
+ Go take her hence and marry her instantly.
+FTLN 2754
+FTLN 2755
+FTLN 2756
+FTLN 2757
+FTLN 2758
+400
+FTLN 2759
+FTLN 2760
+FTLN 2761
+FTLN 2762
+FTLN 2763
+405
+FTLN 2764
+FTLN 2765
+FTLN 2766
+FTLN 2767
+FTLN 2768
+410
+FTLN 2769
+FTLN 2770
+FTLN 2771
+FTLN 2772
+FTLN 2773
+415
+FTLN 2774
+FTLN 2775
+FTLN 2776
+FTLN 2777
+FTLN 2778
+420
+FTLN 2779
+FTLN 2780
+FTLN 2781
+FTLN 2782
+FTLN 2783
+425
+FTLN 2784
+
+--- PAGE 101 / 106 ---
+201
+Measure for Measure
+ACT 5. SC. 1
+Angelo, Mariana, Friar Peter, and Provost  exit.
+ESCALUS
+DUKE
+ISABELLA
+DUKE
+ISABELLA
+DUKE
+  To Friar Peter.  Do you the office, friar, which
+ consummate,
+ Return him here again.—Go with him, provost.
+ 
+ My lord, I am more amazed at his dishonor
+ Than at the strangeness of it.
+  
+ Come hither, Isabel.
+ Your friar is now your prince. As I was then
+ Advertising and holy to your business,
+ Not changing heart with habit, I am still
+ Attorneyed at your service.
+  
+ O, give me pardon
+ That I, your vassal, have employed and pained
+ Your unknown sovereignty.
+  
+ You are pardoned,
+ Isabel.
+ And now, dear maid, be you as free to us.
+ Your brother’s death, I know, sits at your heart,
+ And you may marvel why I obscured myself,
+ Laboring to save his life, and would not rather
+ Make rash remonstrance of my hidden power
+ Than let him so be lost. O most kind maid,
+ It was the swift celerity of his death,
+ Which I did think with slower foot came on,
+ That brained my purpose. But peace be with him.
+ That life is better life past fearing death
+ Than that which lives to fear. Make it your comfort,
+ So happy is your brother.
+  
+ I do, my lord.
+Enter Angelo, Mariana,  Friar  Peter, and  Provost.
+ 
+ For this new-married man approaching here,
+ Whose salt imagination yet hath wronged
+ Your well-defended honor, you must pardon
+FTLN 2785
+FTLN 2786
+FTLN 2787
+FTLN 2788
+430
+FTLN 2789
+FTLN 2790
+FTLN 2791
+FTLN 2792
+FTLN 2793
+435
+FTLN 2794
+FTLN 2795
+FTLN 2796
+FTLN 2797
+FTLN 2798
+440
+FTLN 2799
+FTLN 2800
+FTLN 2801
+FTLN 2802
+FTLN 2803
+445
+FTLN 2804
+FTLN 2805
+FTLN 2806
+FTLN 2807
+FTLN 2808
+450
+FTLN 2809
+FTLN 2810
+FTLN 2811
+FTLN 2812
+FTLN 2813
+455
+FTLN 2814
+FTLN 2815
+
+--- PAGE 102 / 106 ---
+203
+Measure for Measure
+ACT 5. SC. 1
+MARIANA
+DUKE
+MARIANA
+DUKE
+MARIANA
+DUKE
+ For Mariana’s sake. But as he adjudged your
+ brother—
+ Being criminal in double violation
+ Of sacred chastity and of promise-breach
+ Thereon dependent for your brother’s life—
+ The very mercy of the law cries out
+ Most audible, even from his proper tongue,
+ “An Angelo for Claudio, death for death.”
+ Haste still pays haste, and leisure answers leisure;
+ Like doth quit like, and measure still for
+ measure.—
+ Then, Angelo, thy fault’s thus manifested,
+ Which, though thou wouldst deny, denies thee
+ vantage.
+ We do condemn thee to the very block
+ Where Claudio stooped to death, and with like
+ haste.—
+ Away with him.
+  
+ O my most gracious lord,
+ I hope you will not mock me with a husband.
+ 
+ It is your husband mocked you with a husband.
+ Consenting to the safeguard of your honor,
+ I thought your marriage fit. Else imputation,
+ For that he knew you, might reproach your life
+ And choke your good to come. For his possessions,
+ Although by confiscation  they are ours,
+ We do instate and widow you with all
+ To buy you a better husband.
+  
+ O my dear lord,
+ I crave no other nor no better man.
+ 
+ Never crave him. We are definitive.
+, kneeling
+ 
+ Gentle my liege—
+  
+ You do but lose your labor.—
+FTLN 2816
+FTLN 2817
+FTLN 2818
+460
+FTLN 2819
+FTLN 2820
+FTLN 2821
+FTLN 2822
+FTLN 2823
+465
+FTLN 2824
+FTLN 2825
+FTLN 2826
+FTLN 2827
+FTLN 2828
+470
+FTLN 2829
+FTLN 2830
+FTLN 2831
+FTLN 2832
+FTLN 2833
+475
+FTLN 2834
+FTLN 2835
+FTLN 2836
+FTLN 2837
+FTLN 2838
+480
+FTLN 2839
+FTLN 2840
+FTLN 2841
+FTLN 2842
+FTLN 2843
+485
+FTLN 2844
+FTLN 2845
+FTLN 2846
+FTLN 2847
+FTLN 2848
+490
+
+--- PAGE 103 / 106 ---
+205
+Measure for Measure
+ACT 5. SC. 1
+MARIANA
+DUKE
+MARIANA
+DUKE
+ISABELLA
+MARIANA
+DUKE
+They stand.
+ Away with him to death.  To Lucio.  Now, sir, to
+ you.
+ 
+ O, my good lord.—Sweet Isabel, take my part.
+ Lend me your knees, and all my life to come
+ I’ll lend you all my life to do you service.
+ 
+ Against all sense you do importune her.
+ Should she kneel down in mercy of this fact,
+ Her brother’s ghost his pavèd bed would break
+ And take her hence in horror.
+  
+ Isabel,
+ Sweet Isabel, do yet but kneel by me,
+ Hold up your hands, say nothing. I’ll speak all.
+ They say best men are molded out of faults,
+ And, for the most, become much more the better
+ For being a little bad. So may my husband.
+ O Isabel, will you not lend a knee?
+ 
+ He dies for Claudio’s death.
+, kneeling
+  
+ Most bounteous sir,
+ Look, if it please you, on this man condemned
+ As if my brother lived. I partly think
+ A due sincerity governed his deeds
+ Till he did look on me. Since it is so,
+ Let him not die. My brother had but justice,
+ In that he did the thing for which he died.
+ For Angelo,
+ His act did not o’ertake his bad intent,
+ And must be buried but as an intent
+ That perished by the way. Thoughts are no subjects,
+ Intents but merely thoughts.
+  
+ Merely, my lord.
+ 
+ Your suit’s unprofitable. Stand up, I say.
+ I have bethought me of another fault.—
+FTLN 2849
+FTLN 2850
+FTLN 2851
+FTLN 2852
+FTLN 2853
+495
+FTLN 2854
+FTLN 2855
+FTLN 2856
+FTLN 2857
+FTLN 2858
+500
+FTLN 2859
+FTLN 2860
+FTLN 2861
+FTLN 2862
+FTLN 2863
+505
+FTLN 2864
+FTLN 2865
+FTLN 2866
+FTLN 2867
+FTLN 2868
+510
+FTLN 2869
+FTLN 2870
+FTLN 2871
+FTLN 2872
+FTLN 2873
+515
+FTLN 2874
+FTLN 2875
+FTLN 2876
+FTLN 2877
+FTLN 2878
+520
+FTLN 2879
+FTLN 2880
+
+--- PAGE 104 / 106 ---
+207
+Measure for Measure
+ACT 5. SC. 1
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+PROVOST
+DUKE
+Provost exits.
+ESCALUS
+ANGELO
+DUKE
+ Provost, how came it Claudio was beheaded
+ At an unusual hour?
+  
+ It was commanded so.
+ 
+ Had you a special warrant for the deed?
+ 
+ No, my good lord, it was by private message.
+ 
+ For which I do discharge you of your office.
+ Give up your keys.
+  
+ Pardon me, noble lord.
+ I thought it was a fault, but knew it not,
+ Yet did repent me after more advice,
+ For testimony whereof, one in the prison
+ That should by private order else have died,
+ I have reserved alive.
+  What’s he?
+  His name is Barnardine.
+ 
+ I would thou hadst done so by Claudio.
+ Go fetch him hither. Let me look upon him.
+, to Angelo
+ 
+ I am sorry one so learnèd and so wise
+ As you, Lord Angelo, have still appeared,
+ Should slip so grossly, both in the heat of blood
+ And lack of tempered judgment afterward.
+ 
+ I am sorry that such sorrow I procure;
+ And so deep sticks it in my penitent heart
+ That I crave death more willingly than mercy.
+ ’Tis my deserving, and I do entreat it.
+Enter Barnardine and Provost, Claudio, muffled,
+and  Juliet.
+, to Provost
+ 
+ Which is that Barnardine?
+FTLN 2881
+FTLN 2882
+FTLN 2883
+525
+FTLN 2884
+FTLN 2885
+FTLN 2886
+FTLN 2887
+FTLN 2888
+530
+FTLN 2889
+FTLN 2890
+FTLN 2891
+FTLN 2892
+FTLN 2893
+535
+FTLN 2894
+FTLN 2895
+FTLN 2896
+FTLN 2897
+FTLN 2898
+540
+FTLN 2899
+FTLN 2900
+FTLN 2901
+FTLN 2902
+FTLN 2903
+545
+FTLN 2904
+FTLN 2905
+FTLN 2906
+
+--- PAGE 105 / 106 ---
+209
+Measure for Measure
+ACT 5. SC. 1
+PROVOST
+DUKE
+PROVOST
+He unmuffles Claudio.
+DUKE
+LUCIO
+  
+ This, my lord.
+ 
+ There was a friar told me of this man.—
+ Sirrah, thou art said to have a stubborn soul
+ That apprehends no further than this world,
+ And squar’st thy life according. Thou ’rt condemned.
+ But, for those earthly faults, I quit them all,
+ And pray thee take this mercy to provide
+ For better times to come.—Friar, advise him.
+ I leave him to your hand.—What muffled fellow’s
+ that?
+ 
+ This is another prisoner that I saved
+ Who should have died when Claudio lost his head,
+ As like almost to Claudio as himself.
+, to Isabella
+ 
+ If he be like your brother, for his sake
+ Is he pardoned; and for your lovely sake,
+ Give me your hand and say you will be mine,
+ He is my brother too. But fitter time for that.
+ By this Lord Angelo perceives he’s safe;
+ Methinks I see a quick’ning in his eye.—
+ Well, Angelo, your evil quits you well.
+ Look that you love your wife, her worth worth
+ yours.
+ I find an apt remission in myself.
+ And yet here’s one in place I cannot pardon.
+  To Lucio.  You, sirrah, that knew me for a fool, a
+ coward,
+ One all of luxury, an ass, a madman.
+ Wherein have I so deserved of you
+ That you extol me thus?
+  Faith, my lord, I spoke it but according to the
+ trick. If you will hang me for it, you may, but I had
+ rather it would please you I might be whipped.
+FTLN 2907
+FTLN 2908
+550
+FTLN 2909
+FTLN 2910
+FTLN 2911
+FTLN 2912
+FTLN 2913
+555
+FTLN 2914
+FTLN 2915
+FTLN 2916
+FTLN 2917
+FTLN 2918
+560
+FTLN 2919
+FTLN 2920
+FTLN 2921
+FTLN 2922
+FTLN 2923
+565
+FTLN 2924
+FTLN 2925
+FTLN 2926
+FTLN 2927
+FTLN 2928
+570
+FTLN 2929
+FTLN 2930
+FTLN 2931
+FTLN 2932
+FTLN 2933
+575
+FTLN 2934
+FTLN 2935
+FTLN 2936
+FTLN 2937
+FTLN 2938
+580
+
+--- PAGE 106 / 106 ---
+211
+Measure for Measure
+ACT 5. SC. 1
+DUKE
+LUCIO
+DUKE
+LUCIO
+DUKE
+Officers take Lucio away.
+They exit.
+  Whipped first, sir, and hanged after.—
+ Proclaim it, provost, round about the city,
+ If any woman wronged by this lewd fellow—
+ As I have heard him swear himself there’s one
+ Whom he begot with child—let her appear,
+ And he shall marry her. The nuptial finished,
+ Let him be whipped and hanged.
+  I beseech your Highness do not marry me to a
+ whore. Your Highness said even now I made you a
+ duke. Good my lord, do not recompense me in
+ making me a cuckold.
+ 
+ Upon mine honor, thou shalt marry her.
+ Thy slanders I forgive and therewithal
+ Remit thy other forfeits.—Take him to prison,
+ And see our pleasure herein executed.
+  Marrying a punk, my lord, is pressing to death,
+ whipping, and hanging.
+  Slandering a prince deserves it.
+ She, Claudio, that you wronged, look you restore.—
+ Joy to you, Mariana.—Love her, Angelo.
+ I have confessed her, and I know her virtue.—
+ Thanks, good friend Escalus, for thy much goodness.
+ There’s more behind that is more gratulate.—
+ Thanks, provost, for thy care and secrecy.
+ We shall employ thee in a worthier place.—
+ Forgive him, Angelo, that brought you home
+ The head of Ragozine for Claudio’s.
+ Th’ offense pardons itself.—Dear Isabel,
+ I have a motion much imports your good,
+ Whereto if you’ll a willing ear incline,
+ What’s mine is yours, and what is yours is mine.—
+ So, bring us to our palace, where we’ll show
+ What’s yet behind that’s  meet you all should know.
+FTLN 2939
+FTLN 2940
+FTLN 2941
+FTLN 2942
+FTLN 2943
+585
+FTLN 2944
+FTLN 2945
+FTLN 2946
+FTLN 2947
+FTLN 2948
+590
+FTLN 2949
+FTLN 2950
+FTLN 2951
+FTLN 2952
+FTLN 2953
+595
+FTLN 2954
+FTLN 2955
+FTLN 2956
+FTLN 2957
+FTLN 2958
+600
+FTLN 2959
+FTLN 2960
+FTLN 2961
+FTLN 2962
+FTLN 2963
+605
+FTLN 2964
+FTLN 2965
+FTLN 2966
+FTLN 2967
+FTLN 2968
+610
+FTLN 2969
+FTLN 2970
+FTLN 2971
+

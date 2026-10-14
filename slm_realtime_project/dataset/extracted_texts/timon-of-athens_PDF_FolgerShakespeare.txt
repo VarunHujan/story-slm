@@ -1,0 +1,7669 @@
+=== BOOK TITLE: timon-of-athens_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 95 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 95 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+ACT 2
+Scene 1
+Scene 2
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Contents
+
+--- PAGE 3 / 95 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 95 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 95 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 95 ---
+In Timon of Athens, Lord Timon discovers the limits of wealth and
+friendship. He spends freely on others and hosts banquets for many
+guests. Despite his servants’ warnings, he spends so excessively that
+his money runs out—and the philosopher Apemantus condemns his
+flatterers as insincere.
+Soon Timon’s creditors begin to call in their loans. Timon expects
+help from his friends, but they all refuse him money. Furious, he
+invites them again to a banquet, but serves only water and stones
+before he dismisses them, cursing Athens. He exiles himself to a
+wilderness.
+There the embittered Timon finds gold. He gives some to enemies of
+Athens and to prostitutes and bandits. When senators beg him to
+return to Athens as a military leader to save the city from his
+banished friend Alcibiades, he refuses and retreats to a cave to die.
+Alcibiades defeats Athens but promises to protect the city and its
+citizens. Learning of the despairing inscription on Timon’s
+tombstone, he repeats his offer of bringing peace to the city.
+Synopsis
+
+--- PAGE 7 / 95 ---
+TIMON, a noble Athenian
+FLAVIUS, his steward
+Other SERVANTS of Timon
+APEMANTUS, a Cynic philosopher
+ALCIBIADES, an Athenian Captain
+SOLDIER of Alcibiades
+SENATORS and LORDS of Athens
+Other FRIENDS of Timon
+A POET
+A PAINTER
+A JEWELER
+A MERCHANT
+An OLD ATHENIAN
+FOOL
+PAGE
+Three STRANGERS, one called HOSTILIUS
+BANDITTI, theives
+“Cupid” and other Maskers (as Amazons)
+Soldiers, Servants, Messengers, Attendants, Musicians
+Characters in the Play
+servants of Timon
+LUCILIUS
+FLAMINIUS
+SERVILIUS
+his concubines
+PHRYNIA
+TIMANDRA
+friends of Timon
+LUCIUS
+LUCULLUS
+SEMPRONIUS
+VENTIDIUS
+servants of Timon’s creditors
+CAPHIS, servant to a Senator
+ISIDORE’S MAN
+VARRO’S two MEN
+TITUS
+LUCIUS’ MAN
+HORTENSIUS
+PHILOTUS
+
+--- PAGE 8 / 95 ---
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+MERCHANT
+JEWELER
+MERCHANT
+JEWELER
+MERCHANT
+Enter Poet, Painter, Jeweler, and  Merchant, at several
+doors.
+  Good day, sir.
+  I am glad you’re well.
+ 
+ I have not seen you long. How goes the world?
+ 
+ It wears, sir, as it grows.
+  
+ Ay, that’s well known.
+ But what particular rarity, what strange,
+ Which manifold record not matches? See,
+ Magic of bounty, all these spirits thy power
+ Hath conjured to attend. I know the merchant.
+  I know them both. Th’ other’s a jeweler.
+, to Jeweler
+ 
+ O, ’tis a worthy lord!
+  
+ Nay, that’s most fixed.
+ 
+ A most incomparable man, breathed, as it were,
+ To an untirable and continuate goodness.
+ He passes.
+  I have a jewel here—
+ 
+ O, pray, let’s see ’t. For the Lord Timon, sir?
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+
+--- PAGE 9 / 95 ---
+9
+Timon of Athens
+ACT 1. SC. 1
+JEWELER
+POET
+MERCHANT
+JEWELER
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+ 
+ If he will touch the estimate. But for that—
+, to Painter
+ 
+ When we for recompense have praised the vile,
+ It stains the glory in that happy verse
+ Which aptly sings the good.
+, looking at the jewel
+ 
+ ’Tis a good form.
+  
+ And rich. Here is a water, look ye.
+, to Poet
+ 
+ You are rapt, sir, in some work, some dedication
+ To the great lord.
+  
+ A thing slipped idly from me.
+ Our poesy is as a gum  which oozes
+ From whence ’tis nourished. The fire i’ th’ flint
+ Shows not till it be struck; our gentle flame
+ Provokes itself and, like the current, flies
+ Each bound it chases. What have you there?
+ 
+ A picture, sir. When comes your book forth?
+ 
+ Upon the heels of my presentment, sir.
+ Let’s see your piece.
+  ’Tis a good piece.
+ 
+ So ’tis. This comes off well and excellent.
+ 
+ Indifferent.
+  
+ Admirable! How this grace
+ Speaks his own standing! What a mental power
+ This eye shoots forth! How big imagination
+ Moves in this lip! To th’ dumbness of the gesture
+ One might interpret.
+ 
+ It is a pretty mocking of the life.
+ Here is a touch. Is ’t good?
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+
+--- PAGE 10 / 95 ---
+11
+Timon of Athens
+ACT 1. SC. 1
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+  
+ I will say of it,
+ It tutors nature. Artificial strife
+ Lives in these touches livelier than life.
+Enter certain Senators.
+  How this lord is followed.
+ 
+ The senators of Athens, happy men.
+  Look, more.
+ 
+ You see this confluence, this great flood of visitors.
+  ( Indicating his poem. ) I have in this rough work
+ shaped out a man
+ Whom this beneath world doth embrace and hug
+ With amplest entertainment. My free drift
+ Halts not particularly but moves itself
+ In a wide sea of wax. No leveled malice
+ Infects one comma in the course I hold,
+ But flies an eagle flight, bold and forth on,
+ Leaving no tract behind.
+  How shall I understand you?
+  I will unbolt to you.
+ You see how all conditions, how all minds,
+ As well of glib and slipp’ry creatures as
+ Of grave and austere quality, tender down
+ Their services to Lord Timon. His large fortune,
+ Upon his good and gracious nature hanging,
+ Subdues and properties to his love and tendance
+ All sorts of hearts—yea, from the glass-faced flatterer
+ To Apemantus, that few things loves better
+ Than to abhor himself; even he drops down
+ The knee before him and returns in peace
+ Most rich in Timon’s nod.
+  I saw them speak together.
+ 
+ Sir, I have upon a high and pleasant hill
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+
+--- PAGE 11 / 95 ---
+13
+Timon of Athens
+ACT 1. SC. 1
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+ Feigned Fortune to be throned. The base o’ th’ mount
+ Is ranked with all deserts, all kind of natures
+ That labor on the bosom of this sphere
+ To propagate their states. Amongst them all
+ Whose eyes are on this sovereign lady fixed,
+ One do I personate of Lord Timon’s frame,
+ Whom Fortune with her ivory hand wafts to her,
+ Whose present grace to present slaves and servants
+ Translates his rivals.
+  
+ ’Tis conceived to scope.
+ This throne, this Fortune, and this hill, methinks,
+ With one man beckoned from the rest below,
+ Bowing his head against the steepy mount
+ To climb his happiness, would be well expressed
+ In our condition.
+  
+ Nay, sir, but hear me on.
+ All those which were his fellows but of late,
+ Some better than his value, on the moment
+ Follow his strides, his lobbies fill with tendance,
+ Rain sacrificial whisperings in his ear,
+ Make sacred even his stirrup, and through him
+ Drink the free air.
+  
+ Ay, marry, what of these?
+ 
+ When Fortune in her shift and change of mood
+ Spurns down her late beloved, all his dependants,
+ Which labored after him to the mountain’s top
+ Even on their knees and hands,  let him slip  down,
+ Not one accompanying his declining foot.
+  ’Tis common.
+ A thousand moral paintings I can show
+ That shall demonstrate these quick blows of
+ Fortune’s
+ More pregnantly than words. Yet you do well
+ To show Lord Timon that mean eyes have seen
+ The foot above the head.
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+
+--- PAGE 12 / 95 ---
+15
+Timon of Athens
+ACT 1. SC. 1
+TIMON
+MESSENGER
+TIMON
+MESSENGER
+TIMON
+MESSENGER
+He exits.
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+Trumpets sound. Enter Lord Timon, addressing himself
+courteously to every suitor. He is accompanied by a
+Messenger and followed by Lucilius and other
+Servants.
+  Imprisoned is he, say you?
+ 
+ Ay, my good lord. Five talents is his debt,
+ His means most short, his creditors most strait.
+ Your honorable letter he desires
+ To those have shut him up, which failing
+ Periods his comfort.
+  
+ Noble Ventidius. Well,
+ I am not of that feather to shake off
+ My friend when he must need me. I do know him
+ A gentleman that well deserves a help,
+ Which he shall have. I’ll pay the debt and free him.
+  Your Lordship ever binds him.
+ 
+ Commend me to him. I will send his ransom;
+ And, being enfranchised, bid him come to me.
+ ’Tis not enough to help the feeble up,
+ But to support him after. Fare you well.
+  All happiness to your Honor. 
+Enter an old Athenian.
+ 
+ Lord Timon, hear me speak.
+  
+ Freely, good father.
+ 
+ Thou hast a servant named Lucilius.
+  I have so. What of him?
+ 
+ Most noble Timon, call the man before thee.
+ 
+ Attends he here or no?—Lucilius!
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+
+--- PAGE 13 / 95 ---
+17
+Timon of Athens
+ACT 1. SC. 1
+LUCILIUS
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+LUCILIUS
+OLD MAN
+TIMON
+  Here, at your Lordship’s service.
+ 
+ This fellow here, Lord Timon, this thy creature,
+ By night frequents my house. I am a man
+ That from my first have been inclined to thrift,
+ And my estate deserves an heir more raised
+ Than one which holds a trencher.
+  
+ Well. What further?
+ 
+ One only daughter have I, no kin else
+ On whom I may confer what I have got.
+ The maid is fair, o’ th’ youngest for a bride,
+ And I have bred her at my dearest cost
+ In qualities of the best. This man of thine
+ Attempts her love. I prithee, noble lord,
+ Join with me to forbid him her resort.
+ Myself have spoke in vain.
+  The man is honest.
+  Therefore he will be, Timon.
+ His honesty rewards him in itself;
+ It must not bear my daughter.
+  Does she love him?
+  She is young and apt.
+ Our own precedent passions do instruct us
+ What levity’s in youth.
+, to Lucilius
+  
+ Love you the maid?
+ 
+ Ay, my good lord, and she accepts of it.
+ 
+ If in her marriage my consent be missing—
+ I call the gods to witness—I will choose
+ Mine heir from forth the beggars of the world
+ And dispossess her all.
+  How shall she be endowed
+ If she be mated with an equal husband?
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+
+--- PAGE 14 / 95 ---
+19
+Timon of Athens
+ACT 1. SC. 1
+OLD MAN
+TIMON
+OLD MAN
+TIMON
+LUCILIUS
+He exits with the old Athenian.
+POET
+TIMON
+PAINTER
+TIMON
+PAINTER
+TIMON
+ 
+ Three talents on the present; in future, all.
+ 
+ This gentleman of mine hath served me long.
+ To build his fortune, I will strain a little,
+ For ’tis a bond in men. Give him thy daughter.
+ What you bestow, in him I’ll counterpoise,
+ And make him weigh with her.
+  
+ Most noble lord,
+ Pawn me to this your honor, she is his.
+ 
+ My hand to thee; mine honor on my promise.
+ 
+ Humbly I thank your Lordship. Never may
+ That state or fortune fall into my keeping
+ Which is not owed to you.
+, presenting his poem to Timon
+ 
+ Vouchsafe my labor, and long live your Lordship.
+ 
+ I thank you. You shall hear from me anon.
+ Go not away.—What have you there, my friend?
+ 
+ A piece of painting which I do beseech
+ Your Lordship to accept.
+  
+ Painting is welcome.
+ The painting is almost the natural man,
+ For, since dishonor traffics with man’s nature,
+ He is but outside; these penciled figures are
+ Even such as they give out. I like your work,
+ And you shall find I like it. Wait attendance
+ Till you hear further from me.
+  
+ The gods preserve you.
+ 
+ Well fare you, gentleman. Give me your hand.
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+190
+
+--- PAGE 15 / 95 ---
+21
+Timon of Athens
+ACT 1. SC. 1
+JEWELER
+TIMON
+JEWELER
+TIMON
+MERCHANT
+TIMON
+JEWELER
+MERCHANT
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+JEWELER
+APEMANTUS
+TIMON
+ We must needs dine together.—Sir, your jewel
+ Hath suffered under praise.
+  
+ What, my lord? Dispraise?
+ 
+ A mere satiety of commendations.
+ If I should pay you for ’t as ’tis extolled,
+ It would unclew me quite.
+  
+ My lord, ’tis rated
+ As those which sell would give. But you well know
+ Things of like value, differing in the owners,
+ Are prizèd by their masters. Believe ’t, dear lord,
+ You mend the jewel by the wearing it.
+  Well mocked.
+ 
+ No, my good lord. He speaks the common tongue,
+ Which all men speak with him.
+Enter Apemantus.
+  Look who comes here. Will you be chid?
+  We’ll bear, with your Lordship.
+  He’ll spare none.
+ 
+ Good morrow to thee, gentle Apemantus.
+ 
+ Till I be gentle, stay thou for thy good morrow—
+ When thou art Timon’s dog, and these knaves honest.
+ 
+ Why dost thou call them knaves? Thou know’st
+ them not.
+  Are they not Athenians?
+  Yes.
+  Then I repent not.
+  You know me, Apemantus?
+  Thou know’st I do. I called thee by thy
+ name.
+  Thou art proud, Apemantus.
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+195
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+
+--- PAGE 16 / 95 ---
+23
+Timon of Athens
+ACT 1. SC. 1
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+PAINTER
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+POET
+APEMANTUS
+POET
+APEMANTUS
+POET
+APEMANTUS
+POET
+APEMANTUS
+  Of nothing so much as that I am not like
+ Timon.
+  Whither art going?
+  To knock out an honest Athenian’s brains.
+  That’s a deed thou ’lt die for.
+  Right, if doing nothing be death by th’ law.
+  How lik’st thou this picture, Apemantus?
+  The best, for the innocence.
+  Wrought he not well that painted it?
+  He wrought better that made the painter,
+ and yet he’s but a filthy piece of work.
+  You’re a dog.
+  Thy mother’s of my generation. What’s
+ she, if I be a dog?
+  Wilt dine with me, Apemantus?
+  No. I eat not lords.
+  An thou shouldst, thou ’dst anger ladies.
+  O, they eat lords. So they come by great
+ bellies.
+  That’s a lascivious apprehension.
+  So thou apprehend’st it. Take it for thy
+ labor.
+  How dost thou like this jewel, Apemantus?
+  Not so well as plain-dealing, which will
+ not cost  a man a doit.
+  What dost thou think ’tis worth?
+  Not worth my thinking.—How now, poet?
+  How now, philosopher?
+  Thou liest.
+  Art not one?
+  Yes.
+  Then I lie not.
+  Art not a poet?
+  Yes.
+  Then thou liest. Look in thy last work,
+ where thou hast feigned him a worthy fellow.
+FTLN 0220
+220
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+230
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+245
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+250
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+255
+
+--- PAGE 17 / 95 ---
+25
+Timon of Athens
+ACT 1. SC. 1
+POET
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+MERCHANT
+APEMANTUS
+MERCHANT
+APEMANTUS
+TIMON
+MESSENGER
+TIMON
+Some Servants exit with Messenger.
+They bow to each other.
+APEMANTUS
+  That’s not feigned. He is so.
+  Yes, he is worthy of thee, and to pay thee
+ for thy labor. He that loves to be flattered is worthy
+ o’ th’ flatterer. Heavens, that I were a lord!
+  What wouldst do then, Apemantus?
+  E’en as Apemantus does now—hate a lord
+ with my heart.
+  What? Thyself?
+  Ay.
+  Wherefore?
+  That I had no angry wit to be a lord.—Art
+ not thou a merchant?
+  Ay, Apemantus.
+  Traffic confound thee, if the gods will not.
+  If traffic do it, the gods do it.
+  Traffic’s thy god, and thy god confound
+ thee!
+Trumpet sounds. Enter a Messenger.
+  What trumpet’s that?
+ 
+ ’Tis Alcibiades and some twenty horse,
+ All of companionship.
+ 
+ Pray, entertain them. Give them guide to us.
+ You must needs dine with me. Go not you hence
+ Till I have thanked you.—When dinner’s done
+ Show me this piece.—I am joyful of your sights.
+Enter Alcibiades with the rest.
+ Most welcome, sir. 
+, apart
+  So, so, there!
+ Aches contract and starve your supple joints!
+ That there should be small love amongst these sweet
+ knaves,
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+260
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+265
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+270
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+275
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+280
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+
+--- PAGE 18 / 95 ---
+27
+Timon of Athens
+ACT 1. SC. 1
+ALCIBIADES
+TIMON
+All but Apemantus  exit.
+FIRST LORD
+APEMANTUS
+FIRST LORD
+APEMANTUS
+SECOND LORD
+APEMANTUS
+SECOND LORD
+APEMANTUS
+SECOND LORD
+APEMANTUS
+FIRST LORD
+APEMANTUS
+SECOND LORD
+APEMANTUS
+He exits.
+FIRST LORD
+ And all this courtesy! The strain of man’s bred out
+ Into baboon and monkey.
+, to Timon
+ 
+ Sir, you have saved my longing, and I feed
+ Most hungerly on your sight.
+  
+ Right welcome, sir.
+ Ere we depart, we’ll share a bounteous time
+ In different pleasures. Pray you, let us in.
+Enter two Lords.
+  What time o’ day is ’t, Apemantus?
+  Time to be honest.
+  That time serves still.
+ 
+ The most accursèd thou, that still omit’st it.
+  Thou art going to Lord Timon’s feast?
+ 
+ Ay, to see meat fill knaves, and wine heat fools.
+  Fare thee well, fare thee well.
+ 
+ Thou art a fool to bid me farewell twice.
+  Why, Apemantus?
+ 
+ Shouldst have kept one to thyself, for I mean to give
+ thee none.
+  Hang thyself.
+ 
+ No, I will do nothing at thy bidding.
+ Make thy requests to thy friend.
+ 
+ Away, unpeaceable dog, or I’ll spurn thee hence.
+  I will fly, like a dog, the heels o’ th’ ass.
+ 
+ He’s opposite to humanity. Come,  shall we in
+FTLN 0285
+285
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+FTLN 0290
+290
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+295
+FTLN 0296
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+300
+FTLN 0301
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+305
+FTLN 0306
+FTLN 0307
+FTLN 0308
+
+--- PAGE 19 / 95 ---
+29
+Timon of Athens
+ACT 1. SC. 2
+SECOND LORD
+FIRST LORD
+SECOND LORD
+They exit.
+VENTIDIUS
+He offers a purse.
+TIMON
+ And taste Lord Timon’s bounty? He outgoes
+ The very heart of kindness.
+ 
+ He pours it out. Plutus, the god of gold,
+ Is but his steward. No meed but he repays
+ Sevenfold above itself. No gift to him
+ But breeds the giver a return exceeding
+ All use of quittance.
+  
+ The noblest mind he carries
+ That ever governed man.
+ 
+ Long may he live in fortunes. Shall we in?
+ I’ll keep you company.
+Hautboys playing loud music. A great banquet served
+in, and then enter Lord Timon, the States, the Athenian
+Lords (including Lucius), Alcibiades, and  Ventidius
+(which Timon redeemed from prison). Flavius and others
+are in attendance.  Then comes dropping after all
+Apemantus discontentedly like himself.
+  Most honored Timon,
+ It hath pleased the gods to remember my father’s age
+ And call him to long peace.
+ He is gone happy and has left me rich.
+ Then, as in grateful virtue I am bound
+ To your free heart, I do return those talents,
+ Doubled with thanks and service, from whose help
+ I derived liberty. 
+  
+ O, by no means,
+ Honest Ventidius. You mistake my love.
+ I gave it freely ever, and there’s none
+ Can truly say he gives if he receives.
+FTLN 0309
+FTLN 0310
+310
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+315
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+Scene 2
+FTLN 0320
+FTLN 0321
+FTLN 0322
+FTLN 0323
+FTLN 0324
+5
+FTLN 0325
+FTLN 0326
+FTLN 0327
+FTLN 0328
+FTLN 0329
+10
+FTLN 0330
+FTLN 0331
+
+--- PAGE 20 / 95 ---
+31
+Timon of Athens
+ACT 1. SC. 2
+VENTIDIUS
+TIMON
+They sit.
+FIRST LORD
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+ If our betters play at that game, we must not dare
+ To imitate them. Faults that are rich are fair.
+  A noble spirit!
+ 
+ Nay, my lords, ceremony was but devised at first
+ To set a gloss on faint deeds, hollow welcomes,
+ Recanting goodness, sorry ere ’tis shown;
+ But where there is true friendship, there needs none.
+ Pray, sit. More welcome are you to my fortunes
+ Than my fortunes to me. 
+  My lord, we always have confessed it.
+ 
+ Ho, ho, “confessed it”? Hanged it, have you not?
+  O Apemantus, you are welcome.
+  No, you shall not make me welcome.
+ I come to have thee thrust me out of doors.
+ 
+ Fie, thou ’rt a churl. You’ve got a humor there
+ Does not become a man. ’Tis much to blame.—
+ They say, my lords, Ira furor brevis est, but yond
+ man is ever  angry. Go, let him have a table by
+ himself, for he does neither affect company, nor is
+ he fit for ’t indeed.
+  Let me stay at thine apperil, Timon. I
+ come to observe; I give thee warning on ’t.
+  I take no heed of thee. Thou ’rt an Athenian,
+ therefore welcome. I myself would have no power;
+ prithee, let my meat make thee silent.
+  I scorn thy meat. ’Twould choke me, for I
+ should ne’er flatter thee.  ( Apart. ) O you gods,
+ what a number of men eats Timon, and he sees ’em
+ not! It grieves me to see so many dip their meat in
+ one man’s blood; and all the madness is, he cheers
+ them up too.
+ I wonder men dare trust themselves with men.
+ Methinks they should invite them without knives.
+FTLN 0332
+FTLN 0333
+FTLN 0334
+15
+FTLN 0335
+FTLN 0336
+FTLN 0337
+FTLN 0338
+FTLN 0339
+20
+FTLN 0340
+FTLN 0341
+FTLN 0342
+FTLN 0343
+FTLN 0344
+25
+FTLN 0345
+FTLN 0346
+FTLN 0347
+FTLN 0348
+FTLN 0349
+30
+FTLN 0350
+FTLN 0351
+FTLN 0352
+FTLN 0353
+FTLN 0354
+35
+FTLN 0355
+FTLN 0356
+FTLN 0357
+FTLN 0358
+FTLN 0359
+40
+FTLN 0360
+FTLN 0361
+FTLN 0362
+FTLN 0363
+FTLN 0364
+45
+
+--- PAGE 21 / 95 ---
+33
+Timon of Athens
+ACT 1. SC. 2
+TIMON
+SECOND LORD
+APEMANTUS
+He eats and drinks.
+TIMON
+ALCIBIADES
+ Good for their meat, and safer for their lives.
+ There’s much example for ’t. The fellow that sits
+ next him, now parts bread with him, pledges the
+ breath of him in a divided draft, is the readiest
+ man to kill him. ’T ’as been proved. If I were a huge
+ man, I should fear to drink at meals,
+ Lest they should spy my wind-pipe’s dangerous
+ notes.
+ Great men should drink with harness on their
+ throats.
+, responding to a toast
+ 
+ My lord, in heart! And let the health go round.
+  Let it flow this way, my good lord.
+, apart
+  “Flow this way”? A brave fellow.
+ He keeps his tides well. Those healths will make
+ thee and thy state look ill, Timon.
+ Here’s that which is too weak to be a sinner,
+ Honest water, which ne’er left man i’ th’ mire.
+ This and my food are equals. There’s no odds.
+ Feasts are too proud to give thanks to the gods.
+Apemantus’ grace.
+ 
+ Immortal gods, I crave no pelf.
+ I pray for no man but myself.
+ Grant I may never prove so fond
+ To trust man on his oath or bond,
+ Or a harlot for her weeping,
+ Or a dog that seems a-sleeping,
+ Or a keeper with my freedom,
+ Or my friends if I should need ’em.
+ Amen. So fall to ’t.
+ Rich men sin, and I eat root.
+ Much good dich thy good heart, Apemantus!
+  Captain Alcibiades, your heart’s in the field now.
+  My heart is ever at your service, my lord.
+FTLN 0365
+FTLN 0366
+FTLN 0367
+FTLN 0368
+FTLN 0369
+50
+FTLN 0370
+FTLN 0371
+FTLN 0372
+FTLN 0373
+FTLN 0374
+55
+FTLN 0375
+FTLN 0376
+FTLN 0377
+FTLN 0378
+FTLN 0379
+60
+FTLN 0380
+FTLN 0381
+FTLN 0382
+FTLN 0383
+FTLN 0384
+65
+FTLN 0385
+FTLN 0386
+FTLN 0387
+FTLN 0388
+FTLN 0389
+70
+FTLN 0390
+FTLN 0391
+FTLN 0392
+FTLN 0393
+FTLN 0394
+75
+FTLN 0395
+FTLN 0396
+
+--- PAGE 22 / 95 ---
+35
+Timon of Athens
+ACT 1. SC. 2
+TIMON
+ALCIBIADES
+APEMANTUS
+FIRST LORD
+TIMON
+APEMANTUS
+  You had rather be at a breakfast of enemies
+ than a dinner of friends.
+  So they were bleeding new, my lord,
+ there’s no meat like ’em. I could wish my best
+ friend at such a feast.
+, apart
+  Would all those flatterers were
+ thine enemies, then, that then thou mightst kill
+ ’em and bid me to ’em.
+  Might we but have that happiness, my
+ lord, that you would once use our hearts, whereby
+ we might express some part of our zeals, we
+ should think ourselves forever perfect.
+  O, no doubt, my good friends, but the gods
+ themselves have provided that I shall have much
+ help from you. How had you been my friends else?
+ Why have you that charitable title from thousands,
+ did not you chiefly belong to my heart? I have told
+ more of you to myself than you can with modesty
+ speak in your own behalf. And thus far I confirm
+ you. O you gods, think I, what need we have any
+ friends if we should ne’er have need of ’em? They
+ were the most needless creatures living, should we
+ ne’er have use for ’em, and would most resemble
+ sweet instruments hung up in cases, that keeps
+ their sounds to themselves. Why, I have often
+ wished myself poorer that I might come nearer to
+ you. We are born to do benefits. And what better or
+ properer can we call our own than the riches of
+ our friends? O, what a precious comfort ’tis to
+ have so many, like brothers, commanding one
+ another’s fortunes. O, joy’s e’en made away ere ’t
+ can be born! Mine eyes cannot hold out water,
+ methinks. To forget their faults, I drink to you.
+, apart
+  Thou weep’st to make them drink,
+ Timon.
+FTLN 0397
+FTLN 0398
+FTLN 0399
+80
+FTLN 0400
+FTLN 0401
+FTLN 0402
+FTLN 0403
+FTLN 0404
+85
+FTLN 0405
+FTLN 0406
+FTLN 0407
+FTLN 0408
+FTLN 0409
+90
+FTLN 0410
+FTLN 0411
+FTLN 0412
+FTLN 0413
+FTLN 0414
+95
+FTLN 0415
+FTLN 0416
+FTLN 0417
+FTLN 0418
+FTLN 0419
+100
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+FTLN 0424
+105
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+110
+FTLN 0430
+FTLN 0431
+
+--- PAGE 23 / 95 ---
+37
+Timon of Athens
+ACT 1. SC. 2
+SECOND LORD
+APEMANTUS
+THIRD LORD
+APEMANTUS
+Sound tucket.
+TIMON
+SERVANT
+TIMON
+SERVANT
+TIMON
+Servant exits.
+CUPID
+TIMON
+LUCIUS
+APEMANTUS
+ 
+ Joy had the like conception in our eyes
+ And, at that instant, like a babe sprung up.
+, apart
+ 
+ Ho, ho! I laugh to think that babe a bastard.
+ 
+ I promise you, my lord, you moved me much.
+, apart
+  Much! 
+  What means that trump?
+Enter Servant.
+ How now?
+  Please you, my lord, there are certain ladies
+ most desirous of admittance.
+  Ladies? What are their wills?
+  There comes with them a forerunner, my lord,
+ which bears that office to signify their pleasures.
+  I pray, let them be admitted. 
+Enter “Cupid.”
+ 
+ Hail to thee, worthy Timon, and to all
+ That of his bounties taste! The five best senses
+ Acknowledge thee their patron, and come freely
+ To gratulate thy plenteous bosom. There
+ Taste, touch, all, pleased from thy table rise;
+ They only now come but to feast thine eyes.
+ 
+ They’re welcome all. Let ’em have kind admittance.
+ Music, make their welcome!
+ 
+ You see, my lord, how ample you’re beloved.
+Music.  Enter the masque of Ladies as  Amazons,
+with lutes in their hands, dancing and playing.
+, apart
+  Hoy-day!
+FTLN 0432
+FTLN 0433
+FTLN 0434
+115
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+120
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+FTLN 0444
+125
+FTLN 0445
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+130
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+135
+
+--- PAGE 24 / 95 ---
+39
+Timon of Athens
+ACT 1. SC. 2
+TIMON
+FIRST LADY
+APEMANTUS
+TIMON
+ALL LADIES
+Cupid and Ladies  exit.
+TIMON
+ What a sweep of vanity comes this way.
+ They dance? They are madwomen.
+ Like madness is the glory of this life
+ As this pomp shows to a little oil and root.
+ We make ourselves fools to disport ourselves
+ And spend our flatteries to drink those men
+ Upon whose age we void it up again
+ With poisonous spite and envy.
+ Who lives that’s not depravèd or depraves?
+ Who dies that bears not one spurn to their graves
+ Of their friends’ gift?
+ I should fear those that dance before me now
+ Would one day stamp upon me. ’T ’as been done.
+ Men shut their doors against a setting sun.
+The Lords rise from table, with much adoring of Timon,
+and to show their loves each single out an Amazon, and
+all dance, men with women, a lofty strain or two to the
+hautboys, and cease.
+ 
+ You have done our pleasures much grace, fair ladies,
+ Set a fair fashion on our entertainment,
+ Which was not half so beautiful and kind.
+ You have added worth unto ’t and luster,
+ And entertained me with mine own device.
+ I am to thank you for ’t.
+ 
+ My lord, you take us even at the best.
+, apart
+  Faith, for the worst is filthy and
+ would not hold taking, I doubt me.
+ 
+ Ladies, there is an idle banquet attends you.
+ Please you to dispose yourselves.
+  Most thankfully, my lord.
+  Flavius.
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+140
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+FTLN 0464
+145
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+150
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+FTLN 0474
+155
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+160
+FTLN 0480
+FTLN 0481
+
+--- PAGE 25 / 95 ---
+41
+Timon of Athens
+ACT 1. SC. 2
+FLAVIUS
+TIMON
+FLAVIUS
+He exits.
+FIRST LORD
+SERVANT
+SECOND LORD
+TIMON
+FIRST LORD
+ALL
+SERVANT
+TIMON
+Servant exits.
+FLAVIUS
+TIMON
+ 
+ My lord?
+  
+ The little casket bring me hither.
+  Yes, my lord.  ( Aside. ) More jewels yet?
+ There is no crossing him in ’s humor;
+ Else I should tell him well, i’ faith I should.
+ When all’s spent, he’d be crossed then, an he could.
+ ’Tis pity bounty had not eyes behind,
+ That man might ne’er be wretched for his mind.
+  Where be our men?
+  Here, my lord, in readiness.
+ 
+ Our horses.
+Enter Flavius, with the casket.
+  
+ O my friends, I have one word
+ To say to you. Look you, my good lord,
+ I must entreat you, honor me so much
+ As to advance this jewel. Accept it and wear it,
+ Kind my lord.
+ 
+ I am so far already in your gifts—
+  So are we all.
+Enter a Servant.
+ 
+ My lord, there are certain nobles of the Senate
+ Newly alighted and come to visit you.
+ 
+ They are fairly welcome. 
+  
+ I beseech your Honor,
+ Vouchsafe me a word. It does concern you near.
+ 
+ Near? Why, then, another time I’ll hear thee.
+FTLN 0482
+FTLN 0483
+FTLN 0484
+165
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+170
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+175
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+FTLN 0499
+180
+FTLN 0500
+FTLN 0501
+FTLN 0502
+FTLN 0503
+FTLN 0504
+185
+FTLN 0505
+
+--- PAGE 26 / 95 ---
+43
+Timon of Athens
+ACT 1. SC. 2
+FLAVIUS
+SECOND  SERVANT
+TIMON
+Servant exits.
+THIRD SERVANT
+TIMON
+Servant exits.
+FLAVIUS
+ I prithee, let’s be provided to show them
+ entertainment.
+, aside
+  I scarce know how.
+Enter another Servant.
+ 
+ May it please your Honor, Lord Lucius,
+ Out of his free love, hath presented to you
+ Four milk-white horses trapped in silver.
+ 
+ I shall accept them fairly. Let the presents
+ Be worthily entertained. 
+Enter a third Servant.
+ How now? What news?
+  Please you, my lord, that honorable
+ gentleman Lord Lucullus entreats your company
+ tomorrow to hunt with him and has sent your
+ Honor two brace of greyhounds.
+ 
+ I’ll hunt with him; and let them be received,
+ Not without fair reward. 
+, aside
+  
+ What will this come to?
+ He commands us to provide, and give great gifts,
+ And all out of an empty coffer.
+ Nor will he know his purse or yield me this—
+ To show him what a beggar his heart is,
+ Being of no power to make his wishes good.
+ His promises fly so beyond his state
+ That what he speaks is all in debt; he owes
+ For ev’ry word. He is so kind that he
+ Now pays interest for ’t. His land’s put to their books.
+ Well, would I were gently put out of office
+ Before I were forced out.
+ Happier is he that has no friend to feed
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+190
+FTLN 0510
+FTLN 0511
+FTLN 0512
+FTLN 0513
+FTLN 0514
+195
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+FTLN 0519
+200
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+205
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+210
+FTLN 0530
+FTLN 0531
+FTLN 0532
+FTLN 0533
+
+--- PAGE 27 / 95 ---
+45
+Timon of Athens
+ACT 1. SC. 2
+He exits.
+TIMON
+SECOND LORD
+THIRD LORD
+TIMON
+FIRST LORD
+TIMON
+ALL LORDS
+TIMON
+ALCIBIADES
+FIRST LORD
+TIMON
+SECOND LORD
+TIMON
+FIRST LORD
+ Than such that do e’en enemies exceed.
+ I bleed inwardly for my lord. 
+, to Lords
+  You do yourselves much wrong.
+ You bate too much of your own merits.
+  ( Offering a gift. ) Here, my lord, a trifle of our love.
+ 
+ With more than common thanks I will receive it.
+  O, he’s the very soul of bounty!
+  And now I remember, my lord, you gave good
+ words the other day of a bay courser I rode on. ’Tis
+ yours because you liked it.
+ 
+ O, I beseech you, pardon me, my lord, in that.
+ 
+ You may take my word, my lord. I know no man
+ Can justly praise but what he does affect.
+ I weigh my friends’ affection with mine own.
+ I’ll tell you true, I’ll call to you.
+  O, none so welcome.
+ 
+ I take all and your several visitations
+ So kind to heart, ’tis not enough to give.
+ Methinks I could deal kingdoms to my friends
+ And ne’er be weary.—Alcibiades,
+ Thou art a soldier, therefore seldom rich.
+ It comes in charity to thee, for all thy living
+ Is ’mongst the dead, and all the lands thou hast
+ Lie in a pitched field.
+  Ay, defiled land, my lord.
+  We are so virtuously bound—
+  And so am I to you.
+  So infinitely endeared—
+  All to you.—Lights, more lights.
+ 
+ The best of happiness, honor, and fortunes
+ Keep with you, Lord Timon.
+FTLN 0534
+215
+FTLN 0535
+FTLN 0536
+FTLN 0537
+FTLN 0538
+FTLN 0539
+220
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+FTLN 0544
+225
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+FTLN 0549
+230
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+FTLN 0554
+235
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+240
+FTLN 0560
+FTLN 0561
+FTLN 0562
+FTLN 0563
+FTLN 0564
+245
+
+--- PAGE 28 / 95 ---
+47
+Timon of Athens
+ACT 1. SC. 2
+TIMON
+All but Timon and Apemantus  exit.
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+He exits.
+APEMANTUS
+He exits.
+  Ready for his friends.
+  What a coil’s here,
+ Serving of becks and jutting-out of bums!
+ I doubt whether their legs be worth the sums
+ That are given for ’em. Friendship’s full of dregs.
+ Methinks false hearts should never have sound legs.
+ Thus honest fools lay out their wealth on court’sies.
+ 
+ Now, Apemantus, if thou wert not sullen,
+ I would be good to thee.
+  No, I’ll nothing, for if I should be bribed
+ too, there would be none left to rail upon thee, and
+ then thou wouldst sin the faster. Thou giv’st so
+ long, Timon, I fear me thou wilt give away thyself
+ in paper shortly. What needs these feasts, pomps,
+ and vainglories?
+  Nay, an you begin to rail on society once, I am
+ sworn not to give regard to you. Farewell, and
+ come with better music. 
+  So. Thou wilt not hear me now, thou shalt
+ not then. I’ll lock thy heaven from thee.
+ O, that men’s ears should be
+ To counsel deaf, but not to flattery!
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+250
+FTLN 0570
+FTLN 0571
+FTLN 0572
+FTLN 0573
+FTLN 0574
+255
+FTLN 0575
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+260
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+265
+FTLN 0585
+FTLN 0586
+
+--- PAGE 29 / 95 ---
+SENATOR
+CAPHIS
+SENATOR
+Enter a Senator, with papers.
+ 
+ And late five thousand. To Varro and to Isidore
+ He owes nine thousand, besides my former sum,
+ Which makes it five-and-twenty. Still in motion
+ Of raging waste! It cannot hold; it will not.
+ If I want gold, steal but a beggar’s dog
+ And give it Timon, why, the dog coins gold.
+ If I would sell my horse and buy twenty more
+ Better than he, why, give my horse to Timon—
+ Ask nothing; give it him—it foals me straight,
+ And able horses. No porter at his gate
+ But rather one that smiles and still invites
+ All that pass by. It cannot hold. No reason
+ Can sound his state in safety.—Caphis, ho!
+ Caphis, I say!
+Enter Caphis.
+  
+ Here, sir. What is your pleasure?
+ 
+ Get on your cloak and haste you to Lord Timon.
+ Importune him for my moneys. Be not ceased
+ With slight denial, nor then silenced when
+ “Commend me to your master” and the cap
+ Plays in the right hand thus; but tell him
+ My uses cry to me. I must serve my turn
+51
+ACT 2
+Scene 1
+FTLN 0587
+FTLN 0588
+FTLN 0589
+FTLN 0590
+FTLN 0591
+5
+FTLN 0592
+FTLN 0593
+FTLN 0594
+FTLN 0595
+FTLN 0596
+10
+FTLN 0597
+FTLN 0598
+FTLN 0599
+FTLN 0600
+FTLN 0601
+15
+FTLN 0602
+FTLN 0603
+FTLN 0604
+FTLN 0605
+FTLN 0606
+20
+FTLN 0607
+
+--- PAGE 30 / 95 ---
+53
+Timon of Athens
+ACT 2. SC. 2
+CAPHIS
+SENATOR
+He hands Caphis papers.
+CAPHIS
+SENATOR
+They exit.
+FLAVIUS
+ Out of mine own. His days and times are past,
+ And my reliances on his fracted dates
+ Have smit my credit. I love and honor him
+ But must not break my back to heal his finger.
+ Immediate are my needs, and my relief
+ Must not be tossed and turned to me in words
+ But find supply immediate. Get you gone.
+ Put on a most importunate aspect,
+ A visage of demand, for I do fear
+ When every feather sticks in his own wing
+ Lord Timon will be left a naked gull,
+ Which flashes now a phoenix. Get you gone.
+  I go, sir.
+ 
+ “I go, sir”? Take the bonds along with you
+ And have the dates in. Come.
+  
+ I will, sir.
+  
+ Go.
+Enter Steward Flavius,  with many bills in his hand.
+ 
+ No care, no stop, so senseless of expense
+ That he will neither know how to maintain it
+ Nor cease his flow of riot. Takes no account
+ How things go from him nor resumes  no care
+ Of what is to continue. Never mind
+ Was to be so unwise to be so kind.
+ What shall be done? He will not hear till feel.
+ I must be round with him, now he comes from
+ hunting.
+ Fie, fie, fie, fie!
+FTLN 0608
+FTLN 0609
+FTLN 0610
+FTLN 0611
+25
+FTLN 0612
+FTLN 0613
+FTLN 0614
+FTLN 0615
+FTLN 0616
+30
+FTLN 0617
+FTLN 0618
+FTLN 0619
+FTLN 0620
+FTLN 0621
+35
+FTLN 0622
+FTLN 0623
+FTLN 0624
+Scene 2
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+5
+FTLN 0630
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+10
+
+--- PAGE 31 / 95 ---
+55
+Timon of Athens
+ACT 2. SC. 2
+CAPHIS
+VARRO’S MAN
+CAPHIS
+ISIDORE’S MAN
+CAPHIS
+VARRO’S MAN
+CAPHIS
+TIMON
+CAPHIS
+TIMON
+CAPHIS
+TIMON
+CAPHIS
+TIMON
+CAPHIS
+TIMON
+VARRO’S MAN
+Enter Caphis, and the Men of  Isidore and Varro.
+ 
+ Good even, Varro. What, you come for money?
+  Is ’t not your business too?
+  It is. And yours too, Isidore?
+  It is so.
+  Would we were all discharged!
+  I fear it.
+  Here comes the lord.
+Enter Timon, and his train, with Alcibiades.
+ 
+ So soon as dinner’s done we’ll forth again,
+ My Alcibiades.  ( To Caphis. ) With me? What is your
+ will?
+, offering Timon a paper
+ 
+ My lord, here is a note of certain dues.
+  Dues? Whence are you?
+  Of Athens here, my lord.
+  Go to my steward.
+ 
+ Please it your Lordship, he hath put me off
+ To the succession of new days this month.
+ My master is awaked by great occasion
+ To call upon his own and humbly prays you
+ That with your other noble parts you’ll suit
+ In giving him his right.
+  
+ Mine honest friend,
+ I prithee but repair to me next morning.
+ 
+ Nay, good my lord—
+  
+ Contain thyself, good friend.
+, offering a paper
+  One Varro’s servant,
+ my good lord—
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+15
+FTLN 0640
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+20
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+25
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+30
+FTLN 0655
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+35
+FTLN 0660
+
+--- PAGE 32 / 95 ---
+57
+Timon of Athens
+ACT 2. SC. 2
+ISIDORE’S MAN
+CAPHIS
+VARRO’S MAN
+ISIDORE’S MAN
+TIMON
+Alcibiades and Timon’s train exit.
+FLAVIUS
+TIMON
+FLAVIUS
+Timon and Flavius  exit.
+CAPHIS
+VARRO’S MAN
+ISIDORE’S MAN
+VARRO’S MAN
+APEMANTUS
+VARRO’S MAN
+, offering a paper
+ 
+ From Isidore. He humbly prays your speedy
+ payment.
+ 
+ If you did know, my lord, my master’s wants—
+ 
+ ’Twas due on forfeiture, my lord, six weeks and past.
+ 
+ Your steward puts me off, my lord, and I
+ Am sent expressly to your Lordship.
+  Give me breath.—
+ I do beseech you, good my lords, keep on.
+ I’ll wait upon you instantly.
+To Flavius.  
+ Come hither. Pray you,
+ How goes the world that I am thus encountered
+ With clamorous demands of debt, broken bonds,
+ And the detention of long-since-due debts
+ Against my honor?
+, to the creditors’ Men
+   Please you, gentlemen,
+ The time is unagreeable to this business.
+ Your importunacy cease till after dinner,
+ That I may make his Lordship understand
+ Wherefore you are not paid.
+  
+ Do so, my friends.—
+ See them well entertained.
+  
+ Pray, draw near.
+Enter Apemantus and Fool.
+  Stay, stay, here comes the Fool with Apemantus.
+ Let’s ha’ some sport with ’em.
+  Hang him! He’ll abuse us.
+  A plague upon him, dog!
+  How dost, Fool?
+  Dost dialogue with thy shadow?
+  I speak not to thee.
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+40
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+45
+FTLN 0670
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+50
+FTLN 0675
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+55
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+60
+FTLN 0685
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+65
+
+--- PAGE 33 / 95 ---
+59
+Timon of Athens
+ACT 2. SC. 2
+APEMANTUS
+ISIDORE’S MAN
+APEMANTUS
+CAPHIS
+APEMANTUS
+ALL THE MEN
+APEMANTUS
+ALL THE MEN
+APEMANTUS
+FOOL
+ALL THE MEN
+FOOL
+APEMANTUS
+FOOL
+PAGE
+APEMANTUS
+PAGE
+He shows some papers.
+APEMANTUS
+PAGE
+APEMANTUS
+  No, ’tis to thyself.  ( To the Fool. ) Come
+ away.
+, to Varro’s Man
+  There’s the fool hangs
+ on your back already.
+  No, thou stand’st single; thou ’rt not on
+ him yet.
+, to Isidore’s Man
+  Where’s the fool now?
+  He last asked the question. Poor rogues
+ and usurers’ men, bawds between gold and want.
+  What are we, Apemantus?
+  Asses.
+  Why?
+  That you ask me what you are, and do not
+ know yourselves.—Speak to ’em, Fool.
+  How do you, gentlemen?
+  Gramercies, good Fool. How does your
+ mistress?
+  She’s e’en setting on water to scald such chickens
+ as you are. Would we could see you at Corinth!
+  Good. Gramercy.
+Enter Page.
+  Look you, here comes my master’s page.
+, to Fool
+  Why, how now, captain? What do you in
+ this wise company?—How dost thou, Apemantus?
+  Would I had a rod in my mouth that I
+ might answer thee profitably.
+  Prithee, Apemantus, read me the superscription
+ of these letters. I know not which is which.
+  Canst not read?
+  No.
+  There will little learning die, then, that
+ day thou art hanged. This is to Lord Timon, this to
+ Alcibiades. Go. Thou wast born a bastard, and
+ thou ’lt die a bawd.
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+70
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+75
+FTLN 0700
+FTLN 0701
+FTLN 0702
+FTLN 0703
+FTLN 0704
+80
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+85
+FTLN 0710
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+90
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+95
+FTLN 0720
+FTLN 0721
+FTLN 0722
+
+--- PAGE 34 / 95 ---
+61
+Timon of Athens
+ACT 2. SC. 2
+PAGE
+He exits.
+APEMANTUS
+FOOL
+APEMANTUS
+ALL THE MEN
+APEMANTUS
+FOOL
+ALL THE MEN
+FOOL
+VARRO’S MAN
+APEMANTUS
+VARRO’S MAN
+FOOL
+VARRO’S MAN
+FOOL
+APEMANTUS
+ALL THE MEN
+  Thou wast whelped a dog, and thou shalt famish
+ a dog’s death. Answer not. I am gone. 
+  E’en so thou outrunn’st grace.—Fool, I
+ will go with you to Lord Timon’s.
+  Will you leave me there?
+  If Timon stay at home.—You three serve
+ three usurers?
+  Ay. Would they served us!
+  So would I—as good a trick as ever hangman
+ served thief.
+  Are you three usurers’ men?
+  Ay, fool.
+  I think no usurer but has a fool to his servant.
+ My mistress is one, and I am her Fool. When men
+ come to borrow of your masters, they approach
+ sadly and go away merry, but they enter my master’s
+ house merrily and go away sadly. The reason
+ of this?
+  I could render one.
+  Do it then, that we may account thee a
+ whoremaster and a knave, which notwithstanding,
+ thou shalt be no less esteemed.
+  What is a whoremaster, fool?
+  A fool in good clothes, and something like thee.
+ ’Tis a spirit; sometime ’t appears like a lord, sometime
+ like a lawyer, sometime like a philosopher,
+ with two stones more than ’s artificial one. He is
+ very often like a knight, and generally in all shapes
+ that man goes up and down in from fourscore to
+ thirteen, this spirit walks in.
+  Thou art not altogether a Fool.
+  Nor thou altogether a wise man. As much foolery
+ as I have, so much wit thou lack’st.
+  That answer might have become Apemantus.
+  Aside, aside! Here comes Lord Timon.
+FTLN 0723
+FTLN 0724
+100
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+105
+FTLN 0730
+FTLN 0731
+FTLN 0732
+FTLN 0733
+FTLN 0734
+110
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+115
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+120
+FTLN 0745
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+125
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+130
+FTLN 0755
+FTLN 0756
+FTLN 0757
+
+--- PAGE 35 / 95 ---
+63
+Timon of Athens
+ACT 2. SC. 2
+APEMANTUS
+FOOL
+Apemantus and the Fool exit.
+FLAVIUS
+The Men  exit.
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+Enter Timon and Steward Flavius.
+  Come with me, fool, come.
+  I do not always follow lover, elder brother, and
+ woman; sometime the philosopher.
+, to the creditors’ Men
+ 
+ Pray you, walk near. I’ll speak with you anon.
+ 
+ You make me marvel wherefore ere this time
+ Had you not fully laid my state before me,
+ That I might so have rated my expense
+ As I had leave of means.
+  
+ You would not hear me.
+ At many leisures I proposed —
+  
+ Go to.
+ Perchance some single vantages you took
+ When my indisposition put you back,
+ And that unaptness made your minister
+ Thus to excuse yourself.
+  
+ O, my good lord,
+ At many times I brought in my accounts,
+ Laid them before you. You would throw them off
+ And say you found  them in mine honesty.
+ When for some trifling present you have bid me
+ Return so much, I have shook my head and wept—
+ Yea, ’gainst th’ authority of manners prayed you
+ To hold your hand more close. I did endure
+ Not seldom nor no slight checks when I have
+ Prompted you in the ebb of your estate
+ And your great flow of debts. My lovèd lord,
+ Though you hear now too late, yet now’s a time.
+ The greatest of your having lacks a half
+ To pay your present debts.
+  
+ Let all my land be sold.
+FTLN 0758
+FTLN 0759
+135
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+FTLN 0764
+140
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+145
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+150
+FTLN 0775
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+155
+FTLN 0780
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+160
+FTLN 0785
+FTLN 0786
+FTLN 0787
+
+--- PAGE 36 / 95 ---
+65
+Timon of Athens
+ACT 2. SC. 2
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+ 
+ ’Tis all engaged, some forfeited and gone,
+ And what remains will hardly stop the mouth
+ Of present dues. The future comes apace.
+ What shall defend the interim? And at length
+ How goes our reck’ning?
+ 
+ To Lacedaemon did my land extend.
+ 
+ O my good lord, the world is but a word.
+ Were it all yours to give it in a breath,
+ How quickly were it gone!
+  
+ You tell me true.
+ 
+ If you suspect my husbandry of  falsehood,
+ Call me before th’ exactest auditors,
+ And set me on the proof. So the gods bless me,
+ When all our offices have been oppressed
+ With riotous feeders, when our vaults have wept
+ With drunken spilth of wine, when every room
+ Hath blazed with lights and brayed with minstrelsy,
+ I have retired me to a wasteful cock
+ And set mine eyes at flow.
+  
+ Prithee, no more.
+ 
+ Heavens, have I said, the bounty of this lord!
+ How many prodigal bits have slaves and peasants
+ This night englutted. Who is not Timon’s?
+ What heart, head, sword, force, means, but is Lord
+ Timon’s?
+ Great Timon, noble, worthy, royal Timon!
+ Ah, when the means are gone that buy this praise,
+ The breath is gone whereof this praise is made.
+ Feast-won, fast-lost. One cloud of winter showers,
+ These flies are couched.
+  
+ Come, sermon me no further.
+FTLN 0788
+FTLN 0789
+165
+FTLN 0790
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+170
+FTLN 0795
+FTLN 0796
+FTLN 0797
+FTLN 0798
+FTLN 0799
+175
+FTLN 0800
+FTLN 0801
+FTLN 0802
+FTLN 0803
+FTLN 0804
+180
+FTLN 0805
+FTLN 0806
+FTLN 0807
+FTLN 0808
+FTLN 0809
+185
+FTLN 0810
+FTLN 0811
+FTLN 0812
+FTLN 0813
+FTLN 0814
+190
+FTLN 0815
+FTLN 0816
+FTLN 0817
+FTLN 0818
+
+--- PAGE 37 / 95 ---
+67
+Timon of Athens
+ACT 2. SC. 2
+FLAVIUS
+TIMON
+SERVANTS
+TIMON
+FLAMINIUS
+Servants exit.
+FLAVIUS
+TIMON
+FLAVIUS
+ No villainous bounty yet hath passed my heart;
+ Unwisely, not ignobly, have I given.
+ Why dost thou weep? Canst thou the conscience lack
+ To think I shall lack friends? Secure thy heart.
+ If I would broach the vessels of my love
+ And try the argument of hearts by borrowing,
+ Men and men’s fortunes could I frankly use
+ As I can bid thee speak.
+  
+ Assurance bless your thoughts!
+ 
+ And in some sort these wants of mine are crowned,
+ That I account them blessings. For by these
+ Shall I try friends. You shall perceive how you
+ Mistake my fortunes. I am wealthy in my friends.—
+ Within there! Flaminius! —Servilius!
+Enter three Servants, Flaminius, Servilius, and another.
+  My lord, my lord.
+  I will dispatch you severally.  ( To Servilius )
+ You to Lord Lucius,  ( to Flaminius ) to Lord
+ Lucullus you—I hunted with his Honor today;  ( to
+ the third Servant )  you to Sempronius. Commend
+ me to their loves, and I am proud, say, that my
+ occasions have found time to use ’em toward a
+ supply of money. Let the request be fifty talents.
+  As you have said, my lord. 
+, aside
+  Lord Lucius and Lucullus? Humh!
+  Go you, sir, to the Senators,
+ Of whom, even to the state’s best health, I have
+ Deserved this hearing. Bid ’em send o’ th’ instant
+ A thousand talents to me.
+  
+ I have been bold—
+ For that I knew it the most general way—
+ To them to use your signet and your name,
+ But they do shake their heads, and I am here
+ No richer in return.
+FTLN 0819
+195
+FTLN 0820
+FTLN 0821
+FTLN 0822
+FTLN 0823
+FTLN 0824
+200
+FTLN 0825
+FTLN 0826
+FTLN 0827
+FTLN 0828
+FTLN 0829
+205
+FTLN 0830
+FTLN 0831
+FTLN 0832
+FTLN 0833
+FTLN 0834
+210
+FTLN 0835
+FTLN 0836
+FTLN 0837
+FTLN 0838
+FTLN 0839
+215
+FTLN 0840
+FTLN 0841
+FTLN 0842
+FTLN 0843
+FTLN 0844
+220
+FTLN 0845
+FTLN 0846
+FTLN 0847
+FTLN 0848
+FTLN 0849
+225
+FTLN 0850
+FTLN 0851
+
+--- PAGE 38 / 95 ---
+69
+Timon of Athens
+ACT 2. SC. 2
+TIMON
+FLAVIUS
+TIMON
+He exits.
+FLAVIUS
+He  exits.
+  
+ Is ’t true? Can ’t be?
+ 
+ They answer in a joint and corporate voice
+ That now they are at fall, want treasure, cannot
+ Do what they would, are sorry. You are honorable,
+ But yet they could have wished—they know not—
+ Something hath been amiss—a noble nature
+ May catch a wrench—would all were well—’tis pity.
+ And so, intending other serious matters,
+ After distasteful looks and these hard fractions,
+ With certain half-caps and cold-moving nods
+ They froze me into silence.
+  
+ You gods, reward them!
+ Prithee, man, look cheerly. These old fellows
+ Have their ingratitude in them hereditary.
+ Their blood is caked, ’tis cold, it seldom flows;
+ ’Tis lack of kindly warmth they are not kind;
+ And nature, as it grows again toward earth,
+ Is fashioned for the journey, dull and heavy.
+ Go to Ventidius. Prithee, be not sad.
+ Thou art true and honest—ingeniously I speak—
+ No blame belongs to thee. Ventidius lately
+ Buried his father, by whose death he’s stepped
+ Into a great estate. When he was poor,
+ Imprisoned, and in scarcity of friends,
+ I cleared him with five talents. Greet him from me.
+ Bid him suppose some good necessity
+ Touches his friend, which craves to be remembered
+ With those five talents. That had, give ’t these fellows
+ To whom ’tis instant due. Ne’er speak or think
+ That Timon’s fortunes ’mong his friends can sink.
+  I would I could not think it.
+ That thought is bounty’s foe;
+ Being free itself, it thinks all others so.
+FTLN 0852
+FTLN 0853
+FTLN 0854
+230
+FTLN 0855
+FTLN 0856
+FTLN 0857
+FTLN 0858
+FTLN 0859
+235
+FTLN 0860
+FTLN 0861
+FTLN 0862
+FTLN 0863
+FTLN 0864
+240
+FTLN 0865
+FTLN 0866
+FTLN 0867
+FTLN 0868
+FTLN 0869
+245
+FTLN 0870
+FTLN 0871
+FTLN 0872
+FTLN 0873
+FTLN 0874
+250
+FTLN 0875
+FTLN 0876
+FTLN 0877
+FTLN 0878
+FTLN 0879
+255
+FTLN 0880
+FTLN 0881
+FTLN 0882
+FTLN 0883
+FTLN 0884
+260
+
+--- PAGE 39 / 95 ---
+SERVANT
+FLAMINIUS
+SERVANT
+LUCULLUS
+( Servant exits. )
+FLAMINIUS
+LUCULLUS
+FLAMINIUS
+Enter  Flaminius waiting to speak with Lucullus,
+from his master.
+Enter  a Servant to him.
+  I have told my lord of you. He is coming
+ down to you.
+  I thank you, sir.
+Enter Lucullus.
+  Here’s my lord.
+, aside
+  One of Lord Timon’s men? A gift, I
+ warrant. Why, this hits right. I dreamt of a silver
+ basin and ewer tonight.—Flaminius, honest
+ Flaminius, you are very respectively welcome, sir.
+  ( To Servant. ) Fill me some wine. 
+ And how does that honorable, complete, free-hearted
+ gentleman of Athens, thy very bountiful
+ good lord and master?
+  His health is well, sir.
+  I am right glad that his health is well, sir.
+ And what hast thou there under thy cloak, pretty
+ Flaminius?
+  Faith, nothing but an empty box, sir, which
+ in my lord’s behalf I come to entreat your Honor
+ to supply; who, having great and instant occasion
+73
+ACT 3
+Scene 1
+FTLN 0885
+FTLN 0886
+FTLN 0887
+FTLN 0888
+FTLN 0889
+5
+FTLN 0890
+FTLN 0891
+FTLN 0892
+FTLN 0893
+FTLN 0894
+10
+FTLN 0895
+FTLN 0896
+FTLN 0897
+FTLN 0898
+FTLN 0899
+15
+FTLN 0900
+FTLN 0901
+FTLN 0902
+FTLN 0903
+
+--- PAGE 40 / 95 ---
+75
+Timon of Athens
+ACT 3. SC. 1
+LUCULLUS
+SERVANT
+LUCULLUS
+He drinks.
+FLAMINIUS
+LUCULLUS
+Servant exits.
+FLAMINIUS
+He throws the money back at Lucullus.
+ to use fifty talents, hath sent to your Lordship to
+ furnish him, nothing doubting your present assistance
+ therein.
+  La, la, la, la. “Nothing doubting” says he?
+ Alas, good lord! A noble gentleman ’tis, if he would
+ not keep so good a house. Many a time and often I
+ ha’ dined with him and told him on ’t, and come
+ again to supper to him of purpose to have him
+ spend less, and yet he would embrace no counsel,
+ take no warning by my coming. Every man has his
+ fault, and honesty is his. I ha’ told him on ’t, but I
+ could ne’er get him from ’t.
+Enter Servant with wine.
+  Please your Lordship, here is the wine.
+  Flaminius, I have noted thee always wise.
+ Here’s to thee. 
+  Your Lordship speaks your pleasure.
+  I have observed thee always for a towardly
+ prompt spirit—give thee thy due—and one that
+ knows what belongs to reason and canst use the
+ time well, if the time use thee well. Good parts in
+ thee.—Get you gone, sirrah. 
+ Draw nearer, honest Flaminius. Thy lord’s a bountiful
+ gentleman, but thou art wise and thou
+ know’st well enough, although thou com’st to me,
+ that this is no time to lend money, especially upon
+ bare friendship, without security. Here’s three solidares
+ for thee.  ( Gives him money. ) Good boy,
+ wink at me, and say thou saw’st me not. Fare thee
+ well.
+ 
+ Is ’t possible the world should so much differ,
+ And we alive that lived? Fly, damnèd baseness,
+ To him that worships thee!
+FTLN 0904
+20
+FTLN 0905
+FTLN 0906
+FTLN 0907
+FTLN 0908
+FTLN 0909
+25
+FTLN 0910
+FTLN 0911
+FTLN 0912
+FTLN 0913
+FTLN 0914
+30
+FTLN 0915
+FTLN 0916
+FTLN 0917
+FTLN 0918
+FTLN 0919
+35
+FTLN 0920
+FTLN 0921
+FTLN 0922
+FTLN 0923
+FTLN 0924
+40
+FTLN 0925
+FTLN 0926
+FTLN 0927
+FTLN 0928
+FTLN 0929
+45
+FTLN 0930
+FTLN 0931
+FTLN 0932
+FTLN 0933
+FTLN 0934
+50
+FTLN 0935
+
+--- PAGE 41 / 95 ---
+77
+Timon of Athens
+ACT 3. SC. 2
+LUCULLUS
+Lucullus exits.
+FLAMINIUS
+He exits.
+LUCIUS
+FIRST STRANGER
+LUCIUS
+SECOND STRANGER
+  Ha! Now I see thou art a fool and fit for thy
+ master. 
+ 
+ May these add to the number that may scald thee!
+ Let molten coin be thy damnation,
+ Thou disease of a friend and not himself!
+ Has friendship such a faint and milky heart
+ It turns in less than two nights? O you gods,
+ I feel my master’s passion. This slave
+ Unto his honor has my lord’s meat in him.
+ Why should it thrive and turn to nutriment
+ When he is turned to poison?
+ O, may diseases only work upon ’t,
+ And when he’s sick to death, let not that part of
+ nature
+ Which my lord paid for be of any power
+ To expel sickness, but prolong his hour.
+Enter Lucius, with three Strangers.
+  Who, the Lord Timon? He is my very good
+ friend and an honorable gentleman.
+  We know him for no less, though we
+ are but strangers to him. But I can tell you one
+ thing, my lord, and which I hear from common
+ rumors: now Lord Timon’s happy hours are done
+ and past, and his estate shrinks from him.
+  Fie, no, do not believe it. He cannot want for
+ money.
+  But believe you this, my lord, that
+ not long ago one of his men was with the Lord
+ Lucullus to borrow fifty  talents, nay, urged
+ extremely for ’t, and showed what necessity
+ belonged to ’t, and yet was denied.
+FTLN 0936
+FTLN 0937
+FTLN 0938
+FTLN 0939
+55
+FTLN 0940
+FTLN 0941
+FTLN 0942
+FTLN 0943
+FTLN 0944
+60
+FTLN 0945
+FTLN 0946
+FTLN 0947
+FTLN 0948
+FTLN 0949
+65
+FTLN 0950
+FTLN 0951
+Scene 2
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+5
+FTLN 0957
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+10
+FTLN 0962
+FTLN 0963
+FTLN 0964
+FTLN 0965
+
+--- PAGE 42 / 95 ---
+79
+Timon of Athens
+ACT 3. SC. 2
+LUCIUS
+SECOND STRANGER
+LUCIUS
+SERVILIUS
+LUCIUS
+He turns to exit.
+SERVILIUS
+LUCIUS
+SERVILIUS
+LUCIUS
+SERVILIUS
+LUCIUS
+SERVILIUS
+  How?
+  I tell you, denied, my lord.
+  What a strange case was that! Now, before the
+ gods, I am ashamed on ’t. Denied that honorable
+ man? There was very little honor showed in ’t. For
+ my own part, I must needs confess I have received
+ some small kindnesses from him, as money, plate,
+ jewels, and suchlike trifles, nothing comparing to
+ his; yet had he mistook him and sent to me, I
+ should ne’er have denied his occasion fifty  talents.
+Enter Servilius.
+, aside
+  See, by good hap, yonder’s my lord.
+ I have sweat to see his Honor.  To Lucius.  My
+ honored lord.
+  Servilius. You are kindly met, sir. Fare thee
+ well. Commend me to thy honorable virtuous lord,
+ my very exquisite friend. 
+  May it please your Honor, my lord hath
+ sent—
+  Ha! What has he sent? I am so much endeared
+ to that lord; he’s ever sending. How shall I thank
+ him, think’st thou? And what has he sent now?
+  Has only sent his present occasion now, my
+ lord, requesting your Lordship to supply his
+ instant use with fifty  talents.
+ 
+ I know his Lordship is but merry with me.
+ He cannot want fifty-five hundred talents.
+ 
+ But in the meantime he wants less, my lord.
+ If his occasion were not virtuous,
+ I should not urge it half so faithfully.
+ 
+ Dost thou speak seriously, Servilius?
+  Upon my soul, ’tis true, sir.
+FTLN 0966
+15
+FTLN 0967
+FTLN 0968
+FTLN 0969
+FTLN 0970
+FTLN 0971
+20
+FTLN 0972
+FTLN 0973
+FTLN 0974
+FTLN 0975
+FTLN 0976
+25
+FTLN 0977
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+30
+FTLN 0982
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+35
+FTLN 0987
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+40
+FTLN 0992
+FTLN 0993
+FTLN 0994
+FTLN 0995
+FTLN 0996
+45
+
+--- PAGE 43 / 95 ---
+81
+Timon of Athens
+ACT 3. SC. 2
+LUCIUS
+SERVILIUS
+LUCIUS
+Servilius exits.
+He exits.
+FIRST STRANGER
+SECOND STRANGER
+FIRST STRANGER
+  What a wicked beast was I to disfurnish
+ myself against such a good time, when I might ha’
+ shown myself honorable! How unluckily it happened
+ that I should purchase the day before for a
+ little part, and undo a great deal of honor! Servilius,
+ now before the gods, I am not able to do—the
+ more beast, I say!—I was sending to use Lord
+ Timon myself, these gentlemen can witness; but I
+ would not for the wealth of Athens I had done ’t
+ now. Commend me bountifully to his good Lordship,
+ and I hope his Honor will conceive the fairest
+ of me, because I have no power to be kind. And tell
+ him this from me: I count it one of my greatest
+ afflictions, say, that I cannot pleasure such an honorable
+ gentleman. Good Servilius, will you
+ befriend me so far as to use mine own words to
+ him?
+  Yes, sir, I shall.
+  I’ll look you out a good turn, Servilius.
+ True, as you said, Timon is shrunk indeed,
+ And he that’s once denied will hardly speed.
+  Do you observe this, Hostilius?
+  Ay, too well.
+ 
+ Why, this is the world’s soul, and just of the same
+ piece
+ Is every flatterer’s sport. Who can call him his friend
+ That dips in the same dish? For, in my knowing,
+ Timon has been this lord’s father
+ And kept his credit with his purse,
+ Supported his estate, nay, Timon’s money
+ Has paid his men their wages. He ne’er drinks
+ But Timon’s silver treads upon his lip.
+ And yet—O, see the monstrousness of man
+FTLN 0997
+FTLN 0998
+FTLN 0999
+FTLN 1000
+FTLN 1001
+50
+FTLN 1002
+FTLN 1003
+FTLN 1004
+FTLN 1005
+FTLN 1006
+55
+FTLN 1007
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+60
+FTLN 1012
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+65
+FTLN 1017
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+70
+FTLN 1022
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+75
+FTLN 1027
+FTLN 1028
+FTLN 1029
+
+--- PAGE 44 / 95 ---
+83
+Timon of Athens
+ACT 3. SC. 3
+THIRD STRANGER
+FIRST STRANGER
+They exit.
+SEMPRONIUS
+SERVANT
+SEMPRONIUS
+ When he looks out in an ungrateful shape!—
+ He does deny him, in respect of his,
+ What charitable men afford to beggars.
+ 
+ Religion groans at it.
+  
+ For mine own part,
+ I never tasted Timon in my life,
+ Nor came any of his bounties over me
+ To mark me for his friend. Yet I protest,
+ For his right noble mind, illustrious virtue,
+ And honorable carriage,
+ Had his necessity made use of me,
+ I would have put my wealth into donation,
+ And the best half should have returned to him,
+ So much I love his heart. But I perceive
+ Men must learn now with pity to dispense,
+ For policy sits above conscience.
+Enter a Third Servant of Timon’s  with Sempronius,
+another of Timon’s friends.
+ 
+ Must he needs trouble me in ’t? Hum! ’Bove all others?
+ He might have tried Lord Lucius or Lucullus;
+ And now Ventidius is wealthy too,
+ Whom he redeemed from prison. All these
+ Owes their estates unto him.
+  My lord,
+ They have all been touched and found base metal,
+ For they have all denied him.
+  How? Have they denied him?
+ Has Ventidius and Lucullus denied him,
+ And does he send to me? Three? Humh!
+FTLN 1030
+FTLN 1031
+80
+FTLN 1032
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+85
+FTLN 1037
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+90
+FTLN 1042
+FTLN 1043
+FTLN 1044
+FTLN 1045
+Scene 3
+FTLN 1046
+FTLN 1047
+FTLN 1048
+FTLN 1049
+FTLN 1050
+5
+FTLN 1051
+FTLN 1052
+FTLN 1053
+FTLN 1054
+FTLN 1055
+10
+FTLN 1056
+
+--- PAGE 45 / 95 ---
+85
+Timon of Athens
+ACT 3. SC. 3
+He exits.
+SERVANT
+He exits.
+ It shows but little love or judgment in him.
+ Must I be his last refuge? His friends, like physicians,
+ Thrive, give him over. Must I take th’ cure upon me?
+ Has much disgraced me in ’t. I’m angry at him
+ That might have known my place. I see no sense for ’t
+ But his occasions might have wooed me first;
+ For, in my conscience, I was the first man
+ That e’er received gift from him.
+ And does he think so backwardly of me now
+ That I’ll requite it last? No.
+ So it may prove an argument of laughter
+ To th’ rest, and I  ’mongst lords be thought a fool.
+ I’d rather than the worth of thrice the sum
+ Had sent to me first, but for my mind’s sake;
+ I’d such a courage to do him good. But now return,
+ And with their faint reply this answer join:
+ Who bates mine honor shall not know my coin.
+  Excellent! Your Lordship’s a goodly villain.
+ The devil knew not what he did when he made
+ man politic. He crossed himself by ’t, and I cannot
+ think but, in the end, the villainies of man will set
+ him clear. How fairly this lord strives to appear
+ foul! Takes virtuous copies to be wicked, like those
+ that under hot ardent zeal would set whole realms
+ on fire.
+ Of such a nature is his politic love.
+ This was my lord’s best hope. Now all are fled,
+ Save only the gods. Now his friends are dead,
+ Doors that were ne’er acquainted with their wards
+ Many a bounteous year must be employed
+ Now to guard sure their master.
+ And this is all a liberal course allows:
+ Who cannot keep his wealth must keep his house.
+FTLN 1057
+FTLN 1058
+FTLN 1059
+FTLN 1060
+15
+FTLN 1061
+FTLN 1062
+FTLN 1063
+FTLN 1064
+FTLN 1065
+20
+FTLN 1066
+FTLN 1067
+FTLN 1068
+FTLN 1069
+FTLN 1070
+25
+FTLN 1071
+FTLN 1072
+FTLN 1073
+FTLN 1074
+FTLN 1075
+30
+FTLN 1076
+FTLN 1077
+FTLN 1078
+FTLN 1079
+FTLN 1080
+35
+FTLN 1081
+FTLN 1082
+FTLN 1083
+FTLN 1084
+FTLN 1085
+40
+FTLN 1086
+FTLN 1087
+FTLN 1088
+FTLN 1089
+
+--- PAGE 46 / 95 ---
+87
+Timon of Athens
+ACT 3. SC. 4
+VARRO’S FIRST  MAN
+TITUS
+HORTENSIUS
+LUCIUS’ MAN
+TITUS
+LUCIUS’ MAN
+PHILOTUS
+LUCIUS’ MAN
+PHILOTUS
+LUCIUS’ MAN
+PHILOTUS
+LUCIUS’ MAN
+PHILOTUS
+LUCIUS’ MAN
+Enter Varro’s two Men,  meeting Titus and  others, all
+being Men of  Timon’s creditors to wait for his coming
+out. Then enter Lucius’ Man  and Hortensius.
+ 
+ Well met. Good morrow, Titus and Hortensius.
+ 
+ The like to you, kind Varro.
+  
+ Lucius!
+ What, do we meet together?
+  
+ Ay, and I think
+ One business does command us all,
+ For mine is money.
+  
+ So is theirs and ours.
+Enter Philotus.
+ 
+ And, sir, Philotus’ too.
+  
+ Good day at once.
+  Welcome, good brother.
+ What do you think the hour?
+  
+ Laboring for nine.
+ 
+ So much?
+  
+ Is not my lord seen yet?
+  
+ Not yet.
+ 
+ I wonder on ’t. He was wont to shine at seven.
+ 
+ Ay, but the days are waxed shorter with him.
+ You must consider that a prodigal course
+ Is like the sun’s,
+ But not, like his, recoverable. I fear
+ ’Tis deepest winter in Lord Timon’s purse:
+Scene 4
+FTLN 1090
+FTLN 1091
+FTLN 1092
+FTLN 1093
+FTLN 1094
+5
+FTLN 1095
+FTLN 1096
+FTLN 1097
+FTLN 1098
+FTLN 1099
+10
+FTLN 1100
+FTLN 1101
+FTLN 1102
+FTLN 1103
+FTLN 1104
+15
+FTLN 1105
+FTLN 1106
+FTLN 1107
+FTLN 1108
+FTLN 1109
+20
+FTLN 1110
+FTLN 1111
+
+--- PAGE 47 / 95 ---
+89
+Timon of Athens
+ACT 3. SC. 4
+PHILOTUS
+TITUS
+HORTENSIUS
+TITUS
+HORTENSIUS
+LUCIUS’ MAN
+HORTENSIUS
+VARRO’S FIRST MAN
+LUCIUS’ MAN
+VARRO’S FIRST MAN
+TITUS
+LUCIUS’ MAN
+FLAMINIUS
+TITUS
+FLAMINIUS
+He exits.
+ That is, one may reach deep enough and yet
+ Find little.
+  
+ I am of your fear for that.
+ 
+ I’ll show you how t’ observe a strange event.
+ Your lord sends now for money?
+  
+ Most true, he does.
+ 
+ And he wears jewels now of Timon’s gift,
+ For which I wait for money.
+  It is against my heart.
+  Mark how strange it shows:
+ Timon in this should pay more than he owes,
+ And e’en as if your lord should wear rich jewels
+ And send for money for ’em.
+ 
+ I’m weary of this charge, the gods can witness.
+ I know my lord hath spent of Timon’s wealth,
+ And now ingratitude makes it worse than stealth.
+ 
+ Yes, mine’s three thousand crowns. What’s yours?
+  Five thousand mine.
+ 
+ ’Tis much deep, and it should seem by th’ sum
+ Your master’s confidence was above mine,
+ Else surely his had equaled.
+Enter Flaminius.
+  One of Lord Timon’s men.
+  Flaminius? Sir, a word. Pray, is my lord
+ ready to come forth?
+  No, indeed he is not.
+  We attend his Lordship. Pray, signify so much.
+  I need not tell him that. He knows you are
+ too diligent. 
+Enter Flavius, the  Steward in a cloak, muffled.
+FTLN 1112
+FTLN 1113
+FTLN 1114
+25
+FTLN 1115
+FTLN 1116
+FTLN 1117
+FTLN 1118
+FTLN 1119
+30
+FTLN 1120
+FTLN 1121
+FTLN 1122
+FTLN 1123
+FTLN 1124
+35
+FTLN 1125
+FTLN 1126
+FTLN 1127
+FTLN 1128
+FTLN 1129
+40
+FTLN 1130
+FTLN 1131
+FTLN 1132
+FTLN 1133
+FTLN 1134
+45
+FTLN 1135
+FTLN 1136
+FTLN 1137
+FTLN 1138
+FTLN 1139
+50
+
+--- PAGE 48 / 95 ---
+91
+Timon of Athens
+ACT 3. SC. 4
+LUCIUS’ MAN
+TITUS
+VARRO’S SECOND MAN
+FLAVIUS
+TITUS
+FLAVIUS
+LUCIUS’ MAN
+FLAVIUS
+He exits.
+VARRO’S FIRST MAN
+VARRO’S SECOND MAN
+TITUS
+SERVILIUS
+ 
+ Ha! Is not that his steward muffled so?
+ He goes away in a cloud. Call him, call him.
+  Do you hear, sir?
+  By your leave, sir.
+  What do you ask of me, my friend?
+ 
+ We wait for certain money here, sir.
+  
+ Ay,
+ If money were as certain as your waiting,
+ ’Twere sure enough.
+ Why then preferred you not your sums and bills
+ When your false masters eat of my lord’s meat?
+ Then they could smile and fawn upon his debts
+ And take down th’ int’rest into their glutt’nous maws.
+ You do yourselves but wrong to stir me up.
+ Let me pass quietly.
+ Believe ’t, my lord and I have made an end.
+ I have no more to reckon, he to spend.
+  Ay, but this answer will not serve.
+ 
+ If ’twill not serve, ’tis not so base as you,
+ For you serve knaves. 
+  How? What does his cashiered
+ Worship mutter?
+  No matter what. He’s poor, and
+ that’s revenge enough. Who can speak broader
+ than he that has no house to put his head in? Such
+ may rail against great buildings.
+Enter Servilius.
+  O, here’s Servilius. Now we shall know some
+ answer.
+  If I might beseech you, gentlemen, to repair
+ some other hour, I should derive much from ’t. For
+ take ’t of my soul, my lord leans wondrously to discontent.
+FTLN 1140
+FTLN 1141
+FTLN 1142
+FTLN 1143
+FTLN 1144
+55
+FTLN 1145
+FTLN 1146
+FTLN 1147
+FTLN 1148
+FTLN 1149
+60
+FTLN 1150
+FTLN 1151
+FTLN 1152
+FTLN 1153
+FTLN 1154
+65
+FTLN 1155
+FTLN 1156
+FTLN 1157
+FTLN 1158
+FTLN 1159
+70
+FTLN 1160
+FTLN 1161
+FTLN 1162
+FTLN 1163
+FTLN 1164
+75
+FTLN 1165
+FTLN 1166
+FTLN 1167
+FTLN 1168
+FTLN 1169
+80
+FTLN 1170
+
+--- PAGE 49 / 95 ---
+93
+Timon of Athens
+ACT 3. SC. 4
+LUCIUS’ MAN
+SERVILIUS
+TITUS
+FLAMINIUS
+TIMON
+LUCIUS’ MAN
+TITUS
+LUCIUS’ MAN
+HORTENSIUS
+VARRO’S SECOND MAN
+PHILOTUS
+TIMON
+LUCIUS’ MAN
+TIMON
+TITUS
+TIMON
+LUCIUS’ MAN
+TIMON
+VARRO’S FIRST MAN
+VARRO’S SECOND MAN
+ His comfortable temper has forsook him.
+ He’s much out of health and keeps his chamber.
+ 
+ Many do keep their chambers are not sick;
+ And if it be so far beyond his health,
+ Methinks he should the sooner pay his debts
+ And make a clear way to the gods.
+  
+ Good gods!
+  We cannot take this for answer, sir.
+, within   Servilius, help! My lord, my lord!
+Enter Timon in a rage.
+ 
+ What, are my doors opposed against my passage?
+ Have I been ever free, and must my house
+ Be my retentive enemy, my jail?
+ The place which I have feasted, does it now,
+ Like all mankind, show me an iron heart?
+  Put in now, Titus.
+  My lord, here is my bill.
+  Here’s mine.
+  And mine, my lord.
+  And ours, my lord.
+  All our bills.
+ 
+ Knock me down with ’em! Cleave me to the girdle.
+  Alas, my lord—
+  Cut my heart in sums!
+  Mine, fifty talents.
+  Tell out my blood.
+  Five thousand crowns, my lord.
+ 
+ Five thousand drops pays that.—What yours?—And
+ yours?
+  My lord—
+  My lord—
+FTLN 1171
+FTLN 1172
+FTLN 1173
+FTLN 1174
+85
+FTLN 1175
+FTLN 1176
+FTLN 1177
+FTLN 1178
+FTLN 1179
+90
+FTLN 1180
+FTLN 1181
+FTLN 1182
+FTLN 1183
+FTLN 1184
+95
+FTLN 1185
+FTLN 1186
+FTLN 1187
+FTLN 1188
+FTLN 1189
+100
+FTLN 1190
+FTLN 1191
+FTLN 1192
+FTLN 1193
+FTLN 1194
+105
+FTLN 1195
+FTLN 1196
+FTLN 1197
+FTLN 1198
+FTLN 1199
+110
+FTLN 1200
+
+--- PAGE 50 / 95 ---
+95
+Timon of Athens
+ACT 3. SC. 4
+TIMON
+Timon exits.
+HORTENSIUS
+They exit.
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+They exit.
+ 
+ Tear me, take me, and the gods fall upon you!
+  Faith, I perceive our masters may throw
+ their caps at their money. These debts may well be
+ called desperate ones, for a madman owes ’em.
+Enter Timon and Flavius.
+ 
+ They have e’en put my breath from me, the slaves!
+ Creditors? Devils!
+  My dear lord—
+  What if it should be so?
+  My lord—
+ 
+ I’ll have it so.—My steward!
+  
+ Here, my lord.
+ 
+ So fitly? Go, bid all my friends again,
+ Lucius, Lucullus, and Sempronius, all.
+ I’ll once more feast the rascals.
+  
+ O my lord,
+ You only speak from your distracted soul.
+ There’s not so much left to furnish out
+ A moderate table.
+  Be it not in thy care. Go,
+ I charge thee, invite them all. Let in the tide
+ Of knaves once more. My cook and I’ll provide.
+FTLN 1201
+FTLN 1202
+FTLN 1203
+FTLN 1204
+115
+FTLN 1205
+FTLN 1206
+FTLN 1207
+FTLN 1208
+FTLN 1209
+120
+FTLN 1210
+FTLN 1211
+FTLN 1212
+FTLN 1213
+FTLN 1214
+125
+FTLN 1215
+FTLN 1216
+FTLN 1217
+FTLN 1218
+FTLN 1219
+130
+FTLN 1220
+FTLN 1221
+
+--- PAGE 51 / 95 ---
+97
+Timon of Athens
+ACT 3. SC. 5
+FIRST SENATOR
+SECOND SENATOR
+ALCIBIADES
+FIRST SENATOR
+ALCIBIADES
+FIRST SENATOR
+Enter three Senators at one door, Alcibiades meeting
+them, with Attendants.
+, to the Second Senator
+ 
+ My lord, you have my voice to ’t. The fault’s
+ Bloody. ’Tis necessary he should die.
+ Nothing emboldens sin so much as mercy.
+  Most true. The law shall bruise ’em.
+ 
+ Honor, health, and compassion to the Senate!
+  Now, captain?
+ 
+ I am an humble suitor to your virtues,
+ For pity is the virtue of the law,
+ And none but tyrants use it cruelly.
+ It pleases time and fortune to lie heavy
+ Upon a friend of mine, who in hot blood
+ Hath stepped into the law, which is past depth
+ To those that without heed do plunge into ’t.
+ He is a man—setting his fate aside—
+ Of comely virtues.
+ Nor did he soil the fact with cowardice—
+ An  honor in him which buys out his fault—
+ But with a noble fury and fair spirit,
+ Seeing his reputation touched to death,
+ He did oppose his foe;
+ And with such sober and unnoted passion
+ He did behave  his anger, ere ’twas spent,
+ As if he had but proved an argument.
+ 
+ You undergo too strict a paradox,
+ Striving to make an ugly deed look fair.
+ Your words have took such pains as if they labored
+ To bring manslaughter into form and set quarreling
+ Upon the head of valor—which indeed
+Scene 5
+FTLN 1222
+FTLN 1223
+FTLN 1224
+FTLN 1225
+FTLN 1226
+5
+FTLN 1227
+FTLN 1228
+FTLN 1229
+FTLN 1230
+FTLN 1231
+10
+FTLN 1232
+FTLN 1233
+FTLN 1234
+FTLN 1235
+FTLN 1236
+15
+FTLN 1237
+FTLN 1238
+FTLN 1239
+FTLN 1240
+FTLN 1241
+20
+FTLN 1242
+FTLN 1243
+FTLN 1244
+FTLN 1245
+FTLN 1246
+25
+FTLN 1247
+FTLN 1248
+FTLN 1249
+
+--- PAGE 52 / 95 ---
+99
+Timon of Athens
+ACT 3. SC. 5
+ALCIBIADES
+FIRST SENATOR
+ALCIBIADES
+SECOND SENATOR
+ALCIBIADES
+ Is valor misbegot, and came into the world
+ When sects and factions were newly born.
+ He’s truly valiant that can wisely suffer
+ The worst that man can breathe
+ And make his wrongs his outsides,
+ To wear them like his raiment, carelessly,
+ And ne’er prefer his injuries to his heart
+ To bring it into danger.
+ If wrongs be evils and enforce us kill,
+ What folly ’tis to hazard life for ill!
+ 
+ My lord—
+   You cannot make gross sins look clear.
+ To revenge is no valor, but to bear.
+ 
+ My lords, then, under favor, pardon me
+ If I speak like a captain.
+ Why do fond men expose themselves to battle
+ And not endure all threats? Sleep upon ’t,
+ And let the foes quietly cut their throats
+ Without repugnancy? If there be
+ Such valor in the bearing, what make we
+ Abroad? Why, then, women are more valiant
+ That stay at home, if bearing carry it,
+ And the ass more captain than the lion, the felon
+ Loaden with irons wiser than the judge,
+ If wisdom be in suffering. O my lords,
+ As you are great, be pitifully good.
+ Who cannot condemn rashness in cold blood?
+ To kill, I grant, is sin’s extremest gust,
+ But in defense, by mercy, ’tis most just.
+ To be in anger is impiety,
+ But who is man that is not angry?
+ Weigh but the crime with this.
+  You breathe in vain.
+  In vain? His service done
+FTLN 1250
+FTLN 1251
+30
+FTLN 1252
+FTLN 1253
+FTLN 1254
+FTLN 1255
+FTLN 1256
+35
+FTLN 1257
+FTLN 1258
+FTLN 1259
+FTLN 1260
+FTLN 1261
+40
+FTLN 1262
+FTLN 1263
+FTLN 1264
+FTLN 1265
+FTLN 1266
+45
+FTLN 1267
+FTLN 1268
+FTLN 1269
+FTLN 1270
+FTLN 1271
+50
+FTLN 1272
+FTLN 1273
+FTLN 1274
+FTLN 1275
+FTLN 1276
+55
+FTLN 1277
+FTLN 1278
+FTLN 1279
+FTLN 1280
+FTLN 1281
+60
+FTLN 1282
+FTLN 1283
+
+--- PAGE 53 / 95 ---
+101
+Timon of Athens
+ACT 3. SC. 5
+FIRST SENATOR
+ALCIBIADES
+SECOND SENATOR
+FIRST SENATOR
+ALCIBIADES
+FIRST SENATOR
+ALCIBIADES
+ At Lacedaemon and Byzantium
+ Were a sufficient briber for his life.
+  What’s that?
+ 
+ Why, I  say, my lords, has done fair service
+ And slain in fight many of your enemies.
+ How full of valor did he bear himself
+ In the last conflict, and made plenteous wounds!
+ 
+ He has made too much plenty with ’em.
+ He’s a sworn rioter. He has a sin
+ That often drowns him and takes his valor prisoner.
+ If there were no foes, that were enough
+ To overcome him. In that beastly fury,
+ He has been known to commit outrages
+ And cherish factions. ’Tis inferred to us
+ His days are foul and his drink dangerous.
+ 
+ He dies.
+   Hard fate! He might have died in war.
+ My lords, if not for any parts in him—
+ Though his right arm might purchase his own time
+ And be in debt to none—yet, more to move you,
+ Take my deserts to his and join ’em both.
+ And, for I know your reverend ages love
+ Security, I’ll pawn my victories, all
+ My honor, to you, upon his good returns.
+ If by this crime he owes the law his life,
+ Why, let the war receive ’t in valiant gore,
+ For law is strict, and war is nothing more.
+ 
+ We are for law. He dies. Urge it no more,
+ On height of our displeasure. Friend or brother,
+ He forfeits his own blood that spills another.
+  Must it be so? It must not be.
+ My lords, I do beseech you, know me.
+FTLN 1284
+FTLN 1285
+FTLN 1286
+65
+FTLN 1287
+FTLN 1288
+FTLN 1289
+FTLN 1290
+FTLN 1291
+70
+FTLN 1292
+FTLN 1293
+FTLN 1294
+FTLN 1295
+FTLN 1296
+75
+FTLN 1297
+FTLN 1298
+FTLN 1299
+FTLN 1300
+FTLN 1301
+80
+FTLN 1302
+FTLN 1303
+FTLN 1304
+FTLN 1305
+FTLN 1306
+85
+FTLN 1307
+FTLN 1308
+FTLN 1309
+FTLN 1310
+FTLN 1311
+90
+FTLN 1312
+FTLN 1313
+FTLN 1314
+FTLN 1315
+
+--- PAGE 54 / 95 ---
+103
+Timon of Athens
+ACT 3. SC. 5
+SECOND SENATOR
+ALCIBIADES
+THIRD SENATOR
+ALCIBIADES
+FIRST SENATOR
+ALCIBIADES
+FIRST SENATOR
+Senators  exit.
+ALCIBIADES
+He exits.
+  How?
+  Call me to your remembrances.
+  What?
+ 
+ I cannot think but your age has forgot me.
+ It could not else be I should prove so base
+ To sue and be denied such common grace.
+ My wounds ache at you.
+  
+ Do you dare our anger?
+ ’Tis in few words, but spacious in effect:
+ We banish thee forever.
+  
+ Banish me?
+ Banish your dotage, banish usury,
+ That makes the Senate ugly!
+ 
+ If after two days’ shine Athens contain thee,
+ Attend our weightier judgment.
+ And, not to swell our spirit,
+ He shall be executed presently. 
+ 
+ Now the gods keep you old enough that you may live
+ Only in bone, that none may look on you!—
+ I’m worse than mad. I have kept back their foes
+ While they have told their money and let out
+ Their coin upon large interest, I myself
+ Rich only in large hurts. All those for this?
+ Is this the balsam that the usuring Senate
+ Pours into captains’ wounds? Banishment.
+ It comes not ill. I hate not to be banished.
+ It is a cause worthy my spleen and fury,
+ That I may strike at Athens. I’ll cheer up
+ My discontented troops and lay for hearts.
+ ’Tis honor with most lands to be at odds.
+ Soldiers should brook as little wrongs as gods.
+FTLN 1316
+95
+FTLN 1317
+FTLN 1318
+FTLN 1319
+FTLN 1320
+FTLN 1321
+100
+FTLN 1322
+FTLN 1323
+FTLN 1324
+FTLN 1325
+FTLN 1326
+105
+FTLN 1327
+FTLN 1328
+FTLN 1329
+FTLN 1330
+FTLN 1331
+110
+FTLN 1332
+FTLN 1333
+FTLN 1334
+FTLN 1335
+FTLN 1336
+115
+FTLN 1337
+FTLN 1338
+FTLN 1339
+FTLN 1340
+FTLN 1341
+120
+FTLN 1342
+FTLN 1343
+FTLN 1344
+FTLN 1345
+FTLN 1346
+125
+
+--- PAGE 55 / 95 ---
+105
+Timon of Athens
+ACT 3. SC. 6
+FIRST FRIEND
+SECOND FRIEND
+FIRST FRIEND
+SECOND FRIEND
+FIRST FRIEND
+SECOND FRIEND
+FIRST FRIEND
+SECOND FRIEND
+FIRST FRIEND
+SECOND FRIEND
+FIRST FRIEND
+SECOND FRIEND
+TIMON
+FIRST FRIEND
+SECOND FRIEND
+Music.  Enter divers Friends at several doors.
+  The good time of day to you, sir.
+  I also wish it to you. I think this honorable
+ lord did but try us this other day.
+  Upon that were my thoughts tiring when
+ we encountered. I hope it is not so low with him as
+ he made it seem in the trial of his several friends.
+  It should not be, by the persuasion of
+ his new feasting.
+  I should think so. He hath sent me an
+ earnest inviting, which many my near occasions
+ did urge me to put off; but he hath conjured me
+ beyond them, and I must needs appear.
+  In like manner was I in debt to my
+ importunate business, but he would not hear my
+ excuse. I am sorry, when he sent to borrow of me,
+ that my provision was out.
+  I am sick of that grief too, as I understand
+ how all things go.
+  Every man here’s so. What would he
+ have borrowed of you?
+  A thousand pieces.
+  A thousand pieces!
+  What of you?
+  He sent to me, sir—
+Enter Timon and Attendants.
+ Here he comes.
+  With all my heart, gentlemen both! And how
+ fare you?
+  Ever at the best, hearing well of your
+ Lordship.
+  The swallow follows not summer
+ more willing than we your Lordship.
+Scene 6
+FTLN 1347
+FTLN 1348
+FTLN 1349
+FTLN 1350
+FTLN 1351
+5
+FTLN 1352
+FTLN 1353
+FTLN 1354
+FTLN 1355
+FTLN 1356
+10
+FTLN 1357
+FTLN 1358
+FTLN 1359
+FTLN 1360
+FTLN 1361
+15
+FTLN 1362
+FTLN 1363
+FTLN 1364
+FTLN 1365
+FTLN 1366
+20
+FTLN 1367
+FTLN 1368
+FTLN 1369
+FTLN 1370
+FTLN 1371
+25
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+FTLN 1376
+30
+FTLN 1377
+
+--- PAGE 56 / 95 ---
+107
+Timon of Athens
+ACT 3. SC. 6
+TIMON
+FIRST FRIEND
+TIMON
+SECOND FRIEND
+TIMON
+SECOND FRIEND
+TIMON
+SECOND FRIEND
+TIMON
+SECOND FRIEND
+FIRST FRIEND
+THIRD FRIEND
+FIRST FRIEND
+THIRD FRIEND
+FIRST AND SECOND FRIENDS
+THIRD FRIEND
+FIRST FRIEND
+SECOND FRIEND
+TIMON
+THIRD FRIEND
+SECOND FRIEND
+THIRD FRIEND
+SECOND FRIEND
+THIRD FRIEND
+, aside
+  Nor more willingly leaves winter, such
+ summer birds are men.—Gentlemen, our dinner
+ will not recompense this long stay. Feast your ears
+ with the music awhile, if they will fare so harshly
+ o’ th’ trumpets’ sound. We shall to ’t presently.
+  I hope it remains not unkindly with your
+ Lordship that I returned you an empty messenger.
+  O, sir, let it not trouble you.
+  My noble lord—
+  Ah, my good friend, what cheer?
+  My most honorable lord, I am e’en
+ sick of shame that when your Lordship this other
+ day sent to me, I was so unfortunate a beggar.
+  Think not on ’t, sir.
+  If you had sent but two hours before—
+  Let it not cumber your better remembrance.
+The banquet brought in.
+ Come, bring in all together.
+  All covered dishes!
+  Royal cheer, I warrant you.
+  Doubt not that, if money and the season
+ can yield it.
+  How do you? What’s the news?
+  Alcibiades is banished. Hear you of it?
+  Alcibiades banished?
+  ’Tis so. Be sure of it.
+  How? How?
+  I pray you, upon what?
+  My worthy friends, will you draw near?
+  I’ll tell you more anon. Here’s a noble
+ feast toward.
+  This is the old man still.
+  Will ’t hold? Will ’t hold?
+  It does, but time will—and so—
+  I do conceive.
+FTLN 1378
+FTLN 1379
+FTLN 1380
+FTLN 1381
+35
+FTLN 1382
+FTLN 1383
+FTLN 1384
+FTLN 1385
+FTLN 1386
+40
+FTLN 1387
+FTLN 1388
+FTLN 1389
+FTLN 1390
+FTLN 1391
+45
+FTLN 1392
+FTLN 1393
+FTLN 1394
+FTLN 1395
+FTLN 1396
+50
+FTLN 1397
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+55
+FTLN 1402
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+60
+FTLN 1407
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+65
+
+--- PAGE 57 / 95 ---
+109
+Timon of Athens
+ACT 3. SC. 6
+TIMON
+The dishes are uncovered. They contain
+only water and stones.
+SOME SPEAK
+SOME OTHER
+TIMON
+  Each man to his stool, with that spur as he
+ would to the lip of his mistress. Your diet shall
+ be in all places alike. Make not a city feast of it, to let
+ the meat cool ere we can agree upon the first place.
+ Sit, sit.  ( They sit. ) The gods require our thanks:
+ You great benefactors, sprinkle our society with
+ thankfulness. For your own gifts make yourselves
+ praised, but reserve still to give, lest your deities be
+ despised. Lend to each man enough, that one need
+ not lend to another; for, were your godheads to
+ borrow of men, men would forsake the gods. Make
+ the meat be beloved more than the man that gives
+ it. Let no assembly of twenty be without a score of
+ villains. If there sit twelve women at the table, let a
+ dozen of them be as they are. The rest of your fees,
+ O gods, the Senators of Athens, together with the
+ common tag  of people, what is amiss in them,
+ you gods, make suitable for destruction. For these
+ my present friends, as they are to me nothing, so
+ in nothing bless them, and to nothing are they
+ welcome.
+ Uncover, dogs, and lap.
+  What does his Lordship mean?
+  I know not.
+ 
+ May you a better feast never behold,
+ You knot of mouth-friends! Smoke and lukewarm
+ water
+ Is your perfection. This is Timon’s last,
+ Who, stuck and spangled with your  flatteries,
+ Washes it off and sprinkles in your faces
+ Your reeking villainy.  ( He throws water in their
+ faces. )  Live loathed and long,
+FTLN 1412
+FTLN 1413
+FTLN 1414
+FTLN 1415
+FTLN 1416
+70
+FTLN 1417
+FTLN 1418
+FTLN 1419
+FTLN 1420
+FTLN 1421
+75
+FTLN 1422
+FTLN 1423
+FTLN 1424
+FTLN 1425
+FTLN 1426
+80
+FTLN 1427
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+85
+FTLN 1432
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+90
+FTLN 1437
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+95
+FTLN 1442
+FTLN 1443
+
+--- PAGE 58 / 95 ---
+111
+Timon of Athens
+ACT 3. SC. 6
+He attacks them and forces them out.
+He exits.
+FIRST FRIEND
+SECOND FRIEND
+THIRD FRIEND
+FOURTH FRIEND
+FIRST FRIEND
+SECOND FRIEND
+THIRD FRIEND
+FOURTH FRIEND
+FIRST FRIEND
+SECOND FRIEND
+THIRD FRIEND
+FOURTH FRIEND
+The Senators and the others  exit.
+ Most smiling, smooth, detested parasites,
+ Courteous destroyers, affable wolves, meek bears,
+ You fools of fortune, trencher-friends, time’s flies,
+ Cap-and-knee slaves, vapors, and minute-jacks.
+ Of man and beast the infinite malady
+ Crust you quite o’er!  ( They stand. ) What, dost thou
+ go?
+ Soft! Take thy physic first—thou too—and thou.—
+ Stay. I will lend thee money, borrow none.
+ What? All in motion? Henceforth be no feast
+ Whereat a villain’s not a welcome guest.
+ Burn, house! Sink, Athens! Henceforth hated be
+ Of Timon man and all humanity! 
+Enter Timon’s Friends,  the Senators, with other Lords.
+  How now, my lords?
+  Know you the quality of Lord Timon’s
+ fury?
+  Push! Did you see my cap?
+  I have lost my gown.
+  He’s but a mad lord, and naught but
+ humors sways him. He gave me a jewel th’ other
+ day, and now he has beat it out of my hat. Did you
+ see my jewel?
+  Did you see my cap?
+  Here ’tis.
+  Here lies my gown.
+  Let’s make no stay.
+ 
+ Lord Timon’s mad.
+  
+ I feel ’t upon my bones.
+ 
+ One day he gives us diamonds, next day stones.
+FTLN 1444
+FTLN 1445
+FTLN 1446
+100
+FTLN 1447
+FTLN 1448
+FTLN 1449
+FTLN 1450
+FTLN 1451
+105
+FTLN 1452
+FTLN 1453
+FTLN 1454
+FTLN 1455
+FTLN 1456
+110
+FTLN 1457
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+115
+FTLN 1462
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+120
+FTLN 1467
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+125
+FTLN 1472
+
+--- PAGE 59 / 95 ---
+TIMON
+Enter Timon.
+ 
+ Let me look back upon thee. O thou wall
+ That girdles in those wolves, dive in the earth
+ And fence not Athens! Matrons, turn incontinent!
+ Obedience fail in children! Slaves and fools,
+ Pluck the grave wrinkled Senate from the bench
+ And minister in their steads! To general filths
+ Convert o’ th’ instant, green virginity!
+ Do ’t in your parents’ eyes! Bankrupts, hold fast!
+ Rather than render back, out with your knives
+ And cut your trusters’ throats! Bound servants, steal!
+ Large-handed robbers your grave masters are,
+ And pill by law. Maid, to thy master’s bed!
+ Thy mistress is o’ th’ brothel. Son  of sixteen,
+ Pluck the lined crutch from thy old limping sire;
+ With it beat out his brains! Piety and fear,
+ Religion to the gods, peace, justice, truth,
+ Domestic awe, night rest, and neighborhood,
+ Instruction, manners, mysteries, and trades,
+ Degrees, observances, customs, and laws,
+ Decline to your confounding contraries,
+ And yet confusion live! Plagues incident to men,
+ Your potent and infectious fevers heap
+ On Athens, ripe for stroke! Thou cold sciatica,
+115
+ACT 4
+Scene 1
+FTLN 1473
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+5
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+10
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+15
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+FTLN 1492
+20
+FTLN 1493
+FTLN 1494
+FTLN 1495
+
+--- PAGE 60 / 95 ---
+117
+Timon of Athens
+ACT 4. SC. 2
+He exits.
+FIRST SERVANT
+FLAVIUS
+FIRST SERVANT
+SECOND SERVANT
+ Cripple our senators, that their limbs may halt
+ As lamely as their manners! Lust and liberty,
+ Creep in the minds and marrows of our youth,
+ That ’gainst the stream of virtue they may strive
+ And drown themselves in riot! Itches, blains,
+ Sow all th’ Athenian bosoms, and their crop
+ Be general leprosy! Breath infect breath,
+ That their society, as their friendship, may
+ Be merely poison! Nothing I’ll bear from thee
+ But nakedness, thou detestable town!
+ Take thou that too, with multiplying bans!
+ Timon will to the woods, where he shall find
+ Th’ unkindest beast more kinder than mankind.
+ The gods confound—hear me, you good gods all!—
+ Th’ Athenians both within and out that wall,
+ And grant, as Timon grows, his hate may grow
+ To the whole race of mankind, high and low!
+ Amen.
+Enter Steward Flavius  with two or three Servants.
+ 
+ Hear you, Master Steward, where’s our master?
+ Are we undone, cast off, nothing remaining?
+ 
+ Alack, my fellows, what should I say to you?
+ Let me be recorded by the righteous gods,
+ I am as poor as you.
+  
+ Such a house broke?
+ So noble a master fall’n, all gone, and not
+ One friend to take his fortune by the arm
+ And go along with him?
+  
+ As we do turn our backs
+FTLN 1496
+FTLN 1497
+25
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+30
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+FTLN 1507
+35
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+FTLN 1512
+40
+FTLN 1513
+Scene 2
+FTLN 1514
+FTLN 1515
+FTLN 1516
+FTLN 1517
+FTLN 1518
+5
+FTLN 1519
+FTLN 1520
+FTLN 1521
+FTLN 1522
+FTLN 1523
+10
+
+--- PAGE 61 / 95 ---
+119
+Timon of Athens
+ACT 4. SC. 2
+FLAVIUS
+THIRD SERVANT
+FLAVIUS
+The Servants  embrace and part several ways.
+ From our companion thrown into his grave,
+ So his familiars to his buried fortunes
+ Slink all away, leave their false vows with him,
+ Like empty purses picked; and his poor self,
+ A dedicated beggar to the air,
+ With his disease of all-shunned poverty,
+ Walks, like contempt, alone.
+Enter other Servants.
+ More of our fellows.
+ 
+ All broken implements of a ruined house.
+ 
+ Yet do our hearts wear Timon’s livery.
+ That see I by our faces. We are fellows still,
+ Serving alike in sorrow. Leaked is our bark,
+ And we, poor mates, stand on the dying deck,
+ Hearing the surges threat. We must all part
+ Into this sea of air.
+  
+ Good fellows all,
+ The latest of my wealth I’ll share amongst you.
+ Wherever we shall meet, for Timon’s sake
+ Let’s yet be fellows. Let’s shake our heads and say,
+ As ’twere a knell unto our master’s fortunes,
+ “We have seen better days.”  ( He offers them
+ money. )  Let each take some.
+ Nay, put out all your hands. Not one word more.
+ Thus part we rich in sorrow, parting poor.
+ O, the fierce wretchedness that glory brings us!
+ Who would not wish to be from wealth exempt,
+ Since riches point to misery and contempt?
+ Who would be so mocked with glory, or to live
+ But in a dream of friendship,
+ To have his pomp and all what state compounds
+ But only painted, like his varnished friends?
+FTLN 1524
+FTLN 1525
+FTLN 1526
+FTLN 1527
+FTLN 1528
+15
+FTLN 1529
+FTLN 1530
+FTLN 1531
+FTLN 1532
+FTLN 1533
+20
+FTLN 1534
+FTLN 1535
+FTLN 1536
+FTLN 1537
+FTLN 1538
+25
+FTLN 1539
+FTLN 1540
+FTLN 1541
+FTLN 1542
+FTLN 1543
+30
+FTLN 1544
+FTLN 1545
+FTLN 1546
+FTLN 1547
+FTLN 1548
+35
+FTLN 1549
+FTLN 1550
+FTLN 1551
+FTLN 1552
+FTLN 1553
+40
+FTLN 1554
+
+--- PAGE 62 / 95 ---
+121
+Timon of Athens
+ACT 4. SC. 3
+He exits.
+TIMON
+ Poor honest lord, brought low by his own heart,
+ Undone by goodness! Strange unusual blood
+ When man’s worst sin is he does too much good!
+ Who then dares to be half so kind again?
+ For bounty, that makes gods, do still mar men.
+ My dearest lord, blest to be most accursed,
+ Rich only to be wretched, thy great fortunes
+ Are made thy chief afflictions. Alas, kind lord!
+ He’s flung in rage from this ingrateful seat
+ Of monstrous friends,
+ Nor has he with him to supply his life,
+ Or that which can command it.
+ I’ll follow and inquire him out.
+ I’ll ever serve his mind with my best will.
+ Whilst I have gold, I’ll be his steward still.
+Enter Timon in the woods, with a spade.
+ 
+ O blessèd breeding sun, draw from the Earth
+ Rotten humidity! Below thy sister’s orb
+ Infect the air! Twinned  brothers of one womb,
+ Whose procreation, residence, and birth
+ Scarce is dividant, touch them with several fortunes,
+ The greater scorns the lesser. Not nature,
+ To whom all sores lay siege, can bear great fortune
+ But by contempt of nature.
+ Raise me this beggar, and deny ’t that lord;
+ The Senators shall bear contempt hereditary,
+ The beggar native honor.
+ It is the pasture lards the brother’s sides,
+ The want that makes him lean.  Who dares, who
+ dares
+FTLN 1555
+FTLN 1556
+FTLN 1557
+FTLN 1558
+45
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+FTLN 1563
+50
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+FTLN 1568
+55
+FTLN 1569
+Scene 3
+FTLN 1570
+FTLN 1571
+FTLN 1572
+FTLN 1573
+FTLN 1574
+5
+FTLN 1575
+FTLN 1576
+FTLN 1577
+FTLN 1578
+FTLN 1579
+10
+FTLN 1580
+FTLN 1581
+FTLN 1582
+FTLN 1583
+
+--- PAGE 63 / 95 ---
+123
+Timon of Athens
+ACT 4. SC. 3
+ In purity of manhood stand upright
+ And say “This man’s a flatterer”? If one be,
+ So are they all, for every grise of fortune
+ Is smoothed by that below. The learnèd pate
+ Ducks to the golden fool. All’s obliquy.
+ There’s nothing level in our cursèd natures
+ But direct villainy. Therefore be abhorred
+ All feasts, societies, and throngs of men.
+ His semblable, yea, himself, Timon disdains.
+ Destruction fang mankind! Earth, yield me roots!
+ Who seeks for better of thee, sauce his palate
+ With thy most operant poison!  ( Digging, he finds
+ gold. )  What is here?
+ Gold? Yellow, glittering, precious gold?
+ No, gods, I am no idle votarist.
+ Roots, you clear heavens! Thus much of this will
+ make
+ Black white, foul fair, wrong right,
+ Base noble, old young, coward valiant.
+ Ha, you gods! Why this? What this, you gods? Why,
+ this
+ Will lug your priests and servants from your sides,
+ Pluck stout men’s pillows from below their heads.
+ This yellow slave
+ Will knit and break religions, bless th’ accursed,
+ Make the hoar leprosy adored, place thieves
+ And give them title, knee, and approbation
+ With senators on the bench. This is it
+ That makes the wappened widow wed again;
+ She whom the spital house and ulcerous sores
+ Would cast the gorge at, this embalms and spices
+ To th’ April day again. Come, damnèd earth,
+ Thou common whore of mankind, that puts odds
+ Among the rout of nations, I will make thee
+ Do thy right nature.  (March afar off.) Ha? A drum?
+ Thou ’rt quick,
+FTLN 1584
+15
+FTLN 1585
+FTLN 1586
+FTLN 1587
+FTLN 1588
+FTLN 1589
+20
+FTLN 1590
+FTLN 1591
+FTLN 1592
+FTLN 1593
+FTLN 1594
+25
+FTLN 1595
+FTLN 1596
+FTLN 1597
+FTLN 1598
+FTLN 1599
+30
+FTLN 1600
+FTLN 1601
+FTLN 1602
+FTLN 1603
+FTLN 1604
+35
+FTLN 1605
+FTLN 1606
+FTLN 1607
+FTLN 1608
+FTLN 1609
+40
+FTLN 1610
+FTLN 1611
+FTLN 1612
+FTLN 1613
+FTLN 1614
+45
+FTLN 1615
+FTLN 1616
+FTLN 1617
+FTLN 1618
+FTLN 1619
+50
+
+--- PAGE 64 / 95 ---
+125
+Timon of Athens
+ACT 4. SC. 3
+He buries the gold, keeping some out.
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+PHRYNIA
+TIMON
+ALCIBIADES
+TIMON
+ But yet I’ll bury thee. Thou ’lt go, strong thief,
+ When gouty keepers of thee cannot stand.
+ Nay, stay thou out for earnest.
+Enter Alcibiades, with Drum and Fife, in warlike
+manner, and Phrynia and Timandra.
+  What art thou there? Speak.
+ 
+ A beast, as thou art. The canker gnaw thy heart
+ For showing me again the eyes of man!
+ 
+ What is thy name? Is man so hateful to thee
+ That art thyself a man?
+ 
+ I am Misanthropos and hate mankind.
+ For thy part, I do wish thou wert a dog,
+ That I might love thee something.
+  
+ I know thee well.
+ But in thy fortunes am unlearned and strange.
+ 
+ I know thee too, and more than that I know thee
+ I not desire to know. Follow thy drum.
+ With man’s blood paint the ground gules, gules!
+ Religious canons, civil laws are cruel.
+ Then what should war be? This fell whore of thine
+ Hath in her more destruction than thy sword,
+ For all her cherubin look.
+  
+ Thy lips rot off!
+ 
+ I will not kiss thee. Then the rot returns
+ To thine own lips again.
+ 
+ How came the noble Timon to this change?
+ 
+ As the moon does, by wanting light to give.
+FTLN 1620
+FTLN 1621
+FTLN 1622
+FTLN 1623
+FTLN 1624
+55
+FTLN 1625
+FTLN 1626
+FTLN 1627
+FTLN 1628
+FTLN 1629
+60
+FTLN 1630
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+65
+FTLN 1635
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+70
+FTLN 1640
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+75
+
+--- PAGE 65 / 95 ---
+127
+Timon of Athens
+ACT 4. SC. 3
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+TIMANDRA
+TIMON
+TIMANDRA
+TIMON
+TIMANDRA
+ALCIBIADES
+ But then renew I could not, like the moon;
+ There were no suns to borrow of.
+ 
+ Noble Timon, what friendship may I do thee?
+ 
+ None, but to maintain my opinion.
+  What is it, Timon?
+  Promise me friendship, but perform none. If
+ thou wilt not promise, the gods plague thee, for
+ thou art a man. If thou dost perform, confound
+ thee, for thou art a man.
+ 
+ I have heard in some sort of thy miseries.
+ 
+ Thou saw’st them when I had prosperity.
+ 
+ I see them now. Then was a blessèd time.
+ 
+ As thine is now, held with a brace of harlots.
+ 
+ Is this th’ Athenian minion whom the world
+ Voiced so regardfully?
+  
+ Art thou Timandra?
+  
+ Yes.
+ 
+ Be a whore still. They love thee not that use thee.
+ Give them diseases, leaving with thee their lust.
+ Make use of thy salt hours. Season the slaves
+ For tubs and baths. Bring down rose-cheeked youth
+ To the tub-fast and the diet.
+  
+ Hang thee, monster!
+ 
+ Pardon him, sweet Timandra, for his wits
+ Are drowned and lost in his calamities.—
+ I have but little gold of late, brave Timon,
+ The want whereof doth daily make revolt
+FTLN 1645
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+80
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+85
+FTLN 1655
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+90
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+95
+FTLN 1665
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+100
+FTLN 1670
+FTLN 1671
+
+--- PAGE 66 / 95 ---
+129
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+TIMON
+ In my penurious band. I have heard and grieved
+ How cursèd Athens, mindless of thy worth,
+ Forgetting thy great deeds when neighbor states,
+ But for thy sword and fortune, trod upon them—
+ 
+ I prithee, beat thy drum and get thee gone.
+ 
+ I am thy friend and pity thee, dear Timon.
+ 
+ How dost thou pity him whom thou dost trouble?
+ I had rather be alone.
+ 
+ Why, fare thee well. Here is some gold for thee.
+  Keep it. I cannot eat it.
+ 
+ When I have laid proud Athens on a heap—
+ 
+ Warr’st thou ’gainst Athens?
+  
+ Ay, Timon, and have cause.
+ 
+ The gods confound them all in thy conquest,
+ And thee after, when thou hast conquered!
+ 
+ Why me, Timon?
+  
+ That by killing of villains
+ Thou wast born to conquer my country.
+ Put up thy gold. Go on. Here’s gold. Go on.
+ Be as a planetary plague when Jove
+ Will o’er some high-viced city hang his poison
+ In the sick air. Let not thy sword skip one.
+ Pity not honored age for his white beard;
+ He is an usurer. Strike me the counterfeit matron;
+ It is her habit only that is honest,
+ Herself’s a bawd. Let not the virgin’s cheek
+ Make soft thy trenchant sword, for those milk paps,
+ That through the window-bars  bore at men’s eyes,
+FTLN 1672
+FTLN 1673
+FTLN 1674
+105
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+110
+FTLN 1680
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+115
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+120
+FTLN 1690
+FTLN 1691
+FTLN 1692
+FTLN 1693
+FTLN 1694
+125
+FTLN 1695
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+130
+
+--- PAGE 67 / 95 ---
+131
+Timon of Athens
+ACT 4. SC. 3
+ALCIBIADES
+TIMON
+BOTH WOMEN
+TIMON
+ Are not within the leaf of pity writ,
+ But set them down horrible traitors. Spare not the
+ babe,
+ Whose dimpled smiles from fools exhaust their
+ mercy;
+ Think it a bastard whom the oracle
+ Hath doubtfully pronounced the throat shall cut,
+ And mince it sans remorse. Swear against objects;
+ Put armor on thine ears and on thine eyes,
+ Whose proof nor yells of mothers, maids, nor babes,
+ Nor sight of priests in holy vestments bleeding,
+ Shall pierce a jot.  ( He offers gold. ) There’s gold to
+ pay thy soldiers.
+ Make large confusion and, thy fury spent,
+ Confounded be thyself! Speak not. Begone.
+ 
+ Hast thou gold yet? I’ll take the gold thou givest me,
+ Not all thy counsel.
+ 
+ Dost thou or dost thou not, heaven’s curse upon thee!
+ 
+ Give us some gold, good Timon. Hast thou more?
+ 
+ Enough to make a whore forswear her trade,
+ And to make whores a bawd. Hold up, you sluts,
+ Your aprons mountant.  ( He begins throwing gold
+ into their aprons. )  You are not oathable,
+ Although I know you’ll swear—terribly swear
+ Into strong shudders and to heavenly agues
+ Th’ immortal gods that hear you. Spare your oaths.
+ I’ll trust to your conditions. Be whores still.
+ And he whose pious breath seeks to convert you,
+ Be strong in whore, allure him, burn him up.
+ Let your close fire predominate his smoke,
+ And be no turncoats. Yet may your pains six months
+ Be quite contrary. And thatch your poor thin roofs
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+135
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+140
+FTLN 1710
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+145
+FTLN 1715
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+150
+FTLN 1720
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+155
+FTLN 1725
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+160
+FTLN 1730
+FTLN 1731
+
+--- PAGE 68 / 95 ---
+133
+Timon of Athens
+ACT 4. SC. 3
+BOTH WOMEN
+TIMON
+BOTH WOMEN
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+ With burdens of the dead—some that were hanged,
+ No matter; wear them, betray with them. Whore
+ still.
+ Paint till a horse may mire upon your face.
+ A pox of wrinkles!
+  
+ Well, more gold. What then?
+ Believe ’t that we’ll do anything for gold.
+  Consumptions sow
+ In hollow bones of man; strike their sharp shins,
+ And mar men’s spurring. Crack the lawyer’s voice,
+ That he may never more false title plead
+ Nor sound his quillets shrilly. Hoar the flamen,
+ That scolds  against the quality of flesh
+ And not believes himself. Down with the nose—
+ Down with it flat, take the bridge quite away—
+ Of him that, his particular to foresee,
+ Smells from the general weal. Make curled-pate
+ ruffians bald,
+ And let the unscarred braggarts of the war
+ Derive some pain from you. Plague all,
+ That your activity may defeat and quell
+ The source of all erection. There’s more gold.
+ Do you damn others, and let this damn you,
+ And ditches grave you all!
+ 
+ More counsel with more money, bounteous Timon.
+ 
+ More whore, more mischief first! I have given you
+ earnest.
+ 
+ Strike up the drum towards Athens.—Farewell,
+ Timon.
+ If I thrive well, I’ll visit thee again.
+ 
+ If I hope well, I’ll never see thee more.
+  I never did thee harm.
+FTLN 1732
+FTLN 1733
+FTLN 1734
+165
+FTLN 1735
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+170
+FTLN 1740
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+175
+FTLN 1745
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+180
+FTLN 1750
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+185
+FTLN 1755
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+190
+FTLN 1760
+FTLN 1761
+FTLN 1762
+FTLN 1763
+
+--- PAGE 69 / 95 ---
+135
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+ALCIBIADES
+TIMON
+ALCIBIADES
+The drum sounds; all but Timon  exit.
+TIMON
+APEMANTUS
+ 
+ Yes, thou spok’st well of me.
+  
+ Call’st thou that harm?
+ 
+ Men daily find it. Get thee away, and take
+ Thy beagles with thee.
+, to the Women
+   We but offend him.—
+ Strike. 
+ 
+ That nature, being sick of man’s unkindness,
+ Should yet be hungry!  ( He digs. ) Common mother,
+ thou
+ Whose womb unmeasurable and infinite breast
+ Teems and feeds all; whose selfsame mettle—
+ Whereof thy proud child, arrogant man, is puffed—
+ Engenders the black toad and adder blue,
+ The gilded newt and eyeless venomed worm,
+ With all th’ abhorrèd births below crisp heaven
+ Whereon Hyperion’s quick’ning fire doth shine:
+ Yield him who all thy  human sons do hate,
+ From forth thy plenteous bosom, one poor root!
+ Ensear thy fertile and conceptious womb;
+ Let it no more bring out ingrateful man.
+ Go great with tigers, dragons, wolves, and bears;
+ Teem with new monsters, whom thy upward face
+ Hath to the marbled mansion all above
+ Never presented. O, a root! Dear thanks!
+ Dry up thy marrows, vines, and plow-torn leas,
+ Whereof ingrateful man with liquorish drafts
+ And morsels unctuous greases his pure mind,
+ That from it all consideration slips—
+Enter Apemantus.
+ More man? Plague, plague!
+ 
+ I was directed hither. Men report
+ Thou dost affect my manners and dost use them.
+FTLN 1764
+195
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+200
+FTLN 1770
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+205
+FTLN 1775
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+210
+FTLN 1780
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+215
+FTLN 1785
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+220
+FTLN 1790
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+225
+
+--- PAGE 70 / 95 ---
+137
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+ 
+ ’Tis, then, because thou dost not keep a dog,
+ Whom I would imitate. Consumption catch thee!
+ 
+ This is in thee a nature but infected,
+ A poor unmanly melancholy sprung
+ From change of future. Why this spade? This place?
+ This slavelike habit and these looks of care?
+ Thy flatterers yet wear silk, drink wine, lie soft,
+ Hug their diseased perfumes, and have forgot
+ That ever Timon was. Shame not these woods
+ By putting on the cunning of a carper.
+ Be thou a flatterer now, and seek to thrive
+ By that which has undone thee. Hinge thy knee,
+ And let his very breath whom thou ’lt observe
+ Blow off thy cap; praise his most vicious strain,
+ And call it excellent. Thou wast told thus.
+ Thou gav’st thine ears, like tapsters that bade
+ welcome,
+ To knaves and all approachers. ’Tis most just
+ That thou turn rascal. Had’st thou wealth again,
+ Rascals should have ’t. Do not assume my likeness.
+ 
+ Were I like thee, I’d throw away myself.
+ 
+ Thou hast cast away thyself, being like thyself—
+ A madman so long, now a fool. What, think’st
+ That the bleak air, thy boisterous chamberlain,
+ Will put thy shirt on warm? Will these moist trees,
+ That have outlived the eagle, page thy heels
+ And skip when thou point’st out? Will the cold brook,
+ Candied with ice, caudle thy morning taste
+ To cure thy o’ernight’s surfeit? Call the creatures
+ Whose naked natures live in all the spite
+ Of wreakful heaven, whose bare unhousèd trunks,
+FTLN 1795
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+230
+FTLN 1800
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+235
+FTLN 1805
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+240
+FTLN 1810
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+245
+FTLN 1815
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+250
+FTLN 1820
+FTLN 1821
+FTLN 1822
+FTLN 1823
+FTLN 1824
+255
+FTLN 1825
+
+--- PAGE 71 / 95 ---
+139
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+ To the conflicting elements exposed,
+ Answer mere nature. Bid them flatter thee.
+ O, thou shalt find—
+  
+ A fool of thee. Depart.
+ 
+ I love thee better now than e’er I did.
+ 
+ I hate thee worse.
+  
+ Why?
+  
+ Thou flatter’st misery.
+ 
+ I flatter not but say thou art a caitiff.
+  Why dost thou seek me out?
+  To vex thee.
+ 
+ Always a villain’s office or a fool’s.
+ Dost please thyself in ’t?
+  
+ Ay.
+  
+ What, a knave too?
+ 
+ If thou didst put this sour cold habit on
+ To castigate thy pride, ’twere well, but thou
+ Dost it enforcedly. Thou ’dst courtier be again
+ Wert thou not beggar. Willing misery
+ Outlives incertain pomp, is crowned before;
+ The one is filling still, never complete,
+ The other at high wish. Best state, contentless,
+ Hath a distracted and most wretched being,
+ Worse than the worst, content.
+ Thou shouldst desire to die, being miserable.
+ 
+ Not by his breath that is more miserable.
+ Thou art a slave whom Fortune’s tender arm
+ With favor never clasped but bred a dog.
+ Hadst thou, like us from our first swathe, proceeded
+ The sweet degrees that this brief world affords
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+260
+FTLN 1830
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+265
+FTLN 1835
+FTLN 1836
+FTLN 1837
+FTLN 1838
+FTLN 1839
+270
+FTLN 1840
+FTLN 1841
+FTLN 1842
+FTLN 1843
+FTLN 1844
+275
+FTLN 1845
+FTLN 1846
+FTLN 1847
+FTLN 1848
+FTLN 1849
+280
+FTLN 1850
+FTLN 1851
+FTLN 1852
+FTLN 1853
+FTLN 1854
+285
+FTLN 1855
+
+--- PAGE 72 / 95 ---
+141
+Timon of Athens
+ACT 4. SC. 3
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+He gnaws a root.
+APEMANTUS
+ To such as may the passive drugs of it
+ Freely command,  thou wouldst have plunged
+ thyself
+ In general riot, melted down thy youth
+ In different beds of lust, and never learned
+ The icy precepts of respect, but followed
+ The sugared game before thee. But myself—
+ Who had the world as my confectionary,
+ The mouths, the tongues, the eyes and hearts of
+ men
+ At duty, more than I could frame employment,
+ That numberless upon me stuck as leaves
+ Do on the oak, have with one winter’s brush
+ Fell from their boughs and left me open, bare,
+ For every storm that blows—I to bear this,
+ That never knew but better, is some burden.
+ Thy nature did commence in sufferance. Time
+ Hath made thee hard in ’t. Why shouldst thou hate
+ men?
+ They never flattered thee. What hast thou given?
+ If thou wilt curse, thy father, that poor rag,
+ Must be thy subject, who in spite put stuff
+ To some she-beggar and compounded thee
+ Poor rogue hereditary. Hence, begone.
+ If thou hadst not been born the worst of men,
+ Thou hadst been a knave and flatterer.
+ 
+ Art thou proud yet?
+  
+ Ay, that I am not thee.
+  I, that I was no prodigal.
+  I, that I am one now.
+ Were all the wealth I have shut up in thee,
+ I’d give thee leave to hang it. Get thee gone.
+ That the whole life of Athens were in this!
+ Thus would I eat it. 
+, offering food
+   Here, I will mend thy feast.
+FTLN 1856
+FTLN 1857
+FTLN 1858
+FTLN 1859
+290
+FTLN 1860
+FTLN 1861
+FTLN 1862
+FTLN 1863
+FTLN 1864
+295
+FTLN 1865
+FTLN 1866
+FTLN 1867
+FTLN 1868
+FTLN 1869
+300
+FTLN 1870
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+305
+FTLN 1875
+FTLN 1876
+FTLN 1877
+FTLN 1878
+FTLN 1879
+310
+FTLN 1880
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+315
+FTLN 1885
+FTLN 1886
+FTLN 1887
+FTLN 1888
+FTLN 1889
+320
+FTLN 1890
+
+--- PAGE 73 / 95 ---
+143
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+ 
+ First mend my  company. Take away thyself.
+ 
+ So I shall mend mine own by th’ lack of thine.
+ 
+ ’Tis not well mended so; it is but botched.
+ If not, I would it were.
+  What wouldst thou have to Athens?
+ 
+ Thee thither in a whirlwind. If thou wilt,
+ Tell them there I have gold. Look, so I have.
+ 
+ Here is no use for gold.
+  
+ The best and truest,
+ For here it sleeps and does no hired harm.
+  Where liest a-nights, Timon?
+  Under that’s above me. Where feed’st thou
+ a-days, Apemantus?
+  Where my stomach finds meat, or rather
+ where I eat it.
+  Would poison were obedient and knew my
+ mind!
+  Where wouldst thou send it?
+  To sauce thy dishes.
+  The middle of humanity thou never
+ knewest, but the extremity of both ends. When
+ thou wast in thy gilt and thy perfume, they
+ mocked thee for too much curiosity. In thy rags
+ thou know’st none, but art despised for the contrary.
+ There’s a medlar for thee. Eat it.
+  On what I hate I feed not.
+  Dost hate a medlar?
+  Ay, though it look like thee.
+  An thou ’dst hated meddlers sooner, thou
+ shouldst have loved thyself better now. What man
+ didst thou ever know unthrift that was beloved
+ after his means?
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+325
+FTLN 1895
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+330
+FTLN 1900
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+335
+FTLN 1905
+FTLN 1906
+FTLN 1907
+FTLN 1908
+FTLN 1909
+340
+FTLN 1910
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+345
+FTLN 1915
+FTLN 1916
+FTLN 1917
+FTLN 1918
+FTLN 1919
+350
+FTLN 1920
+FTLN 1921
+FTLN 1922
+
+--- PAGE 74 / 95 ---
+145
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+  Who, without those means thou talk’st of, didst
+ thou ever know beloved?
+  Myself.
+  I understand thee. Thou hadst some means to
+ keep a dog.
+  What things in the world canst thou nearest
+ compare to thy flatterers?
+  Women nearest, but men—men are the things
+ themselves. What wouldst thou do with the world,
+ Apemantus, if it lay in thy power?
+  Give it the beasts, to be rid of the men.
+  Wouldst thou have thyself fall in the confusion
+ of men and remain a beast with the beasts?
+  Ay, Timon.
+  A beastly ambition, which the gods grant thee
+ t’ attain to! If thou wert the lion, the fox would
+ beguile thee. If thou wert the lamb, the fox would
+ eat thee. If thou wert the fox, the lion would suspect
+ thee when peradventure thou wert accused by
+ the ass. If thou wert the ass, thy dullness would
+ torment thee, and still thou lived’st but as a breakfast
+ to the wolf. If thou wert the wolf, thy greediness
+ would afflict thee, and oft thou shouldst hazard
+ thy life for thy dinner. Wert thou the unicorn,
+ pride and wrath would confound thee and
+ make thine own self the conquest of thy fury. Wert
+ thou a bear, thou wouldst be killed by the horse.
+ Wert thou a horse, thou wouldst be seized by the
+ leopard. Wert thou a leopard, thou wert germane
+ to the lion, and the spots of thy kindred were
+ jurors on thy life. All thy safety were remotion, and
+ thy defense absence. What beast couldst thou be
+ that were not subject to a beast? And what a beast
+ art thou already that seest not thy loss in
+ transformation!
+  If thou couldst please me with speaking to
+FTLN 1923
+FTLN 1924
+355
+FTLN 1925
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+360
+FTLN 1930
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+365
+FTLN 1935
+FTLN 1936
+FTLN 1937
+FTLN 1938
+FTLN 1939
+370
+FTLN 1940
+FTLN 1941
+FTLN 1942
+FTLN 1943
+FTLN 1944
+375
+FTLN 1945
+FTLN 1946
+FTLN 1947
+FTLN 1948
+FTLN 1949
+380
+FTLN 1950
+FTLN 1951
+FTLN 1952
+FTLN 1953
+FTLN 1954
+385
+FTLN 1955
+FTLN 1956
+FTLN 1957
+FTLN 1958
+
+--- PAGE 75 / 95 ---
+147
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+Timon throws a stone at Apemantus.
+APEMANTUS
+TIMON
+APEMANTUS
+ me, thou mightst have hit upon it here. The commonwealth
+ of Athens is become a forest of beasts.
+  How, has the ass broke the wall that thou art
+ out of the city?
+  Yonder comes a poet and a painter. The
+ plague of company light upon thee! I will fear to
+ catch it and give way. When I know not what else
+ to do, I’ll see thee again.
+  When there is nothing living but thee, thou
+ shalt be welcome. I had rather be a beggar’s dog
+ than Apemantus.
+ 
+ Thou art the cap of all the fools alive.
+ 
+ Would thou wert clean enough to spit upon!
+ 
+ A plague on thee! Thou art too bad to curse.
+ 
+ All villains that do stand by thee are pure.
+ 
+ There is no leprosy but what thou speak’st.
+  If I name thee.
+ I’ll beat thee, but I should infect my hands.
+  I would my tongue could rot them off!
+ 
+ Away, thou issue of a mangy dog!
+ Choler does kill me that thou art alive.
+ I swoon to see thee.
+ 
+ Would thou wouldst burst!
+  
+ Away, thou tedious rogue!
+ I am sorry I shall lose a stone by thee.
+  Beast!
+  Slave!
+  Toad!
+FTLN 1959
+390
+FTLN 1960
+FTLN 1961
+FTLN 1962
+FTLN 1963
+FTLN 1964
+395
+FTLN 1965
+FTLN 1966
+FTLN 1967
+FTLN 1968
+FTLN 1969
+400
+FTLN 1970
+FTLN 1971
+FTLN 1972
+FTLN 1973
+FTLN 1974
+405
+FTLN 1975
+FTLN 1976
+FTLN 1977
+FTLN 1978
+FTLN 1979
+410
+FTLN 1980
+FTLN 1981
+FTLN 1982
+FTLN 1983
+FTLN 1984
+415
+FTLN 1985
+FTLN 1986
+
+--- PAGE 76 / 95 ---
+149
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+TIMON
+APEMANTUS
+Apemantus exits.
+FIRST BANDIT
+  Rogue, rogue, rogue!
+ I am sick of this false world, and will love nought
+ But even the mere necessities upon ’t.
+ Then, Timon, presently prepare thy grave.
+ Lie where the light foam of the sea may beat
+ Thy gravestone daily. Make thine epitaph,
+ That death in me at others’ lives may laugh.
+  ( To his gold. ) O thou sweet king-killer and dear
+ divorce
+ ’Twixt natural son and sire,  thou bright defiler
+ Of Hymen’s purest bed, thou valiant Mars,
+ Thou ever young, fresh, loved, and delicate wooer,
+ Whose blush doth thaw the consecrated snow
+ That lies on Dian’s lap; thou visible god,
+ That sold’rest close impossibilities
+ And mak’st them kiss, that speak’st with every
+ tongue
+ To every purpose! O thou touch of hearts,
+ Think thy slave, man, rebels, and by thy virtue
+ Set them into confounding odds, that beasts
+ May have the world in empire!
+  
+ Would ’twere so!
+ But not till I am dead. I’ll say thou ’st gold;
+ Thou wilt be thronged to shortly.
+  
+ Thronged to?
+  
+ Ay.
+ 
+ Thy back, I prithee.
+  
+ Live and love thy misery.
+  Long live so, and so die. I am quit.
+Enter the Banditti.
+ 
+ More things like men.—Eat, Timon, and abhor
+ them.  
+  Where should he have this gold? It is
+FTLN 1987
+FTLN 1988
+FTLN 1989
+420
+FTLN 1990
+FTLN 1991
+FTLN 1992
+FTLN 1993
+FTLN 1994
+425
+FTLN 1995
+FTLN 1996
+FTLN 1997
+FTLN 1998
+FTLN 1999
+430
+FTLN 2000
+FTLN 2001
+FTLN 2002
+FTLN 2003
+FTLN 2004
+435
+FTLN 2005
+FTLN 2006
+FTLN 2007
+FTLN 2008
+FTLN 2009
+440
+FTLN 2010
+FTLN 2011
+FTLN 2012
+FTLN 2013
+FTLN 2014
+445
+FTLN 2015
+FTLN 2016
+FTLN 2017
+FTLN 2018
+
+--- PAGE 77 / 95 ---
+151
+Timon of Athens
+ACT 4. SC. 3
+SECOND BANDIT
+THIRD BANDIT
+SECOND BANDIT
+FIRST BANDIT
+OTHERS
+SECOND BANDIT
+THIRD BANDIT
+ALL
+TIMON
+ALL
+TIMON
+ALL
+TIMON
+FIRST BANDIT
+TIMON
+ some poor fragment, some slender ort of his
+ remainder. The mere want of gold and the falling-from
+ of his friends drove him into this melancholy.
+  It is noised he hath a mass of treasure.
+  Let us make the assay upon him. If he
+ care not for ’t, he will supply us easily. If he covetously
+ reserve it, how shall ’s get it?
+  True, for he bears it not about him. ’Tis
+ hid.
+  Is not this he?
+  Where?
+  ’Tis his description.
+  He. I know him.
+  Save thee, Timon.
+  Now, thieves?
+ 
+ Soldiers, not thieves.
+  
+ Both, too, and women’s sons.
+ 
+ We are not thieves, but men that much do want.
+ 
+ Your greatest want is, you want much of meat.
+ Why should you want? Behold, the earth hath roots.
+ Within this mile break forth a hundred springs.
+ The oaks bear mast, the briars scarlet hips.
+ The bounteous huswife Nature on each bush
+ Lays her full mess before you. Want? Why want?
+ 
+ We cannot live on grass, on berries, water,
+ As beasts and birds and fishes.
+ 
+ Nor on the beasts themselves, the birds and fishes;
+ You must eat men. Yet thanks I must you con
+ That you are thieves professed, that you work not
+ In holier shapes, for there is boundless theft
+ In limited professions. Rascal thieves,
+FTLN 2019
+450
+FTLN 2020
+FTLN 2021
+FTLN 2022
+FTLN 2023
+FTLN 2024
+455
+FTLN 2025
+FTLN 2026
+FTLN 2027
+FTLN 2028
+FTLN 2029
+460
+FTLN 2030
+FTLN 2031
+FTLN 2032
+FTLN 2033
+FTLN 2034
+465
+FTLN 2035
+FTLN 2036
+FTLN 2037
+FTLN 2038
+FTLN 2039
+470
+FTLN 2040
+FTLN 2041
+FTLN 2042
+FTLN 2043
+FTLN 2044
+475
+FTLN 2045
+FTLN 2046
+FTLN 2047
+FTLN 2048
+FTLN 2049
+480
+
+--- PAGE 78 / 95 ---
+153
+Timon of Athens
+ACT 4. SC. 3
+THIRD BANDIT
+FIRST BANDIT
+SECOND BANDIT
+FIRST BANDIT
+Thieves exit.
+FLAVIUS
+ Here’s gold.  ( He gives them gold. ) Go, suck the
+ subtle blood o’ th’ grape
+ Till the high fever seethe your blood to froth,
+ And so ’scape hanging. Trust not the physician;
+ His antidotes are poison, and he slays
+ More than you rob. Take wealth and lives together.
+ Do, villainy,  do, since you protest to do ’t,
+ Like workmen. I’ll example you with thievery.
+ The sun’s a thief and with his great attraction
+ Robs the vast sea. The moon’s an arrant thief,
+ And her pale fire she snatches from the sun.
+ The sea’s a thief, whose liquid surge resolves
+ The moon into salt tears. The earth’s a thief,
+ That feeds and breeds by a composture stol’n
+ From gen’ral excrement. Each thing’s a thief.
+ The laws, your curb and whip, in their rough power
+ Has unchecked theft. Love not yourselves. Away!
+ Rob one another. There’s more gold.  ( He gives them
+ gold. )  Cut throats.
+ All that you meet are thieves. To Athens go.
+ Break open shops. Nothing can you steal
+ But thieves do lose it. Steal less for this I give you,
+ And gold confound you howsoe’er! Amen.
+  Has almost charmed me from my profession
+ by persuading me to it.
+  ’Tis in the malice of mankind that he
+ thus advises us, not to have us thrive in our
+ mystery.
+  I’ll believe him as an enemy and give
+ over my trade.
+  Let us first see peace in Athens. There is
+ no time so miserable but a man may be true.
+Enter Flavius  the Steward, to Timon.
+  O you gods!
+FTLN 2050
+FTLN 2051
+FTLN 2052
+FTLN 2053
+FTLN 2054
+485
+FTLN 2055
+FTLN 2056
+FTLN 2057
+FTLN 2058
+FTLN 2059
+490
+FTLN 2060
+FTLN 2061
+FTLN 2062
+FTLN 2063
+FTLN 2064
+495
+FTLN 2065
+FTLN 2066
+FTLN 2067
+FTLN 2068
+FTLN 2069
+500
+FTLN 2070
+FTLN 2071
+FTLN 2072
+FTLN 2073
+FTLN 2074
+505
+FTLN 2075
+FTLN 2076
+FTLN 2077
+FTLN 2078
+FTLN 2079
+510
+FTLN 2080
+FTLN 2081
+FTLN 2082
+
+--- PAGE 79 / 95 ---
+155
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+TIMON
+FLAVIUS
+He weeps.
+TIMON
+ Is yond despised and ruinous man my lord?
+ Full of decay and flailing? O, monument
+ And wonder of good deeds evilly bestowed!
+ What an alteration of honor has desp’rate want
+ made!
+ What viler thing upon the Earth than friends,
+ Who can bring noblest minds to basest ends!
+ How rarely does it meet with this time’s guise,
+ When man was wished to love his enemies!
+ Grant I may ever love, and rather woo
+ Those that would mischief me than those that do!
+ Has caught me in his eye. I will present
+ My honest grief unto him and as my lord
+ Still serve him with my life.—My dearest master.
+ 
+ Away! What art thou?
+  
+ Have you forgot me, sir?
+ 
+ Why dost ask that? I have forgot all men.
+ Then, if thou grant’st  thou ’rt a man, I have forgot
+ thee.
+  An honest poor servant of yours.
+  Then I know thee not.
+ I never had honest man about me, I. All
+ I kept were knaves to serve in meat to villains.
+  The gods are witness,
+ Ne’er did poor steward wear a truer grief
+ For his undone lord than mine eyes for you.
+ 
+ What, dost thou weep? Come nearer, then. I love
+ thee
+ Because thou art a woman and disclaim’st
+ Flinty mankind, whose eyes do never give
+ But thorough lust and laughter. Pity’s sleeping.
+FTLN 2083
+FTLN 2084
+515
+FTLN 2085
+FTLN 2086
+FTLN 2087
+FTLN 2088
+FTLN 2089
+520
+FTLN 2090
+FTLN 2091
+FTLN 2092
+FTLN 2093
+FTLN 2094
+525
+FTLN 2095
+FTLN 2096
+FTLN 2097
+FTLN 2098
+FTLN 2099
+530
+FTLN 2100
+FTLN 2101
+FTLN 2102
+FTLN 2103
+FTLN 2104
+535
+FTLN 2105
+FTLN 2106
+FTLN 2107
+FTLN 2108
+FTLN 2109
+540
+FTLN 2110
+FTLN 2111
+FTLN 2112
+FTLN 2113
+
+--- PAGE 80 / 95 ---
+157
+Timon of Athens
+ACT 4. SC. 3
+FLAVIUS
+He offers money.
+TIMON
+FLAVIUS
+ Strange times that weep with laughing, not with
+ weeping!
+ 
+ I beg of you to know me, good my lord,
+ T’ accept my grief, and, whilst this poor wealth lasts,
+ To entertain me as your steward still.
+  Had I a steward
+ So true, so just, and now so comfortable?
+ It almost turns my dangerous nature mild.
+ Let me behold thy face. Surely this man
+ Was born of woman.
+ Forgive my general and exceptless rashness,
+ You perpetual-sober gods. I do proclaim
+ One honest man—mistake me not, but one;
+ No more, I pray!—and he’s a steward.
+ How fain would I have hated all mankind,
+ And thou redeem’st thyself. But all, save thee,
+ I fell with curses.
+ Methinks thou art more honest now than wise,
+ For by oppressing and betraying me
+ Thou mightst have sooner got another service;
+ For many so arrive at second masters
+ Upon their first lord’s neck. But tell me true—
+ For I must ever doubt, though ne’er so sure—
+ Is not thy kindness subtle, covetous,
+ A usuring kindness, and as rich men deal gifts,
+ Expecting in return twenty for one?
+ 
+ No, my most worthy master, in whose breast
+ Doubt and suspect, alas, are placed too late.
+ You should have feared false times when you did
+ feast.
+ Suspect still comes where an estate is least.
+ That which I show, heaven knows, is merely love,
+ Duty, and zeal to your unmatchèd mind,
+FTLN 2114
+545
+FTLN 2115
+FTLN 2116
+FTLN 2117
+FTLN 2118
+FTLN 2119
+550
+FTLN 2120
+FTLN 2121
+FTLN 2122
+FTLN 2123
+FTLN 2124
+555
+FTLN 2125
+FTLN 2126
+FTLN 2127
+FTLN 2128
+FTLN 2129
+560
+FTLN 2130
+FTLN 2131
+FTLN 2132
+FTLN 2133
+FTLN 2134
+565
+FTLN 2135
+FTLN 2136
+FTLN 2137
+FTLN 2138
+FTLN 2139
+570
+FTLN 2140
+FTLN 2141
+FTLN 2142
+FTLN 2143
+FTLN 2144
+575
+FTLN 2145
+FTLN 2146
+
+--- PAGE 81 / 95 ---
+159
+Timon of Athens
+ACT 4. SC. 3
+TIMON
+FLAVIUS
+TIMON
+They  exit.
+ Care of your food and living. And believe it,
+ My most honored lord,
+ For any benefit that points to me,
+ Either in hope or present, I’d exchange
+ For this one wish, that you had power and wealth
+ To requite me by making rich yourself.
+ 
+ Look thee, ’tis so. Thou singly honest man,
+ Here, take.  ( Timon offers gold. ) The gods out of my
+ misery
+ Has sent thee treasure. Go, live rich and happy,
+ But thus conditioned: thou shalt build from men;
+ Hate all, curse all, show charity to none,
+ But let the famished flesh slide from the bone
+ Ere thou relieve the beggar; give to dogs
+ What thou deniest to men; let prisons swallow ’em,
+ Debts wither ’em to nothing; be men like blasted
+ woods,
+ And may diseases lick up their false bloods!
+ And so farewell and thrive.
+  
+ O, let me stay
+ And comfort you, my master.
+  
+ If thou hat’st curses,
+ Stay not. Fly whilst thou art blest and free.
+ Ne’er see thou man, and let me ne’er see thee.
+FTLN 2147
+FTLN 2148
+FTLN 2149
+580
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+FTLN 2154
+585
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+FTLN 2159
+590
+FTLN 2160
+FTLN 2161
+FTLN 2162
+FTLN 2163
+FTLN 2164
+595
+FTLN 2165
+FTLN 2166
+FTLN 2167
+FTLN 2168
+FTLN 2169
+600
+FTLN 2170
+
+--- PAGE 82 / 95 ---
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+PAINTER
+POET
+Enter Poet and Painter.
+  As I took note of the place, it cannot be far
+ where he abides.
+  What’s to be thought of him? Does the rumor
+ hold for true that he’s so full of gold?
+  Certain. Alcibiades reports it. Phrynia and
+ Timandra had gold of him. He likewise enriched
+ poor straggling soldiers with great quantity. ’Tis
+ said he gave unto his steward a mighty sum.
+  Then this breaking of his has been but a try for
+ his friends?
+  Nothing else. You shall see him a palm in
+ Athens again, and flourish with the highest. Therefore
+ ’tis not amiss we tender our loves to him in
+ this supposed distress of his. It will show honestly
+ in us and is very likely to load our purposes with
+ what they travail for, if it be a just and true report
+ that goes of his having.
+Enter Timon, behind them,  from his cave.
+  What have you now to present unto him?
+  Nothing at this time but my visitation. Only I
+ will promise him an excellent piece.
+  I must serve him so too—tell him of an intent
+ that’s coming toward him.
+163
+ACT 5
+Scene 1
+FTLN 2171
+FTLN 2172
+FTLN 2173
+FTLN 2174
+FTLN 2175
+5
+FTLN 2176
+FTLN 2177
+FTLN 2178
+FTLN 2179
+FTLN 2180
+10
+FTLN 2181
+FTLN 2182
+FTLN 2183
+FTLN 2184
+FTLN 2185
+15
+FTLN 2186
+FTLN 2187
+FTLN 2188
+FTLN 2189
+FTLN 2190
+20
+FTLN 2191
+FTLN 2192
+
+--- PAGE 83 / 95 ---
+165
+Timon of Athens
+ACT 5. SC. 1
+PAINTER
+TIMON
+POET
+TIMON
+POET
+PAINTER
+TIMON
+He comes forward.
+POET
+  Good as the best. Promising is the very air o’
+ th’ time; it opens the eyes of expectation. Performance
+ is ever the duller for his act, and but in the
+ plainer and simpler kind of people the deed of saying
+ is quite out of use. To promise is most courtly
+ and fashionable. Performance is a kind of will or
+ testament which argues a great sickness in his
+ judgment that makes it.
+, aside
+  Excellent workman! Thou canst not
+ paint a man so bad as is thyself.
+  I am thinking what I shall say I have provided
+ for him. It must be a personating of himself, a
+ satire against the softness of prosperity, with a discovery
+ of the infinite flatteries that follow youth
+ and opulency.
+, aside
+  Must thou needs stand for a villain in
+ thine own work? Wilt thou whip thine own faults
+ in other men? Do so. I have gold for thee.
+  Nay, let’s seek him.
+ Then do we sin against our own estate
+ When we may profit meet and come too late.
+  True.
+ When the day serves, before black-cornered night,
+ Find what thou want’st by free and offered light.
+ Come.
+, aside
+ 
+ I’ll meet you at the turn. What a god’s gold
+ That he is worshiped in a baser temple
+ Than where swine feed!
+ ’Tis thou that rigg’st the bark and plow’st the foam,
+ Settlest admirèd reverence in a slave.
+ To thee be worship,  and thy saints for aye
+ Be crowned with plagues, that thee alone obey!
+ Fit I meet them. 
+ 
+ Hail, worthy Timon.
+FTLN 2193
+FTLN 2194
+FTLN 2195
+25
+FTLN 2196
+FTLN 2197
+FTLN 2198
+FTLN 2199
+FTLN 2200
+30
+FTLN 2201
+FTLN 2202
+FTLN 2203
+FTLN 2204
+FTLN 2205
+35
+FTLN 2206
+FTLN 2207
+FTLN 2208
+FTLN 2209
+FTLN 2210
+40
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+FTLN 2215
+45
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+FTLN 2220
+50
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+FTLN 2225
+55
+FTLN 2226
+
+--- PAGE 84 / 95 ---
+167
+Timon of Athens
+ACT 5. SC. 1
+PAINTER
+TIMON
+POET
+TIMON
+PAINTER
+TIMON
+PAINTER
+TIMON
+BOTH
+TIMON
+PAINTER
+TIMON
+  
+ Our late noble master.
+ 
+ Have I once lived to see two honest men?
+  Sir,
+ Having often of your open bounty tasted,
+ Hearing you were retired, your friends fall’n off,
+ Whose thankless natures—O, abhorrèd spirits!
+ Not all the whips of heaven are large enough—
+ What, to you,
+ Whose starlike nobleness gave life and influence
+ To their whole being? I am rapt and cannot cover
+ The monstrous bulk of this ingratitude
+ With any size of words.
+ 
+ Let it go naked. Men may see ’t the better.
+ You that are honest, by being what you are
+ Make them best seen and known.
+  
+ He and myself
+ Have travailed in the great shower of your gifts
+ And sweetly felt it.
+  
+ Ay, you are honest men.
+ 
+ We are hither come to offer you our service.
+ 
+ Most honest men! Why, how shall I requite you?
+ Can you eat roots and drink cold water? No?
+ 
+ What we can do we’ll do to do you service.
+ 
+ You’re honest men. You’ve heard that I have gold.
+ I am sure you have. Speak truth. You’re honest men.
+ 
+ So it is said, my noble lord, but therefor
+ Came not my friend nor I.
+ 
+ Good honest men.  ( To the Painter. ) Thou draw’st a
+ counterfeit
+FTLN 2227
+FTLN 2228
+FTLN 2229
+FTLN 2230
+60
+FTLN 2231
+FTLN 2232
+FTLN 2233
+FTLN 2234
+FTLN 2235
+65
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+FTLN 2240
+70
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+FTLN 2245
+75
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+FTLN 2250
+80
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+FTLN 2255
+85
+
+--- PAGE 85 / 95 ---
+169
+Timon of Athens
+ACT 5. SC. 1
+PAINTER
+TIMON
+BOTH
+TIMON
+BOTH
+TIMON
+BOTH
+TIMON
+BOTH
+TIMON
+PAINTER
+POET
+TIMON
+BOTH
+ Best in all Athens. Thou ’rt indeed the best.
+ Thou counterfeit’st most lively.
+  
+ So-so, my lord.
+ 
+ E’en so, sir, as I say.  ( To the Poet. ) And for thy
+ fiction,
+ Why, thy verse swells with stuff so fine and smooth
+ That thou art even natural in thine art.
+ But for all this, my honest-natured friends,
+ I must needs say you have a little fault.
+ Marry, ’tis not monstrous in you, neither wish I
+ You take much pains to mend.
+  
+ Beseech your Honor
+ To make it known to us.
+  
+ You’ll take it ill.
+  Most thankfully, my lord.
+  Will you indeed?
+  Doubt it not, worthy lord.
+ 
+ There’s never a one of you but trusts a knave
+ That mightily deceives you.
+  
+ Do we, my lord?
+ 
+ Ay, and you hear him cog, see him dissemble,
+ Know his gross patchery, love him, feed him,
+ Keep in your bosom. Yet remain assured
+ That he’s a made-up villain.
+  I know none such, my lord.
+  Nor I.
+ 
+ Look you, I love you well. I’ll give you gold.
+ Rid me these villains from your companies,
+ Hang them or stab them, drown them in a draft,
+ Confound them by some course, and come to me,
+ I’ll give you gold enough.
+  Name them, my lord, let ’s know them.
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+FTLN 2260
+90
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+FTLN 2265
+95
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+FTLN 2270
+100
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+FTLN 2275
+105
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+FTLN 2280
+110
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+FTLN 2285
+115
+FTLN 2286
+FTLN 2287
+
+--- PAGE 86 / 95 ---
+171
+Timon of Athens
+ACT 5. SC. 1
+TIMON
+Timon drives them out and then  exits.
+FLAVIUS
+FIRST SENATOR
+SECOND SENATOR
+FLAVIUS
+ 
+ You that way and you this, but two in company.
+ Each man apart, all single and alone,
+ Yet an archvillain keeps him company.
+  ( To one. ) If where thou art, two villains shall not be,
+ Come not near him.  ( To the other. ) If thou wouldst
+ not reside
+ But where one villain is, then him abandon.—
+ Hence, pack. There’s gold. You came for gold, you
+ slaves.
+  ( To one. ) You have work for me. There’s payment.
+ Hence.
+  ( To the other. ) You are an alchemist; make gold of
+ that.
+ Out, rascal dogs!
+Enter Steward Flavius,  and two Senators.
+ 
+ It is vain that you would speak with Timon,
+ For he is set so only to himself
+ That nothing but himself which looks like man
+ Is friendly with him.
+  
+ Bring us to his cave.
+ It is our part and promise to th’ Athenians
+ To speak with Timon.
+  
+ At all times alike
+ Men are not still the same. ’Twas time and griefs
+ That framed him thus. Time, with his fairer hand
+ Offering the fortunes of his former days,
+ The former man may make him. Bring us to him,
+ And chance  it as it may.
+  
+ Here is his cave.—
+ Peace and content be here! Lord Timon! Timon!
+ Look out, and speak to friends. Th’ Athenians
+ By two of their most reverend Senate greet thee.
+ Speak to them, noble Timon.
+FTLN 2288
+FTLN 2289
+FTLN 2290
+120
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+FTLN 2295
+125
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+FTLN 2300
+130
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+FTLN 2305
+135
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+FTLN 2310
+140
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+FTLN 2315
+145
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+
+--- PAGE 87 / 95 ---
+173
+Timon of Athens
+ACT 5. SC. 1
+TIMON
+FIRST SENATOR
+TIMON
+FIRST SENATOR
+TIMON
+FIRST SENATOR
+SECOND SENATOR
+TIMON
+Enter Timon out of his cave.
+ 
+ Thou sun that comforts, burn!—Speak and be
+ hanged!
+ For each true word a blister, and each false
+ Be as a cauterizing to the root o’ th’ tongue,
+ Consuming it with speaking.
+  
+ Worthy Timon—
+ 
+ Of none but such as you, and you of Timon.
+ 
+ The Senators of Athens greet thee, Timon.
+ 
+ I thank them and would send them back the plague,
+ Could I but catch it for them.
+  
+ O, forget
+ What we are sorry for ourselves in thee.
+ The Senators with one consent of love
+ Entreat thee back to Athens, who have thought
+ On special dignities which vacant lie
+ For thy best use and wearing.
+  
+ They confess
+ Toward thee forgetfulness too general gross;
+ Which now the public body, which doth seldom
+ Play the recanter, feeling in itself
+ A lack of Timon’s aid, hath sense  withal
+ Of it own fall, restraining aid to Timon,
+ And send forth us to make their sorrowed render,
+ Together with a recompense more fruitful
+ Than their offense can weigh down by the dram—
+ Ay, even such heaps and sums of love and wealth
+ As shall to thee blot out what wrongs were theirs
+ And write in thee the figures of their love,
+ Ever to read them thine.
+  
+ You witch me in it,
+FTLN 2320
+150
+FTLN 2321
+FTLN 2322
+FTLN 2323
+FTLN 2324
+FTLN 2325
+155
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+FTLN 2330
+160
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+FTLN 2335
+165
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+FTLN 2340
+170
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+FTLN 2345
+175
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+
+--- PAGE 88 / 95 ---
+175
+Timon of Athens
+ACT 5. SC. 1
+FIRST SENATOR
+SECOND SENATOR
+FIRST SENATOR
+TIMON
+FLAVIUS
+TIMON
+ Surprise me to the very brink of tears.
+ Lend me a fool’s heart and a woman’s eyes,
+ And I’ll beweep these comforts, worthy senators.
+ 
+ Therefore, so please thee to return with us
+ And of our Athens, thine and ours, to take
+ The captainship, thou shalt be met with thanks;
+ Allowed with absolute power, and thy good name
+ Live with authority. So soon we shall drive back
+ Of Alcibiades th’ approaches wild,
+ Who like a boar too savage doth root up
+ His country’s peace.
+  
+ And shakes his threat’ning sword
+ Against the walls of Athens.
+  
+ Therefore, Timon—
+ 
+ Well sir, I will. Therefore I will, sir, thus:
+ If Alcibiades kill my countrymen,
+ Let Alcibiades know this of Timon—
+ That Timon cares not. But if he sack fair Athens
+ And take our goodly agèd men by th’ beards,
+ Giving our holy virgins to the stain
+ Of contumelious, beastly, mad-brained war,
+ Then let him know, and tell him Timon speaks it
+ In pity of our agèd and our youth,
+ I cannot choose but tell him that I care not,
+ And let him take ’t at worst—for their knives care not,
+ While you have throats to answer. For myself,
+ There’s not a whittle in th’ unruly camp
+ But I do prize it at my love before
+ The reverend’st throat in Athens. So I leave you
+ To the protection of the prosperous gods
+ As thieves to keepers.
+, to Senators
+   Stay not. All’s in vain.
+ 
+ Why, I was writing of my epitaph.
+FTLN 2350
+180
+FTLN 2351
+FTLN 2352
+FTLN 2353
+FTLN 2354
+FTLN 2355
+185
+FTLN 2356
+FTLN 2357
+FTLN 2358
+FTLN 2359
+FTLN 2360
+190
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+FTLN 2365
+195
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+FTLN 2370
+200
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+FTLN 2375
+205
+FTLN 2376
+FTLN 2377
+FTLN 2378
+FTLN 2379
+FTLN 2380
+210
+FTLN 2381
+FTLN 2382
+
+--- PAGE 89 / 95 ---
+177
+Timon of Athens
+ACT 5. SC. 1
+FIRST SENATOR
+TIMON
+FIRST SENATOR
+TIMON
+FIRST SENATOR
+SECOND SENATOR
+TIMON
+FIRST SENATOR
+TIMON
+ It will be seen tomorrow. My long sickness
+ Of health and living now begins to mend,
+ And nothing brings me all things. Go, live still.
+ Be Alcibiades your plague, you his,
+ And last so long enough!
+  
+ We speak in vain.
+ 
+ But yet I love my country and am not
+ One that rejoices in the common wrack,
+ As common bruit doth put it.
+  
+ That’s well spoke.
+ 
+ Commend me to my loving countrymen.
+ 
+ These words become your lips as they pass through
+ them.
+ 
+ And enter in our ears like great triumphers
+ In their applauding gates.
+  
+ Commend me to them
+ And tell them that, to ease them of their griefs,
+ Their fears of hostile strokes, their aches, losses,
+ Their pangs of love, with other incident throes
+ That nature’s fragile vessel doth sustain
+ In life’s uncertain voyage, I will some kindness do
+ them.
+ I’ll teach them to prevent wild Alcibiades’ wrath.
+, to Second Senator
+ 
+ I like this well. He will return again.
+ 
+ I have a tree, which grows here in my close,
+ That mine own use invites me to cut down,
+ And shortly must I fell it. Tell my friends,
+ Tell Athens, in the sequence of degree
+ From high to low throughout, that whoso please
+ To stop affliction, let him take his haste,
+FTLN 2383
+FTLN 2384
+FTLN 2385
+215
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+FTLN 2390
+220
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+FTLN 2395
+225
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+FTLN 2400
+230
+FTLN 2401
+FTLN 2402
+FTLN 2403
+FTLN 2404
+FTLN 2405
+235
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+FTLN 2410
+240
+FTLN 2411
+FTLN 2412
+
+--- PAGE 90 / 95 ---
+179
+Timon of Athens
+ACT 5. SC. 2
+FLAVIUS
+TIMON
+Timon exits.
+FIRST SENATOR
+SECOND SENATOR
+FIRST SENATOR
+They exit.
+THIRD  SENATOR
+MESSENGER
+ Come hither ere my tree hath felt the ax,
+ And hang himself. I pray you, do my greeting.
+, to Senators
+ 
+ Trouble him no further. Thus you still shall find him.
+ 
+ Come not to me again, but say to Athens,
+ Timon hath made his everlasting mansion
+ Upon the beachèd verge of the salt flood,
+ Who once a day with his embossèd froth
+ The turbulent surge shall cover. Thither come
+ And let my gravestone be your oracle.
+ Lips, let four words go by and language end.
+ What is amiss, plague and infection mend.
+ Graves only be men’s works, and death their gain.
+ Sun, hide thy beams. Timon hath done his reign.
+ 
+ His discontents are unremovably
+ Coupled to nature.
+ 
+ Our hope in him is dead. Let us return
+ And strain what other means is left unto us
+ In our dear peril.
+  
+ It requires swift foot.
+Enter two other Senators, with a Messenger.
+ 
+ Thou hast painfully discovered. Are his files
+ As full as thy report?
+  
+ I have spoke the least.
+ Besides, his expedition promises
+ Present approach.
+FTLN 2413
+FTLN 2414
+FTLN 2415
+245
+FTLN 2416
+FTLN 2417
+FTLN 2418
+FTLN 2419
+FTLN 2420
+250
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+FTLN 2425
+255
+FTLN 2426
+FTLN 2427
+FTLN 2428
+FTLN 2429
+FTLN 2430
+260
+FTLN 2431
+Scene 2
+FTLN 2432
+FTLN 2433
+FTLN 2434
+FTLN 2435
+FTLN 2436
+5
+
+--- PAGE 91 / 95 ---
+181
+Timon of Athens
+ACT 5. SC. 3
+FOURTH  SENATOR
+MESSENGER
+THIRD  SENATOR
+FIRST  SENATOR
+They exit.
+SOLDIER
+ 
+ We stand much hazard if they bring not Timon.
+ 
+ I met a courier, one mine ancient friend,
+ Whom, though in general part we were opposed,
+ Yet our old love made a particular force
+ And made us speak like friends. This man was riding
+ From Alcibiades to Timon’s cave
+ With letters of entreaty which imported
+ His fellowship i’ th’ cause against your city,
+ In part for his sake moved.
+Enter the other Senators.
+  
+ Here come our brothers.
+ 
+ No talk of Timon; nothing of him expect.
+ The enemy’s drum is heard, and fearful scouring
+ Doth choke the air with dust. In, and prepare.
+ Ours is the fall, I fear, our foe’s the snare.
+Enter a Soldier in the woods, seeking Timon.
+ 
+ By all description this should be the place.
+ Who’s here? Speak, ho! No answer? What is this?
+He reads an epitaph.
+ Timon is dead, who hath out-stretched his span.
+ Some beast read this; there does not live a man.
+ Dead, sure, and this his grave. What’s on this tomb
+ I cannot read. The character I’ll take with wax.
+ Our captain hath in every figure skill,
+ An aged interpreter, though young in days.
+FTLN 2437
+FTLN 2438
+FTLN 2439
+FTLN 2440
+FTLN 2441
+10
+FTLN 2442
+FTLN 2443
+FTLN 2444
+FTLN 2445
+FTLN 2446
+15
+FTLN 2447
+FTLN 2448
+FTLN 2449
+FTLN 2450
+Scene 3
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+FTLN 2455
+5
+FTLN 2456
+FTLN 2457
+FTLN 2458
+
+--- PAGE 92 / 95 ---
+183
+Timon of Athens
+ACT 5. SC. 4
+He exits.
+ALCIBIADES
+Sounds a parley.
+FIRST SENATOR
+SECOND SENATOR
+ Before proud Athens he’s set down by this,
+ Whose fall the mark of his ambition is.
+Trumpets sound. Enter Alcibiades with his Powers
+before Athens.
+ 
+ Sound to this coward and lascivious town
+ Our terrible approach. 
+The Senators appear upon the walls.
+ Till now you have gone on and filled the time
+ With all licentious measure, making your wills
+ The scope of justice. Till now myself and such
+ As slept within the shadow of your power
+ Have wandered with our traversed arms and breathed
+ Our sufferance vainly. Now the time is flush,
+ When crouching marrow in the bearer strong
+ Cries of itself “No more!” Now breathless wrong
+ Shall sit and pant in your great chairs of ease,
+ And pursy insolence shall break his wind
+ With fear and horrid flight.
+  
+ Noble and young,
+ When thy first griefs were but a mere conceit,
+ Ere thou hadst power or we had cause of fear,
+ We sent to thee to give thy rages balm,
+ To wipe out our ingratitude with loves
+ Above their quantity.
+  
+ So did we woo
+ Transformèd Timon to our city’s love
+ By humble message and by promised means.
+ We were not all unkind, nor all deserve
+ The common stroke of war.
+FTLN 2459
+FTLN 2460
+10
+Scene 4
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+FTLN 2465
+5
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+FTLN 2470
+10
+FTLN 2471
+FTLN 2472
+FTLN 2473
+FTLN 2474
+FTLN 2475
+15
+FTLN 2476
+FTLN 2477
+FTLN 2478
+FTLN 2479
+FTLN 2480
+20
+FTLN 2481
+FTLN 2482
+FTLN 2483
+FTLN 2484
+
+--- PAGE 93 / 95 ---
+185
+Timon of Athens
+ACT 5. SC. 4
+FIRST SENATOR
+SECOND SENATOR
+FIRST SENATOR
+SECOND SENATOR
+FIRST SENATOR
+SECOND SENATOR
+  
+ These walls of ours
+ Were not erected by their hands from whom
+ You have received your grief, nor are they such
+ That these great towers, trophies, and schools
+ should fall
+ For private faults in them.
+  
+ Nor are they living
+ Who were the motives that you first went out.
+ Shame, that they wanted cunning, in excess
+ Hath broke their hearts. March, noble lord,
+ Into our city with thy banners spread.
+ By decimation and a tithèd death,
+ If thy revenges hunger for that food
+ Which nature loathes, take thou the destined tenth
+ And, by the hazard of the spotted die,
+ Let die the spotted.
+  
+ All have not offended.
+ For those that were, it is not square to take,
+ On those that are, revenge. Crimes, like lands,
+ Are not inherited. Then, dear countryman,
+ Bring in thy ranks but leave without thy rage.
+ Spare thy Athenian cradle and those kin
+ Which in the bluster of thy wrath must fall
+ With those that have offended. Like a shepherd
+ Approach the fold and cull th’ infected forth,
+ But kill not all together.
+  
+ What thou wilt,
+ Thou rather shalt enforce it with thy smile
+ Than hew to ’t with thy sword.
+  
+ Set but thy foot
+ Against our rampired gates and they shall ope,
+ So thou wilt send thy gentle heart before
+ To say thou ’lt enter friendly.
+  
+ Throw thy glove,
+ Or any token of thine honor else,
+ That thou wilt use the wars as thy redress
+FTLN 2485
+25
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+FTLN 2490
+30
+FTLN 2491
+FTLN 2492
+FTLN 2493
+FTLN 2494
+FTLN 2495
+35
+FTLN 2496
+FTLN 2497
+FTLN 2498
+FTLN 2499
+FTLN 2500
+40
+FTLN 2501
+FTLN 2502
+FTLN 2503
+FTLN 2504
+FTLN 2505
+45
+FTLN 2506
+FTLN 2507
+FTLN 2508
+FTLN 2509
+FTLN 2510
+50
+FTLN 2511
+FTLN 2512
+FTLN 2513
+FTLN 2514
+FTLN 2515
+55
+FTLN 2516
+FTLN 2517
+FTLN 2518
+FTLN 2519
+FTLN 2520
+60
+
+--- PAGE 94 / 95 ---
+187
+Timon of Athens
+ACT 5. SC. 4
+ALCIBIADES
+BOTH
+ALCIBIADES
+The Senators descend.
+SOLDIER
+ALCIBIADES
+ And not as our confusion, all thy powers
+ Shall make their harbor in our town till we
+ Have sealed thy full desire.
+  
+ Then there’s my glove.
+ Descend  and open your unchargèd ports.
+ Those enemies of Timon’s and mine own
+ Whom you yourselves shall set out for reproof
+ Fall, and no more. And to atone your fears
+ With my more noble meaning, not a man
+ Shall pass his quarter or offend the stream
+ Of regular justice in your city’s bounds
+ But shall be remedied to your public laws
+ At heaviest answer.
+  
+ ’Tis most nobly spoken.
+  Descend and keep your words.
+Enter a Soldier, with the wax tablet.
+ 
+ My noble general, Timon is dead,
+ Entombed upon the very hem o’ th’ sea,
+ And on his gravestone this insculpture, which
+ With wax I brought away, whose soft impression
+ Interprets for my poor ignorance.
+ reads the epitaph.  
+ Here lies a wretched corse, of wretched soul bereft.
+ Seek not my name. A plague consume you, wicked
+ caitiffs left!
+ Here lie I, Timon, who, alive, all living men did hate.
+ Pass by and curse thy fill, but pass and stay not here
+ thy gait.
+ These well express in thee thy latter spirits.
+ Though thou abhorred’st in us our human griefs,
+ Scorned’st our brains’ flow and those our droplets
+ which
+ From niggard nature fall, yet rich conceit
+FTLN 2521
+FTLN 2522
+FTLN 2523
+FTLN 2524
+FTLN 2525
+65
+FTLN 2526
+FTLN 2527
+FTLN 2528
+FTLN 2529
+FTLN 2530
+70
+FTLN 2531
+FTLN 2532
+FTLN 2533
+FTLN 2534
+FTLN 2535
+75
+FTLN 2536
+FTLN 2537
+FTLN 2538
+FTLN 2539
+FTLN 2540
+80
+FTLN 2541
+FTLN 2542
+FTLN 2543
+FTLN 2544
+FTLN 2545
+85
+FTLN 2546
+FTLN 2547
+FTLN 2548
+FTLN 2549
+FTLN 2550
+90
+FTLN 2551
+
+--- PAGE 95 / 95 ---
+189
+Timon of Athens
+ACT 5. SC. 4
+Drums.  They exit.
+ Taught thee to make vast Neptune weep for aye
+ On thy low grave, on faults forgiven. Dead
+ Is noble Timon, of whose memory
+ Hereafter more. Bring me into your city,
+ And I will use the olive with my sword,
+ Make war breed peace, make peace stint war, make
+ each
+ Prescribe to other as each other’s leech.
+ Let our drums strike.
+FTLN 2552
+FTLN 2553
+FTLN 2554
+FTLN 2555
+95
+FTLN 2556
+FTLN 2557
+FTLN 2558
+FTLN 2559
+FTLN 2560
+100
+

@@ -1,0 +1,5971 @@
+=== BOOK TITLE: the-comedy-of-errors_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 81 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 81 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+ACT 2
+Scene 1
+Scene 2
+ACT 3
+Scene 1
+Scene 2
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 5
+Scene 1
+Contents
+
+--- PAGE 3 / 81 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 81 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 81 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 81 ---
+Set in the city of Ephesus, The Comedy of Errors concerns the
+farcical misadventures of two sets of identical twins. Many years
+earlier, the Syracusan merchant Egeon had twin sons, both named
+Antipholus. At their birth, he bought another pair of newborn twins,
+both named Dromio, as their servants. In a shipwreck, Egeon lost his
+wife, one of his sons, and one of the Dromios.
+Egeon’s remaining son, Antipholus of Syracuse, and his servant,
+Dromio of Syracuse, come to Ephesus, where—unknown to them—
+their lost twins now live. The visitors are confused, angered, or
+intrigued when local residents seem to know them.
+Similarly, Antipholus and Dromio of Ephesus run into puzzling
+reactions from the people they know—who have been dealing,
+unwittingly, with the Syracusans. Antipholus of Ephesus’s wife bars
+him from his house; he is jailed after a jeweler claims he owes
+money on a gold chain he never received.
+When the four twins come together, all is finally resolved. In one last
+twist, their parents reunite as well.
+Synopsis
+
+--- PAGE 7 / 81 ---
+EGEON, a merchant from Syracuse
+Solinus, DUKE of Ephesus
+ANTIPHOLUS OF SYRACUSE, a traveler in search of his mother
+ and his brother
+DROMIO OF SYRACUSE, Antipholus of Syracuse’s servant
+FIRST MERCHANT, a citizen of Ephesus
+ANTIPHOLUS OF EPHESUS, a citizen of Ephesus
+DROMIO OF EPHESUS, Antipholus of Ephesus’s servant
+ADRIANA, Antipholus of Ephesus’s wife
+LUCIANA, Adriana’s sister
+LUCE (also called Nell), kitchen maid betrothed to
+ Dromio of Ephesus
+MESSENGER, servant to Antipholus of Ephesus and Adriana
+ANGELO, an Ephesian goldsmith
+SECOND MERCHANT, a citizen of Ephesus to whom
+ Angelo owes money
+BALTHASAR, an Ephesian merchant invited to dinner
+ by Antipholus of Ephesus
+COURTESAN, hostess of Antipholus of Ephesus at dinner
+DR. PINCH, a schoolmaster, engaged as an exorcist
+OFFICER (also called Jailer), an Ephesian law officer
+LADY ABBESS (also called Emilia), head of a priory in Ephesus
+Attendants, Servants to Pinch, Headsman, Officers
+Characters in the Play
+
+--- PAGE 8 / 81 ---
+EGEON
+DUKE
+Enter Solinus  the Duke of Ephesus, with Egeon  the
+Merchant of Syracuse, Jailer, and other Attendants.
+ 
+ Proceed, Solinus, to procure my fall,
+ And by the doom of death end woes and all.
+ 
+ Merchant of Syracusa, plead no more.
+ I am not partial to infringe our laws.
+ The enmity and discord which of late
+ Sprung from the rancorous outrage of your duke
+ To merchants, our well-dealing countrymen,
+ Who, wanting guilders to redeem their lives,
+ Have sealed his rigorous statutes with their bloods,
+ Excludes all pity from our threat’ning looks.
+ For since the mortal and intestine jars
+ ’Twixt thy seditious countrymen and us,
+ It hath in solemn synods been decreed,
+ Both by the Syracusians and ourselves,
+ To admit no traffic to our adverse towns.
+ Nay, more, if any born at Ephesus
+ Be seen at Syracusian marts and fairs;
+ Again, if any Syracusian born
+ Come to the bay of Ephesus, he dies,
+ His goods confiscate to the Duke’s dispose,
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+
+--- PAGE 9 / 81 ---
+9
+The Comedy of Errors
+ACT 1. SC. 1
+EGEON
+DUKE
+EGEON
+ Unless a thousand marks be levièd
+ To quit the penalty and to ransom him.
+ Thy substance, valued at the highest rate,
+ Cannot amount unto a hundred marks;
+ Therefore by law thou art condemned to die.
+ 
+ Yet this my comfort: when your words are done,
+ My woes end likewise with the evening sun.
+ 
+ Well, Syracusian, say in brief the cause
+ Why thou departedst from thy native home
+ And for what cause thou cam’st to Ephesus.
+ 
+ A heavier task could not have been imposed
+ Than I to speak my griefs unspeakable;
+ Yet, that the world may witness that my end
+ Was wrought by nature, not by vile offense,
+ I’ll utter what my sorrow gives me leave.
+ In Syracusa was I born, and wed
+ Unto a woman happy but for me,
+ And by me, had not our hap been bad.
+ With her I lived in joy. Our wealth increased
+ By prosperous voyages I often made
+ To Epidamium, till my factor’s death
+ And the  great care of goods at random left
+ Drew me from kind embracements of my spouse;
+ From whom my absence was not six months old
+ Before herself—almost at fainting under
+ The pleasing punishment that women bear—
+ Had made provision for her following me
+ And soon and safe arrivèd where I was.
+ There had she not been long but she became
+ A joyful mother of two goodly sons,
+ And, which was strange, the one so like the other
+ As could not be distinguished but by names.
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+
+--- PAGE 10 / 81 ---
+11
+The Comedy of Errors
+ACT 1. SC. 1
+ That very hour, and in the selfsame inn,
+ A mean woman was deliverèd
+ Of such a burden, male twins, both alike.
+ Those, for their parents were exceeding poor,
+ I bought and brought up to attend my sons.
+ My wife, not meanly proud of two such boys,
+ Made daily motions for our home return.
+ Unwilling, I agreed. Alas, too soon
+ We came aboard.
+ A league from Epidamium had we sailed
+ Before the always-wind-obeying deep
+ Gave any tragic instance of our harm;
+ But longer did we not retain much hope,
+ For what obscurèd light the heavens did grant
+ Did but convey unto our fearful minds
+ A doubtful warrant of immediate death,
+ Which though myself would gladly have embraced,
+ Yet the incessant weepings of my wife,
+ Weeping before for what she saw must come,
+ And piteous plainings of the pretty babes,
+ That mourned for fashion, ignorant what to fear,
+ Forced me to seek delays for them and me.
+ And this it was, for other means was none:
+ The sailors sought for safety by our boat
+ And left the ship, then sinking-ripe, to us.
+ My wife, more careful for the latter-born,
+ Had fastened him unto a small spare mast,
+ Such as seafaring men provide for storms.
+ To him one of the other twins was bound,
+ Whilst I had been like heedful of the other.
+ The children thus disposed, my wife and I,
+ Fixing our eyes on whom our care was fixed,
+ Fastened ourselves at either end the mast
+ And, floating straight, obedient to the stream,
+ Was carried towards Corinth, as we thought.
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+
+--- PAGE 11 / 81 ---
+13
+The Comedy of Errors
+ACT 1. SC. 1
+DUKE
+EGEON
+ At length the sun, gazing upon the earth,
+ Dispersed those vapors that offended us,
+ And by the benefit of his wished light
+ The seas waxed calm, and we discoverèd
+ Two ships from far, making amain to us,
+ Of Corinth that, of Epidaurus this.
+ But ere they came—O, let me say no more!
+ Gather the sequel by that went before.
+ 
+ Nay, forward, old man. Do not break off so,
+ For we may pity though not pardon thee.
+ 
+ O, had the gods done so, I had not now
+ Worthily termed them merciless to us.
+ For, ere the ships could meet by twice five leagues,
+ We were encountered by a mighty rock,
+ Which being violently borne upon,
+ Our helpful ship was splitted in the midst;
+ So that, in this unjust divorce of us,
+ Fortune had left to both of us alike
+ What to delight in, what to sorrow for.
+ Her part, poor soul, seeming as burdenèd
+ With lesser weight, but not with lesser woe,
+ Was carried with more speed before the wind,
+ And in our sight they three were taken up
+ By fishermen of Corinth, as we thought.
+ At length, another ship had seized on us
+ And, knowing whom it was their hap to save,
+ Gave healthful welcome to their shipwracked guests,
+ And would have reft the fishers of their prey
+ Had not their bark  been very slow of sail;
+ And therefore homeward did they bend their course.
+ Thus have you heard me severed from my bliss,
+ That by misfortunes was my life prolonged
+ To tell sad stories of my own mishaps.
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+
+--- PAGE 12 / 81 ---
+15
+The Comedy of Errors
+ACT 1. SC. 1
+DUKE
+EGEON
+DUKE
+ 
+ And for the sake of them thou sorrowest for,
+ Do me the favor to dilate at full
+ What have befall’n of them and thee  till now.
+ 
+ My youngest boy, and yet my eldest care,
+ At eighteen years became inquisitive
+ After his brother, and importuned me
+ That his attendant—so his case was like,
+ Reft of his brother, but retained his name—
+ Might bear him company in the quest of him,
+ Whom whilst I labored of a love to see,
+ I hazarded the loss of whom I loved.
+ Five summers have I spent in farthest Greece,
+ Roaming clean through the bounds of Asia,
+ And, coasting homeward, came to Ephesus,
+ Hopeless to find, yet loath to leave unsought
+ Or that or any place that harbors men.
+ But here must end the story of my life;
+ And happy were I in my timely death
+ Could all my travels warrant me they live.
+ 
+ Hapless Egeon, whom the fates have marked
+ To bear the extremity of dire mishap,
+ Now, trust me, were it not against our laws,
+ Against my crown, my oath, my dignity,
+ Which princes, would they, may not disannul,
+ My soul should sue as advocate for thee.
+ But though thou art adjudgèd to the death,
+ And passèd sentence may not be recalled
+ But to our honor’s great disparagement,
+ Yet will I favor thee in what I can.
+ Therefore, merchant, I’ll limit thee this day
+ To seek thy life  by beneficial help.
+ Try all the friends thou hast in Ephesus;
+ Beg thou, or borrow, to make up the sum,
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+
+--- PAGE 13 / 81 ---
+17
+The Comedy of Errors
+ACT 1. SC. 2
+JAILER
+EGEON
+They exit.
+FIRST  MERCHANT
+He gives money.
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+Dromio of Syracuse  exits.
+ And live. If no, then thou art doomed to die.—
+ Jailer, take him to thy custody.
+  I will, my lord.
+ 
+ Hopeless and helpless doth Egeon wend,
+ But to procrastinate his lifeless end.
+Enter Antipholus of Syracuse, First  Merchant, and
+Dromio of Syracuse.
+ 
+ Therefore give out you are of Epidamium,
+ Lest that your goods too soon be confiscate.
+ This very day a Syracusian merchant
+ Is apprehended for arrival here
+ And, not being able to buy out his life,
+ According to the statute of the town
+ Dies ere the weary sun set in the west.
+ There is your money that I had to keep.
+, handing money to Dromio
+ 
+ Go bear it to the Centaur, where we host,
+ And stay there, Dromio, till I come to thee.
+ Within this hour it will be dinnertime.
+ Till that, I’ll view the manners of the town,
+ Peruse the traders, gaze upon the buildings,
+ And then return and sleep within mine inn,
+ For with long travel I am stiff and weary.
+ Get thee away.
+ 
+ Many a man would take you at your word
+ And go indeed, having so good a mean.
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+Scene 2
+FTLN 0159
+FTLN 0160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+5
+FTLN 0164
+FTLN 0165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+10
+FTLN 0169
+FTLN 0170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+15
+FTLN 0174
+FTLN 0175
+FTLN 0176
+
+--- PAGE 14 / 81 ---
+19
+The Comedy of Errors
+ACT 1. SC. 2
+ANTIPHOLUS OF SYRACUSE
+FIRST  MERCHANT
+ANTIPHOLUS OF SYRACUSE
+FIRST  MERCHANT
+He exits.
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ 
+ A trusty villain, sir, that very oft,
+ When I am dull with care and melancholy,
+ Lightens my humor with his merry jests.
+ What, will you walk with me about the town
+ And then go to my inn and dine with me?
+ 
+ I am invited, sir, to certain merchants,
+ Of whom I hope to make much benefit.
+ I crave your pardon. Soon at five o’clock,
+ Please you, I’ll meet with you upon the mart
+ And afterward consort you till bedtime.
+ My present business calls me from you now.
+ 
+ Farewell till then. I will go lose myself
+ And wander up and down to view the city.
+ 
+ Sir, I commend you to your own content. 
+ 
+ He that commends me to mine own content
+ Commends me to the thing I cannot get.
+ I to the world am like a drop of water
+ That in the ocean seeks another drop,
+ Who, falling there to find his fellow forth,
+ Unseen, inquisitive, confounds himself.
+ So I, to find a mother and a brother,
+ In quest of them, unhappy, lose myself.
+Enter Dromio of Ephesus.
+ Here comes the almanac of my true date.—
+ What now? How chance thou art returned so soon?
+ 
+ Returned so soon? Rather approached too late!
+ The capon burns; the pig falls from the spit;
+ The clock hath strucken twelve upon the bell;
+ My mistress made it one upon my cheek.
+FTLN 0177
+FTLN 0178
+20
+FTLN 0179
+FTLN 0180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+25
+FTLN 0184
+FTLN 0185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+30
+FTLN 0189
+FTLN 0190
+FTLN 0191
+FTLN 0192
+FTLN 0193
+35
+FTLN 0194
+FTLN 0195
+FTLN 0196
+FTLN 0197
+FTLN 0198
+40
+FTLN 0199
+FTLN 0200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+45
+FTLN 0204
+
+--- PAGE 15 / 81 ---
+21
+The Comedy of Errors
+ACT 1. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+ She is so hot because the meat is cold;
+ The meat is cold because you come not home;
+ You come not home because you have no stomach;
+ You have no stomach, having broke your fast.
+ But we that know what ’tis to fast and pray
+ Are penitent for your default today.
+ 
+ Stop in your wind, sir. Tell me this, I pray:
+ Where have you left the money that I gave you?
+ 
+ O, sixpence that I had o’ Wednesday last
+ To pay the saddler for my mistress’ crupper?
+ The saddler had it, sir; I kept it not.
+ 
+ I am not in a sportive humor now.
+ Tell me, and dally not: where is the money?
+ We being strangers here, how dar’st thou trust
+ So great a charge from thine own custody?
+ 
+ I pray you, jest, sir, as you sit at dinner.
+ I from my mistress come to you in post;
+ If I return, I shall be post indeed,
+ For she will scour your fault upon my pate.
+ Methinks your maw, like mine, should be your
+ clock,
+ And strike you home without a messenger.
+ 
+ Come, Dromio, come, these jests are out of season.
+ Reserve them till a merrier hour than this.
+ Where is the gold I gave in charge to thee?
+ 
+ To me, sir? Why, you gave no gold to me!
+ 
+ Come on, sir knave, have done your foolishness,
+ And tell me how thou hast disposed thy charge.
+FTLN 0205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+50
+FTLN 0209
+FTLN 0210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+55
+FTLN 0214
+FTLN 0215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+60
+FTLN 0219
+FTLN 0220
+FTLN 0221
+FTLN 0222
+FTLN 0223
+65
+FTLN 0224
+FTLN 0225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+70
+FTLN 0229
+FTLN 0230
+FTLN 0231
+FTLN 0232
+
+--- PAGE 16 / 81 ---
+23
+The Comedy of Errors
+ACT 1. SC. 2
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF EPHESUS
+Dromio of  Ephesus exits.
+ANTIPHOLUS OF SYRACUSE
+ 
+ My charge was but to fetch you from the mart
+ Home to your house, the Phoenix, sir, to dinner.
+ My mistress and her sister stays for you.
+ 
+ Now, as I am a Christian, answer me
+ In what safe place you have bestowed my money,
+ Or I shall break that merry sconce of yours
+ That stands on tricks when I am undisposed.
+ Where is the thousand marks thou hadst of me?
+ 
+ I have some marks of yours upon my pate,
+ Some of my mistress’ marks upon my shoulders,
+ But not a thousand marks between you both.
+ If I should pay your Worship those again,
+ Perchance you will not bear them patiently.
+ 
+ Thy mistress’ marks? What mistress, slave, hast
+ thou?
+ 
+ Your Worship’s wife, my mistress at the Phoenix,
+ She that doth fast till you come home to dinner
+ And prays that you will hie you home to dinner.
+, beating Dromio
+ 
+ What, wilt thou flout me thus unto my face,
+ Being forbid? There, take you that, sir knave.
+ 
+ What mean you, sir? For God’s sake, hold your
+ hands.
+ Nay, an you will not, sir, I’ll take my heels.
+ 
+ Upon my life, by some device or other
+ The villain is o’erraught  of all my money.
+ They say this town is full of cozenage,
+ As nimble jugglers that deceive the eye,
+FTLN 0233
+75
+FTLN 0234
+FTLN 0235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+80
+FTLN 0239
+FTLN 0240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+85
+FTLN 0244
+FTLN 0245
+FTLN 0246
+FTLN 0247
+FTLN 0248
+90
+FTLN 0249
+FTLN 0250
+FTLN 0251
+FTLN 0252
+FTLN 0253
+95
+FTLN 0254
+FTLN 0255
+FTLN 0256
+FTLN 0257
+FTLN 0258
+100
+FTLN 0259
+
+--- PAGE 17 / 81 ---
+25
+The Comedy of Errors
+ACT 1. SC. 2
+He exits.
+ Dark-working sorcerers that change the mind,
+ Soul-killing witches that deform the body,
+ Disguisèd cheaters, prating mountebanks,
+ And many suchlike liberties of sin.
+ If it prove so, I will be gone the sooner.
+ I’ll to the Centaur to go seek this slave.
+ I greatly fear my money is not safe.
+FTLN 0260
+FTLN 0261
+FTLN 0262
+FTLN 0263
+105
+FTLN 0264
+FTLN 0265
+FTLN 0266
+
+--- PAGE 18 / 81 ---
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+Enter Adriana, wife to Antipholus of Ephesus,  with
+Luciana, her sister.
+ 
+ Neither my husband nor the slave returned
+ That in such haste I sent to seek his master?
+ Sure, Luciana, it is two o’clock.
+ 
+ Perhaps some merchant hath invited him,
+ And from the mart he’s somewhere gone to dinner.
+ Good sister, let us dine, and never fret.
+ A man is master of his liberty;
+ Time is their master, and when they see time
+ They’ll go or come. If so, be patient, sister.
+ 
+ Why should their liberty than ours be more?
+ 
+ Because their business still lies out o’ door.
+ 
+ Look when I serve him so, he takes it ill.
+ 
+ O, know he is the bridle of your will.
+ 
+ There’s none but asses will be bridled so.
+ 
+ Why, headstrong liberty is lashed with woe.
+29
+ACT 2
+Scene 1
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+FTLN 0271
+5
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+FTLN 0276
+10
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+FTLN 0281
+15
+
+--- PAGE 19 / 81 ---
+31
+The Comedy of Errors
+ACT 2. SC. 1
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ There’s nothing situate under heaven’s eye
+ But hath his bound in earth, in sea, in sky.
+ The beasts, the fishes, and the wingèd fowls
+ Are their males’ subjects and at their controls.
+ Man, more divine, the master of all these,
+ Lord of the wide world and wild wat’ry seas,
+ Endued with intellectual sense and souls,
+ Of more preeminence than fish and fowls,
+ Are masters to their females, and their lords.
+ Then let your will attend on their accords.
+ 
+ This servitude makes you to keep unwed.
+ 
+ Not this, but troubles of the marriage bed.
+ 
+ But, were you wedded, you would bear some sway.
+ 
+ Ere I learn love, I’ll practice to obey.
+ 
+ How if your husband start some otherwhere?
+ 
+ Till he come home again, I would forbear.
+ 
+ Patience unmoved! No marvel though she pause;
+ They can be meek that have no other cause.
+ A wretched soul bruised with adversity
+ We bid be quiet when we hear it cry,
+ But were we burdened with like weight of pain,
+ As much or more we should ourselves complain.
+ So thou, that hast no unkind mate to grieve thee,
+ With urging helpless patience would relieve me;
+ But if thou live to see like right bereft,
+ This fool-begged patience in thee will be left.
+ 
+ Well, I will marry one day, but to try.
+ Here comes your man. Now is your husband nigh.
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+FTLN 0286
+20
+FTLN 0287
+FTLN 0288
+FTLN 0289
+FTLN 0290
+FTLN 0291
+25
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+FTLN 0296
+30
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+FTLN 0301
+35
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+FTLN 0306
+40
+FTLN 0307
+FTLN 0308
+FTLN 0309
+
+--- PAGE 20 / 81 ---
+33
+The Comedy of Errors
+ACT 2. SC. 1
+ADRIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+LUCIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+Enter Dromio of  Ephesus.
+ 
+ Say, is your tardy master now at hand?
+  Nay, he’s at two hands with me,
+ and that my two ears can witness.
+ 
+ Say, didst thou speak with him? Know’st thou his
+ mind?
+ 
+ Ay, ay, he told his mind upon mine ear.
+ Beshrew his hand, I scarce could understand it.
+  Spake he so doubtfully thou couldst not feel
+ his meaning?
+  Nay, he struck so plainly I could
+ too well feel his blows, and withal so doubtfully
+ that I could scarce understand them.
+ 
+ But say, I prithee, is he coming home?
+ It seems he hath great care to please his wife.
+ 
+ Why, mistress, sure my master is horn mad.
+ 
+ Horn mad, thou villain?
+  
+ I mean not cuckold mad,
+ But sure he is stark mad.
+ When I desired him to come home to dinner,
+ He asked me for a thousand  marks in gold.
+ “’Tis dinnertime,” quoth I. “My gold,” quoth he.
+ “Your meat doth burn,” quoth I. “My gold,” quoth
+ he.
+ “Will you come?” quoth I. “My gold,” quoth he.
+ “Where is the thousand marks I gave thee, villain?”
+ “The pig,” quoth I, “is burned.” “My gold,” quoth
+ he.
+FTLN 0310
+FTLN 0311
+45
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+FTLN 0316
+50
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+FTLN 0321
+55
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+FTLN 0326
+60
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+65
+FTLN 0332
+FTLN 0333
+FTLN 0334
+FTLN 0335
+FTLN 0336
+70
+
+--- PAGE 21 / 81 ---
+35
+The Comedy of Errors
+ACT 2. SC. 1
+LUCIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+He exits.
+LUCIANA
+ADRIANA
+ “My mistress, sir,” quoth I. “Hang up thy mistress!
+ I know not thy mistress. Out on thy mistress!”
+  Quoth who?
+  Quoth my master.
+ “I know,” quoth he, “no house, no wife, no
+ mistress.”
+ So that my errand, due unto my tongue,
+ I thank him, I bare home upon my shoulders,
+ For, in conclusion, he did beat me there.
+ 
+ Go back again, thou slave, and fetch him home.
+ 
+ Go back again and be new beaten home?
+ For God’s sake, send some other messenger.
+ 
+ Back, slave, or I will break thy pate across.
+ 
+ And he will bless that cross with other beating.
+ Between you, I shall have a holy head.
+ 
+ Hence, prating peasant. Fetch thy master home.
+ 
+ Am I so round with you as you with me,
+ That like a football you do spurn me thus?
+ You spurn me hence, and he will spurn me hither.
+ If I last in this service, you must case me in leather.
+ 
+ Fie, how impatience loureth in your face.
+ 
+ His company must do his minions grace,
+ Whilst I at home starve for a merry look.
+ Hath homely age th’ alluring beauty took
+ From my poor cheek? Then he hath wasted it.
+ Are my discourses dull? Barren my wit?
+ If voluble and sharp discourse be marred,
+FTLN 0337
+FTLN 0338
+FTLN 0339
+FTLN 0340
+FTLN 0341
+75
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+FTLN 0346
+80
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+FTLN 0351
+85
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+FTLN 0356
+90
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+FTLN 0361
+95
+FTLN 0362
+FTLN 0363
+
+--- PAGE 22 / 81 ---
+37
+The Comedy of Errors
+ACT 2. SC. 2
+LUCIANA
+ADRIANA
+LUCIANA
+They  exit.
+ANTIPHOLUS OF SYRACUSE
+ Unkindness blunts it more than marble hard.
+ Do their gay vestments his affections bait?
+ That’s not my fault; he’s master of my state.
+ What ruins are in me that can be found
+ By him not ruined? Then is he the ground
+ Of my defeatures. My decayèd fair
+ A sunny look of his would soon repair.
+ But, too unruly deer, he breaks the pale
+ And feeds from home. Poor I am but his stale.
+ 
+ Self-harming jealousy, fie, beat it hence.
+ 
+ Unfeeling fools can with such wrongs dispense.
+ I know his eye doth homage otherwhere,
+ Or else what lets it but he would be here?
+ Sister, you know he promised me a chain.
+ Would that alone o’ love he would detain,
+ So he would keep fair quarter with his bed.
+ I see the jewel best enamelèd
+ Will lose his beauty. Yet the gold bides still
+ That others touch, and often touching will
+ Wear  gold; yet  no man that hath a name
+ By falsehood and corruption doth it shame.
+ Since that my beauty cannot please his eye,
+ I’ll weep what’s left away, and weeping die.
+ 
+ How many fond fools serve mad jealousy!
+Enter Antipholus of Syracuse.
+ 
+ The gold I gave to Dromio is laid up
+ Safe at the Centaur, and the heedful slave
+FTLN 0364
+FTLN 0365
+FTLN 0366
+100
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+FTLN 0371
+105
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+FTLN 0376
+110
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+FTLN 0381
+115
+FTLN 0382
+FTLN 0383
+FTLN 0384
+FTLN 0385
+FTLN 0386
+120
+FTLN 0387
+Scene 2
+FTLN 0388
+FTLN 0389
+
+--- PAGE 23 / 81 ---
+39
+The Comedy of Errors
+ACT 2. SC. 2
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+Beats Dromio.
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+ Is wandered forth in care to seek me out.
+ By computation and mine host’s report,
+ I could not speak with Dromio since at first
+ I sent him from the mart. See, here he comes.
+Enter Dromio of  Syracuse.
+ How now, sir? Is your merry humor altered?
+ As you love strokes, so jest with me again.
+ You know no Centaur? You received no gold?
+ Your mistress sent to have me home to dinner?
+ My house was at the Phoenix? Wast thou mad,
+ That thus so madly thou didst answer me?
+ 
+ What answer, sir? When spake I such a word?
+ 
+ Even now, even here, not half an hour since.
+ 
+ I did not see you since you sent me hence,
+ Home to the Centaur with the gold you gave me.
+ 
+ Villain, thou didst deny the gold’s receipt
+ And told’st me of a mistress and a dinner,
+ For which I hope thou felt’st I was displeased.
+ 
+ I am glad to see you in this merry vein.
+ What means this jest, I pray you, master, tell me?
+ 
+ Yea, dost thou jeer and flout me in the teeth?
+ Think’st thou I jest? Hold, take thou that and that.
+ 
+ Hold, sir, for God’s sake! Now your jest is earnest.
+ Upon what bargain do you give it me?
+ 
+ Because that I familiarly sometimes
+ Do use you for my fool and chat with you,
+FTLN 0390
+FTLN 0391
+FTLN 0392
+5
+FTLN 0393
+FTLN 0394
+FTLN 0395
+FTLN 0396
+FTLN 0397
+10
+FTLN 0398
+FTLN 0399
+FTLN 0400
+FTLN 0401
+FTLN 0402
+15
+FTLN 0403
+FTLN 0404
+FTLN 0405
+FTLN 0406
+FTLN 0407
+20
+FTLN 0408
+FTLN 0409
+FTLN 0410
+FTLN 0411
+FTLN 0412
+25
+FTLN 0413
+FTLN 0414
+
+--- PAGE 24 / 81 ---
+41
+The Comedy of Errors
+ACT 2. SC. 2
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ Your sauciness will jest upon my love
+ And make a common of my serious hours.
+ When the sun shines, let foolish gnats make sport,
+ But creep in crannies when he hides his beams.
+ If you will jest with me, know my aspect,
+ And fashion your demeanor to my looks,
+ Or I will beat this method in your sconce.
+  “Sconce” call you it? So you
+ would leave battering, I had rather have it a
+ “head.” An you use these blows long, I must get a
+ sconce for my head and ensconce it too, or else I
+ shall seek my wit in my shoulders. But I pray, sir,
+ why am I beaten?
+  Dost thou not know?
+  Nothing, sir, but that I am
+ beaten.
+  Shall I tell you why?
+  Ay, sir, and wherefore, for they
+ say every why hath a wherefore.
+  “Why” first: for flouting
+ me; and then “wherefore”: for urging it the second
+ time to me.
+ 
+ Was there ever any man thus beaten out of season,
+ When in the “why” and the “wherefore” is neither
+ rhyme nor reason?
+ Well, sir, I thank you.
+  Thank me, sir, for what?
+  Marry, sir, for this something
+ that you gave me for nothing.
+  I’ll make you amends next,
+ to give you nothing for something. But say, sir, is it
+ dinnertime?
+  No, sir, I think the meat wants
+ that I have.
+FTLN 0415
+FTLN 0416
+FTLN 0417
+30
+FTLN 0418
+FTLN 0419
+FTLN 0420
+FTLN 0421
+FTLN 0422
+35
+FTLN 0423
+FTLN 0424
+FTLN 0425
+FTLN 0426
+FTLN 0427
+40
+FTLN 0428
+FTLN 0429
+FTLN 0430
+FTLN 0431
+FTLN 0432
+45
+FTLN 0433
+FTLN 0434
+FTLN 0435
+FTLN 0436
+FTLN 0437
+50
+FTLN 0438
+FTLN 0439
+FTLN 0440
+FTLN 0441
+FTLN 0442
+55
+FTLN 0443
+FTLN 0444
+FTLN 0445
+FTLN 0446
+FTLN 0447
+60
+FTLN 0448
+
+--- PAGE 25 / 81 ---
+43
+The Comedy of Errors
+ACT 2. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+  In good time, sir, what’s
+ that?
+  Basting.
+  Well, sir, then ’twill be dry.
+  If it be, sir, I pray you eat none of
+ it.
+  Your reason?
+  Lest it make you choleric and
+ purchase me another dry basting.
+  Well, sir, learn to jest in
+ good time. There’s a time for all things.
+  I durst have denied that before
+ you were so choleric.
+  By what rule, sir?
+  Marry, sir, by a rule as plain as
+ the plain bald pate of Father Time himself.
+  Let’s hear it.
+  There’s no time for a man to
+ recover his hair that grows bald by nature.
+  May he not do it by fine and
+ recovery?
+  Yes, to pay a fine for a periwig,
+ and recover the lost hair of another man.
+  Why is Time such a niggard
+ of hair, being, as it is, so plentiful an excrement?
+  Because it is a blessing that he
+ bestows on beasts, and what he hath scanted men
+ in hair, he hath given them in wit.
+  Why, but there’s many a
+ man hath more hair than wit.
+  Not a man of those but he hath
+ the wit to lose his hair.
+  Why, thou didst conclude
+ hairy men plain dealers without wit.
+  The plainer dealer, the sooner
+ lost. Yet he loseth it in a kind of jollity.
+FTLN 0449
+FTLN 0450
+FTLN 0451
+FTLN 0452
+65
+FTLN 0453
+FTLN 0454
+FTLN 0455
+FTLN 0456
+FTLN 0457
+70
+FTLN 0458
+FTLN 0459
+FTLN 0460
+FTLN 0461
+FTLN 0462
+75
+FTLN 0463
+FTLN 0464
+FTLN 0465
+FTLN 0466
+FTLN 0467
+80
+FTLN 0468
+FTLN 0469
+FTLN 0470
+FTLN 0471
+FTLN 0472
+85
+FTLN 0473
+FTLN 0474
+FTLN 0475
+FTLN 0476
+FTLN 0477
+90
+FTLN 0478
+FTLN 0479
+FTLN 0480
+FTLN 0481
+FTLN 0482
+95
+FTLN 0483
+FTLN 0484
+
+--- PAGE 26 / 81 ---
+45
+The Comedy of Errors
+ACT 2. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+ADRIANA
+  For what reason?
+  For two, and sound ones too.
+  Nay, not sound, I pray you.
+  Sure ones, then.
+  Nay, not sure, in a thing
+ falsing.
+  Certain ones, then.
+  Name them.
+  The one, to save the money that
+ he spends in tiring;  the other, that at dinner they
+ should not drop in his porridge.
+  You would all this time
+ have proved there is no time for all things.
+  Marry, and did, sir: namely, e’en
+ no time to recover hair lost by nature.
+  But your reason was not
+ substantial why there is no time to recover.
+  Thus I mend it: Time himself is
+ bald and therefore, to the world’s end, will have
+ bald followers.
+  I knew ’twould be a bald
+ conclusion. But soft, who wafts us yonder?
+Enter Adriana, beckoning them,  and Luciana.
+ 
+ Ay, ay, Antipholus, look strange and frown.
+ Some other mistress hath thy sweet aspects.
+ I am not Adriana, nor thy wife.
+ The time was once when thou unurged wouldst vow
+ That never words were music to thine ear,
+ That never object pleasing in thine eye,
+ That never touch well welcome to thy hand,
+ That never meat sweet-savored in thy taste,
+ Unless I spake, or looked, or touched, or carved to
+ thee.
+ How comes it now, my husband, O, how comes it
+FTLN 0485
+FTLN 0486
+FTLN 0487
+100
+FTLN 0488
+FTLN 0489
+FTLN 0490
+FTLN 0491
+FTLN 0492
+105
+FTLN 0493
+FTLN 0494
+FTLN 0495
+FTLN 0496
+FTLN 0497
+110
+FTLN 0498
+FTLN 0499
+FTLN 0500
+FTLN 0501
+FTLN 0502
+115
+FTLN 0503
+FTLN 0504
+FTLN 0505
+FTLN 0506
+FTLN 0507
+120
+FTLN 0508
+FTLN 0509
+FTLN 0510
+FTLN 0511
+FTLN 0512
+125
+FTLN 0513
+FTLN 0514
+FTLN 0515
+FTLN 0516
+FTLN 0517
+130
+
+--- PAGE 27 / 81 ---
+47
+The Comedy of Errors
+ACT 2. SC. 2
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ That thou art then estrangèd from thyself?
+ “Thyself” I call it, being strange to me,
+ That, undividable, incorporate,
+ Am better than thy dear self’s better part.
+ Ah, do not tear away thyself from me!
+ For know, my love, as easy mayst thou fall
+ A drop of water in the breaking gulf,
+ And take unmingled thence that drop again
+ Without addition or diminishing,
+ As take from me thyself and not me too.
+ How dearly would it touch thee to the quick,
+ Shouldst thou but hear I were licentious
+ And that this body, consecrate to thee,
+ By ruffian lust should be contaminate!
+ Wouldst thou not spit at me, and spurn at me,
+ And hurl the name of husband in my face,
+ And tear the stained skin off my harlot brow,
+ And from my false hand cut the wedding ring,
+ And break it with a deep-divorcing vow?
+ I know thou canst, and therefore see thou do it.
+ I am possessed with an adulterate blot;
+ My blood is mingled with the crime of lust;
+ For if we two be one, and thou play false,
+ I do digest the poison of thy flesh,
+ Being strumpeted by thy contagion.
+ Keep then fair league and truce with thy true bed,
+ I live distained, thou undishonorèd.
+ 
+ Plead you to me, fair dame? I know you not.
+ In Ephesus I am but two hours old,
+ As strange unto your town as to your talk,
+ Who, every word by all my wit being scanned,
+ Wants wit in all one word to understand.
+ 
+ Fie, brother, how the world is changed with you!
+FTLN 0518
+FTLN 0519
+FTLN 0520
+FTLN 0521
+FTLN 0522
+135
+FTLN 0523
+FTLN 0524
+FTLN 0525
+FTLN 0526
+FTLN 0527
+140
+FTLN 0528
+FTLN 0529
+FTLN 0530
+FTLN 0531
+FTLN 0532
+145
+FTLN 0533
+FTLN 0534
+FTLN 0535
+FTLN 0536
+FTLN 0537
+150
+FTLN 0538
+FTLN 0539
+FTLN 0540
+FTLN 0541
+FTLN 0542
+155
+FTLN 0543
+FTLN 0544
+FTLN 0545
+FTLN 0546
+FTLN 0547
+160
+FTLN 0548
+FTLN 0549
+FTLN 0550
+
+--- PAGE 28 / 81 ---
+49
+The Comedy of Errors
+ACT 2. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ADRIANA
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+ADRIANA
+She takes his arm.
+ When were you wont to use my sister thus?
+ She sent for you by Dromio home to dinner.
+  By Dromio?
+  By me?
+ 
+ By thee; and this thou didst return from him:
+ That he did buffet thee and, in his blows,
+ Denied my house for his, me for his wife.
+ 
+ Did you converse, sir, with this gentlewoman?
+ What is the course and drift of your compact?
+ 
+ I, sir? I never saw her till this time.
+ 
+ Villain, thou liest, for even her very words
+ Didst thou deliver to me on the mart.
+ 
+ I never spake with her in all my life.
+ 
+ How can she thus then call us by our names—
+ Unless it be by inspiration?
+ 
+ How ill agrees it with your gravity
+ To counterfeit thus grossly with your slave,
+ Abetting him to thwart me in my mood.
+ Be it my wrong you are from me exempt,
+ But wrong not that wrong with a more contempt.
+ Come, I will fasten on this sleeve of thine.
+ Thou art an elm, my husband, I a vine,
+ Whose weakness, married to thy stronger  state,
+ Makes me with thy strength to communicate.
+ If aught possess thee from me, it is dross,
+ Usurping ivy, brier, or idle moss,
+ Who, all for want of pruning, with intrusion
+ Infect thy sap and live on thy confusion.
+FTLN 0551
+FTLN 0552
+165
+FTLN 0553
+FTLN 0554
+FTLN 0555
+FTLN 0556
+FTLN 0557
+170
+FTLN 0558
+FTLN 0559
+FTLN 0560
+FTLN 0561
+FTLN 0562
+175
+FTLN 0563
+FTLN 0564
+FTLN 0565
+FTLN 0566
+FTLN 0567
+180
+FTLN 0568
+FTLN 0569
+FTLN 0570
+FTLN 0571
+FTLN 0572
+185
+FTLN 0573
+FTLN 0574
+FTLN 0575
+FTLN 0576
+FTLN 0577
+190
+FTLN 0578
+
+--- PAGE 29 / 81 ---
+51
+The Comedy of Errors
+ACT 2. SC. 2
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+DROMIO OF SYRACUSE
+He crosses himself.
+LUCIANA
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+LUCIANA
+DROMIO OF SYRACUSE
+, aside
+ 
+ To me she speaks; she moves me for her theme.
+ What, was I married to her in my dream?
+ Or sleep I now and think I hear all this?
+ What error drives our eyes and ears amiss?
+ Until I know this sure uncertainty
+ I’ll entertain the offered  fallacy.
+ 
+ Dromio, go bid the servants spread for dinner.
+ 
+ O, for my beads! I cross me for a sinner.
+ This is the fairy land. O spite of spites!
+ We talk with goblins, owls, and sprites.
+ If we obey them not, this will ensue:
+ They’ll suck our breath, or pinch us black and blue.
+ 
+ Why prat’st thou to thyself and answer’st not?
+ Dromio—thou, Dromio—thou snail, thou slug,
+ thou sot.
+ 
+ I am transformèd, master, am I not?
+ 
+ I think thou art in mind, and so am I.
+ 
+ Nay, master, both in mind and in my shape.
+ 
+ Thou hast thine own form.
+  
+ No, I am an ape.
+ 
+ If thou art changed to aught, ’tis to an ass.
+ 
+ ’Tis true. She rides me, and I long for grass.
+ ’Tis so. I am an ass; else it could never be
+ But I should know her as well as she knows me.
+FTLN 0579
+FTLN 0580
+FTLN 0581
+FTLN 0582
+195
+FTLN 0583
+FTLN 0584
+FTLN 0585
+FTLN 0586
+FTLN 0587
+200
+FTLN 0588
+FTLN 0589
+FTLN 0590
+FTLN 0591
+FTLN 0592
+205
+FTLN 0593
+FTLN 0594
+FTLN 0595
+FTLN 0596
+FTLN 0597
+210
+FTLN 0598
+FTLN 0599
+FTLN 0600
+FTLN 0601
+FTLN 0602
+215
+
+--- PAGE 30 / 81 ---
+53
+The Comedy of Errors
+ACT 2. SC. 2
+ADRIANA
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ADRIANA
+LUCIANA
+They exit.
+ 
+ Come, come, no longer will I be a fool,
+ To put the finger in the eye and weep
+ Whilst man and master laughs my woes to scorn.
+ Come, sir, to dinner.—Dromio, keep the gate.—
+ Husband, I’ll dine above with you today,
+ And shrive you of a thousand idle pranks.
+  To Dromio.  Sirrah, if any ask you for your master,
+ Say he dines forth, and let no creature enter.—
+ Come, sister.—Dromio, play the porter well.
+, aside
+ 
+ Am I in Earth, in heaven, or in hell?
+ Sleeping or waking, mad or well-advised?
+ Known unto these, and to myself disguised!
+ I’ll say as they say, and persever so,
+ And in this mist at all adventures go.
+ 
+ Master, shall I be porter at the gate?
+ 
+ Ay, and let none enter, lest I break your pate.
+ 
+ Come, come, Antipholus, we dine too late.
+FTLN 0603
+FTLN 0604
+FTLN 0605
+FTLN 0606
+FTLN 0607
+220
+FTLN 0608
+FTLN 0609
+FTLN 0610
+FTLN 0611
+FTLN 0612
+225
+FTLN 0613
+FTLN 0614
+FTLN 0615
+FTLN 0616
+FTLN 0617
+230
+FTLN 0618
+FTLN 0619
+
+--- PAGE 31 / 81 ---
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+Enter Antipholus of Ephesus, his man Dromio, Angelo
+the goldsmith, and Balthasar the merchant.
+ 
+ Good Signior Angelo, you must excuse us all;
+ My wife is shrewish when I keep not hours.
+ Say that I lingered with you at your shop
+ To see the making of her carcanet,
+ And that tomorrow you will bring it home.
+ But here’s a villain that would face me down
+ He met me on the mart, and that I beat him
+ And charged him with a thousand marks in gold,
+ And that I did deny my wife and house.—
+ Thou drunkard, thou, what didst thou mean by this?
+ 
+ Say what you will, sir, but I know what I know.
+ That you beat me at the mart I have your hand to
+ show;
+ If the skin were parchment and the blows you gave
+ were ink,
+ Your own handwriting would tell you what I think.
+ 
+ I think thou art an ass.
+  
+ Marry, so it doth appear
+ By the wrongs I suffer and the blows I bear.
+57
+ACT 3
+Scene 1
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+5
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+10
+FTLN 0630
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+15
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+
+--- PAGE 32 / 81 ---
+59
+The Comedy of Errors
+ACT 3. SC. 1
+ANTIPHOLUS OF EPHESUS
+BALTHASAR
+ANTIPHOLUS OF EPHESUS
+BALTHASAR
+ANTIPHOLUS OF EPHESUS
+BALTHASAR
+ANTIPHOLUS OF EPHESUS
+He attempts to open the door.
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+ I should kick being kicked and, being at that pass,
+ You would keep from my heels and beware of an ass.
+ 
+ You’re sad, Signior Balthasar. Pray God our cheer
+ May answer my goodwill and your good welcome
+ here.
+ 
+ I hold your dainties cheap, sir, and your welcome
+ dear.
+ 
+ O Signior Balthasar, either at flesh or fish
+ A table full of welcome makes scarce one dainty
+ dish.
+ 
+ Good meat, sir, is common; that every churl affords.
+ 
+ And welcome more common, for that’s nothing but
+ words.
+ 
+ Small cheer and great welcome makes a merry
+ feast.
+ 
+ Ay, to a niggardly host and more sparing guest.
+ But though my cates be mean, take them in good
+ part.
+ Better cheer may you have, but not with better
+ heart. 
+ But soft! My door is locked.  To Dromio.  Go, bid
+ them let us in.
+ 
+ Maud, Bridget, Marian, Ciceley, Gillian, Ginn!
+, within
+ 
+ Mome, malt-horse, capon, coxcomb, idiot, patch!
+ Either get thee from the door or sit down at the
+ hatch.
+FTLN 0639
+20
+FTLN 0640
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+25
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+30
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+35
+FTLN 0655
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+40
+FTLN 0660
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+45
+
+--- PAGE 33 / 81 ---
+61
+The Comedy of Errors
+ACT 3. SC. 1
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+ Dost thou conjure for wenches, that thou call’st for
+ such store
+ When one is one too many? Go, get thee from the
+ door.
+ 
+ What patch is made our porter? My master stays in
+ the street.
+, within
+ 
+ Let him walk from whence he came, lest he catch
+ cold on ’s feet.
+ 
+ Who talks within there? Ho, open the door.
+, within
+ 
+ Right, sir, I’ll tell you when an you’ll tell me
+ wherefore.
+ 
+ Wherefore? For my dinner. I have not dined today.
+, within
+ 
+ Nor today here you must not. Come again when you
+ may.
+ 
+ What art thou that keep’st me out from the house I
+ owe?
+, within
+ 
+ The porter for this time, sir, and my name is
+ Dromio.
+ 
+ O villain, thou hast stolen both mine office and my
+ name!
+ The one ne’er got me credit, the other mickle
+ blame.
+ If thou hadst been Dromio today in my place,
+ Thou wouldst have changed thy face for a name, or
+ thy name for an ass.
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+50
+FTLN 0670
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+55
+FTLN 0675
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+60
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+65
+FTLN 0685
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+70
+
+--- PAGE 34 / 81 ---
+63
+The Comedy of Errors
+ACT 3. SC. 1
+LUCE
+DROMIO OF EPHESUS
+LUCE
+DROMIO OF EPHESUS
+LUCE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+LUCE
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+LUCE
+DROMIO OF EPHESUS
+LUCE
+ANTIPHOLUS OF EPHESUS
+He beats on the door.
+Enter Luce above, unseen by Antipholus of Ephesus
+and his company.
+ 
+ What a coil is there, Dromio! Who are those at the
+ gate?
+ 
+ Let my master in, Luce.
+  
+ Faith, no, he comes too late,
+ And so tell your master.
+  
+ O Lord, I must laugh.
+ Have at you with a proverb: shall I set in my staff?
+ 
+ Have at you with another: that’s—When, can you
+ tell?
+, within
+ 
+ If thy name be called “Luce,” Luce, thou hast
+ answered him well.
+, to Luce
+ 
+ Do you hear, you minion? You’ll let us in, I hope?
+ 
+ I thought to have asked you.
+, within     And you said no.
+ 
+ So, come help. Well struck! There was blow for
+ blow.
+, to Luce
+ 
+ Thou baggage, let me in.
+  
+ Can you tell for whose sake?
+ 
+ Master, knock the door hard.
+  
+ Let him knock till it ache.
+ 
+ You’ll cry for this, minion, if I beat the door down.
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+75
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+80
+FTLN 0700
+FTLN 0701
+FTLN 0702
+FTLN 0703
+FTLN 0704
+85
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+90
+FTLN 0710
+
+--- PAGE 35 / 81 ---
+65
+The Comedy of Errors
+ACT 3. SC. 1
+LUCE
+ADRIANA
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+Adriana and Luce exit.
+DROMIO OF EPHESUS
+ANGELO
+BALTHASAR
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ 
+ What needs all that, and a pair of stocks in the
+ town?
+Enter Adriana, above, unseen by Antipholus of Ephesus
+and his company.
+ 
+ Who is that at the door that keeps all this noise?
+, within
+ 
+ By my troth, your town is troubled with unruly
+ boys.
+ 
+ Are you there, wife? You might have come before.
+ 
+ Your wife, sir knave? Go, get you from the door.
+ 
+ If you went in pain, master, this knave would go
+ sore.
+, to Antipholus of Ephesus
+ 
+ Here is neither cheer, sir, nor welcome. We would
+ fain have either.
+ 
+ In debating which was best, we shall part with
+ neither.
+ 
+ They stand at the door, master. Bid them welcome
+ hither.
+ 
+ There is something in the wind, that we cannot get
+ in.
+ 
+ You would say so, master, if your garments were
+ thin.
+ Your cake here is warm within; you stand here in
+ the cold.
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+95
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+100
+FTLN 0720
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+105
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+110
+FTLN 0730
+FTLN 0731
+
+--- PAGE 36 / 81 ---
+67
+The Comedy of Errors
+ACT 3. SC. 1
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+BALTHASAR
+ It would make a man mad as a buck to be so
+ bought and sold.
+ 
+ Go, fetch me something. I’ll break ope the gate.
+, within
+ 
+ Break any breaking here, and I’ll break your knave’s
+ pate.
+ 
+ A man may break a word with you,  sir, and words
+ are but wind,
+ Ay, and break it in your face, so he break it not
+ behind.
+, within
+ 
+ It seems thou want’st breaking. Out upon thee, hind!
+ 
+ Here’s too much “Out upon thee!” I pray thee, let
+ me in.
+, within
+ 
+ Ay, when fowls have no feathers and fish have no
+ fin.
+, to Dromio of Ephesus
+ 
+ Well, I’ll break in. Go, borrow me a crow.
+ 
+ A crow without feather? Master, mean you so?
+ For a fish without a fin, there’s a fowl without a
+ feather.—
+ If a crow help us in, sirrah, we’ll pluck a crow
+ together.
+ 
+ Go, get thee gone. Fetch me an iron crow.
+ 
+ Have patience, sir. O, let it not be so.
+ Herein you war against your reputation,
+ And draw within the compass of suspect
+ Th’ unviolated honor of your wife.
+ Once this: your long experience of her  wisdom,
+FTLN 0732
+FTLN 0733
+FTLN 0734
+115
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+120
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+125
+FTLN 0745
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+130
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+135
+FTLN 0755
+FTLN 0756
+FTLN 0757
+
+--- PAGE 37 / 81 ---
+69
+The Comedy of Errors
+ACT 3. SC. 1
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ Her sober virtue, years, and modesty
+ Plead on her  part some cause to you unknown.
+ And doubt not, sir, but she will well excuse
+ Why at this time the doors are made against you.
+ Be ruled by me; depart in patience,
+ And let us to the Tiger all to dinner,
+ And about evening come yourself alone
+ To know the reason of this strange restraint.
+ If by strong hand you offer to break in
+ Now in the stirring passage of the day,
+ A vulgar comment will be made of it;
+ And that supposèd by the common rout
+ Against your yet ungallèd estimation
+ That may with foul intrusion enter in
+ And dwell upon your grave when you are dead;
+ For slander lives upon succession,
+ Forever housèd where it gets possession.
+ 
+ You have prevailed. I will depart in quiet
+ And, in despite of mirth, mean to be merry.
+ I know a wench of excellent discourse,
+ Pretty and witty, wild and yet, too, gentle.
+ There will we dine. This woman that I mean,
+ My wife—but, I protest, without desert—
+ Hath oftentimes upbraided me withal;
+ To her will we to dinner.  To Angelo.  Get you home
+ And fetch the chain; by this, I know, ’tis made.
+ Bring it, I pray you, to the Porpentine,
+ For there’s the house. That chain will I bestow—
+ Be it for nothing but to spite my wife—
+ Upon mine hostess there. Good sir, make haste.
+ Since mine own doors refuse to entertain me,
+ I’ll knock elsewhere, to see if they’ll disdain me.
+ 
+ I’ll meet you at that place some hour hence.
+FTLN 0758
+FTLN 0759
+140
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+FTLN 0764
+145
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+150
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+155
+FTLN 0775
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+160
+FTLN 0780
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+165
+FTLN 0785
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+170
+FTLN 0790
+
+--- PAGE 38 / 81 ---
+71
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF EPHESUS
+They exit.
+LUCIANA
+ 
+ Do so. This jest shall cost me some expense.
+Enter Luciana  with Antipholus of Syracuse.
+ 
+ And may it be that you have quite forgot
+  A husband’s office? Shall, Antipholus,
+ Even in the spring of love thy love-springs rot?
+  Shall love, in building,  grow so ruinous?
+ If you did wed my sister for her wealth,
+  Then for her wealth’s sake use her with more
+  kindness.
+ Or if you like elsewhere, do it by stealth —
+  Muffle your false love with some show of
+  blindness.
+ Let not my sister read it in your eye;
+  Be not thy tongue thy own shame’s orator;
+ Look sweet, speak fair, become disloyalty;
+  Apparel vice like virtue’s harbinger.
+ Bear a fair presence, though your heart be tainted.
+  Teach sin the carriage of a holy saint.
+ Be secret-false. What need she be acquainted?
+  What simple thief brags of his own attaint?
+ ’Tis double wrong to truant with your bed
+  And let her read it in thy looks at board.
+ Shame hath a bastard fame, well managèd;
+  Ill deeds is doubled with an evil word.
+ Alas, poor women, make us but  believe,
+  Being compact of credit, that you love us.
+ Though others have the arm, show us the sleeve;
+  We in your motion turn, and you may move us.
+FTLN 0791
+Scene 2
+FTLN 0792
+FTLN 0793
+FTLN 0794
+FTLN 0795
+FTLN 0796
+5
+FTLN 0797
+FTLN 0798
+FTLN 0799
+FTLN 0800
+FTLN 0801
+10
+FTLN 0802
+FTLN 0803
+FTLN 0804
+FTLN 0805
+FTLN 0806
+15
+FTLN 0807
+FTLN 0808
+FTLN 0809
+FTLN 0810
+FTLN 0811
+20
+FTLN 0812
+FTLN 0813
+FTLN 0814
+FTLN 0815
+FTLN 0816
+25
+FTLN 0817
+
+--- PAGE 39 / 81 ---
+73
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ Then, gentle brother, get you in again.
+  Comfort my sister, cheer her, call her wife.
+ ’Tis holy sport to be a little vain
+  When the sweet breath of flattery conquers strife.
+ 
+ Sweet mistress—what your name is else I know not,
+  Nor by what wonder you do hit of mine—
+ Less in your knowledge and your grace you show not
+  Than our Earth’s wonder, more than Earth divine.
+ Teach me, dear creature, how to think and speak.
+  Lay open to my earthy gross conceit,
+ Smothered in errors, feeble, shallow, weak,
+  The folded meaning of your words’ deceit.
+ Against my soul’s pure truth why labor you
+  To make it wander in an unknown field?
+ Are you a god? Would you create me new?
+  Transform me, then, and to your power I’ll yield.
+ But if that I am I, then well I know
+  Your weeping sister is no wife of mine,
+ Nor to her bed no homage do I owe.
+  Far more, far more, to you do I decline.
+ O, train me not, sweet mermaid, with thy note
+  To drown me in thy sister’s  flood of tears.
+ Sing, Siren, for thyself, and I will dote.
+  Spread o’er the silver waves thy golden hairs,
+ And as a bed  I’ll take them  and there lie,
+  And in that glorious supposition think
+ He gains by death that hath such means to die.
+  Let love, being light, be drownèd if she sink.
+ 
+ What, are you mad that you do reason so?
+ 
+ Not mad, but mated—how, I do not know.
+ 
+ It is a fault that springeth from your eye.
+FTLN 0818
+FTLN 0819
+FTLN 0820
+FTLN 0821
+30
+FTLN 0822
+FTLN 0823
+FTLN 0824
+FTLN 0825
+FTLN 0826
+35
+FTLN 0827
+FTLN 0828
+FTLN 0829
+FTLN 0830
+FTLN 0831
+40
+FTLN 0832
+FTLN 0833
+FTLN 0834
+FTLN 0835
+FTLN 0836
+45
+FTLN 0837
+FTLN 0838
+FTLN 0839
+FTLN 0840
+FTLN 0841
+50
+FTLN 0842
+FTLN 0843
+FTLN 0844
+FTLN 0845
+FTLN 0846
+55
+FTLN 0847
+FTLN 0848
+
+--- PAGE 40 / 81 ---
+75
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+ANTIPHOLUS OF SYRACUSE
+LUCIANA
+She exits.
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ 
+ For gazing on your beams, fair sun, being by.
+ 
+ Gaze when you should, and that will clear your
+ sight.
+ 
+ As good to wink, sweet love, as look on night.
+ 
+ Why call you me “love”? Call my sister so.
+ 
+ Thy sister’s sister.
+  
+ That’s my sister.
+  
+ No,
+ It is thyself, mine own self’s better part,
+ Mine eye’s clear eye, my dear heart’s dearer heart,
+ My food, my fortune, and my sweet hope’s aim,
+ My sole Earth’s heaven, and my heaven’s claim.
+ 
+ All this my sister is, or else should be.
+ 
+ Call thyself “sister,” sweet, for I am thee.
+ Thee will I love, and with thee lead my life;
+ Thou hast no husband yet, nor I no wife.
+ Give me thy hand.
+  
+ O soft, sir. Hold you still.
+ I’ll fetch my sister to get her goodwill. 
+Enter Dromio of  Syracuse, running.
+  Why, how now, Dromio.
+ Where runn’st thou so fast?
+  Do you know me, sir? Am I
+ Dromio? Am I your man? Am I myself?
+  Thou art Dromio, thou art
+ my man, thou art thyself.
+  I am an ass, I am a woman’s
+ man, and besides myself.
+FTLN 0849
+FTLN 0850
+FTLN 0851
+60
+FTLN 0852
+FTLN 0853
+FTLN 0854
+FTLN 0855
+FTLN 0856
+65
+FTLN 0857
+FTLN 0858
+FTLN 0859
+FTLN 0860
+FTLN 0861
+70
+FTLN 0862
+FTLN 0863
+FTLN 0864
+FTLN 0865
+FTLN 0866
+75
+FTLN 0867
+FTLN 0868
+FTLN 0869
+FTLN 0870
+FTLN 0871
+80
+FTLN 0872
+FTLN 0873
+FTLN 0874
+FTLN 0875
+
+--- PAGE 41 / 81 ---
+77
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+  What woman’s man? And
+ how besides thyself?
+  Marry, sir, besides myself I am
+ due to a woman, one that claims me, one that
+ haunts me, one that will have me.
+  What claim lays she to thee?
+  Marry, sir, such claim as you
+ would lay to your horse, and she would have me as
+ a beast; not that I being a beast she would have me,
+ but that she, being a very beastly creature, lays
+ claim to me.
+  What is she?
+  A very reverend body, ay, such a
+ one as a man may not speak of without he say
+ “sir-reverence.” I have but lean luck in the match,
+ and yet is she a wondrous fat marriage.
+  How dost thou mean a “fat
+ marriage”?
+  Marry, sir, she’s the kitchen
+ wench, and all grease, and I know not what use to
+ put her to but to make a lamp of her and run from
+ her by her own light. I warrant her rags and the
+ tallow in them will burn a Poland winter. If she lives
+ till doomsday, she’ll burn a week longer than the
+ whole world.
+  What complexion is she of?
+  Swart like my shoe, but her face
+ nothing like so clean kept. For why? She sweats. A
+ man may go overshoes in the grime of it.
+  That’s a fault that water will
+ mend.
+  No, sir, ’tis in grain; Noah’s flood
+ could not do it.
+  What’s her name?
+  Nell, sir, but her name and
+FTLN 0876
+85
+FTLN 0877
+FTLN 0878
+FTLN 0879
+FTLN 0880
+FTLN 0881
+90
+FTLN 0882
+FTLN 0883
+FTLN 0884
+FTLN 0885
+FTLN 0886
+95
+FTLN 0887
+FTLN 0888
+FTLN 0889
+FTLN 0890
+FTLN 0891
+100
+FTLN 0892
+FTLN 0893
+FTLN 0894
+FTLN 0895
+FTLN 0896
+105
+FTLN 0897
+FTLN 0898
+FTLN 0899
+FTLN 0900
+FTLN 0901
+110
+FTLN 0902
+FTLN 0903
+FTLN 0904
+FTLN 0905
+FTLN 0906
+115
+FTLN 0907
+FTLN 0908
+FTLN 0909
+FTLN 0910
+
+--- PAGE 42 / 81 ---
+79
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ three quarters—that’s an ell and three quarters—
+ will not measure her from hip to hip.
+  Then she bears some
+ breadth?
+  No longer from head to foot than
+ from hip to hip. She is spherical, like a globe. I
+ could find out countries in her.
+  In what part of her body
+ stands Ireland?
+  Marry, sir, in her buttocks. I
+ found it out by the bogs.
+  Where Scotland?
+  I found it by the barrenness,
+ hard in the palm of the hand.
+  Where France?
+  In her forehead, armed and
+ reverted, making war against her heir.
+  Where England?
+  I looked for the chalky cliffs, but
+ I could find no whiteness in them. But I guess it
+ stood in her chin, by the salt rheum that ran
+ between France and it.
+  Where Spain?
+  Faith, I saw it not, but I felt it hot
+ in her breath.
+  Where America, the Indies?
+  O, sir, upon her nose, all o’erembellished
+ with rubies, carbuncles, sapphires,
+ declining their rich aspect to the hot breath of
+ Spain, who sent whole armadas of carracks to be
+ ballast at her nose.
+  Where stood Belgia, the
+ Netherlands?
+  O, sir, I did not look so low. To
+ conclude: this drudge or diviner laid claim to me,
+FTLN 0911
+120
+FTLN 0912
+FTLN 0913
+FTLN 0914
+FTLN 0915
+FTLN 0916
+125
+FTLN 0917
+FTLN 0918
+FTLN 0919
+FTLN 0920
+FTLN 0921
+130
+FTLN 0922
+FTLN 0923
+FTLN 0924
+FTLN 0925
+FTLN 0926
+135
+FTLN 0927
+FTLN 0928
+FTLN 0929
+FTLN 0930
+FTLN 0931
+140
+FTLN 0932
+FTLN 0933
+FTLN 0934
+FTLN 0935
+FTLN 0936
+145
+FTLN 0937
+FTLN 0938
+FTLN 0939
+FTLN 0940
+FTLN 0941
+150
+FTLN 0942
+FTLN 0943
+FTLN 0944
+FTLN 0945
+
+--- PAGE 43 / 81 ---
+81
+The Comedy of Errors
+ACT 3. SC. 2
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+He exits.
+ANTIPHOLUS OF SYRACUSE
+ANGELO
+ANTIPHOLUS OF SYRACUSE
+ called me Dromio, swore I was assured to her, told
+ me what privy marks I had about me, as the mark
+ of my shoulder, the mole in my neck, the great wart
+ on my left arm, that I, amazed, ran from her as a
+ witch.
+ And, I think, if my breast had not been made of
+ faith, and my heart of steel,
+ She had transformed me to a curtal dog and made
+ me turn i’ th’ wheel.
+ 
+ Go, hie thee presently. Post to the road.
+ An if the wind blow any way from shore,
+ I will not harbor in this town tonight.
+ If any bark put forth, come to the mart,
+ Where I will walk till thou return to me.
+ If everyone knows us, and we know none,
+ ’Tis time, I think, to trudge, pack, and be gone.
+ 
+ As from a bear a man would run for life,
+ So fly I from her that would be my wife. 
+ 
+ There’s none but witches do inhabit here,
+ And therefore ’tis high time that I were hence.
+ She that doth call me husband, even my soul
+ Doth for a wife abhor. But her fair sister,
+ Possessed with such a gentle sovereign grace,
+ Of such enchanting presence and discourse,
+ Hath almost made me traitor to myself.
+ But lest myself be guilty to self wrong,
+ I’ll stop mine ears against the mermaid’s song.
+Enter Angelo with the chain.
+ 
+ Master Antipholus.
+   Ay, that’s my name.
+FTLN 0946
+155
+FTLN 0947
+FTLN 0948
+FTLN 0949
+FTLN 0950
+FTLN 0951
+160
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+165
+FTLN 0957
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+170
+FTLN 0962
+FTLN 0963
+FTLN 0964
+FTLN 0965
+FTLN 0966
+175
+FTLN 0967
+FTLN 0968
+FTLN 0969
+FTLN 0970
+FTLN 0971
+180
+FTLN 0972
+FTLN 0973
+FTLN 0974
+
+--- PAGE 44 / 81 ---
+83
+The Comedy of Errors
+ACT 3. SC. 2
+ANGELO
+He gives Antipholus a chain.
+ANTIPHOLUS OF SYRACUSE
+ANGELO
+ANTIPHOLUS OF SYRACUSE
+ANGELO
+ANTIPHOLUS OF SYRACUSE
+ANGELO
+He exits.
+ANTIPHOLUS OF SYRACUSE
+He exits.
+ 
+ I know it well, sir. Lo, here’s the chain.
+ I thought to have ta’en you at the Porpentine;
+ The chain unfinished made me stay thus long.
+ 
+ What is your will that I shall do with this?
+ 
+ What please yourself, sir. I have made it for you.
+ 
+ Made it for me, sir? I bespoke it not.
+ 
+ Not once, nor twice, but twenty times you have.
+ Go home with it, and please your wife withal,
+ And soon at supper time I’ll visit you
+ And then receive my money for the chain.
+ 
+ I pray you, sir, receive the money now,
+ For fear you ne’er see chain nor money more.
+ 
+ You are a merry man, sir. Fare you well. 
+ 
+ What I should think of this I cannot tell,
+ But this I think: there’s no man is so vain
+ That would refuse so fair an offered chain.
+ I see a man here needs not live by shifts
+ When in the streets he meets such golden gifts.
+ I’ll to the mart, and there for Dromio stay.
+ If any ship put out, then straight away.
+FTLN 0975
+FTLN 0976
+185
+FTLN 0977
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+190
+FTLN 0982
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+195
+FTLN 0987
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+200
+FTLN 0992
+FTLN 0993
+FTLN 0994
+
+--- PAGE 45 / 81 ---
+SECOND  MERCHANT
+ANGELO
+OFFICER
+ANTIPHOLUS OF EPHESUS
+Enter a Second  Merchant, Angelo the  Goldsmith,
+and an Officer.
+, to Angelo
+ 
+ You know since Pentecost the sum is due,
+ And since I have not much importuned you,
+ Nor now I had not, but that I am bound
+ To Persia and want guilders for my voyage.
+ Therefore make present satisfaction,
+ Or I’ll attach you by this officer.
+ 
+ Even just the sum that I do owe to you
+ Is growing to me by Antipholus.
+ And in the instant that I met with you,
+ He had of me a chain. At five o’clock
+ I shall receive the money for the same.
+ Pleaseth you walk with me down to his house,
+ I will discharge my bond and thank you too.
+Enter Antipholus of  Ephesus and  Dromio of
+Ephesus  from the Courtesan’s.
+ 
+ That labor may you save. See where he comes.
+, to Dromio of Ephesus
+ 
+ While I go to the goldsmith’s house, go thou
+87
+ACT 4
+Scene 1
+FTLN 0995
+FTLN 0996
+FTLN 0997
+FTLN 0998
+FTLN 0999
+5
+FTLN 1000
+FTLN 1001
+FTLN 1002
+FTLN 1003
+FTLN 1004
+10
+FTLN 1005
+FTLN 1006
+FTLN 1007
+FTLN 1008
+FTLN 1009
+15
+
+--- PAGE 46 / 81 ---
+89
+The Comedy of Errors
+ACT 4. SC. 1
+DROMIO OF EPHESUS
+Dromio exits.
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ And buy a rope’s end. That will I bestow
+ Among my wife and her  confederates
+ For locking me out of my doors by day.
+ But soft. I see the goldsmith. Get thee gone.
+ Buy thou a rope, and bring it home to me.
+ 
+ I buy a thousand pound a year! I buy a rope!
+, to Angelo
+ 
+ A man is well holp up that trusts to you!
+ I promisèd your presence and the chain,
+ But neither chain nor goldsmith came to me.
+ Belike you thought our love would last too long
+ If it were chained together, and therefore came not.
+, handing a paper to Antipholus of Ephesus
+ 
+ Saving your merry humor, here’s the note
+ How much your chain weighs to the utmost carat,
+ The fineness of the gold, and chargeful fashion,
+ Which doth amount to three-odd ducats more
+ Than I stand debted to this gentleman.
+ I pray you, see him presently discharged,
+ For he is bound to sea, and stays but for it.
+ 
+ I am not furnished with the present money.
+ Besides, I have some business in the town.
+ Good signior, take the stranger to my house,
+ And with you take the chain, and bid my wife
+ Disburse the sum on the receipt thereof.
+ Perchance I will be there as soon as you.
+ 
+ Then you will bring the chain to her yourself.
+ 
+ No, bear it with you lest I come not time enough.
+ 
+ Well, sir, I will. Have you the chain about you?
+FTLN 1010
+FTLN 1011
+FTLN 1012
+FTLN 1013
+FTLN 1014
+20
+FTLN 1015
+FTLN 1016
+FTLN 1017
+FTLN 1018
+FTLN 1019
+25
+FTLN 1020
+FTLN 1021
+FTLN 1022
+FTLN 1023
+FTLN 1024
+30
+FTLN 1025
+FTLN 1026
+FTLN 1027
+FTLN 1028
+FTLN 1029
+35
+FTLN 1030
+FTLN 1031
+FTLN 1032
+FTLN 1033
+FTLN 1034
+40
+FTLN 1035
+FTLN 1036
+
+--- PAGE 47 / 81 ---
+91
+The Comedy of Errors
+ACT 4. SC. 1
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ANTIPHOLUS OF EPHESUS
+SECOND  MERCHANT
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ANTIPHOLUS OF EPHESUS
+SECOND  MERCHANT
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ 
+ An if I have not, sir, I hope you have,
+ Or else you may return without your money.
+ 
+ Nay, come, I pray you, sir, give me the chain.
+ Both wind and tide stays for this gentleman,
+ And I, to blame, have held him here too long.
+ 
+ Good Lord! You use this dalliance to excuse
+ Your breach of promise to the Porpentine.
+ I should have chid you for not bringing it,
+ But, like a shrew, you first begin to brawl.
+, to Angelo
+ 
+ The hour steals on. I pray you, sir, dispatch.
+, to Antipholus of Ephesus
+ 
+ You hear how he importunes me. The chain!
+ 
+ Why, give it to my wife, and fetch your money.
+ 
+ Come, come. You know I gave it you even now.
+ Either send the chain, or send by me  some token.
+ 
+ Fie, now you run this humor out of breath.
+ Come, where’s the chain? I pray you, let me see it.
+ 
+ My business cannot brook this dalliance.
+ Good sir, say whe’er you’ll answer me or no.
+ If not, I’ll leave him to the Officer.
+ 
+ I answer you? What should I answer you?
+ 
+ The money that you owe me for the chain.
+ 
+ I owe you none till I receive the chain.
+ 
+ You know I gave it you half an hour since.
+FTLN 1037
+FTLN 1038
+FTLN 1039
+45
+FTLN 1040
+FTLN 1041
+FTLN 1042
+FTLN 1043
+FTLN 1044
+50
+FTLN 1045
+FTLN 1046
+FTLN 1047
+FTLN 1048
+FTLN 1049
+55
+FTLN 1050
+FTLN 1051
+FTLN 1052
+FTLN 1053
+FTLN 1054
+60
+FTLN 1055
+FTLN 1056
+FTLN 1057
+FTLN 1058
+FTLN 1059
+65
+
+--- PAGE 48 / 81 ---
+93
+The Comedy of Errors
+ACT 4. SC. 1
+ANTIPHOLUS OF EPHESUS
+ANGELO
+SECOND  MERCHANT
+OFFICER
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ANGELO
+Giving money.
+OFFICER
+ANTIPHOLUS OF EPHESUS
+ANGELO
+DROMIO OF SYRACUSE
+ 
+ You gave me none. You wrong me much to say so.
+ 
+ You wrong me more, sir, in denying it.
+ Consider how it stands upon my credit.
+ 
+ Well, officer, arrest him at my suit.
+, to Angelo
+ 
+ I do, and charge you in the Duke’s name to obey
+ me.
+, to Antipholus of Ephesus
+ 
+ This touches me in reputation.
+ Either consent to pay this sum for me,
+ Or I attach you by this officer.
+ 
+ Consent to pay thee that I never had?—
+ Arrest me, foolish fellow, if thou dar’st.
+, to Officer
+ 
+ Here is thy fee. Arrest him, officer. 
+ I would not spare my brother in this case
+ If he should scorn me so apparently.
+, to Antipholus of Ephesus
+ 
+ I do arrest you, sir. You hear the suit.
+ 
+ I do obey thee till I give thee bail.
+  To Angelo.  But, sirrah, you shall buy this sport as
+ dear
+ As all the metal in your shop will answer.
+ 
+ Sir, sir, I shall have law in Ephesus,
+ To your notorious shame, I doubt it not.
+Enter Dromio of  Syracuse from the bay.
+ 
+ Master, there’s a bark of Epidamium
+ That stays but till her owner comes aboard,
+FTLN 1060
+FTLN 1061
+FTLN 1062
+FTLN 1063
+FTLN 1064
+70
+FTLN 1065
+FTLN 1066
+FTLN 1067
+FTLN 1068
+FTLN 1069
+75
+FTLN 1070
+FTLN 1071
+FTLN 1072
+FTLN 1073
+FTLN 1074
+80
+FTLN 1075
+FTLN 1076
+FTLN 1077
+FTLN 1078
+FTLN 1079
+85
+FTLN 1080
+FTLN 1081
+FTLN 1082
+
+--- PAGE 49 / 81 ---
+95
+The Comedy of Errors
+ACT 4. SC. 1
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+He gives a key.
+All but Dromio of Syracuse  exit.
+DROMIO OF SYRACUSE
+He exits.
+ And then, sir, she bears away. Our fraughtage, sir,
+ I have conveyed aboard, and I have bought
+ The oil, the balsamum, and aqua vitae.
+ The ship is in her trim; the merry wind
+ Blows fair from land. They stay for naught at all
+ But for their owner, master, and yourself.
+ 
+ How now? A madman? Why, thou peevish sheep,
+ What ship of Epidamium stays for me?
+ 
+ A ship you sent me to, to hire waftage.
+ 
+ Thou drunken slave, I sent thee for a rope
+ And told thee to what purpose and what end.
+ 
+ You sent me for a rope’s end as soon.
+ You sent me to the bay, sir, for a bark.
+ 
+ I will debate this matter at more leisure
+ And teach your ears to list me with more heed.
+ To Adriana, villain, hie thee straight.
+ Give her this key, and tell her in the desk
+ That’s covered o’er with Turkish tapestry
+ There is a purse of ducats. Let her send it.
+ Tell her I am arrested in the street,
+ And that shall bail me. Hie thee, slave. Begone.—
+ On, officer, to prison till it come.
+ 
+ To Adriana. That is where we dined,
+ Where Dowsabel did claim me for her husband.
+ She is too big, I hope, for me to compass.
+ Thither I must, although against my will,
+ For servants must their masters’ minds fulfill.
+FTLN 1083
+FTLN 1084
+90
+FTLN 1085
+FTLN 1086
+FTLN 1087
+FTLN 1088
+FTLN 1089
+95
+FTLN 1090
+FTLN 1091
+FTLN 1092
+FTLN 1093
+FTLN 1094
+100
+FTLN 1095
+FTLN 1096
+FTLN 1097
+FTLN 1098
+FTLN 1099
+105
+FTLN 1100
+FTLN 1101
+FTLN 1102
+FTLN 1103
+FTLN 1104
+110
+FTLN 1105
+FTLN 1106
+FTLN 1107
+FTLN 1108
+FTLN 1109
+115
+
+--- PAGE 50 / 81 ---
+97
+The Comedy of Errors
+ACT 4. SC. 2
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+LUCIANA
+ADRIANA
+Enter Adriana and Luciana.
+ 
+ Ah, Luciana, did he tempt thee so?
+  Might’st thou perceive austerely in his eye
+ That he did plead in earnest, yea or no?
+  Looked he or red or pale, or sad or merrily?
+ What observation mad’st thou in this case
+ Of  his heart’s meteors tilting in his face?
+ 
+ First he denied you had in him no right.
+ 
+ He meant he did me none; the more my spite.
+ 
+ Then swore he that he was a stranger here.
+ 
+ And true he swore, though yet forsworn he were.
+ 
+ Then pleaded I for you.
+  
+ And what said he?
+ 
+ That love I begged for you he begged of me.
+ 
+ With what persuasion did he tempt thy love?
+ 
+ With words that in an honest suit might move.
+ First he did praise my beauty, then my speech.
+ 
+ Did’st speak him fair?
+  
+ Have patience, I beseech.
+ 
+ I cannot, nor I will not hold me still.
+ My tongue, though not my heart, shall have his will.
+ He is deformèd, crooked, old, and sere,
+ Ill-faced, worse-bodied, shapeless everywhere,
+Scene 2
+FTLN 1110
+FTLN 1111
+FTLN 1112
+FTLN 1113
+FTLN 1114
+5
+FTLN 1115
+FTLN 1116
+FTLN 1117
+FTLN 1118
+FTLN 1119
+10
+FTLN 1120
+FTLN 1121
+FTLN 1122
+FTLN 1123
+FTLN 1124
+15
+FTLN 1125
+FTLN 1126
+FTLN 1127
+FTLN 1128
+FTLN 1129
+20
+FTLN 1130
+FTLN 1131
+
+--- PAGE 51 / 81 ---
+99
+The Comedy of Errors
+ACT 4. SC. 2
+LUCIANA
+ADRIANA
+DROMIO OF SYRACUSE
+LUCIANA
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ADRIANA
+ Vicious, ungentle, foolish, blunt, unkind,
+ Stigmatical in making, worse in mind.
+ 
+ Who would be jealous, then, of such a one?
+ No evil lost is wailed when it is gone.
+ 
+ Ah, but I think him better than I say,
+  And yet would herein others’ eyes were worse.
+ Far from her nest the lapwing cries away.
+  My heart prays for him, though my tongue do
+  curse.
+Enter Dromio of  Syracuse with the key.
+ 
+ Here, go—the desk, the purse! Sweet, now make
+ haste.
+ 
+ How hast thou lost thy breath?
+  
+ By running fast.
+ 
+ Where is thy master, Dromio? Is he well?
+ 
+ No, he’s in Tartar limbo, worse than hell.
+ A devil in an everlasting garment hath him,
+ One whose hard heart is buttoned up with steel;
+ A fiend, a fairy, pitiless and rough;
+ A wolf, nay, worse, a fellow all in buff;
+ A backfriend, a shoulder clapper, one that
+ countermands
+ The passages of alleys, creeks, and narrow lands;
+ A hound that runs counter and yet draws dryfoot
+ well,
+ One that before the judgment carries poor souls to
+ hell.
+  Why, man, what is the matter?
+FTLN 1132
+FTLN 1133
+FTLN 1134
+25
+FTLN 1135
+FTLN 1136
+FTLN 1137
+FTLN 1138
+FTLN 1139
+30
+FTLN 1140
+FTLN 1141
+FTLN 1142
+FTLN 1143
+FTLN 1144
+35
+FTLN 1145
+FTLN 1146
+FTLN 1147
+FTLN 1148
+FTLN 1149
+40
+FTLN 1150
+FTLN 1151
+FTLN 1152
+FTLN 1153
+FTLN 1154
+45
+FTLN 1155
+FTLN 1156
+FTLN 1157
+FTLN 1158
+
+--- PAGE 52 / 81 ---
+101
+The Comedy of Errors
+ACT 4. SC. 2
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ADRIANA
+DROMIO OF SYRACUSE
+ 
+ I do not know the matter. He is ’rested on the case.
+ 
+ What, is he arrested? Tell me at whose suit.
+ 
+ I know not at whose suit he is arrested well,
+ But is in a suit of buff which ’rested him; that can I
+ tell.
+ Will you send him, mistress, redemption—the
+ money in his desk?
+ 
+ Go fetch it, sister.  (Luciana exits.) This I wonder at,
+ That  he, unknown to me, should be in debt.
+ Tell me, was he arrested on a band?
+ 
+ Not on a band, but on a stronger thing:
+ A chain, a chain. Do you not hear it ring?
+  What, the chain?
+ 
+ No, no, the bell. ’Tis time that I were gone.
+ It was two ere I left him, and now the clock strikes
+ one.
+ 
+ The hours come back. That did I never hear.
+ 
+ O yes, if any hour meet a sergeant, he turns back
+ for very fear.
+ 
+ As if time were in debt. How fondly dost thou
+ reason!
+ 
+ Time is a very bankrout and owes more than he’s
+ worth to season.
+ Nay, he’s a thief too. Have you not heard men say
+ That time comes stealing on by night and day?
+FTLN 1159
+50
+FTLN 1160
+FTLN 1161
+FTLN 1162
+FTLN 1163
+FTLN 1164
+55
+FTLN 1165
+FTLN 1166
+FTLN 1167
+FTLN 1168
+FTLN 1169
+60
+FTLN 1170
+FTLN 1171
+FTLN 1172
+FTLN 1173
+FTLN 1174
+65
+FTLN 1175
+FTLN 1176
+FTLN 1177
+FTLN 1178
+FTLN 1179
+70
+FTLN 1180
+FTLN 1181
+FTLN 1182
+FTLN 1183
+
+--- PAGE 53 / 81 ---
+103
+The Comedy of Errors
+ACT 4. SC. 3
+ADRIANA
+Dromio exits.
+They  exit.
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+ If he  be in debt and theft, and a sergeant in the
+ way,
+ Hath he not reason to turn back an hour in a day?
+Enter Luciana, with the purse.
+ 
+ Go, Dromio. There’s the money. Bear it straight,
+ And bring thy master home immediately.
+ Come, sister, I am pressed down with conceit:
+ Conceit, my comfort and my injury.
+Enter Antipholus of  Syracuse, wearing the chain.
+ 
+ There’s not a man I meet but doth salute me
+ As if I were their well-acquainted friend,
+ And everyone doth call me by my name.
+ Some tender money to me; some invite me;
+ Some other give me thanks for kindnesses;
+ Some offer me commodities to buy.
+ Even now a tailor called me in his shop
+ And showed me silks that he had bought for me,
+ And therewithal took measure of my body.
+ Sure these are but imaginary wiles,
+ And Lapland sorcerers inhabit here.
+Enter Dromio of  Syracuse with the purse.
+  Master, here’s the gold you sent
+ me for. What, have you got the picture of old Adam
+ new-appareled?
+ 
+ What gold is this? What Adam dost thou mean?
+FTLN 1184
+75
+FTLN 1185
+FTLN 1186
+FTLN 1187
+FTLN 1188
+FTLN 1189
+80
+FTLN 1190
+Scene 3
+FTLN 1191
+FTLN 1192
+FTLN 1193
+FTLN 1194
+FTLN 1195
+5
+FTLN 1196
+FTLN 1197
+FTLN 1198
+FTLN 1199
+FTLN 1200
+10
+FTLN 1201
+FTLN 1202
+FTLN 1203
+FTLN 1204
+FTLN 1205
+15
+
+--- PAGE 54 / 81 ---
+105
+The Comedy of Errors
+ACT 4. SC. 3
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+He gives the purse.
+ANTIPHOLUS OF SYRACUSE
+COURTESAN
+  Not that Adam that kept the
+ Paradise, but that Adam that keeps the prison; he
+ that goes in the calf’s skin that was killed for the
+ Prodigal; he that came behind you, sir, like an evil
+ angel, and bid you forsake your liberty.
+  I understand thee not.
+  No? Why, ’tis a plain case: he
+ that went like a bass viol in a case of leather; the
+ man, sir, that, when gentlemen are tired, gives
+ them a sob and ’rests them; he, sir, that takes pity
+ on decayed men and gives them suits of durance; he
+ that sets up his rest to do more exploits with his
+ mace than a morris-pike.
+  What, thou mean’st an
+ officer?
+  Ay, sir, the sergeant of the band;
+ he that brings any man to answer it that breaks his
+ band; one that thinks a man always going to bed
+ and says “God give you good rest.”
+  Well, sir, there rest in your
+ foolery. Is there any ships puts forth tonight? May
+ we be gone?
+  Why, sir, I brought you word an
+ hour since that the bark Expedition put forth tonight,
+ and then were you hindered by the sergeant
+ to tarry for the hoy Delay. Here are the angels that
+ you sent for to deliver you. 
+ 
+ The fellow is distract, and so am I,
+ And here we wander in illusions.
+ Some blessèd power deliver us from hence!
+Enter a Courtesan.
+ 
+ Well met, well met, Master Antipholus.
+FTLN 1206
+FTLN 1207
+FTLN 1208
+FTLN 1209
+FTLN 1210
+20
+FTLN 1211
+FTLN 1212
+FTLN 1213
+FTLN 1214
+FTLN 1215
+25
+FTLN 1216
+FTLN 1217
+FTLN 1218
+FTLN 1219
+FTLN 1220
+30
+FTLN 1221
+FTLN 1222
+FTLN 1223
+FTLN 1224
+FTLN 1225
+35
+FTLN 1226
+FTLN 1227
+FTLN 1228
+FTLN 1229
+FTLN 1230
+40
+FTLN 1231
+FTLN 1232
+FTLN 1233
+FTLN 1234
+FTLN 1235
+45
+FTLN 1236
+
+--- PAGE 55 / 81 ---
+107
+The Comedy of Errors
+ACT 4. SC. 3
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+COURTESAN
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+COURTESAN
+DROMIO OF SYRACUSE
+ I see, sir, you have found the goldsmith now.
+ Is that the chain you promised me today?
+ 
+ Satan, avoid! I charge thee, tempt me not.
+ 
+ Master, is this Mistress Satan?
+  
+ It is the devil.
+  Nay, she is worse; she is the
+ devil’s dam, and here she comes in the habit of a
+ light wench. And thereof comes that the wenches
+ say “God damn me”; that’s as much to say “God
+ make me a light wench.” It is written they appear
+ to men like angels of light. Light is an effect of fire,
+ and fire will burn: ergo, light wenches will burn.
+ Come not near her.
+ 
+ Your man and you are marvelous merry, sir.
+ Will you go with me? We’ll mend our dinner here.
+  Master, if you  do, expect spoon
+ meat, or bespeak a long spoon.
+  Why, Dromio?
+  Marry, he must have a long
+ spoon that must eat with the devil.
+, to the Courtesan
+ 
+ Avoid then, fiend! What tell’st thou me of supping?
+ Thou art, as you are all, a sorceress.
+ I conjure thee to leave me and be gone.
+ 
+ Give me the ring of mine you had at dinner
+ Or, for my diamond, the chain you promised,
+ And I’ll be gone, sir, and not trouble you.
+  Some devils ask but the parings
+ of one’s nail, a rush, a hair, a drop of blood, a pin, a
+ nut, a cherrystone; but she, more covetous, would
+ have a chain. Master, be wise. An if you give it her,
+ the devil will shake her chain and fright us with it.
+FTLN 1237
+FTLN 1238
+FTLN 1239
+FTLN 1240
+50
+FTLN 1241
+FTLN 1242
+FTLN 1243
+FTLN 1244
+FTLN 1245
+55
+FTLN 1246
+FTLN 1247
+FTLN 1248
+FTLN 1249
+FTLN 1250
+60
+FTLN 1251
+FTLN 1252
+FTLN 1253
+FTLN 1254
+FTLN 1255
+65
+FTLN 1256
+FTLN 1257
+FTLN 1258
+FTLN 1259
+FTLN 1260
+70
+FTLN 1261
+FTLN 1262
+FTLN 1263
+FTLN 1264
+FTLN 1265
+75
+FTLN 1266
+FTLN 1267
+
+--- PAGE 56 / 81 ---
+109
+The Comedy of Errors
+ACT 4. SC. 4
+COURTESAN
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+Antipholus and Dromio  exit.
+COURTESAN
+She exits.
+ANTIPHOLUS OF EPHESUS
+ 
+ I pray you, sir, my ring or else the chain.
+ I hope you do not mean to cheat me so.
+ 
+ Avaunt, thou witch!—Come, Dromio, let us go.
+  “Fly pride,” says the peacock.
+ Mistress, that you know.
+ 
+ Now, out of doubt Antipholus is mad;
+ Else would he never so demean himself.
+ A ring he hath of mine worth forty ducats,
+ And for the same he promised me a chain.
+ Both one and other he denies me now.
+ The reason that I gather he is mad,
+ Besides this present instance of his rage,
+ Is a mad tale he told today at dinner
+ Of his own doors being shut against his entrance.
+ Belike his wife, acquainted with his fits,
+ On purpose shut the doors against his way.
+ My way is now to hie home to his house
+ And tell his wife that, being lunatic,
+ He rushed into my house and took perforce
+ My ring away. This course I fittest choose,
+ For forty ducats is too much to lose.
+Enter Antipholus of  Ephesus with a Jailer, the Officer.
+ 
+ Fear me not, man. I will not break away.
+ I’ll give thee, ere I leave thee, so much money,
+ To warrant thee, as I am ’rested for.
+ My wife is in a wayward mood today
+FTLN 1268
+FTLN 1269
+FTLN 1270
+80
+FTLN 1271
+FTLN 1272
+FTLN 1273
+FTLN 1274
+FTLN 1275
+85
+FTLN 1276
+FTLN 1277
+FTLN 1278
+FTLN 1279
+FTLN 1280
+90
+FTLN 1281
+FTLN 1282
+FTLN 1283
+FTLN 1284
+FTLN 1285
+95
+FTLN 1286
+FTLN 1287
+FTLN 1288
+Scene 4
+FTLN 1289
+FTLN 1290
+FTLN 1291
+FTLN 1292
+
+--- PAGE 57 / 81 ---
+111
+The Comedy of Errors
+ACT 4. SC. 4
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+OFFICER
+DROMIO OF EPHESUS
+OFFICER
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+ And will not lightly trust the messenger
+ That I should be attached in Ephesus.
+ I tell you, ’twill sound harshly in her ears.
+Enter Dromio of  Ephesus with a rope’s end.
+ Here comes my man. I think he brings the
+ money.
+ How now, sir? Have you that I sent you for?
+, handing over the rope’s end
+ 
+ Here’s that, I warrant you, will pay them all.
+  But where’s the money?
+ 
+ Why, sir, I gave the money for the rope.
+ 
+ Five hundred ducats, villain, for a rope?
+ 
+ I’ll serve you, sir, five hundred at the rate.
+ 
+ To what end did I bid thee hie thee home?
+  To a rope’s end, sir, and to that
+ end am I returned.
+, beating Dromio
+ 
+ And to that end, sir, I will welcome you.
+  Good sir, be patient.
+  Nay, ’tis for me to be patient. I am
+ in adversity.
+  Good now, hold thy tongue.
+  Nay, rather persuade him to hold
+ his hands.
+  Thou whoreson, senseless
+ villain.
+  I would I were senseless, sir, that
+ I might not feel your blows.
+  Thou art sensible in nothing
+ but blows, and so is an ass.
+FTLN 1293
+5
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+FTLN 1298
+10
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+15
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+20
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+25
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+30
+FTLN 1319
+
+--- PAGE 58 / 81 ---
+113
+The Comedy of Errors
+ACT 4. SC. 4
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+Beats Dromio.
+COURTESAN
+ADRIANA
+LUCIANA
+COURTESAN
+PINCH
+  I am an ass, indeed; you may
+ prove it by my long ears.—I have served him from
+ the hour of my nativity to this instant, and have
+ nothing at his hands for my service but blows.
+ When I am cold, he heats me with beating; when I
+ am warm, he cools me with beating. I am waked
+ with it when I sleep, raised with it when I sit,
+ driven out of doors with it when I go from home,
+ welcomed home with it when I return. Nay, I bear it
+ on my shoulders as a beggar wont her brat, and I
+ think when he hath lamed me, I shall beg with it
+ from door to door.
+Enter Adriana, Luciana, Courtesan, and a Schoolmaster
+called Pinch.
+ 
+ Come, go along. My wife is coming yonder.
+  Mistress, respice finem, respect
+ your end, or rather, the prophecy like the parrot,
+ “Beware the rope’s end.”
+  Wilt thou still talk?
+, to Adriana
+ 
+ How say you now? Is not your husband mad?
+ 
+ His incivility confirms no less.—
+ Good Doctor Pinch, you are a conjurer;
+ Establish him in his true sense again,
+ And I will please you what you will demand.
+ 
+ Alas, how fiery and how sharp he looks!
+ 
+ Mark how he trembles in his ecstasy.
+, to Antipholus of Ephesus
+ 
+ Give me your hand, and let me feel your pulse.
+FTLN 1320
+FTLN 1321
+FTLN 1322
+FTLN 1323
+35
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+FTLN 1328
+40
+FTLN 1329
+FTLN 1330
+FTLN 1331
+FTLN 1332
+FTLN 1333
+45
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+50
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+55
+FTLN 1344
+
+--- PAGE 59 / 81 ---
+115
+The Comedy of Errors
+ACT 4. SC. 4
+ANTIPHOLUS OF EPHESUS
+PINCH
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+, striking Pinch
+ 
+ There is my hand, and let it feel your ear.
+ 
+ I charge thee, Satan, housed within this man,
+ To yield possession to my holy prayers,
+ And to thy state of darkness hie thee straight.
+ I conjure thee by all the saints in heaven.
+ 
+ Peace, doting wizard, peace. I am not mad.
+ 
+ O, that thou wert not, poor distressèd soul!
+ 
+ You minion, you, are these your customers?
+ Did this companion with the saffron face
+ Revel and feast it at my house today
+ Whilst upon me the guilty doors were shut
+ And I denied to enter in my house?
+ 
+ O husband, God doth know you dined at home,
+ Where would you had remained until this time,
+ Free from these slanders and this open shame.
+ 
+ “Dined at home”?  To Dromio.  Thou villain, what
+ sayest thou?
+ 
+ Sir, sooth to say, you did not dine at home.
+ 
+ Were not my doors locked up and I shut out?
+ 
+ Perdie, your doors were locked, and you shut out.
+ 
+ And did not she herself revile me there?
+ 
+ Sans fable, she herself reviled you there.
+ 
+ Did not her kitchen maid rail, taunt, and scorn me?
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+60
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+65
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+FTLN 1358
+70
+FTLN 1359
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+75
+FTLN 1364
+FTLN 1365
+FTLN 1366
+FTLN 1367
+
+--- PAGE 60 / 81 ---
+117
+The Comedy of Errors
+ACT 4. SC. 4
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ADRIANA
+PINCH
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+LUCIANA
+DROMIO OF EPHESUS
+PINCH
+ANTIPHOLUS OF EPHESUS
+ 
+ Certes, she did; the kitchen vestal scorned you.
+ 
+ And did not I in rage depart from thence?
+ 
+ In verity you did.—My bones bears witness,
+ That since have felt the vigor of his rage.
+, to Pinch
+ 
+ Is ’t good to soothe him in these contraries?
+ 
+ It is no shame. The fellow finds his vein
+ And, yielding to him, humors well his frenzy.
+, to Adriana
+ 
+ Thou hast suborned the goldsmith to arrest me.
+ 
+ Alas, I sent you money to redeem you
+ By Dromio here, who came in haste for it.
+ 
+ Money by me? Heart and goodwill you might,
+ But surely, master, not a rag of money.
+ 
+ Went’st not thou to her for a purse of ducats?
+ 
+ He came to me, and I delivered it.
+ 
+ And I am witness with her that she did.
+ 
+ God and the rope-maker bear me witness
+ That I was sent for nothing but a rope.
+ 
+ Mistress, both man and master is possessed.
+ I know it by their pale and deadly looks.
+ They must be bound and laid in some dark room.
+, to Adriana
+ 
+ Say wherefore didst thou lock me forth today.
+FTLN 1368
+80
+FTLN 1369
+FTLN 1370
+FTLN 1371
+FTLN 1372
+FTLN 1373
+85
+FTLN 1374
+FTLN 1375
+FTLN 1376
+FTLN 1377
+FTLN 1378
+90
+FTLN 1379
+FTLN 1380
+FTLN 1381
+FTLN 1382
+FTLN 1383
+95
+FTLN 1384
+FTLN 1385
+FTLN 1386
+FTLN 1387
+FTLN 1388
+100
+
+--- PAGE 61 / 81 ---
+119
+The Comedy of Errors
+ACT 4. SC. 4
+ADRIANA
+DROMIO OF EPHESUS
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+PINCH
+LUCIANA
+ANTIPHOLUS OF EPHESUS
+OFFICER
+PINCH
+Dromio is bound.
+ADRIANA
+  To Dromio of Ephesus.  And why dost thou deny the
+ bag of gold?
+ 
+ I did not, gentle husband, lock thee forth.
+ 
+ And, gentle master, I received no gold.
+ But I confess, sir, that we were locked out.
+ 
+ Dissembling villain, thou speak’st false in both.
+ 
+ Dissembling harlot, thou art false in all,
+ And art confederate with a damnèd pack
+ To make a loathsome abject scorn of me.
+ But with these nails I’ll pluck out these false eyes
+ That would behold in me this shameful sport.
+ 
+ O bind him, bind him! Let him not come near me.
+Enter three or four, and offer to bind him. He strives.
+ 
+ More company! The fiend is strong within him.
+ 
+ Ay me, poor man, how pale and wan he looks!
+ 
+ What, will you murder me?—Thou jailer, thou,
+ I am thy prisoner. Wilt thou suffer them
+ To make a rescue?
+  
+ Masters, let him go.
+ He is my prisoner, and you shall not have him.
+ 
+ Go, bind this man, for he is frantic too.
+, to Officer
+ 
+ What wilt thou do, thou peevish officer?
+ Hast thou delight to see a wretched man
+ Do outrage and displeasure to himself?
+FTLN 1389
+FTLN 1390
+FTLN 1391
+FTLN 1392
+FTLN 1393
+105
+FTLN 1394
+FTLN 1395
+FTLN 1396
+FTLN 1397
+FTLN 1398
+110
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+FTLN 1403
+115
+FTLN 1404
+FTLN 1405
+FTLN 1406
+FTLN 1407
+FTLN 1408
+120
+FTLN 1409
+FTLN 1410
+FTLN 1411
+
+--- PAGE 62 / 81 ---
+121
+The Comedy of Errors
+ACT 4. SC. 4
+OFFICER
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+LUCIANA
+ADRIANA
+Pinch and his men  exit with Antipholus
+and Dromio of Ephesus.
+Officer, Adriana, Luciana, Courtesan remain.
+OFFICER
+ADRIANA
+OFFICER
+ADRIANA
+OFFICER
+ 
+ He is my prisoner. If I let him go,
+ The debt he owes will be required of me.
+ 
+ I will discharge thee ere I go from thee.
+ Bear me forthwith unto his creditor,
+ And knowing how the debt grows, I will pay it.—
+ Good Master Doctor, see him safe conveyed
+ Home to my house. O most unhappy day!
+  O most unhappy strumpet!
+ 
+ Master, I am here entered in bond for you.
+ 
+ Out on thee, villain! Wherefore dost thou mad me?
+ 
+ Will you be bound for nothing? Be mad, good
+ master.
+ Cry “The devil!”
+ 
+ God help poor souls! How idly do they talk!
+, to Pinch
+ 
+ Go bear him hence.
+ Sister, go you with me.
+  To Officer.  Say now whose suit is he arrested at.
+ 
+ One Angelo, a goldsmith. Do you know him?
+ 
+ I know the man. What is the sum he owes?
+ 
+ Two hundred ducats.
+  
+ Say, how grows it due?
+ 
+ Due for a chain your husband had of him.
+FTLN 1412
+FTLN 1413
+125
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+FTLN 1418
+130
+FTLN 1419
+FTLN 1420
+FTLN 1421
+FTLN 1422
+FTLN 1423
+135
+FTLN 1424
+FTLN 1425
+FTLN 1426
+FTLN 1427
+FTLN 1428
+140
+FTLN 1429
+FTLN 1430
+FTLN 1431
+FTLN 1432
+FTLN 1433
+145
+
+--- PAGE 63 / 81 ---
+123
+The Comedy of Errors
+ACT 4. SC. 4
+ADRIANA
+COURTESAN
+ADRIANA
+LUCIANA
+ADRIANA
+OFFICER
+Run all out as fast as may be, frighted.
+Antipholus and Dromio of Syracuse remain.
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ 
+ He did bespeak a chain for me but had it not.
+ 
+ Whenas your husband all in rage today
+ Came to my house and took away my ring,
+ The ring I saw upon his finger now,
+ Straight after did I meet him with a chain.
+ 
+ It may be so, but I did never see it.—
+ Come, jailer, bring me where the goldsmith is.
+ I long to know the truth hereof at large.
+Enter Antipholus of  Syracuse with his rapier drawn,
+and Dromio of  Syracuse.
+ 
+ God for Thy mercy, they are loose again!
+ 
+ And come with naked swords. Let’s call more help
+ To have them bound again.
+  
+ Away! They’ll kill us.
+ 
+ I see these witches are afraid of swords.
+ 
+ She that would be your wife now ran from you.
+ 
+ Come to the Centaur. Fetch our stuff from thence.
+ I long that we were safe and sound aboard.
+  Faith, stay here this night. They
+ will surely do us no harm. You saw they speak us
+ fair, give us gold. Methinks they are such a gentle
+ nation that, but for the mountain of mad flesh that
+ claims marriage of me, I could find in my heart to
+ stay here still, and turn witch.
+FTLN 1434
+FTLN 1435
+FTLN 1436
+FTLN 1437
+FTLN 1438
+150
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+FTLN 1443
+155
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+FTLN 1448
+160
+FTLN 1449
+FTLN 1450
+FTLN 1451
+FTLN 1452
+FTLN 1453
+165
+FTLN 1454
+FTLN 1455
+
+--- PAGE 64 / 81 ---
+125
+The Comedy of Errors
+ACT 4. SC. 4
+ANTIPHOLUS OF SYRACUSE
+They exit.
+ 
+ I will not stay tonight for all the town.
+ Therefore, away, to get our stuff aboard.
+FTLN 1456
+FTLN 1457
+
+--- PAGE 65 / 81 ---
+ANGELO
+SECOND  MERCHANT
+ANGELO
+SECOND  MERCHANT
+ANGELO
+Enter the Second  Merchant and Angelo  the
+Goldsmith.
+ 
+ I am sorry, sir, that I have hindered you,
+ But I protest he had the chain of me,
+ Though most dishonestly he doth deny it.
+ 
+ How is the man esteemed here in the city?
+ 
+ Of very reverend reputation, sir,
+ Of credit infinite, highly beloved,
+ Second to none that lives here in the city.
+ His word might bear my wealth at any time.
+ 
+ Speak softly. Yonder, as I think, he walks.
+Enter Antipholus and Dromio of Syracuse  again,
+Antipholus wearing the chain.
+ 
+ ’Tis so, and that self chain about his neck
+ Which he forswore most monstrously to have.
+ Good sir, draw near to me. I’ll speak to him.—
+ Signior Antipholus, I wonder much
+ That you would put me to this shame and trouble,
+ And not without some scandal to yourself,
+129
+ACT 5
+Scene 1
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+FTLN 1462
+5
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+FTLN 1467
+10
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+FTLN 1472
+15
+
+--- PAGE 66 / 81 ---
+131
+The Comedy of Errors
+ACT 5. SC. 1
+ANTIPHOLUS OF SYRACUSE
+SECOND  MERCHANT
+ANTIPHOLUS OF SYRACUSE
+SECOND  MERCHANT
+ANTIPHOLUS OF SYRACUSE
+SECOND  MERCHANT
+They draw.
+ADRIANA
+DROMIO OF SYRACUSE
+Antipholus and Dromio of Syracuse
+exit to the Priory.
+ With circumstance and oaths so to deny
+ This chain, which now you wear so openly.
+ Besides the charge, the shame, imprisonment,
+ You have done wrong to this my honest friend,
+ Who, but for staying on our controversy,
+ Had hoisted sail and put to sea today.
+ This chain you had of me. Can you deny it?
+ 
+ I think I had. I never did deny it.
+ 
+ Yes, that you did, sir, and forswore it too.
+ 
+ Who heard me to deny it or forswear it?
+ 
+ These ears of mine, thou know’st, did hear thee.
+ Fie on thee, wretch. ’Tis pity that thou liv’st
+ To walk where any honest men resort.
+ 
+ Thou art a villain to impeach me thus.
+ I’ll prove mine honor and mine honesty
+ Against thee presently if thou dar’st stand.
+ 
+ I dare, and do defy thee for a villain. 
+Enter Adriana, Luciana, Courtesan, and others.
+ 
+ Hold, hurt him not, for God’s sake. He is mad.—
+ Some get within him; take his sword away.
+ Bind Dromio too, and bear them to my house!
+ 
+ Run, master, run. For God’s sake, take a house.
+ This is some priory. In, or we are spoiled.
+Enter Lady Abbess.
+FTLN 1473
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+20
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+25
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+30
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+FTLN 1492
+35
+FTLN 1493
+FTLN 1494
+
+--- PAGE 67 / 81 ---
+133
+The Comedy of Errors
+ACT 5. SC. 1
+ABBESS
+ADRIANA
+ANGELO
+SECOND  MERCHANT
+ABBESS
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+ 
+ Be quiet, people. Wherefore throng you hither?
+ 
+ To fetch my poor distracted husband hence.
+ Let us come in, that we may bind him fast
+ And bear him home for his recovery.
+ 
+ I knew he was not in his perfect wits.
+ 
+ I am sorry now that I did draw on him.
+ 
+ How long hath this possession held the man?
+ 
+ This week he hath been heavy, sour, sad,
+ And much different from the man he was.
+ But till this afternoon his passion
+ Ne’er brake into extremity of rage.
+ 
+ Hath he not lost much wealth by wrack of sea?
+ Buried some dear friend? Hath not else his eye
+ Strayed his affection in unlawful love,
+ A sin prevailing much in youthful men
+ Who give their eyes the liberty of gazing?
+ Which of these sorrows is he subject to?
+ 
+ To none of these, except it be the last,
+ Namely, some love that drew him oft from home.
+ 
+ You should for that have reprehended him.
+ 
+ Why, so I did.
+  
+ Ay, but not rough enough.
+ 
+ As roughly as my modesty would let me.
+ 
+ Haply in private.
+FTLN 1495
+FTLN 1496
+FTLN 1497
+40
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+45
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+FTLN 1507
+50
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+FTLN 1512
+55
+FTLN 1513
+FTLN 1514
+FTLN 1515
+FTLN 1516
+FTLN 1517
+60
+FTLN 1518
+
+--- PAGE 68 / 81 ---
+135
+The Comedy of Errors
+ACT 5. SC. 1
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+LUCIANA
+  
+ And in assemblies too.
+  Ay, but not enough.
+ 
+ It was the copy of our conference.
+ In bed he slept not for my urging it;
+ At board he fed not for my urging it.
+ Alone, it was the subject of my theme;
+ In company I often glancèd it.
+ Still did I tell him it was vile and bad.
+ 
+ And thereof came it that the man was mad.
+ The venom clamors of a jealous woman
+ Poisons more deadly than a mad dog’s tooth.
+ It seems his sleeps were hindered by thy railing,
+ And thereof comes it that his head is light.
+ Thou sayst his meat was sauced with thy
+ upbraidings.
+ Unquiet meals make ill digestions.
+ Thereof the raging fire of fever bred,
+ And what’s a fever but a fit of madness?
+ Thou sayest his sports were hindered by thy brawls.
+ Sweet recreation barred, what doth ensue
+ But moody and dull melancholy,
+ Kinsman to grim and comfortless despair,
+ And at her heels a huge infectious troop
+ Of pale distemperatures and foes to life?
+ In food, in sport, and life-preserving rest
+ To be disturbed would mad or man or beast.
+ The consequence is, then, thy jealous fits
+ Hath scared thy husband from the use of wits.
+ 
+ She never reprehended him but mildly
+ When he demeaned himself rough, rude, and
+ wildly.—
+ Why bear you these rebukes and answer not?
+FTLN 1519
+FTLN 1520
+FTLN 1521
+FTLN 1522
+65
+FTLN 1523
+FTLN 1524
+FTLN 1525
+FTLN 1526
+FTLN 1527
+70
+FTLN 1528
+FTLN 1529
+FTLN 1530
+FTLN 1531
+FTLN 1532
+75
+FTLN 1533
+FTLN 1534
+FTLN 1535
+FTLN 1536
+FTLN 1537
+80
+FTLN 1538
+FTLN 1539
+FTLN 1540
+FTLN 1541
+FTLN 1542
+85
+FTLN 1543
+FTLN 1544
+FTLN 1545
+FTLN 1546
+FTLN 1547
+90
+FTLN 1548
+FTLN 1549
+FTLN 1550
+
+--- PAGE 69 / 81 ---
+137
+The Comedy of Errors
+ACT 5. SC. 1
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+ADRIANA
+ABBESS
+She exits.
+LUCIANA
+ADRIANA
+ 
+ She did betray me to my own reproof.—
+ Good people, enter and lay hold on him.
+ 
+ No, not a creature enters in my house.
+ 
+ Then let your servants bring my husband forth.
+ 
+ Neither. He took this place for sanctuary,
+ And it shall privilege him from your hands
+ Till I have brought him to his wits again
+ Or lose my labor in assaying it.
+ 
+ I will attend my husband, be his nurse,
+ Diet his sickness, for it is my office
+ And will have no attorney but myself;
+ And therefore let me have him home with me.
+ 
+ Be patient, for I will not let him stir
+ Till I have used the approvèd means I have,
+ With wholesome syrups, drugs, and holy prayers,
+ To make of him a formal man again.
+ It is a branch and parcel of mine oath,
+ A charitable duty of my order.
+ Therefore depart and leave him here with me.
+ 
+ I will not hence and leave my husband here;
+ And ill it doth beseem your holiness
+ To separate the husband and the wife.
+ 
+ Be quiet and depart. Thou shalt not have him.
+, to Adriana
+ 
+ Complain unto the Duke of this indignity.
+ 
+ Come, go. I will fall prostrate at his feet
+ And never rise until my tears and prayers
+FTLN 1551
+FTLN 1552
+95
+FTLN 1553
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+100
+FTLN 1558
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+105
+FTLN 1563
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+110
+FTLN 1568
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+115
+FTLN 1573
+FTLN 1574
+FTLN 1575
+FTLN 1576
+
+--- PAGE 70 / 81 ---
+139
+The Comedy of Errors
+ACT 5. SC. 1
+SECOND  MERCHANT
+ANGELO
+SECOND  MERCHANT
+ANGELO
+LUCIANA
+DUKE
+ADRIANA
+DUKE
+ADRIANA
+ Have won his grace to come in person hither
+ And take perforce my husband from the Abbess.
+ 
+ By this, I think, the dial points at five.
+ Anon, I’m sure, the Duke himself in person
+ Comes this way to the melancholy vale,
+ The place of death  and sorry execution
+ Behind the ditches of the abbey here.
+  Upon what cause?
+ 
+ To see a reverend Syracusian merchant,
+ Who put unluckily into this bay
+ Against the laws and statutes of this town,
+ Beheaded publicly for his offense.
+ 
+ See where they come. We will behold his death.
+, to Adriana
+ 
+ Kneel to the Duke before he pass the abbey.
+Enter the Duke of Ephesus, and Egeon  the Merchant
+of Syracuse, bare head, with the Headsman
+and other Officers.
+ 
+ Yet once again proclaim it publicly,
+ If any friend will pay the sum for him,
+ He shall not die; so much we tender him.
+, kneeling
+ 
+ Justice, most sacred duke, against the Abbess.
+ 
+ She is a virtuous and a reverend lady.
+ It cannot be that she hath done thee wrong.
+ 
+ May it please your Grace, Antipholus my husband,
+ Who I made lord of me and all I had
+ At your important letters, this ill day
+ A most outrageous fit of madness took him,
+FTLN 1577
+120
+FTLN 1578
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+125
+FTLN 1583
+FTLN 1584
+FTLN 1585
+FTLN 1586
+FTLN 1587
+130
+FTLN 1588
+FTLN 1589
+FTLN 1590
+FTLN 1591
+FTLN 1592
+135
+FTLN 1593
+FTLN 1594
+FTLN 1595
+FTLN 1596
+FTLN 1597
+140
+FTLN 1598
+FTLN 1599
+FTLN 1600
+
+--- PAGE 71 / 81 ---
+141
+The Comedy of Errors
+ACT 5. SC. 1
+DUKE
+Adriana rises.
+MESSENGER
+ That desp’rately he hurried through the street,
+ With him his bondman, all as mad as he,
+ Doing displeasure to the citizens
+ By rushing in their houses, bearing thence
+ Rings, jewels, anything his rage did like.
+ Once did I get him bound and sent him home
+ Whilst to take order for the wrongs I went
+ That here and there his fury had committed.
+ Anon, I wot not by what strong escape,
+ He broke from those that had the guard of him,
+ And with his mad attendant and himself,
+ Each one with ireful passion, with drawn swords,
+ Met us again and, madly bent on us,
+ Chased us away, till raising of more aid,
+ We came again to bind them. Then they fled
+ Into this abbey, whither we pursued them,
+ And here the Abbess shuts the gates on us
+ And will not suffer us to fetch him out,
+ Nor send him forth that we may bear him hence.
+ Therefore, most gracious duke, with thy command
+ Let him be brought forth and borne hence for help.
+ 
+ Long since, thy husband served me in my wars,
+ And I to thee engaged a prince’s word,
+ When thou didst make him master of thy bed,
+ To do him all the grace and good I could.
+ Go, some of you, knock at the abbey gate,
+ And bid the Lady Abbess come to me.
+ I will determine this before I stir. 
+Enter a Messenger.
+ 
+ O mistress, mistress, shift and save yourself.
+ My master and his man are both broke loose,
+ Beaten the maids a-row, and bound the doctor,
+FTLN 1601
+FTLN 1602
+145
+FTLN 1603
+FTLN 1604
+FTLN 1605
+FTLN 1606
+FTLN 1607
+150
+FTLN 1608
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+155
+FTLN 1613
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+160
+FTLN 1618
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+165
+FTLN 1623
+FTLN 1624
+FTLN 1625
+FTLN 1626
+FTLN 1627
+170
+FTLN 1628
+FTLN 1629
+FTLN 1630
+FTLN 1631
+
+--- PAGE 72 / 81 ---
+143
+The Comedy of Errors
+ACT 5. SC. 1
+ADRIANA
+MESSENGER
+Cry within.
+DUKE
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+EGEON
+ Whose beard they have singed off with brands of
+ fire,
+ And ever as it blazed they threw on him
+ Great pails of puddled mire to quench the hair.
+ My master preaches patience to him, and the while
+ His man with scissors nicks him like a fool;
+ And sure, unless you send some present help,
+ Between them they will kill the conjurer.
+ 
+ Peace, fool. Thy master and his man are here,
+ And that is false thou dost report to us.
+ 
+ Mistress, upon my life I tell you true.
+ I have not breathed almost since I did see it.
+ He cries for you and vows, if he can take you,
+ To scorch your face and to disfigure you. 
+ Hark, hark, I hear him, mistress. Fly, begone!
+ 
+ Come, stand by me. Fear nothing.—Guard with
+ halberds.
+Enter Antipholus and Dromio of Ephesus.
+ 
+ Ay me, it is my husband. Witness you
+ That he is borne about invisible.
+ Even now we housed him in the abbey here,
+ And now he’s there, past thought of human reason.
+ 
+ Justice, most gracious duke. O, grant me justice,
+ Even for the service that long since I did thee
+ When I bestrid thee in the wars and took
+ Deep scars to save thy life. Even for the blood
+ That then I lost for thee, now grant me justice.
+, aside
+ 
+ Unless the fear of death doth make me dote,
+ I see my son Antipholus and Dromio.
+FTLN 1632
+175
+FTLN 1633
+FTLN 1634
+FTLN 1635
+FTLN 1636
+FTLN 1637
+180
+FTLN 1638
+FTLN 1639
+FTLN 1640
+FTLN 1641
+FTLN 1642
+185
+FTLN 1643
+FTLN 1644
+FTLN 1645
+FTLN 1646
+FTLN 1647
+190
+FTLN 1648
+FTLN 1649
+FTLN 1650
+FTLN 1651
+FTLN 1652
+195
+FTLN 1653
+FTLN 1654
+FTLN 1655
+FTLN 1656
+FTLN 1657
+200
+FTLN 1658
+FTLN 1659
+
+--- PAGE 73 / 81 ---
+145
+The Comedy of Errors
+ACT 5. SC. 1
+ANTIPHOLUS OF EPHESUS
+DUKE
+ANTIPHOLUS OF EPHESUS
+DUKE
+ADRIANA
+LUCIANA
+ANGELO
+ANTIPHOLUS OF EPHESUS
+ 
+ Justice, sweet prince, against that woman there,
+ She whom thou gav’st to me to be my wife,
+ That hath abusèd and dishonored me
+ Even in the strength and height of injury.
+ Beyond imagination is the wrong
+ That she this day hath shameless thrown on me.
+ 
+ Discover how, and thou shalt find me just.
+ 
+ This day, great duke, she shut the doors upon me
+ While she with harlots feasted in my house.
+ 
+ A grievous fault.—Say, woman, didst thou so?
+ 
+ No, my good lord. Myself, he, and my sister
+ Today did dine together. So befall my soul
+ As this is false he burdens me withal.
+ 
+ Ne’er may I look on day nor sleep on night
+ But she tells to your Highness simple truth.
+ 
+ O perjured woman!—They are both forsworn.
+ In this the madman justly chargeth them.
+ 
+ My liege, I am advisèd what I say,
+ Neither disturbed with the effect of wine,
+ Nor heady-rash provoked with raging ire,
+ Albeit my wrongs might make one wiser mad.
+ This woman locked me out this day from dinner.
+ That goldsmith there, were he not packed with her,
+ Could witness it, for he was with me then,
+ Who parted with me to go fetch a chain,
+ Promising to bring it to the Porpentine,
+ Where Balthasar and I did dine together.
+ Our dinner done and he not coming thither,
+FTLN 1660
+FTLN 1661
+FTLN 1662
+205
+FTLN 1663
+FTLN 1664
+FTLN 1665
+FTLN 1666
+FTLN 1667
+210
+FTLN 1668
+FTLN 1669
+FTLN 1670
+FTLN 1671
+FTLN 1672
+215
+FTLN 1673
+FTLN 1674
+FTLN 1675
+FTLN 1676
+FTLN 1677
+220
+FTLN 1678
+FTLN 1679
+FTLN 1680
+FTLN 1681
+FTLN 1682
+225
+FTLN 1683
+FTLN 1684
+FTLN 1685
+FTLN 1686
+FTLN 1687
+230
+
+--- PAGE 74 / 81 ---
+147
+The Comedy of Errors
+ACT 5. SC. 1
+He points to Second Merchant.
+ANGELO
+ I went to seek him. In the street I met him,
+ And in his company that gentleman.
+ There did this perjured goldsmith swear me down
+ That I this day of him received the chain,
+ Which, God He knows, I saw not; for the which
+ He did arrest me with an officer.
+ I did obey and sent my peasant home
+ For certain ducats. He with none returned.
+ Then fairly I bespoke the officer
+ To go in person with me to my house.
+ By th’ way we met
+ My wife, her sister, and a rabble more
+ Of vile confederates. Along with them
+ They brought one Pinch, a hungry, lean-faced
+ villain,
+ A mere anatomy, a mountebank,
+ A threadbare juggler, and a fortune-teller,
+ A needy, hollow-eyed, sharp-looking wretch,
+ A living dead man. This pernicious slave,
+ Forsooth, took on him as a conjurer,
+ And, gazing in mine eyes, feeling my pulse,
+ And with no face (as ’twere) outfacing me,
+ Cries out I was possessed. Then all together
+ They fell upon me, bound me, bore me thence,
+ And in a dark and dankish vault at home
+ There left me and my man, both bound together,
+ Till gnawing with my teeth my bonds in sunder,
+ I gained my freedom and immediately
+ Ran hither to your Grace, whom I beseech
+ To give me ample satisfaction
+ For these deep shames and great indignities.
+ 
+ My lord, in truth, thus far I witness with him:
+ That he dined not at home, but was locked out.
+FTLN 1688
+FTLN 1689
+FTLN 1690
+FTLN 1691
+FTLN 1692
+235
+FTLN 1693
+FTLN 1694
+FTLN 1695
+FTLN 1696
+FTLN 1697
+240
+FTLN 1698
+FTLN 1699
+FTLN 1700
+FTLN 1701
+FTLN 1702
+245
+FTLN 1703
+FTLN 1704
+FTLN 1705
+FTLN 1706
+FTLN 1707
+250
+FTLN 1708
+FTLN 1709
+FTLN 1710
+FTLN 1711
+FTLN 1712
+255
+FTLN 1713
+FTLN 1714
+FTLN 1715
+FTLN 1716
+FTLN 1717
+260
+FTLN 1718
+FTLN 1719
+FTLN 1720
+
+--- PAGE 75 / 81 ---
+149
+The Comedy of Errors
+ACT 5. SC. 1
+DUKE
+ANGELO
+SECOND  MERCHANT
+ANTIPHOLUS OF EPHESUS
+DUKE
+DROMIO OF EPHESUS
+COURTESAN
+ANTIPHOLUS OF EPHESUS
+DUKE
+COURTESAN
+ 
+ But had he such a chain of thee or no?
+ 
+ He had, my lord, and when he ran in here,
+ These people saw the chain about his neck.
+, to Antipholus of Ephesus
+ 
+ Besides, I will be sworn these ears of mine
+ Heard you confess you had the chain of him
+ After you first forswore it on the mart,
+ And thereupon I drew my sword on you,
+ And then you fled into this abbey here,
+ From whence I think you are come by miracle.
+ 
+ I never came within these abbey walls,
+ Nor ever didst thou draw thy sword on me.
+ I never saw the chain, so help me heaven,
+ And this is false you burden me withal.
+ 
+ Why, what an intricate impeach is this!
+ I think you all have drunk of Circe’s cup.
+ If here you housed him, here he would have been.
+ If he were mad, he would not plead so coldly.
+  To Adriana.  You say he dined at home; the
+ goldsmith here
+ Denies that saying.  To Dromio of Ephesus.  Sirrah,
+ what say you?
+, pointing to the Courtesan
+ 
+ Sir, he dined with her there at the Porpentine.
+ 
+ He did, and from my finger snatched that ring.
+, showing a ring
+ 
+ ’Tis true, my liege, this ring I had of her.
+, to Courtesan
+ 
+ Saw’st thou him enter at the abbey here?
+ 
+ As sure, my liege, as I do see your Grace.
+FTLN 1721
+FTLN 1722
+265
+FTLN 1723
+FTLN 1724
+FTLN 1725
+FTLN 1726
+FTLN 1727
+270
+FTLN 1728
+FTLN 1729
+FTLN 1730
+FTLN 1731
+FTLN 1732
+275
+FTLN 1733
+FTLN 1734
+FTLN 1735
+FTLN 1736
+FTLN 1737
+280
+FTLN 1738
+FTLN 1739
+FTLN 1740
+FTLN 1741
+FTLN 1742
+285
+FTLN 1743
+FTLN 1744
+FTLN 1745
+FTLN 1746
+
+--- PAGE 76 / 81 ---
+151
+The Comedy of Errors
+ACT 5. SC. 1
+DUKE
+Exit one to the Abbess.
+EGEON
+DUKE
+EGEON
+DROMIO OF EPHESUS
+EGEON
+DROMIO OF EPHESUS
+EGEON
+ANTIPHOLUS OF EPHESUS
+EGEON
+ANTIPHOLUS OF EPHESUS
+EGEON
+DROMIO OF EPHESUS
+ 
+ Why, this is strange.—Go call the Abbess hither.
+ I think you are all mated or stark mad.
+ 
+ Most mighty duke, vouchsafe me speak a word.
+ Haply I see a friend will save my life
+ And pay the sum that may deliver me.
+ 
+ Speak freely, Syracusian, what thou wilt.
+, to Antipholus of Ephesus
+ 
+ Is not your name, sir, called Antipholus?
+ And is not that your bondman Dromio?
+ 
+ Within this hour I was his bondman, sir,
+ But he, I thank him, gnawed in two my cords.
+ Now am I Dromio, and his man, unbound.
+ 
+ I am sure you both of you remember me.
+ 
+ Ourselves we do remember, sir, by you,
+ For lately we were bound as you are now.
+ You are not Pinch’s patient, are you, sir?
+, to Antipholus of Ephesus
+ 
+ Why look you strange on me? You know me well.
+ 
+ I never saw you in my life till now.
+ 
+ O, grief hath changed me since you saw me last,
+ And careful hours with time’s deformèd hand
+ Have written strange defeatures in my face.
+ But tell me yet, dost thou not know my voice?
+  Neither.
+  Dromio, nor thou?
+  No, trust me, sir, nor I.
+FTLN 1747
+290
+FTLN 1748
+FTLN 1749
+FTLN 1750
+FTLN 1751
+FTLN 1752
+295
+FTLN 1753
+FTLN 1754
+FTLN 1755
+FTLN 1756
+FTLN 1757
+300
+FTLN 1758
+FTLN 1759
+FTLN 1760
+FTLN 1761
+FTLN 1762
+305
+FTLN 1763
+FTLN 1764
+FTLN 1765
+FTLN 1766
+FTLN 1767
+310
+FTLN 1768
+FTLN 1769
+FTLN 1770
+
+--- PAGE 77 / 81 ---
+153
+The Comedy of Errors
+ACT 5. SC. 1
+EGEON
+DROMIO OF EPHESUS
+EGEON
+ANTIPHOLUS OF EPHESUS
+EGEON
+ANTIPHOLUS OF EPHESUS
+DUKE
+  I am sure thou dost.
+  Ay, sir, but I am sure I do not, and
+ whatsoever a man denies, you are now bound to
+ believe him.
+ 
+ Not know my voice! O time’s extremity,
+ Hast thou so cracked and splitted my poor tongue
+ In seven short years that here my only son
+ Knows not my feeble key of untuned cares?
+ Though now this grainèd face of mine be hid
+ In sap-consuming winter’s drizzled snow,
+ And all the conduits of my blood froze up,
+ Yet hath my night of life some memory,
+ My wasting lamps some fading glimmer left,
+ My dull deaf ears a little use to hear.
+ All these old witnesses—I cannot err—
+ Tell me thou art my son Antipholus.
+ 
+ I never saw my father in my life.
+ 
+ But seven years since, in Syracusa, boy,
+ Thou know’st we parted. But perhaps, my son,
+ Thou sham’st to acknowledge me in misery.
+ 
+ The Duke and all that know me in the city
+ Can witness with me that it is not so.
+ I ne’er saw Syracusa in my life.
+ 
+ I tell thee, Syracusian, twenty years
+ Have I been patron to Antipholus,
+ During which time he ne’er saw Syracusa.
+ I see thy age and dangers make thee dote.
+Enter Emilia  the Abbess, with Antipholus of
+Syracuse and Dromio of  Syracuse.
+FTLN 1771
+FTLN 1772
+315
+FTLN 1773
+FTLN 1774
+FTLN 1775
+FTLN 1776
+FTLN 1777
+320
+FTLN 1778
+FTLN 1779
+FTLN 1780
+FTLN 1781
+FTLN 1782
+325
+FTLN 1783
+FTLN 1784
+FTLN 1785
+FTLN 1786
+FTLN 1787
+330
+FTLN 1788
+FTLN 1789
+FTLN 1790
+FTLN 1791
+FTLN 1792
+335
+FTLN 1793
+FTLN 1794
+FTLN 1795
+FTLN 1796
+FTLN 1797
+340
+
+--- PAGE 78 / 81 ---
+155
+The Comedy of Errors
+ACT 5. SC. 1
+ABBESS
+All gather to see them.
+ADRIANA
+DUKE
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+DROMIO OF SYRACUSE
+ABBESS
+DUKE
+EGEON
+ 
+ Most mighty duke, behold a man much wronged.
+ 
+ I see two husbands, or mine eyes deceive me.
+ 
+ One of these men is genius to the other.
+ And so, of these, which is the natural man
+ And which the spirit? Who deciphers them?
+ 
+ I, sir, am Dromio. Command him away.
+ 
+ I, sir, am Dromio. Pray, let me stay.
+ 
+ Egeon art thou not, or else his ghost?
+ 
+ O, my old master.—Who hath bound him here?
+ 
+ Whoever bound him, I will loose his bonds
+ And gain a husband by his liberty.—
+ Speak, old Egeon, if thou be’st the man
+ That hadst a wife once called Emilia,
+ That bore thee at a burden two fair sons.
+ O, if thou be’st the same Egeon, speak,
+ And speak unto the same Emilia.
+ 
+ Why, here begins his morning story right:
+ These two Antipholus’, these two so like,
+ And these two Dromios, one in semblance—
+ Besides her urging of her wrack at sea—
+ These are the parents to these children,
+ Which accidentally are met together.
+ 
+ If I dream not, thou art Emilia.
+ If thou art she, tell me, where is that son
+ That floated with thee on the fatal raft?
+FTLN 1798
+FTLN 1799
+FTLN 1800
+FTLN 1801
+FTLN 1802
+345
+FTLN 1803
+FTLN 1804
+FTLN 1805
+FTLN 1806
+FTLN 1807
+350
+FTLN 1808
+FTLN 1809
+FTLN 1810
+FTLN 1811
+FTLN 1812
+355
+FTLN 1813
+FTLN 1814
+FTLN 1815
+FTLN 1816
+FTLN 1817
+360
+FTLN 1818
+FTLN 1819
+FTLN 1820
+FTLN 1821
+FTLN 1822
+365
+
+--- PAGE 79 / 81 ---
+157
+The Comedy of Errors
+ACT 5. SC. 1
+ABBESS
+DUKE
+ANTIPHOLUS OF SYRACUSE
+DUKE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF EPHESUS
+ANTIPHOLUS OF EPHESUS
+ADRIANA
+ANTIPHOLUS OF SYRACUSE
+ADRIANA
+ANTIPHOLUS OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+ANGELO
+ 
+ By men of Epidamium he and I
+ And the twin Dromio all were taken up;
+ But by and by rude fishermen of Corinth
+ By force took Dromio and my son from them,
+ And me they left with those of Epidamium.
+ What then became of them I cannot tell;
+ I to this fortune that you see me in.
+, to Antipholus of Syracuse
+ 
+ Antipholus, thou cam’st from Corinth first.
+ 
+ No, sir, not I. I came from Syracuse.
+ 
+ Stay, stand apart. I know not which is which.
+ 
+ I came from Corinth, my most gracious lord.
+  And I with him.
+ 
+ Brought to this town by that most famous warrior
+ Duke Menaphon, your most renownèd uncle.
+ 
+ Which of you two did dine with me today?
+ 
+ I, gentle mistress.
+  
+ And are not you my husband?
+  No, I say nay to that.
+ 
+ And so do I, yet did she call me so,
+ And this fair gentlewoman, her sister here,
+ Did call me brother.  To Luciana.  What I told you
+ then
+ I hope I shall have leisure to make good,
+ If this be not a dream I see and hear.
+, turning to Antipholus of Syracuse
+ 
+ That is the chain, sir, which you had of me.
+FTLN 1823
+FTLN 1824
+FTLN 1825
+FTLN 1826
+FTLN 1827
+370
+FTLN 1828
+FTLN 1829
+FTLN 1830
+FTLN 1831
+FTLN 1832
+375
+FTLN 1833
+FTLN 1834
+FTLN 1835
+FTLN 1836
+FTLN 1837
+380
+FTLN 1838
+FTLN 1839
+FTLN 1840
+FTLN 1841
+FTLN 1842
+385
+FTLN 1843
+FTLN 1844
+FTLN 1845
+FTLN 1846
+FTLN 1847
+390
+
+--- PAGE 80 / 81 ---
+159
+The Comedy of Errors
+ACT 5. SC. 1
+ANTIPHOLUS OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+ANGELO
+ADRIANA
+DROMIO OF EPHESUS
+ANTIPHOLUS OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DUKE
+COURTESAN
+ANTIPHOLUS OF EPHESUS
+ABBESS
+ 
+ I think it be, sir. I deny it not.
+, to Angelo
+ 
+ And you, sir, for this chain arrested me.
+ 
+ I think I did, sir. I deny it not.
+, to Antipholus of Ephesus
+ 
+ I sent you money, sir, to be your bail
+ By Dromio, but I think he brought it not.
+  No, none by me.
+, to Adriana
+ 
+ This purse of ducats I received from you,
+ And Dromio my man did bring them me.
+ I see we still did meet each other’s man,
+ And I was ta’en for him, and he for me,
+ And thereupon these errors are arose.
+, to the Duke
+ 
+ These ducats pawn I for my father here.
+ 
+ It shall not need. Thy father hath his life.
+, to Antipholus of Ephesus
+ 
+ Sir, I must have that diamond from you.
+ 
+ There, take it, and much thanks for my good cheer.
+ 
+ Renownèd duke, vouchsafe to take the pains
+ To go with us into the abbey here
+ And hear at large discoursèd all our fortunes,
+ And all that are assembled in this place
+ That by this sympathizèd one day’s error
+ Have suffered wrong. Go, keep us company,
+ And we shall make full satisfaction.—
+ Thirty-three years have I but gone in travail
+ Of you, my sons, and till this present hour
+ My heavy burden ne’er  deliverèd.—
+ The Duke, my husband, and my children both,
+FTLN 1848
+FTLN 1849
+FTLN 1850
+FTLN 1851
+FTLN 1852
+395
+FTLN 1853
+FTLN 1854
+FTLN 1855
+FTLN 1856
+FTLN 1857
+400
+FTLN 1858
+FTLN 1859
+FTLN 1860
+FTLN 1861
+FTLN 1862
+405
+FTLN 1863
+FTLN 1864
+FTLN 1865
+FTLN 1866
+FTLN 1867
+410
+FTLN 1868
+FTLN 1869
+FTLN 1870
+FTLN 1871
+FTLN 1872
+415
+FTLN 1873
+
+--- PAGE 81 / 81 ---
+161
+The Comedy of Errors
+ACT 5. SC. 1
+DUKE
+All exit except the two Dromios
+and the  two brothers Antipholus.
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF EPHESUS
+DROMIO OF SYRACUSE
+ANTIPHOLUS OF SYRACUSE
+The brothers Antipholus  exit.
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+DROMIO OF SYRACUSE
+DROMIO OF EPHESUS
+They exit.
+ And you, the calendars of their nativity,
+ Go to a gossips’ feast, and go with me.
+ After so long grief, such nativity!
+ 
+ With all my heart I’ll gossip at this feast.
+, to Antipholus of Ephesus
+ 
+ Master, shall I fetch your stuff from shipboard?
+ 
+ Dromio, what stuff of mine hast thou embarked?
+ 
+ Your goods that lay at host, sir, in the Centaur.
+, to Antipholus of Ephesus
+ 
+ He speaks to me.—I am your master, Dromio.
+ Come, go with us. We’ll look to that anon.
+ Embrace thy brother there. Rejoice with him.
+ 
+ There is a fat friend at your master’s house
+ That kitchened me for you today at dinner.
+ She now shall be my sister, not my wife.
+ 
+ Methinks you are my glass, and not my brother.
+ I see by you I am a sweet-faced youth.
+ Will you walk in to see their gossiping?
+  Not I, sir. You are my elder.
+  That’s a question. How shall we
+ try it?
+  We’ll draw cuts for the signior.
+ Till then, lead thou first.
+  Nay, then, thus:
+ We came into the world like brother and brother,
+ And now let’s go hand in hand, not one before
+ another.
+FTLN 1874
+FTLN 1875
+FTLN 1876
+FTLN 1877
+420
+FTLN 1878
+FTLN 1879
+FTLN 1880
+FTLN 1881
+FTLN 1882
+425
+FTLN 1883
+FTLN 1884
+FTLN 1885
+FTLN 1886
+FTLN 1887
+430
+FTLN 1888
+FTLN 1889
+FTLN 1890
+FTLN 1891
+FTLN 1892
+435
+FTLN 1893
+FTLN 1894
+FTLN 1895
+FTLN 1896
+FTLN 1897
+440
+FTLN 1898
+

@@ -1,0 +1,7217 @@
+=== BOOK TITLE: the-two-gentlemen-of-verona_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 94 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 94 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+Scene 7
+ACT 3
+Scene 1
+Scene 2
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Contents
+
+--- PAGE 3 / 94 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 94 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 94 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 94 ---
+The Two Gentlemen of Verona tells the story of two devoted friends,
+Valentine and Proteus. Valentine leaves their home city of Verona for
+Milan, but Proteus, in love with Julia, stays behind. Then Proteus’s
+father sends him to Milan, too. Before leaving, Proteus pledges his
+love to Julia.
+In Milan, Valentine and the duke’s daughter, Sylvia, are in love.
+Proteus, on arriving, falls in love with Sylvia at first sight. He
+reveals to the duke that Sylvia and Valentine plan to elope, and
+Valentine is banished. Meanwhile, Proteus’s earlier love, Julia,
+assumes a male disguise and travels to Milan.
+The banished Valentine meets outlaws and becomes their leader.
+Sylvia, in search of Valentine, is seized by his outlaws. Proteus
+rescues her and then, when she spurns him, tries to rape her.
+Valentine stops the rape, but out of friendship offers to yield Sylvia
+to Proteus. Julia, however, reveals her identity, regaining Proteus’s
+love. Two weddings are planned: Valentine with Sylvia, and Proteus
+with Julia.
+Synopsis
+
+--- PAGE 7 / 94 ---
+VALENTINE, a gentleman of Verona
+SPEED, his servant
+PROTEUS, a gentleman of Verona
+LANCE, his servant
+ANTONIO, Proteus’ father
+PANTINO, an attendant to Antonio
+JULIA, a lady of Verona
+LUCETTA, her waiting-gentlewoman
+SYLVIA, a lady of Milan
+DUKE (sometimes Emperor), Sylvia’s father
+THURIO, a gentleman
+EGLAMOUR, a gentleman
+HOST, proprietor of an inn in Milan
+OUTLAWS, living in a forest near Mantua
+Servants; Musicians; Crab, a dog
+Characters in the Play
+
+--- PAGE 8 / 94 ---
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+Enter  Valentine and  Proteus.
+ 
+ Cease to persuade, my loving Proteus.
+ Home-keeping youth have ever homely wits.
+ Were ’t not affection chains thy tender days
+ To the sweet glances of thy honored love,
+ I rather would entreat thy company
+ To see the wonders of the world abroad
+ Than, living dully sluggardized at home,
+ Wear out thy youth with shapeless idleness.
+ But since thou lov’st, love still and thrive therein,
+ Even as I would when I to love begin.
+ 
+ Wilt thou be gone? Sweet Valentine, adieu.
+ Think on thy Proteus when thou haply seest
+ Some rare noteworthy object in thy travel.
+ Wish me partaker in thy happiness
+ When thou dost meet good hap; and in thy danger,
+ If ever danger do environ thee,
+ Commend thy grievance to my holy prayers,
+ For I will be thy beadsman, Valentine.
+ 
+ And on a love-book pray for my success?
+ 
+ Upon some book I love I’ll pray for thee.
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+
+--- PAGE 9 / 94 ---
+9
+The Two Gentlemen of Verona
+ACT 1. SC. 1
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+ 
+ That’s on some shallow story of deep love,
+ How young Leander crossed the Hellespont.
+ 
+ That’s a deep story of a deeper love,
+ For he was more than over shoes in love.
+ 
+ ’Tis true, for you are over boots in love,
+ And yet you never swam the Hellespont.
+ 
+ Over the boots? Nay, give me not the boots.
+ 
+ No, I will not, for it boots thee not.
+  
+ What?
+ 
+ To be in love, where scorn is bought with groans,
+ Coy looks with heart-sore sighs, one fading
+ moment’s mirth
+ With twenty watchful, weary, tedious nights;
+ If haply won, perhaps a hapless gain;
+ If lost, why then a grievous labor won;
+ How ever, but a folly bought with wit,
+ Or else a wit by folly vanquishèd.
+ 
+ So, by your circumstance, you call me fool.
+ 
+ So, by your circumstance, I fear you’ll prove.
+ 
+ ’Tis love you cavil at; I am not Love.
+ 
+ Love is your master, for he masters you;
+ And he that is so yokèd by a fool
+ Methinks should not be chronicled for wise.
+ 
+ Yet writers say: as in the sweetest bud
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+
+--- PAGE 10 / 94 ---
+11
+The Two Gentlemen of Verona
+ACT 1. SC. 1
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+He exits.
+PROTEUS
+ The eating canker dwells, so eating love
+ Inhabits in the finest wits of all.
+ 
+ And writers say: as the most forward bud
+ Is eaten by the canker ere it blow,
+ Even so by love the young and tender wit
+ Is turned to folly, blasting in the bud,
+ Losing his verdure, even in the prime,
+ And all the fair effects of future hopes.
+ But wherefore waste I time to counsel thee
+ That art a votary to fond desire?
+ Once more adieu. My father at the road
+ Expects my coming, there to see me shipped.
+ 
+ And thither will I bring thee, Valentine.
+ 
+ Sweet Proteus, no. Now let us take our leave.
+ To Milan let me hear from thee by letters
+ Of thy success in love, and what news else
+ Betideth here in absence of thy friend.
+ And I likewise will visit thee with mine.
+ 
+ All happiness bechance to thee in Milan.
+ 
+ As much to you at home. And so farewell. 
+ 
+ He after honor hunts, I after love.
+ He leaves his friends, to dignify them more;
+ I leave  myself, my friends, and all, for love.
+ Thou, Julia, thou hast metamorphosed me,
+ Made me neglect my studies, lose my time,
+ War with good counsel, set the world at nought;
+ Made wit with musing weak, heart sick with thought.
+Enter  Speed.
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+
+--- PAGE 11 / 94 ---
+13
+The Two Gentlemen of Verona
+ACT 1. SC. 1
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+ 
+ Sir Proteus, ’save you. Saw you my master?
+ 
+ But now he parted hence to embark for Milan.
+ 
+ Twenty to one, then, he is shipped already,
+ And I have played the sheep in losing him.
+ 
+ Indeed a sheep doth very often stray,
+ An if the shepherd be awhile away.
+  You conclude that my master is a shepherd,
+ then, and I a  sheep?
+  I do.
+  Why, then my horns are his horns, whether I
+ wake or sleep.
+  A silly answer, and fitting well a sheep.
+  This proves me still a sheep.
+  True, and thy master a shepherd.
+  Nay, that I can deny by a circumstance.
+  It shall go hard but I’ll prove it by another.
+  The shepherd seeks the sheep, and not the
+ sheep the shepherd; but I seek my master, and my
+ master seeks not me. Therefore I am no sheep.
+  The sheep for fodder follow the shepherd; the
+ shepherd for food follows not the sheep. Thou for
+ wages followest thy master; thy master for wages
+ follows not thee. Therefore thou art a sheep.
+  Such another proof will make me cry “baa.”
+  But dost thou hear? Gav’st thou my letter to
+ Julia?
+  Ay, sir. I, a lost mutton, gave your letter to her, a
+ laced mutton, and she, a laced mutton, gave me, a
+ lost mutton, nothing for my labor.
+  Here’s too small a pasture for such store of
+ muttons.
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+
+--- PAGE 12 / 94 ---
+15
+The Two Gentlemen of Verona
+ACT 1. SC. 1
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+  If the ground be overcharged, you were best
+ stick her.
+  Nay, in that you are astray; ’twere best pound
+ you.
+  Nay, sir, less than a pound shall serve me for
+ carrying your letter.
+  You mistake; I mean the pound, a pinfold.
+ 
+ From a pound to a pin? Fold it over and over,
+ ’Tis threefold too little for carrying a letter to your
+ lover.
+  But what said she?
+, nodding
+  Ay.
+  Nod—“Ay.” Why, that’s “noddy.”
+  You mistook, sir. I say she did nod, and you ask
+ me if she did nod, and I say “ay.”
+  And that set together is “noddy.”
+  Now you have taken the pains to set it together,
+ take it for your pains.
+  No, no, you shall have it for bearing the letter.
+  Well, I perceive I must be fain to bear with you.
+  Why, sir, how do you bear with me?
+  Marry, sir, the letter, very orderly, having nothing
+ but the word “noddy” for my pains.
+  Beshrew me, but you have a quick wit.
+  And yet it cannot overtake your slow purse.
+  Come, come, open the matter in brief. What
+ said she?
+  Open your purse, that the money and the matter
+ may be both at once delivered.
+, giving money
+  Well, sir, here is for your
+ pains. What said she?
+, looking at the money
+  Truly, sir, I think you’ll
+ hardly win her.
+  Why? Couldst thou perceive so much from
+ her?
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+
+--- PAGE 13 / 94 ---
+17
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+SPEED
+PROTEUS
+SPEED
+PROTEUS
+Speed exits.
+He exits.
+JULIA
+LUCETTA
+JULIA
+  Sir, I could perceive nothing at all from her, no,
+ not so much as a ducat for delivering your letter.
+ And being so hard to me that brought your mind, I
+ fear she’ll prove as hard to you in telling your mind.
+ Give her no token but stones, for she’s as hard as
+ steel.
+  What said she? Nothing?
+  No, not so much as “Take this for thy pains.”
+ To testify your bounty, I thank you, you have
+ testerned  me. In requital whereof, henceforth
+ carry your letters yourself. And so, sir, I’ll commend
+ you to my master.
+ 
+ Go, go, begone, to save your ship from wrack,
+ Which cannot perish having thee aboard,
+ Being destined to a drier death on shore.
+ I must go send some better messenger.
+ I fear my Julia would not deign my lines,
+ Receiving them from such a worthless post.
+Enter Julia and Lucetta.
+ 
+ But say, Lucetta, now we are alone,
+ Wouldst thou then counsel me to fall in love?
+ 
+ Ay, madam, so you stumble not unheedfully.
+ 
+ Of all the fair resort of gentlemen
+ That every day with parle encounter me,
+ In thy opinion which is worthiest love?
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+Scene 2
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+5
+FTLN 0161
+
+--- PAGE 14 / 94 ---
+19
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+ 
+ Please you repeat their names, I’ll show my mind
+ According to my shallow simple skill.
+ 
+ What think’st thou of the fair Sir Eglamour?
+ 
+ As of a knight well-spoken, neat, and fine;
+ But, were I you, he never should be mine.
+ 
+ What think’st thou of the rich Mercatio?
+ 
+ Well of his wealth, but of himself so-so.
+ 
+ What think’st thou of the gentle Proteus?
+ 
+ Lord, Lord, to see what folly reigns in us!
+ 
+ How now? What means this passion at his name?
+ 
+ Pardon, dear madam, ’tis a passing shame
+ That I, unworthy body as I am,
+ Should censure thus on lovely gentlemen.
+ 
+ Why not on Proteus, as of all the rest?
+ 
+ Then thus: of many good, I think him best.
+  Your reason?
+ 
+ I have no other but a woman’s reason:
+ I think him so because I think him so.
+ 
+ And wouldst thou have me cast my love on him?
+ 
+ Ay, if you thought your love not cast away.
+ 
+ Why, he of all the rest hath never moved me.
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+10
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+15
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+20
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+25
+FTLN 0181
+FTLN 0182
+
+--- PAGE 15 / 94 ---
+21
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+She exits.
+JULIA
+ 
+ Yet he of all the rest I think best loves you.
+ 
+ His little speaking shows his love but small.
+ 
+ Fire that’s closest kept burns most of all.
+ 
+ They do not love that do not show their love.
+ 
+ O, they love least that let men know their love.
+  I would I knew his mind.
+, handing her a paper
+  Peruse this paper,
+ madam.
+ reads
+  “To Julia.”—Say from whom.
+  That the contents will show.
+  Say, say who gave it thee.
+ 
+ Sir Valentine’s page; and sent, I think, from
+ Proteus.
+ He would have given it you, but I, being in the way,
+ Did in your name receive it. Pardon the fault, I pray.
+ 
+ Now, by my modesty, a goodly broker!
+ Dare you presume to harbor wanton lines?
+ To whisper and conspire against my youth?
+ Now trust me, ’tis an office of great worth,
+ And you an officer fit for the place.
+ There, take the paper; see it be returned,
+ Or else return no more into my sight.
+, taking the paper
+ 
+ To plead for love deserves more fee than hate.
+ 
+ Will you be gone?
+  
+ That you may ruminate. 
+ 
+ And yet I would I had o’erlooked the letter.
+FTLN 0183
+FTLN 0184
+FTLN 0185
+30
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+35
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+40
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+45
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+50
+FTLN 0206
+FTLN 0207
+FTLN 0208
+
+--- PAGE 16 / 94 ---
+23
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+LUCETTA
+JULIA
+LUCETTA
+She drops a paper and then retrieves it.
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+ It were a shame to call her back again
+ And pray her to a fault for which I chid her.
+ What fool is she that knows I am a maid
+ And would not force the letter to my view,
+ Since maids in modesty say “no” to that
+ Which they would have the profferer construe “ay”!
+ Fie, fie, how wayward is this foolish love
+ That like a testy babe will scratch the nurse
+ And presently, all humbled, kiss the rod!
+ How churlishly I chid Lucetta hence,
+ When willingly I would have had her here!
+ How angerly I taught my brow to frown,
+ When inward joy enforced my heart to smile!
+ My penance is to call Lucetta back
+ And ask remission for my folly past.—
+ What ho, Lucetta!
+Enter Lucetta.
+  
+ What would your Ladyship?
+ 
+ Is ’t near dinner time?
+  
+ I would it were,
+ That you might kill your stomach on your meat
+ And not upon your maid.
+ 
+ What is ’t that you took up so gingerly?
+  Nothing.
+  Why didst thou stoop, then?
+ 
+ To take a paper up that I let fall.
+  And is that paper nothing?
+  Nothing concerning me.
+ 
+ Then let it lie for those that it concerns.
+FTLN 0209
+FTLN 0210
+55
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+60
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+65
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+70
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+75
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+80
+FTLN 0236
+
+--- PAGE 17 / 94 ---
+25
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+ 
+ Madam, it will not lie where it concerns
+ Unless it have a false interpreter.
+ 
+ Some love of yours hath writ to you in rhyme.
+ 
+ That I might sing it, madam, to a tune,
+ Give me a note. Your Ladyship can set—
+ 
+ As little by such toys as may be possible.
+ Best sing it to the tune of “Light o’ Love.”
+ 
+ It is too heavy for so light a tune.
+ 
+ Heavy? Belike it hath some burden then?
+ 
+ Ay, and melodious were it, would you sing it.
+ 
+ And why not you?
+  
+ I cannot reach so high.
+, taking the paper
+ 
+ Let’s see your song. How now, minion!
+ 
+ Keep tune there still, so you will sing it out.
+ And yet methinks I do not like this tune.
+  You do not?
+  No, madam, ’tis too sharp.
+  You, minion, are too saucy.
+  Nay, now you are too flat
+ And mar the concord with too harsh a descant.
+ There wanteth but a mean to fill your song.
+ 
+ The mean is drowned with your  unruly bass.
+ 
+ Indeed, I bid the base for Proteus.
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+85
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+90
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+95
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+100
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+
+--- PAGE 18 / 94 ---
+27
+The Two Gentlemen of Verona
+ACT 1. SC. 2
+JULIA
+She rips up the paper. Lucetta begins
+to pick up the pieces.
+LUCETTA
+She exits.
+JULIA
+She picks up some pieces.
+ 
+ This babble shall not henceforth trouble me.
+ Here is a coil with protestation.
+ Go, get you gone, and let the papers lie.
+ You would be fing’ring them to anger me.
+ 
+ She makes it strange, but she would be best pleased
+ To be so angered with another letter. 
+ 
+ Nay, would I were so angered with the same!
+ O hateful hands, to tear such loving words!
+ Injurious wasps, to feed on such sweet honey
+ And kill the bees that yield it with your stings!
+ I’ll kiss each several paper for amends.
+ Look, here is writ “kind Julia.” Unkind Julia,
+ As in revenge of thy ingratitude,
+ I throw thy name against the bruising stones,
+ Trampling contemptuously on thy disdain.
+ And here is writ “love-wounded Proteus.”
+ Poor wounded name, my bosom as a bed
+ Shall lodge thee till thy wound be throughly healed,
+ And thus I search it with a sovereign kiss.
+ But twice or thrice was “Proteus” written down.
+ Be calm, good wind. Blow not a word away
+ Till I have found each letter in the letter
+ Except mine own name. That some whirlwind bear
+ Unto a ragged, fearful, hanging rock
+ And throw it thence into the raging sea.
+ Lo, here in one line is his name twice writ:
+ “Poor forlorn Proteus, passionate Proteus,
+ To the sweet Julia.” That I’ll tear away—
+ And yet I will not, sith so prettily
+ He couples it to his complaining names.
+FTLN 0260
+105
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+110
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+115
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+120
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+125
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+130
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+
+--- PAGE 19 / 94 ---
+29
+The Two Gentlemen of Verona
+ACT 1. SC. 3
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+She picks up the rest of the pieces.
+JULIA
+LUCETTA
+JULIA
+They exit.
+ANTONIO
+PANTINO
+ANTONIO
+PANTINO
+ Thus will I fold them one upon another.
+ Now kiss, embrace, contend, do what you will.
+Enter Lucetta.
+ 
+ Madam, dinner is ready, and your father stays.
+  Well, let us go.
+ 
+ What, shall these papers lie like telltales here?
+ 
+ If you respect them, best to take them up.
+ 
+ Nay, I was taken up for laying them down.
+ Yet here they shall not lie, for catching cold.
+ 
+ I see you have a month’s mind to them.
+ 
+ Ay, madam, you may say what sights you see;
+ I see things too, although you judge I wink.
+  Come, come, will ’t please you go?
+Enter Antonio and Pantino.
+ 
+ Tell me, Pantino, what sad talk was that
+ Wherewith my brother held you in the cloister?
+ 
+ ’Twas of his nephew Proteus, your son.
+ 
+ Why, what of him?
+  
+ He wondered that your Lordship
+ Would suffer him to spend his youth at home
+FTLN 0290
+135
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+140
+FTLN 0296
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+145
+FTLN 0301
+Scene 3
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+FTLN 0306
+5
+FTLN 0307
+
+--- PAGE 20 / 94 ---
+31
+The Two Gentlemen of Verona
+ACT 1. SC. 3
+ANTONIO
+PANTINO
+ANTONIO
+PANTINO
+ANTONIO
+ While other men, of slender reputation,
+ Put forth their sons to seek preferment out:
+ Some to the wars to try their fortune there,
+ Some to discover islands far away,
+ Some to the studious universities.
+ For any or for all these exercises
+ He said that Proteus your son was meet,
+ And did request me to importune you
+ To let him spend his time no more at home,
+ Which would be great impeachment to his age
+ In having known no travel in his youth.
+ 
+ Nor need’st thou much importune me to that
+ Whereon this month I have been hammering.
+ I have considered well his loss of time
+ And how he cannot be a perfect man,
+ Not being tried and tutored in the world.
+ Experience is by industry achieved
+ And perfected by the swift course of time.
+ Then tell me whither were I best to send him.
+ 
+ I think your Lordship is not ignorant
+ How his companion, youthful Valentine,
+ Attends the Emperor in his royal court.
+  I know it well.
+ 
+ ’Twere good, I think, your Lordship sent him thither.
+ There shall he practice tilts and tournaments,
+ Hear sweet discourse, converse with noblemen,
+ And be in eye of every exercise
+ Worthy his youth and nobleness of birth.
+ 
+ I like thy counsel. Well hast thou advised,
+ And that thou mayst perceive how well I like it,
+ The execution of it shall make known.
+FTLN 0308
+FTLN 0309
+FTLN 0310
+FTLN 0311
+10
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+FTLN 0316
+15
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+FTLN 0321
+20
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+FTLN 0326
+25
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+30
+FTLN 0332
+FTLN 0333
+FTLN 0334
+FTLN 0335
+FTLN 0336
+35
+FTLN 0337
+FTLN 0338
+
+--- PAGE 21 / 94 ---
+33
+The Two Gentlemen of Verona
+ACT 1. SC. 3
+PANTINO
+ANTONIO
+PROTEUS
+ANTONIO
+PROTEUS
+ANTONIO
+PROTEUS
+ANTONIO
+ Even with the speediest expedition
+ I will dispatch him to the Emperor’s court.
+ 
+ Tomorrow, may it please you, Don Alphonso,
+ With other gentlemen of good esteem,
+ Are journeying to salute the Emperor
+ And to commend their service to his will.
+ 
+ Good company. With them shall Proteus go.
+Enter  Proteus reading.
+ And in good time! Now will we break with him.
+, to himself
+ 
+ Sweet love, sweet lines, sweet life!
+ Here is her hand, the agent of her heart;
+ Here is her oath for love, her honor’s pawn.
+ O, that our fathers would applaud our loves
+ To seal our happiness with their consents.
+ O heavenly Julia!
+ 
+ How now? What letter are you reading there?
+ 
+ May ’t please your Lordship, ’tis a word or two
+ Of commendations sent from Valentine,
+ Delivered by a friend that came from him.
+ 
+ Lend me the letter. Let me see what news.
+ 
+ There is no news, my lord, but that he writes
+ How happily he lives, how well beloved
+ And daily gracèd by the Emperor,
+ Wishing me with him, partner of his fortune.
+ 
+ And how stand you affected to his wish?
+FTLN 0339
+FTLN 0340
+FTLN 0341
+40
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+FTLN 0346
+45
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+FTLN 0351
+50
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+FTLN 0356
+55
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+FTLN 0361
+60
+FTLN 0362
+
+--- PAGE 22 / 94 ---
+35
+The Two Gentlemen of Verona
+ACT 1. SC. 3
+PROTEUS
+ANTONIO
+PROTEUS
+ANTONIO
+Antonio and Pantino exit.
+PROTEUS
+ 
+ As one relying on your Lordship’s will,
+ And not depending on his friendly wish.
+ 
+ My will is something sorted with his wish.
+ Muse not that I thus suddenly proceed,
+ For what I will, I will, and there an end.
+ I am resolved that thou shalt spend some time
+ With Valentinus in the Emperor’s court.
+ What maintenance he from his friends receives,
+ Like exhibition thou shalt have from me.
+ Tomorrow be in readiness to go.
+ Excuse it not, for I am peremptory.
+ 
+ My lord, I cannot be so soon provided.
+ Please you deliberate a day or two.
+ 
+ Look what thou want’st shall be sent after thee.
+ No more of stay. Tomorrow thou must go.—
+ Come on, Pantino; you shall be employed
+ To hasten on his expedition.
+ 
+ Thus have I shunned the fire for fear of burning
+ And drenched me in the sea, where I am drowned.
+ I feared to show my father Julia’s letter
+ Lest he should take exceptions to my love,
+ And with the vantage of mine own excuse
+ Hath he excepted most against my love.
+ O, how this spring of love resembleth
+ The uncertain glory of an April day,
+ Which now shows all the beauty of the sun,
+ And by and by a cloud takes all away.
+Enter Pantino.
+FTLN 0363
+FTLN 0364
+FTLN 0365
+FTLN 0366
+65
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+FTLN 0371
+70
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+FTLN 0376
+75
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+FTLN 0381
+80
+FTLN 0382
+FTLN 0383
+FTLN 0384
+FTLN 0385
+FTLN 0386
+85
+FTLN 0387
+FTLN 0388
+FTLN 0389
+
+--- PAGE 23 / 94 ---
+37
+The Two Gentlemen of Verona
+ACT 1. SC. 3
+PANTINO
+PROTEUS
+They exit.
+ 
+ Sir Proteus, your father  calls for you.
+ He is in haste. Therefore, I pray you, go.
+ 
+ Why, this it is: my heart accords thereto.
+  Aside.  And yet a thousand times it answers “no.”
+FTLN 0390
+FTLN 0391
+90
+FTLN 0392
+FTLN 0393
+
+--- PAGE 24 / 94 ---
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+Enter Valentine and  Speed, carrying a glove.
+ 
+ Sir, your glove.
+  
+ Not mine. My gloves are on.
+ 
+ Why, then, this may be yours, for this is but one.
+ 
+ Ha? Let me see. Ay, give it me, it’s mine.
+ Sweet ornament that decks a thing divine!
+ Ah, Sylvia, Sylvia!
+, calling
+  Madam Sylvia! Madam Sylvia!
+  How now, sirrah?
+  She is not within hearing, sir.
+  Why, sir, who bade you call her?
+  Your Worship, sir, or else I mistook.
+  Well, you’ll still be too forward.
+  And yet I was last chidden for being too slow.
+  Go to, sir. Tell me, do you know Madam
+ Sylvia?
+  She that your Worship loves?
+  Why, how know you that I am in love?
+  Marry, by these special marks: first, you have
+ learned, like Sir Proteus, to wreathe your arms like
+ a malcontent; to relish a love song like a robin
+ redbreast; to walk alone like one that had the
+41
+ACT 2
+Scene 1
+FTLN 0394
+FTLN 0395
+FTLN 0396
+FTLN 0397
+FTLN 0398
+5
+FTLN 0399
+FTLN 0400
+FTLN 0401
+FTLN 0402
+FTLN 0403
+10
+FTLN 0404
+FTLN 0405
+FTLN 0406
+FTLN 0407
+FTLN 0408
+15
+FTLN 0409
+FTLN 0410
+FTLN 0411
+FTLN 0412
+FTLN 0413
+20
+FTLN 0414
+
+--- PAGE 25 / 94 ---
+43
+The Two Gentlemen of Verona
+ACT 2. SC. 1
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+ pestilence; to sigh like a schoolboy that had lost his
+ ABC; to weep like a young wench that had buried
+ her grandam; to fast like one that takes diet; to
+ watch like one that fears robbing; to speak puling
+ like a beggar at Hallowmas. You were wont, when
+ you laughed, to crow like a cock; when you walked,
+ to walk like one of the lions. When you fasted, it was
+ presently after dinner; when you looked sadly, it
+ was for want of money. And now you are metamorphosed
+ with a mistress, that when I look on you, I
+ can hardly think you my master.
+  Are all these things perceived in me?
+  They are all perceived without you.
+  Without me? They cannot.
+  Without you? Nay, that’s certain, for without
+ you were so simple, none else would. But you are so
+ without these follies, that these follies are within
+ you and shine through you like the water in an
+ urinal, that not an eye that sees you but is a
+ physician to comment on your malady.
+  But tell me, dost thou know my Lady
+ Sylvia?
+  She that you gaze on so as she sits at supper?
+  Hast thou observed that? Even she I mean.
+  Why, sir, I know her not.
+  Dost thou know her by my gazing on her
+ and yet know’st her not?
+  Is she not hard-favored, sir?
+  Not so fair, boy, as well-favored.
+  Sir, I know that well enough.
+  What dost thou know?
+  That she is not so fair as, of you, well-favored.
+  I mean that her beauty is exquisite but her
+ favor infinite.
+FTLN 0415
+FTLN 0416
+FTLN 0417
+FTLN 0418
+25
+FTLN 0419
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+30
+FTLN 0424
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+35
+FTLN 0429
+FTLN 0430
+FTLN 0431
+FTLN 0432
+FTLN 0433
+40
+FTLN 0434
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+45
+FTLN 0439
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+50
+FTLN 0444
+FTLN 0445
+FTLN 0446
+FTLN 0447
+FTLN 0448
+55
+
+--- PAGE 26 / 94 ---
+45
+The Two Gentlemen of Verona
+ACT 2. SC. 1
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+  That’s because the one is painted, and the other
+ out of all count.
+  How painted? And how out of count?
+  Marry, sir, so painted to make her fair, that no
+ man counts of her beauty.
+  How esteem’st thou me? I account of her
+ beauty.
+  You never saw her since she was deformed.
+  How long hath she been deformed?
+  Ever since you loved her.
+  I have loved her ever since I saw her, and
+ still I see her beautiful.
+  If you love her, you cannot see her.
+  Why?
+  Because love is blind. O, that you had mine eyes,
+ or your own eyes had the lights they were wont to
+ have when you chid at Sir Proteus for going
+ ungartered!
+  What should I see then?
+  Your own present folly and her passing deformity;
+ for he, being in love, could not see to garter his
+ hose, and you, being in love, cannot see to put on
+ your hose.
+  Belike, boy, then you are in love, for last
+ morning you could not see to wipe my shoes.
+  True, sir, I was in love with my bed. I thank you,
+ you swinged me for my love, which makes me the
+ bolder to chide you for yours.
+  In conclusion, I stand affected to her.
+  I would you were set, so your affection would
+ cease.
+  Last night she enjoined me to write some
+ lines to one she loves.
+  And have you?
+  I have.
+FTLN 0449
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+60
+FTLN 0454
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+65
+FTLN 0459
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+70
+FTLN 0464
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+75
+FTLN 0469
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+80
+FTLN 0474
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+85
+FTLN 0479
+FTLN 0480
+FTLN 0481
+FTLN 0482
+FTLN 0483
+90
+
+--- PAGE 27 / 94 ---
+47
+The Two Gentlemen of Verona
+ACT 2. SC. 1
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+SYLVIA
+SPEED
+VALENTINE
+He gives her a paper.
+SYLVIA
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+  Are they not lamely writ?
+  No, boy, but as well as I can do them.
+ Peace, here she comes.
+Enter  Sylvia.
+, aside
+  O excellent motion! O exceeding puppet!
+ Now will he interpret to her.
+  Madam and mistress, a thousand
+ good-morrows.
+, aside
+  O, give ye good ev’n! Here’s a million of
+ manners.
+  Sir Valentine, and servant, to you two
+ thousand.
+, aside
+  He should give her interest, and she
+ gives it him.
+ 
+ As you enjoined me, I have writ your letter
+ Unto the secret, nameless friend of yours,
+ Which I was much unwilling to proceed in
+ But for my duty to your Ladyship.
+ 
+ I thank you, gentle servant, ’tis very clerkly done.
+ 
+ Now trust me, madam, it came hardly off,
+ For, being ignorant to whom it goes,
+ I writ at random, very doubtfully.
+ 
+ Perchance you think too much of so much pains?
+ 
+ No, madam. So it stead you, I will write,
+ Please you command, a thousand times as much,
+ And yet—
+ 
+ A pretty period. Well, I guess the sequel;
+ And yet I will not name it And yet I care not.
+FTLN 0484
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+95
+FTLN 0489
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+100
+FTLN 0494
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+105
+FTLN 0499
+FTLN 0500
+FTLN 0501
+FTLN 0502
+FTLN 0503
+110
+FTLN 0504
+FTLN 0505
+FTLN 0506
+FTLN 0507
+FTLN 0508
+115
+FTLN 0509
+FTLN 0510
+
+--- PAGE 28 / 94 ---
+49
+The Two Gentlemen of Verona
+ACT 2. SC. 1
+She holds out the paper.
+SPEED
+VALENTINE
+SYLVIA
+She again offers him the paper.
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+Sylvia exits.
+SPEED
+ And yet take this again. 
+ And yet I thank you,
+ Meaning henceforth to trouble you no more.
+, aside
+ 
+ And yet you will; and yet another “yet.”
+ 
+ What means your Ladyship? Do you not like it?
+ 
+ Yes, yes, the lines are very quaintly writ,
+ But, since unwillingly, take them again.
+ Nay, take them. 
+  
+ Madam, they are for you.
+ 
+ Ay, ay. You writ them, sir, at my request,
+ But I will none of them. They are for you.
+ I would have had them writ more movingly.
+, taking the paper
+ 
+ Please you, I’ll write your Ladyship another.
+ 
+ And when it’s writ, for my sake read it over,
+ And if it please you, so; if not, why, so.
+  If it please me, madam? What then?
+ 
+ Why, if it please you, take it for your labor.
+ And so good-morrow, servant. 
+, aside
+ 
+ O jest unseen, inscrutable, invisible
+ As a nose on a man’s face, or a weathercock on a
+ steeple!
+ My master sues to her, and she hath taught her
+ suitor,
+ He being her pupil, to become her tutor.
+ O excellent device! Was there ever heard a better?
+ That my master, being scribe, to himself should
+ write the letter?
+FTLN 0511
+FTLN 0512
+FTLN 0513
+120
+FTLN 0514
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+125
+FTLN 0519
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+130
+FTLN 0524
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+135
+FTLN 0529
+FTLN 0530
+FTLN 0531
+FTLN 0532
+FTLN 0533
+140
+FTLN 0534
+FTLN 0535
+FTLN 0536
+FTLN 0537
+
+--- PAGE 29 / 94 ---
+51
+The Two Gentlemen of Verona
+ACT 2. SC. 1
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+  How now, sir? What, are you reasoning
+ with yourself?
+  Nay, I was rhyming. ’Tis you that have the
+ reason.
+  To do what?
+  To be a spokesman from Madam Sylvia.
+  To whom?
+  To yourself. Why, she woos you by a figure.
+  What figure?
+  By a letter, I should say.
+  Why, she hath not writ to me!
+  What need she when she hath made you write
+ to yourself? Why, do you not perceive the jest?
+  No, believe me.
+  No believing you indeed, sir. But did you perceive
+ her earnest?
+  She gave me none, except an angry word.
+  Why, she hath given you a letter.
+  That’s the letter I writ to her friend.
+  And that letter hath she delivered, and there an
+ end.
+  I would it were no worse.
+  I’ll warrant you, ’tis as well.
+ For often have you writ to her, and she, in modesty
+ Or else for want of idle time, could not again reply,
+ Or fearing else some messenger that might her
+ mind discover,
+ Herself hath taught her love himself to write unto
+ her lover.
+ All this I speak in print, for in print I found it. Why
+ muse you, sir? ’Tis dinnertime.
+  I have dined.
+  Ay, but hearken, sir, though the chameleon love
+ can feed on the air, I am one that am nourished by
+FTLN 0538
+145
+FTLN 0539
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+150
+FTLN 0544
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+155
+FTLN 0549
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+160
+FTLN 0554
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+165
+FTLN 0559
+FTLN 0560
+FTLN 0561
+FTLN 0562
+FTLN 0563
+170
+FTLN 0564
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+175
+FTLN 0569
+FTLN 0570
+FTLN 0571
+
+--- PAGE 30 / 94 ---
+53
+The Two Gentlemen of Verona
+ACT 2. SC. 2
+They exit.
+PROTEUS
+JULIA
+PROTEUS
+JULIA
+She gives him a ring.
+PROTEUS
+JULIA
+PROTEUS
+Julia exits.
+PANTINO
+ my victuals and would fain have meat. O, be not like
+ your mistress! Be moved, be moved.
+Enter Proteus and  Julia.
+  Have patience, gentle Julia.
+  I must where is no remedy.
+ 
+ When possibly I can, I will return.
+ 
+ If you turn not, you will return the sooner.
+ Keep this remembrance for thy Julia’s sake.
+, giving her a ring
+ 
+ Why, then we’ll make exchange. Here, take you this.
+ 
+ And seal the bargain with a holy kiss.
+ 
+ Here is my hand for my true constancy.
+ And when that hour o’erslips me in the day
+ Wherein I sigh not, Julia, for thy sake,
+ The next ensuing hour some foul mischance
+ Torment me for my love’s forgetfulness.
+ My father stays my coming. Answer not.
+ The tide is now—nay, not thy tide of tears;
+ That tide will stay me longer than I should.
+ Julia, farewell. 
+ What, gone without a word?
+ Ay, so true love should do. It cannot speak,
+ For truth hath better deeds than words to grace it.
+Enter  Pantino.
+  Sir Proteus, you are stayed for.
+FTLN 0572
+FTLN 0573
+180
+Scene 2
+FTLN 0574
+FTLN 0575
+FTLN 0576
+FTLN 0577
+FTLN 0578
+5
+FTLN 0579
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+10
+FTLN 0584
+FTLN 0585
+FTLN 0586
+FTLN 0587
+FTLN 0588
+15
+FTLN 0589
+FTLN 0590
+FTLN 0591
+FTLN 0592
+FTLN 0593
+20
+
+--- PAGE 31 / 94 ---
+55
+The Two Gentlemen of Verona
+ACT 2. SC. 3
+PROTEUS
+They exit.
+LANCE
+  Go. I come, I come.
+  Aside.  Alas, this parting strikes poor lovers dumb.
+Enter Lance, weeping, with his dog, Crab.
+  Nay,’twill be this hour ere I have done weeping.
+ All the kind of the Lances have this very fault. I have
+ received my proportion like the Prodigious Son and
+ am going with Sir Proteus to the Imperial’s court. I
+ think Crab my dog be the sourest-natured dog that
+ lives: my mother weeping, my father wailing, my
+ sister crying, our maid howling, our cat wringing
+ her hands, and all our house in a great perplexity,
+ yet did not this cruel-hearted cur shed one tear. He
+ is a stone, a very pibble stone, and has no more pity
+ in him than a dog. A Jew would have wept to have
+ seen our parting. Why, my grandam, having no
+ eyes, look you, wept herself blind at my parting.
+ Nay, I’ll show you the manner of it.  He takes off his
+ shoes.   This shoe is my father. No, this left shoe is
+ my father; no, no, this left shoe is my mother. Nay,
+ that cannot be so neither. Yes, it is so, it is so; it hath
+ the worser sole. This shoe with the hole in it is my
+ mother; and this my father. A vengeance on ’t, there
+ ’tis! Now sir, this staff is my sister, for, look you, she
+ is as white as a lily and as small as a wand. This hat
+ is Nan, our maid. I am the dog. No, the dog is
+ himself, and I am the dog. O, the dog is me, and I
+ am myself. Ay, so, so. Now come I to my father:
+ “Father, your blessing.” Now should not the shoe
+ speak a word for weeping. Now should I kiss my
+ father.  He kisses one shoe.  Well, he weeps on. Now
+FTLN 0594
+FTLN 0595
+Scene 3
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+FTLN 0600
+5
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+FTLN 0605
+10
+FTLN 0606
+FTLN 0607
+FTLN 0608
+FTLN 0609
+FTLN 0610
+15
+FTLN 0611
+FTLN 0612
+FTLN 0613
+FTLN 0614
+FTLN 0615
+20
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+FTLN 0620
+25
+FTLN 0621
+FTLN 0622
+
+--- PAGE 32 / 94 ---
+57
+The Two Gentlemen of Verona
+ACT 2. SC. 3
+PANTINO
+LANCE
+PANTINO
+LANCE
+PANTINO
+LANCE
+PANTINO
+LANCE
+PANTINO
+LANCE
+PANTINO
+LANCE
+ come I to my mother. O, that she could speak now
+ like a wold  woman! Well, I kiss her.  He kisses the
+ other shoe.   Why, there ’tis; here’s my mother’s
+ breath up and down. Now come I to my sister. Mark
+ the moan she makes! Now the dog all this while
+ sheds not a tear nor speaks a word. But see how I
+ lay the dust with my tears.
+Enter  Pantino.
+  Lance, away, away! Aboard. Thy master is
+ shipped, and thou art to post after with oars. What’s
+ the matter? Why weep’st thou, man? Away, ass.
+ You’ll lose the tide if you tarry any longer.
+  It is no matter if the tied were lost, for it is the
+ unkindest tied that ever any man tied.
+  What’s the unkindest tide?
+  Why, he that’s tied here, Crab my dog.
+  Tut, man. I mean thou ’lt lose the flood and, in
+ losing the flood, lose thy voyage and, in losing thy
+ voyage, lose thy master and, in losing thy master,
+ lose thy service and, in losing thy service— Lance
+ covers Pantino’s mouth.   Why dost thou stop my
+ mouth?
+  For fear thou shouldst lose thy tongue.
+  Where should I lose my tongue?
+  In thy tale.
+  In thy tail!
+  Lose the tide, and the voyage, and the master,
+ and the service, and the tied. Why, man, if the river
+ were dry, I am able to fill it with my tears; if the
+ wind were down, I could drive the boat with my
+ sighs.
+  Come. Come away, man. I was sent to call
+ thee.
+  Sir, call me what thou dar’st.
+FTLN 0623
+FTLN 0624
+FTLN 0625
+30
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+FTLN 0630
+35
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+FTLN 0635
+40
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+FTLN 0640
+45
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+FTLN 0645
+50
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+FTLN 0650
+55
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+FTLN 0655
+60
+
+--- PAGE 33 / 94 ---
+59
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+PANTINO
+LANCE
+They exit.
+SYLVIA
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+VALENTINE
+SPEED
+SYLVIA
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+VALENTINE
+THURIO
+SYLVIA
+VALENTINE
+THURIO
+  Wilt thou go?
+  Well, I will go.
+Enter Valentine, Sylvia, Thurio, and  Speed.
+  Servant!
+  Mistress?
+  Master, Sir Thurio frowns on you.
+  Ay, boy, it’s for love.
+  Not of you.
+  Of my mistress, then.
+  ’Twere good you knocked him.
+, to Valentine
+  Servant, you are sad.
+  Indeed, madam, I seem so.
+  Seem you that you are not?
+  Haply I do.
+  So do counterfeits.
+  So do you.
+  What seem I that I am not?
+  Wise.
+  What instance of the contrary?
+  Your folly.
+  And how quote you my folly?
+  I quote it in your jerkin.
+  My “jerkin” is a doublet.
+  Well, then, I’ll double your folly.
+  How!
+  What, angry, Sir Thurio? Do you change color?
+  Give him leave, madam. He is a kind of
+ chameleon.
+  That hath more mind to feed on your blood
+ than live in your air.
+FTLN 0656
+FTLN 0657
+Scene 4
+FTLN 0658
+FTLN 0659
+FTLN 0660
+FTLN 0661
+FTLN 0662
+5
+FTLN 0663
+FTLN 0664
+FTLN 0665
+FTLN 0666
+FTLN 0667
+10
+FTLN 0668
+FTLN 0669
+FTLN 0670
+FTLN 0671
+FTLN 0672
+15
+FTLN 0673
+FTLN 0674
+FTLN 0675
+FTLN 0676
+FTLN 0677
+20
+FTLN 0678
+FTLN 0679
+FTLN 0680
+FTLN 0681
+FTLN 0682
+25
+FTLN 0683
+FTLN 0684
+
+--- PAGE 34 / 94 ---
+61
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+VALENTINE
+THURIO
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+VALENTINE
+THURIO
+VALENTINE
+SYLVIA
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+  You have said, sir.
+  Ay, sir, and done too for this time.
+  I know it well, sir. You always end ere you
+ begin.
+  A fine volley of words, gentlemen, and quickly
+ shot off.
+  ’Tis indeed, madam. We thank the giver.
+  Who is that, servant?
+  Yourself, sweet lady, for you gave the fire.
+ Sir Thurio borrows his wit from your Ladyship’s
+ looks and spends what he borrows kindly in your
+ company.
+  Sir, if you spend word for word with me, I shall
+ make your wit bankrupt.
+  I know it well, sir. You have an exchequer
+ of words and, I think, no other treasure to give your
+ followers, for it appears by their bare liveries that
+ they live by your bare words.
+ 
+ No more, gentlemen, no more. Here comes my
+ father.
+Enter  Duke.
+ 
+ Now, daughter Sylvia, you are hard beset.—
+ Sir Valentine, your father is in good health.
+ What say you to a letter from your friends
+ Of much good news?
+  
+ My lord, I will be thankful
+ To any happy messenger from thence.
+ 
+ Know you Don Antonio, your countryman?
+ 
+ Ay, my good lord, I know the gentleman
+ To be of worth and worthy estimation,
+ And not without desert so well reputed.
+FTLN 0685
+FTLN 0686
+FTLN 0687
+30
+FTLN 0688
+FTLN 0689
+FTLN 0690
+FTLN 0691
+FTLN 0692
+35
+FTLN 0693
+FTLN 0694
+FTLN 0695
+FTLN 0696
+FTLN 0697
+40
+FTLN 0698
+FTLN 0699
+FTLN 0700
+FTLN 0701
+FTLN 0702
+45
+FTLN 0703
+FTLN 0704
+FTLN 0705
+FTLN 0706
+FTLN 0707
+50
+FTLN 0708
+FTLN 0709
+FTLN 0710
+FTLN 0711
+FTLN 0712
+55
+FTLN 0713
+FTLN 0714
+
+--- PAGE 35 / 94 ---
+63
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+Duke exits.
+VALENTINE
+  Hath he not a son?
+ 
+ Ay, my good lord, a son that well deserves
+ The honor and regard of such a father.
+  You know him well?
+ 
+ I knew him as myself, for from our infancy
+ We have conversed and spent our hours together,
+ And though myself have been an idle truant,
+ Omitting the sweet benefit of time
+ To clothe mine age with angel-like perfection,
+ Yet hath Sir Proteus—for that’s his name—
+ Made use and fair advantage of his days:
+ His years but young, but his experience old;
+ His head unmellowed, but his judgment ripe;
+ And in a word—for far behind his worth
+ Comes all the praises that I now bestow—
+ He is complete in feature and in mind,
+ With all good grace to grace a gentleman.
+ 
+ Beshrew me, sir, but if he make this good,
+ He is as worthy for an empress’ love,
+ As meet to be an emperor’s counselor.
+ Well, sir, this gentleman is come to me
+ With commendation from great potentates,
+ And here he means to spend his time awhile.
+ I think ’tis no unwelcome news to you.
+ 
+ Should I have wished a thing, it had been he.
+ 
+ Welcome him then according to his worth.
+ Sylvia, I speak to you—and you, Sir Thurio.
+ For Valentine, I need not cite him to it.
+ I will send him hither to you presently. 
+ 
+ This is the gentleman I told your Ladyship
+FTLN 0715
+FTLN 0716
+FTLN 0717
+60
+FTLN 0718
+FTLN 0719
+FTLN 0720
+FTLN 0721
+FTLN 0722
+65
+FTLN 0723
+FTLN 0724
+FTLN 0725
+FTLN 0726
+FTLN 0727
+70
+FTLN 0728
+FTLN 0729
+FTLN 0730
+FTLN 0731
+FTLN 0732
+75
+FTLN 0733
+FTLN 0734
+FTLN 0735
+FTLN 0736
+FTLN 0737
+80
+FTLN 0738
+FTLN 0739
+FTLN 0740
+FTLN 0741
+FTLN 0742
+85
+FTLN 0743
+FTLN 0744
+
+--- PAGE 36 / 94 ---
+65
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+SYLVIA
+VALENTINE
+SYLVIA
+VALENTINE
+THURIO
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+VALENTINE
+SYLVIA
+PROTEUS
+ Had come along with me but that his mistress
+ Did hold his eyes locked in her crystal looks.
+ 
+ Belike that now she hath enfranchised them
+ Upon some other pawn for fealty.
+ 
+ Nay, sure, I think she holds them prisoners still.
+ 
+ Nay, then, he should be blind, and being blind
+ How could he see his way to seek out you?
+ 
+ Why, lady, love hath twenty pair of eyes.
+ 
+ They say that Love hath not an eye at all.
+ 
+ To see such lovers, Thurio, as yourself.
+ Upon a homely object, Love can wink.
+ 
+ Have done, have done. Here comes the gentleman.
+Enter  Proteus.
+ 
+ Welcome, dear Proteus.—Mistress, I beseech you
+ Confirm his welcome with some special favor.
+ 
+ His worth is warrant for his welcome hither,
+ If this be he you oft have wished to hear from.
+ 
+ Mistress, it is. Sweet lady, entertain him
+ To be my fellow-servant to your Ladyship.
+ 
+ Too low a mistress for so high a servant.
+ 
+ Not so, sweet lady, but too mean a servant
+ To have a look of such a worthy mistress.
+FTLN 0745
+FTLN 0746
+FTLN 0747
+90
+FTLN 0748
+FTLN 0749
+FTLN 0750
+FTLN 0751
+FTLN 0752
+95
+FTLN 0753
+FTLN 0754
+FTLN 0755
+FTLN 0756
+FTLN 0757
+100
+FTLN 0758
+FTLN 0759
+FTLN 0760
+FTLN 0761
+FTLN 0762
+105
+FTLN 0763
+FTLN 0764
+FTLN 0765
+
+--- PAGE 37 / 94 ---
+67
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+VALENTINE
+PROTEUS
+SYLVIA
+PROTEUS
+SYLVIA
+PROTEUS
+SERVANT
+SYLVIA
+PROTEUS
+Sylvia and Thurio exit.
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+ 
+ Leave off discourse of disability.
+ Sweet lady, entertain him for your servant.
+ 
+ My duty will I boast of, nothing else.
+ 
+ And duty never yet did want his meed.
+ Servant, you are welcome to a worthless mistress.
+ 
+ I’ll die on him that says so but yourself.
+  That you are welcome?
+  That you are worthless.
+Enter Servant.
+ 
+ Madam, my lord your father would speak with you.
+ 
+ I wait upon his pleasure.  Servant exits.  Come, Sir
+ Thurio,
+ Go with me.—Once more, new servant, welcome.
+ I’ll leave you to confer of home affairs.
+ When you have done, we look to hear from you.
+ 
+ We’ll both attend upon your Ladyship.
+ 
+ Now tell me, how do all from whence you came?
+ 
+ Your friends are well and have them much
+ commended.
+ 
+ And how do yours?
+  
+ I left them all in health.
+ 
+ How does your lady? And how thrives your love?
+FTLN 0766
+FTLN 0767
+110
+FTLN 0768
+FTLN 0769
+FTLN 0770
+FTLN 0771
+FTLN 0772
+115
+FTLN 0773
+FTLN 0774
+FTLN 0775
+FTLN 0776
+FTLN 0777
+120
+FTLN 0778
+FTLN 0779
+FTLN 0780
+FTLN 0781
+FTLN 0782
+125
+FTLN 0783
+FTLN 0784
+FTLN 0785
+FTLN 0786
+
+--- PAGE 38 / 94 ---
+69
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+ 
+ My tales of love were wont to weary you.
+ I know you joy not in a love discourse.
+ 
+ Ay, Proteus, but that life is altered now.
+ I have done penance for contemning Love,
+ Whose high imperious thoughts have punished me
+ With bitter fasts, with penitential groans,
+ With nightly tears, and daily heartsore sighs,
+ For in revenge of my contempt of love,
+ Love hath chased sleep from my enthrallèd eyes
+ And made them watchers of mine own heart’s
+ sorrow.
+ O gentle Proteus, Love’s a mighty lord
+ And hath so humbled me as I confess
+ There is no woe to his correction,
+ Nor, to his service, no such joy on Earth.
+ Now, no discourse except it be of love.
+ Now can I break my fast, dine, sup, and sleep
+ Upon the very naked name of Love.
+ 
+ Enough; I read your fortune in your eye.
+ Was this the idol that you worship so?
+ 
+ Even she. And is she not a heavenly saint?
+ 
+ No, but she is an earthly paragon.
+ 
+ Call her divine.
+  
+ I will not flatter her.
+ 
+ O, flatter me, for love delights in praises.
+ 
+ When I was sick, you gave me bitter pills,
+ And I must minister the like to you.
+FTLN 0787
+130
+FTLN 0788
+FTLN 0789
+FTLN 0790
+FTLN 0791
+FTLN 0792
+135
+FTLN 0793
+FTLN 0794
+FTLN 0795
+FTLN 0796
+FTLN 0797
+140
+FTLN 0798
+FTLN 0799
+FTLN 0800
+FTLN 0801
+FTLN 0802
+145
+FTLN 0803
+FTLN 0804
+FTLN 0805
+FTLN 0806
+FTLN 0807
+150
+FTLN 0808
+FTLN 0809
+FTLN 0810
+FTLN 0811
+FTLN 0812
+155
+FTLN 0813
+
+--- PAGE 39 / 94 ---
+71
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+ 
+ Then speak the truth by her; if not divine,
+ Yet let her be a principality,
+ Sovereign to all the creatures on the Earth.
+ 
+ Except my mistress.
+  
+ Sweet, except not any,
+ Except thou wilt except against my love.
+ 
+ Have I not reason to prefer mine own?
+ 
+ And I will help thee to prefer her too:
+ She shall be dignified with this high honor—
+ To bear my lady’s train, lest the base earth
+ Should from her vesture chance to steal a kiss
+ And, of so great a favor growing proud,
+ Disdain to root the summer-swelling flower
+ And make rough winter everlastingly.
+ 
+ Why, Valentine, what braggartism is this?
+ 
+ Pardon me, Proteus, all I can is nothing
+ To her whose worth makes  other worthies
+ nothing.
+ She is alone—
+  Then let her alone.
+ 
+ Not for the world! Why, man, she is mine own,
+ And I as rich in having such a jewel
+ As twenty seas if all their sand were pearl,
+ The water nectar, and the rocks pure gold.
+ Forgive me that I do not dream on thee,
+ Because thou seest me dote upon my love.
+ My foolish rival, that her father likes
+ Only for his possessions are so huge,
+FTLN 0814
+FTLN 0815
+FTLN 0816
+FTLN 0817
+160
+FTLN 0818
+FTLN 0819
+FTLN 0820
+FTLN 0821
+FTLN 0822
+165
+FTLN 0823
+FTLN 0824
+FTLN 0825
+FTLN 0826
+FTLN 0827
+170
+FTLN 0828
+FTLN 0829
+FTLN 0830
+FTLN 0831
+FTLN 0832
+175
+FTLN 0833
+FTLN 0834
+FTLN 0835
+FTLN 0836
+FTLN 0837
+180
+FTLN 0838
+FTLN 0839
+FTLN 0840
+FTLN 0841
+
+--- PAGE 40 / 94 ---
+73
+The Two Gentlemen of Verona
+ACT 2. SC. 4
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+Valentine and Speed  exit.
+ Is gone with her along, and I must after,
+ For love, thou know’st, is full of jealousy.
+  But she loves you?
+ 
+ Ay, and we are betrothed; nay more, our marriage
+ hour,
+ With all the cunning manner of our flight
+ Determined of: how I must climb her window,
+ The ladder made of cords, and all the means
+ Plotted and ’greed on for my happiness.
+ Good Proteus, go with me to my chamber,
+ In these affairs to aid me with thy counsel.
+ 
+ Go on before. I shall inquire you forth.
+ I must unto the road to disembark
+ Some necessaries that I needs must use,
+ And then I’ll presently attend you.
+  Will you make haste?
+  I will. 
+ Even as one heat another heat expels,
+ Or as one nail by strength drives out another,
+ So the remembrance of my former love
+ Is by a newer object quite forgotten.
+ Is it  mine eye,  or Valentine’s praise,
+ Her true perfection, or my false transgression,
+ That makes me reasonless to reason thus?
+ She is fair, and so is Julia that I love—
+ That I did love, for now my love is thawed,
+ Which like a waxen image ’gainst a fire
+ Bears no impression of the thing it was.
+ Methinks my zeal to Valentine is cold,
+ And that I love him not as I was wont.
+ O, but I love his lady too too much,
+ And that’s the reason I love him so little.
+ How shall I dote on her with more advice
+ That thus without advice begin to love her?
+FTLN 0842
+185
+FTLN 0843
+FTLN 0844
+FTLN 0845
+FTLN 0846
+FTLN 0847
+190
+FTLN 0848
+FTLN 0849
+FTLN 0850
+FTLN 0851
+FTLN 0852
+195
+FTLN 0853
+FTLN 0854
+FTLN 0855
+FTLN 0856
+FTLN 0857
+200
+FTLN 0858
+FTLN 0859
+FTLN 0860
+FTLN 0861
+FTLN 0862
+205
+FTLN 0863
+FTLN 0864
+FTLN 0865
+FTLN 0866
+FTLN 0867
+210
+FTLN 0868
+FTLN 0869
+FTLN 0870
+FTLN 0871
+FTLN 0872
+215
+FTLN 0873
+FTLN 0874
+FTLN 0875
+
+--- PAGE 41 / 94 ---
+75
+The Two Gentlemen of Verona
+ACT 2. SC. 5
+He  exits.
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+ ’Tis but her picture I have yet beheld,
+ And that hath dazzled my reason’s light;
+ But when I look on her perfections,
+ There is no reason but I shall be blind.
+ If I can check my erring love, I will;
+ If not, to compass her I’ll use my skill.
+Enter Speed and Lance, with his dog, Crab.
+  Lance, by mine honesty, welcome to Padua.
+  Forswear not thyself, sweet youth, for I am not
+ welcome. I reckon this always: that a man is never
+ undone till he be hanged, nor never welcome to a
+ place till some certain shot be paid and the Hostess
+ say welcome.
+  Come on, you madcap. I’ll to the alehouse with
+ you presently, where, for one shot of five pence,
+ thou shalt have five thousand welcomes. But, sirrah,
+ how did thy master part with Madam Julia?
+  Marry, after they closed in earnest, they parted
+ very fairly in jest.
+  But shall she marry him?
+  No.
+  How then? Shall he marry her?
+  No, neither.
+  What, are they broken?
+  No, they are both as whole as a fish.
+  Why then, how stands the matter with them?
+  Marry, thus: when it stands well with him, it
+ stands well with her.
+  What an ass art thou! I understand thee not.
+  What a block art thou that thou canst not! My
+ staff understands me.
+FTLN 0876
+FTLN 0877
+220
+FTLN 0878
+FTLN 0879
+FTLN 0880
+FTLN 0881
+Scene 5
+FTLN 0882
+FTLN 0883
+FTLN 0884
+FTLN 0885
+FTLN 0886
+5
+FTLN 0887
+FTLN 0888
+FTLN 0889
+FTLN 0890
+FTLN 0891
+10
+FTLN 0892
+FTLN 0893
+FTLN 0894
+FTLN 0895
+FTLN 0896
+15
+FTLN 0897
+FTLN 0898
+FTLN 0899
+FTLN 0900
+FTLN 0901
+20
+FTLN 0902
+FTLN 0903
+FTLN 0904
+FTLN 0905
+
+--- PAGE 42 / 94 ---
+77
+The Two Gentlemen of Verona
+ACT 2. SC. 6
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+They exit.
+PROTEUS
+  What thou sayst?
+  Ay, and what I do too. Look thee, I’ll but lean,
+ and my staff understands me.
+  It stands under thee indeed.
+  Why, “stand under” and “understand” is all
+ one.
+  But tell me true, will ’t be a match?
+  Ask my dog. If he say “Ay,” it will; if he say
+ “No,” it will; if he shake his tail and say nothing, it
+ will.
+  The conclusion is, then, that it will.
+  Thou shalt never get such a secret from me but
+ by a parable.
+  ’Tis well that I get it so. But, Lance, how sayst
+ thou that my master is become a notable lover?
+  I never knew him otherwise.
+  Than how?
+  A notable lubber, as thou reportest him to be.
+  Why, thou whoreson ass, thou mistak’st me.
+  Why, fool, I meant not thee; I meant thy master.
+  I tell thee, my master is become a hot lover.
+  Why, I tell thee, I care not though he burn
+ himself in love. If thou wilt, go with me to the
+ alehouse; if not, thou art an Hebrew, a Jew, and not
+ worth the name of a Christian.
+  Why?
+  Because thou hast not so much charity in thee
+ as to go to the ale with a Christian. Wilt thou go?
+  At thy service.
+Enter Proteus alone.
+ 
+ To leave my Julia, shall I be forsworn.
+ To love fair Sylvia, shall I be forsworn.
+FTLN 0906
+25
+FTLN 0907
+FTLN 0908
+FTLN 0909
+FTLN 0910
+FTLN 0911
+30
+FTLN 0912
+FTLN 0913
+FTLN 0914
+FTLN 0915
+FTLN 0916
+35
+FTLN 0917
+FTLN 0918
+FTLN 0919
+FTLN 0920
+FTLN 0921
+40
+FTLN 0922
+FTLN 0923
+FTLN 0924
+FTLN 0925
+FTLN 0926
+45
+FTLN 0927
+FTLN 0928
+FTLN 0929
+FTLN 0930
+FTLN 0931
+50
+FTLN 0932
+FTLN 0933
+FTLN 0934
+Scene 6
+FTLN 0935
+FTLN 0936
+
+--- PAGE 43 / 94 ---
+79
+The Two Gentlemen of Verona
+ACT 2. SC. 6
+ To wrong my friend, I shall be much forsworn.
+ And ev’n that power which gave me first my oath
+ Provokes me to this threefold perjury.
+ Love bade me swear, and love bids me forswear.
+ O sweet-suggesting Love, if thou hast sinned,
+ Teach me, thy tempted subject, to excuse it.
+ At first I did adore a twinkling star,
+ But now I worship a celestial sun;
+ Unheedful vows may heedfully be broken,
+ And he wants wit that wants resolvèd will
+ To learn his wit t’ exchange the bad for better.
+ Fie, fie, unreverend tongue, to call her bad
+ Whose sovereignty so oft thou hast preferred
+ With twenty thousand soul-confirming oaths.
+ I cannot leave to love, and yet I do.
+ But there I leave to love where I should love.
+ Julia I lose, and Valentine I lose;
+ If I keep them, I needs must lose myself;
+ If I lose them, thus find I by their loss:
+ For Valentine, myself; for Julia, Sylvia.
+ I to myself am dearer than a friend,
+ For love is still most precious in itself,
+ And Sylvia—witness heaven that made her fair—
+ Shows Julia but a swarthy Ethiope.
+ I will forget that Julia is alive,
+ Rememb’ring that my love to her is dead;
+ And Valentine I’ll hold an enemy,
+ Aiming at Sylvia as a sweeter friend.
+ I cannot now prove constant to myself
+ Without some treachery used to Valentine.
+ This night he meaneth with a corded ladder
+ To climb celestial Sylvia’s chamber window,
+ Myself in counsel his competitor.
+ Now presently I’ll give her father notice
+FTLN 0937
+FTLN 0938
+FTLN 0939
+5
+FTLN 0940
+FTLN 0941
+FTLN 0942
+FTLN 0943
+FTLN 0944
+10
+FTLN 0945
+FTLN 0946
+FTLN 0947
+FTLN 0948
+FTLN 0949
+15
+FTLN 0950
+FTLN 0951
+FTLN 0952
+FTLN 0953
+FTLN 0954
+20
+FTLN 0955
+FTLN 0956
+FTLN 0957
+FTLN 0958
+FTLN 0959
+25
+FTLN 0960
+FTLN 0961
+FTLN 0962
+FTLN 0963
+FTLN 0964
+30
+FTLN 0965
+FTLN 0966
+FTLN 0967
+FTLN 0968
+FTLN 0969
+35
+FTLN 0970
+
+--- PAGE 44 / 94 ---
+81
+The Two Gentlemen of Verona
+ACT 2. SC. 7
+He exits.
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+ Of their disguising and pretended flight,
+ Who, all enraged, will banish Valentine,
+ For Thurio he intends shall wed his daughter.
+ But Valentine being gone, I’ll quickly cross
+ By some sly trick blunt Thurio’s dull proceeding.
+ Love, lend me wings to make my purpose swift,
+ As thou hast lent me wit to plot this drift.
+Enter Julia and Lucetta.
+ 
+ Counsel, Lucetta. Gentle girl, assist me;
+ And ev’n in kind love I do conjure thee—
+ Who art the table wherein all my thoughts
+ Are visibly charactered and engraved—
+ To lesson me and tell me some good mean
+ How with my honor I may undertake
+ A journey to my loving Proteus.
+ 
+ Alas, the way is wearisome and long.
+ 
+ A true-devoted pilgrim is not weary
+ To measure kingdoms with his feeble steps;
+ Much less shall she that hath Love’s wings to fly,
+ And when the flight is made to one so dear,
+ Of such divine perfection, as Sir Proteus.
+ 
+ Better forbear till Proteus make return.
+ 
+ O, know’st thou not his looks are my soul’s food?
+ Pity the dearth that I have pinèd in
+ By longing for that food so long a time.
+FTLN 0971
+FTLN 0972
+FTLN 0973
+FTLN 0974
+40
+FTLN 0975
+FTLN 0976
+FTLN 0977
+Scene 7
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+FTLN 0982
+5
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+FTLN 0987
+10
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+FTLN 0992
+15
+FTLN 0993
+FTLN 0994
+
+--- PAGE 45 / 94 ---
+83
+The Two Gentlemen of Verona
+ACT 2. SC. 7
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+ Didst thou but know the inly touch of love,
+ Thou wouldst as soon go kindle fire with snow
+ As seek to quench the fire of love with words.
+ 
+ I do not seek to quench your love’s hot fire,
+ But qualify the fire’s extreme rage,
+ Lest it should burn above the bounds of reason.
+ 
+ The more thou damm’st it up, the more it burns.
+ The current that with gentle murmur glides,
+ Thou know’st, being stopped, impatiently doth rage,
+ But when his fair course is not hinderèd,
+ He makes sweet music with th’ enameled stones,
+ Giving a gentle kiss to every sedge
+ He overtaketh in his pilgrimage;
+ And so by many winding nooks he strays
+ With willing sport to the wild ocean.
+ Then let me go and hinder not my course.
+ I’ll be as patient as a gentle stream
+ And make a pastime of each weary step
+ Till the last step have brought me to my love,
+ And there I’ll rest as after much turmoil
+ A blessèd soul doth in Elysium.
+ 
+ But in what habit will you go along?
+ 
+ Not like a woman, for I would prevent
+ The loose encounters of lascivious men.
+ Gentle Lucetta, fit me with such weeds
+ As may beseem some well-reputed page.
+ 
+ Why, then, your Ladyship must cut your hair.
+ 
+ No, girl, I’ll knit it up in silken strings
+ With twenty odd-conceited true-love knots.
+FTLN 0995
+FTLN 0996
+FTLN 0997
+20
+FTLN 0998
+FTLN 0999
+FTLN 1000
+FTLN 1001
+FTLN 1002
+25
+FTLN 1003
+FTLN 1004
+FTLN 1005
+FTLN 1006
+FTLN 1007
+30
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+FTLN 1012
+35
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+FTLN 1017
+40
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+FTLN 1022
+45
+FTLN 1023
+
+--- PAGE 46 / 94 ---
+85
+The Two Gentlemen of Verona
+ACT 2. SC. 7
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+JULIA
+LUCETTA
+ To be fantastic may become a youth
+ Of greater time than I shall show to be.
+ 
+ What fashion, madam, shall I make your breeches?
+ 
+ That fits as well as “Tell me, good my lord,
+ What compass will you wear your farthingale?”
+ Why, ev’n what fashion thou best likes, Lucetta.
+ 
+ You must needs have them with a codpiece, madam.
+ 
+ Out, out, Lucetta. That will be ill-favored.
+ 
+ A round hose, madam, now’s not worth a pin
+ Unless you have a codpiece to stick pins on.
+ 
+ Lucetta, as thou lov’st me, let me have
+ What thou think’st meet and is most mannerly.
+ But tell me, wench, how will the world repute me
+ For undertaking so unstaid a journey?
+ I fear me it will make me scandalized.
+ 
+ If you think so, then stay at home and go not.
+  Nay, that I will not.
+ 
+ Then never dream on infamy, but go.
+ If Proteus like your journey when you come,
+ No matter who’s displeased when you are gone.
+ I fear me he will scarce be pleased withal.
+ 
+ That is the least, Lucetta, of my fear.
+ A thousand oaths, an ocean of his tears,
+ And instances of infinite of love
+ Warrant me welcome to my Proteus.
+ 
+ All these are servants to deceitful men.
+FTLN 1024
+FTLN 1025
+FTLN 1026
+FTLN 1027
+50
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+FTLN 1032
+55
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+FTLN 1037
+60
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+FTLN 1042
+65
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+FTLN 1047
+70
+FTLN 1048
+FTLN 1049
+
+--- PAGE 47 / 94 ---
+87
+The Two Gentlemen of Verona
+ACT 2. SC. 7
+JULIA
+LUCETTA
+JULIA
+They exit.
+ 
+ Base men that use them to so base effect!
+ But truer stars did govern Proteus’ birth.
+ His words are bonds, his oaths are oracles,
+ His love sincere, his thoughts immaculate,
+ His tears pure messengers sent from his heart,
+ His heart as far from fraud as heaven from Earth.
+ 
+ Pray heav’n he prove so when you come to him.
+ 
+ Now, as thou lov’st me, do him not that wrong
+ To bear a hard opinion of his truth.
+ Only deserve my love by loving him.
+ And presently go with me to my chamber
+ To take a note of what I stand in need of
+ To furnish me upon my longing journey.
+ All that is mine I leave at thy dispose,
+ My goods, my lands, my reputation.
+ Only, in lieu thereof, dispatch me hence.
+ Come, answer not, but to it presently.
+ I am impatient of my tarriance.
+FTLN 1050
+FTLN 1051
+FTLN 1052
+75
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+FTLN 1057
+80
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+FTLN 1062
+85
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+FTLN 1067
+90
+
+--- PAGE 48 / 94 ---
+DUKE
+Thurio exits.
+PROTEUS
+Enter Duke, Thurio, and  Proteus.
+ 
+ Sir Thurio, give us leave, I pray, awhile;
+ We have some secrets to confer about. 
+ Now tell me, Proteus, what’s your will with me?
+ 
+ My gracious lord, that which I would discover
+ The law of friendship bids me to conceal,
+ But when I call to mind your gracious favors
+ Done to me, undeserving as I am,
+ My duty pricks me on to utter that
+ Which else no worldly good should draw from me.
+ Know, worthy prince, Sir Valentine my friend
+ This night intends to steal away your daughter;
+ Myself am one made privy to the plot.
+ I know you have determined to bestow her
+ On Thurio, whom your gentle daughter hates,
+ And should she thus be stol’n away from you,
+ It would be much vexation to your age.
+ Thus, for my duty’s sake, I rather chose
+ To cross my friend in his intended drift
+ Than, by concealing it, heap on your head
+ A pack of sorrows which would press you down,
+ Being unprevented, to your timeless grave.
+91
+ACT 3
+Scene 1
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+FTLN 1072
+5
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+FTLN 1077
+10
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+FTLN 1082
+15
+FTLN 1083
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+20
+FTLN 1088
+
+--- PAGE 49 / 94 ---
+93
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+Proteus exits.
+ 
+ Proteus, I thank thee for thine honest care,
+ Which to requite command me while I live.
+ This love of theirs myself have often seen,
+ Haply when they have judged me fast asleep,
+ And oftentimes have purposed to forbid
+ Sir Valentine her company and my court.
+ But fearing lest my jealous aim might err
+ And so, unworthily, disgrace the man—
+ A rashness that I ever yet have shunned—
+ I gave him gentle looks, thereby to find
+ That which thyself hast now disclosed to me.
+ And that thou mayst perceive my fear of this,
+ Knowing that tender youth is soon suggested,
+ I nightly lodge her in an upper tower,
+ The key whereof myself have ever kept,
+ And thence she cannot be conveyed away.
+ 
+ Know, noble lord, they have devised a mean
+ How he her chamber-window will ascend
+ And with a corded ladder fetch her down;
+ For which the youthful lover now is gone,
+ And this way comes he with it presently,
+ Where, if it please you, you may intercept him.
+ But, good my lord, do it so cunningly
+ That my discovery be not aimèd at;
+ For love of you, not hate unto my friend,
+ Hath made me publisher of this pretense.
+ 
+ Upon mine honor, he shall never know
+ That I had any light from thee of this.
+ 
+ Adieu, my lord. Sir Valentine is coming.
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+25
+FTLN 1093
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+30
+FTLN 1098
+FTLN 1099
+FTLN 1100
+FTLN 1101
+FTLN 1102
+35
+FTLN 1103
+FTLN 1104
+FTLN 1105
+FTLN 1106
+FTLN 1107
+40
+FTLN 1108
+FTLN 1109
+FTLN 1110
+FTLN 1111
+FTLN 1112
+45
+FTLN 1113
+FTLN 1114
+FTLN 1115
+FTLN 1116
+FTLN 1117
+50
+
+--- PAGE 50 / 94 ---
+95
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+Enter  Valentine.
+ 
+ Sir Valentine, whither away so fast?
+ 
+ Please it your Grace, there is a messenger
+ That stays to bear my letters to my friends,
+ And I am going to deliver them.
+  Be they of much import?
+ 
+ The tenor of them doth but signify
+ My health and happy being at your court.
+ 
+ Nay then, no matter. Stay with me awhile;
+ I am to break with thee of some affairs
+ That touch me near, wherein thou must be secret.
+ ’Tis not unknown to thee that I have sought
+ To match my friend Sir Thurio to my daughter.
+ 
+ I know it well, my lord, and sure the match
+ Were rich and honorable. Besides, the gentleman
+ Is full of virtue, bounty, worth, and qualities
+ Beseeming such a wife as your fair daughter.
+ Cannot your Grace win her to fancy him?
+ 
+ No. Trust me, she is peevish, sullen, froward,
+ Proud, disobedient, stubborn, lacking duty,
+ Neither regarding that she is my child
+ Nor fearing me as if I were her father;
+ And may I say to thee, this pride of hers,
+ Upon advice, hath drawn my love from her,
+ And where I thought the remnant of mine age
+ Should have been cherished by her childlike duty,
+ I now am full resolved to take a wife
+ And turn her out to who will take her in.
+ Then let her beauty be her wedding dower,
+ For me and my possessions she esteems not.
+FTLN 1118
+FTLN 1119
+FTLN 1120
+FTLN 1121
+FTLN 1122
+55
+FTLN 1123
+FTLN 1124
+FTLN 1125
+FTLN 1126
+FTLN 1127
+60
+FTLN 1128
+FTLN 1129
+FTLN 1130
+FTLN 1131
+FTLN 1132
+65
+FTLN 1133
+FTLN 1134
+FTLN 1135
+FTLN 1136
+FTLN 1137
+70
+FTLN 1138
+FTLN 1139
+FTLN 1140
+FTLN 1141
+FTLN 1142
+75
+FTLN 1143
+FTLN 1144
+FTLN 1145
+FTLN 1146
+
+--- PAGE 51 / 94 ---
+97
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+ 
+ What would your Grace have me to do in this?
+ 
+ There is a lady in Verona here
+ Whom I affect; but she is nice, and coy,
+ And nought esteems my agèd eloquence.
+ Now therefore would I have thee to my tutor—
+ For long agone I have forgot to court;
+ Besides, the fashion of the time is changed—
+ How and which way I may bestow myself
+ To be regarded in her sun-bright eye.
+ 
+ Win her with gifts if she respect not words;
+ Dumb jewels often in their silent kind
+ More than quick words do move a woman’s mind.
+ 
+ But she did scorn a present that I sent her.
+ 
+ A woman sometime scorns what best contents her.
+ Send her another; never give her o’er,
+ For scorn at first makes after-love the more.
+ If she do frown, ’tis not in hate of you,
+ But rather to beget more love in you.
+ If she do chide, ’tis not to have you gone,
+ Forwhy the fools are mad if left alone.
+ Take no repulse, whatever she doth say;
+ For “get you gone” she doth not mean “away.”
+ Flatter and praise, commend, extol their graces;
+ Though ne’er so black, say they have angels’ faces.
+ That man that hath a tongue, I say, is no man
+ If with his tongue he cannot win a woman.
+ 
+ But she I mean is promised by her friends
+ Unto a youthful gentleman of worth
+ And kept severely from resort of men,
+ That no man hath access by day to her.
+FTLN 1147
+80
+FTLN 1148
+FTLN 1149
+FTLN 1150
+FTLN 1151
+FTLN 1152
+85
+FTLN 1153
+FTLN 1154
+FTLN 1155
+FTLN 1156
+FTLN 1157
+90
+FTLN 1158
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+95
+FTLN 1163
+FTLN 1164
+FTLN 1165
+FTLN 1166
+FTLN 1167
+100
+FTLN 1168
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+105
+FTLN 1173
+FTLN 1174
+FTLN 1175
+FTLN 1176
+
+--- PAGE 52 / 94 ---
+99
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+ 
+ Why, then, I would resort to her by night.
+ 
+ Ay, but the doors be locked and keys kept safe,
+ That no man hath recourse to her by night.
+ 
+ What lets but one may enter at her window?
+ 
+ Her chamber is aloft, far from the ground,
+ And built so shelving that one cannot climb it
+ Without apparent hazard of his life.
+ 
+ Why, then a ladder quaintly made of cords
+ To cast up, with a pair of anchoring hooks,
+ Would serve to scale another Hero’s tower,
+ So bold Leander would adventure it.
+ 
+ Now, as thou art a gentleman of blood,
+ Advise me where I may have such a ladder.
+ 
+ When would you use it? Pray sir, tell me that.
+ 
+ This very night; for love is like a child
+ That longs for everything that he can come by.
+ 
+ By seven o’clock I’ll get you such a ladder.
+ 
+ But hark thee: I will go to her alone;
+ How shall I best convey the ladder thither?
+ 
+ It will be light, my lord, that you may bear it
+ Under a cloak that is of any length.
+ 
+ A cloak as long as thine will serve the turn?
+ 
+ Ay, my good lord.
+FTLN 1177
+110
+FTLN 1178
+FTLN 1179
+FTLN 1180
+FTLN 1181
+FTLN 1182
+115
+FTLN 1183
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+120
+FTLN 1188
+FTLN 1189
+FTLN 1190
+FTLN 1191
+FTLN 1192
+125
+FTLN 1193
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+130
+FTLN 1198
+FTLN 1199
+
+--- PAGE 53 / 94 ---
+101
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+DUKE
+VALENTINE
+DUKE
+Pulling off the cloak, he reveals
+a rope ladder and a paper.
+  
+ Then let me see thy cloak;
+ I’ll get me one of such another length.
+ 
+ Why, any cloak will serve the turn, my lord.
+ 
+ How shall I fashion me to wear a cloak?
+ I pray thee, let me feel thy cloak upon me.
+ What letter is this same? What’s here?  ( Reads. ) To
+ Sylvia.
+ And here an engine fit for my proceeding.
+ I’ll be so bold to break the seal for once.
+( Reads. )
+ My thoughts do harbor with my Sylvia nightly,
+  And slaves they are to me that send them flying.
+ O, could their master come and go as lightly,
+  Himself would lodge where, senseless, they are
+ 
+  lying.
+ My herald thoughts in thy pure bosom rest them,
+  While I, their king, that thither them importune,
+ Do curse the grace that with such grace hath blest
+ 
+ them,
+  Because myself do want my servants’ fortune.
+ I curse myself, for they are sent by me,
+ That they should harbor where their lord should be.
+ What’s here?
+  ( Reads. ) Sylvia, this night I will enfranchise thee.
+ ’Tis so. And here’s the ladder for the purpose.
+ Why, Phaëton—for thou art Merops’ son—
+ Wilt thou aspire to guide the heavenly car
+ And with thy daring folly burn the world?
+ Wilt thou reach stars because they shine on thee?
+ Go, base intruder, overweening slave,
+ Bestow thy fawning smiles on equal mates
+ And think my patience, more than thy desert,
+FTLN 1200
+FTLN 1201
+FTLN 1202
+135
+FTLN 1203
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+140
+FTLN 1208
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+145
+FTLN 1213
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+150
+FTLN 1218
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+155
+FTLN 1223
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+160
+FTLN 1228
+FTLN 1229
+FTLN 1230
+
+--- PAGE 54 / 94 ---
+103
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+He exits.
+VALENTINE
+PROTEUS
+LANCE
+PROTEUS
+ Is privilege for thy departure hence.
+ Thank me for this more than for all the favors
+ Which all too much I have bestowed on thee.
+ But if thou linger in my territories
+ Longer than swiftest expedition
+ Will give thee time to leave our royal court,
+ By heaven, my wrath shall far exceed the love
+ I ever bore my daughter or thyself.
+ Begone. I will not hear thy vain excuse,
+ But, as thou lov’st thy life, make speed from hence.
+ 
+ And why not death, rather than living torment?
+ To die is to be banished from myself,
+ And Sylvia is myself; banished from her
+ Is self from self—a deadly banishment.
+ What light is light if Sylvia be not seen?
+ What joy is joy if Sylvia be not by—
+ Unless it be to think that she is by
+ And feed upon the shadow of perfection?
+ Except I be by Sylvia in the night,
+ There is no music in the nightingale.
+ Unless I look on Sylvia in the day,
+ There is no day for me to look upon.
+ She is my essence, and I leave to be
+ If I be not by her fair influence
+ Fostered, illumined, cherished, kept alive.
+ I fly not death, to fly his deadly doom;
+ Tarry I here, I but attend on death,
+ But fly I hence, I fly away from life.
+Enter  Proteus and  Lance.
+  Run, boy, run, run, and seek him out.
+  So-ho, so-ho!
+  What seest thou?
+FTLN 1231
+FTLN 1232
+165
+FTLN 1233
+FTLN 1234
+FTLN 1235
+FTLN 1236
+FTLN 1237
+170
+FTLN 1238
+FTLN 1239
+FTLN 1240
+FTLN 1241
+FTLN 1242
+175
+FTLN 1243
+FTLN 1244
+FTLN 1245
+FTLN 1246
+FTLN 1247
+180
+FTLN 1248
+FTLN 1249
+FTLN 1250
+FTLN 1251
+FTLN 1252
+185
+FTLN 1253
+FTLN 1254
+FTLN 1255
+FTLN 1256
+FTLN 1257
+190
+FTLN 1258
+FTLN 1259
+FTLN 1260
+FTLN 1261
+
+--- PAGE 55 / 94 ---
+105
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+LANCE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+LANCE
+PROTEUS
+LANCE
+PROTEUS
+LANCE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+LANCE
+PROTEUS
+  Him we go to find. There’s not a hair on ’s head
+ but ’tis a Valentine.
+  Valentine?
+  No.
+  Who then? His spirit?
+  Neither.
+  What then?
+  Nothing.
+  Can nothing speak? Master, shall I strike?
+  Who wouldst thou strike?
+  Nothing.
+  Villain, forbear.
+  Why, sir, I’ll strike nothing. I pray you—
+ 
+ Sirrah, I say forbear.—Friend Valentine, a word.
+ 
+ My ears are stopped and cannot hear good news,
+ So much of bad already hath possessed them.
+ 
+ Then in dumb silence will I bury mine,
+ For they are harsh, untunable, and bad.
+  Is Sylvia dead?
+  No, Valentine.
+ 
+ No Valentine indeed for sacred Sylvia.
+ Hath she forsworn me?
+  No, Valentine.
+ 
+ No Valentine if Sylvia have forsworn me.
+ What is your news?
+  Sir, there is a proclamation that you are
+ vanished.
+ 
+ That thou art banishèd—O, that’s the news—
+ From hence, from Sylvia, and from me thy friend.
+FTLN 1262
+195
+FTLN 1263
+FTLN 1264
+FTLN 1265
+FTLN 1266
+FTLN 1267
+200
+FTLN 1268
+FTLN 1269
+FTLN 1270
+FTLN 1271
+FTLN 1272
+205
+FTLN 1273
+FTLN 1274
+FTLN 1275
+FTLN 1276
+FTLN 1277
+210
+FTLN 1278
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+215
+FTLN 1283
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+220
+FTLN 1288
+FTLN 1289
+FTLN 1290
+
+--- PAGE 56 / 94 ---
+107
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+VALENTINE
+PROTEUS
+VALENTINE
+PROTEUS
+ 
+ O, I have fed upon this woe already,
+ And now excess of it will make me surfeit.
+ Doth Sylvia know that I am banishèd?
+ 
+ Ay, ay, and she hath offered to the doom—
+ Which unreversed stands in effectual force—
+ A sea of melting pearl, which some call tears;
+ Those at her father’s churlish feet she tendered,
+ With them, upon her knees, her humble self,
+ Wringing her hands, whose whiteness so became
+ them
+ As if but now they waxèd pale for woe.
+ But neither bended knees, pure hands held up,
+ Sad sighs, deep groans, nor silver-shedding tears
+ Could penetrate her uncompassionate sire;
+ But Valentine, if he be ta’en, must die.
+ Besides, her intercession chafed him so,
+ When she for thy repeal was suppliant,
+ That to close prison he commanded her
+ With many bitter threats of biding there.
+ 
+ No more, unless the next word that thou speak’st
+ Have some malignant power upon my life.
+ If so, I pray thee breathe it in mine ear
+ As ending anthem of my endless dolor.
+ 
+ Cease to lament for that thou canst not help,
+ And study help for that which thou lament’st.
+ Time is the nurse and breeder of all good.
+ Here, if thou stay, thou canst not see thy love;
+ Besides, thy staying will abridge thy life.
+ Hope is a lover’s staff; walk hence with that
+ And manage it against despairing thoughts.
+ Thy letters may be here, though thou art hence,
+ Which, being writ to me, shall be delivered
+FTLN 1291
+FTLN 1292
+225
+FTLN 1293
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+230
+FTLN 1298
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+235
+FTLN 1303
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+240
+FTLN 1308
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+245
+FTLN 1313
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+250
+FTLN 1318
+FTLN 1319
+FTLN 1320
+FTLN 1321
+FTLN 1322
+255
+
+--- PAGE 57 / 94 ---
+109
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+VALENTINE
+PROTEUS
+VALENTINE
+Valentine and Proteus exit.
+LANCE
+SPEED
+ Even in the milk-white bosom of thy love.
+ The time now serves not to expostulate.
+ Come, I’ll convey thee through the city gate
+ And, ere I part with thee, confer at large
+ Of all that may concern thy love affairs.
+ As thou lov’st Sylvia, though not for thyself,
+ Regard thy danger, and along with me.
+ 
+ I pray thee, Lance, an if thou seest my boy,
+ Bid him make haste and meet me at the North
+ Gate.
+ 
+ Go, sirrah, find him out.—Come, Valentine.
+ 
+ O, my dear Sylvia! Hapless Valentine!
+  I am but a fool, look you, and yet I have the wit
+ to think my master is a kind of a knave, but that’s all
+ one if he be but one knave. He lives not now that
+ knows me to be in love, yet I am in love, but a team
+ of horse shall not pluck that from me, nor who ’tis I
+ love; and yet ’tis a woman, but what woman I will
+ not tell myself; and yet ’tis a milk-maid; yet ’tis not a
+ maid, for she hath had gossips; yet ’tis a maid, for
+ she is her master’s maid and serves for wages. She
+ hath more qualities than a water spaniel, which is
+ much in a bare Christian.  He takes out a piece of
+ paper.   Here is the catalog of her condition.
+  ( Reads. ) Imprimis, She can fetch and carry. Why, a
+ horse can do no more; nay, a horse cannot fetch but
+ only carry; therefore is she better than a jade.
+  ( Reads. ) Item, She can milk. Look you, a sweet
+ virtue in a maid with clean hands.
+Enter  Speed.
+  How now, Signior Lance? What news with your
+ Mastership?
+FTLN 1323
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+260
+FTLN 1328
+FTLN 1329
+FTLN 1330
+FTLN 1331
+FTLN 1332
+265
+FTLN 1333
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+270
+FTLN 1338
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+275
+FTLN 1343
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+280
+FTLN 1348
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+285
+FTLN 1353
+
+--- PAGE 58 / 94 ---
+111
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+  With my master’s ship? Why, it is at sea.
+  Well, your old vice still: mistake the word. What
+ news, then, in your paper?
+  The black’st news that ever thou heard’st.
+  Why, man? How black?
+  Why, as black as ink.
+  Let me read them.
+  Fie on thee, jolt-head, thou canst not read.
+  Thou liest. I can.
+  I will try thee. Tell me this, who begot thee?
+  Marry, the son of my grandfather.
+  O, illiterate loiterer, it was the son of thy grandmother.
+ This proves that thou canst not read.
+  Come, fool, come. Try me in thy paper.
+, giving him the paper
+  There, and Saint Nicholas
+ be thy speed.
+ reads
+  Imprimis, She can milk.
+  Ay, that she can.
+  Item, She brews good ale.
+  And thereof comes the proverb: “Blessing of
+ your heart, you brew good ale.”
+  Item, She can sew.
+  That’s as much as to say “Can she so?”
+  Item, She can knit.
+  What need a man care for a stock with a wench,
+ when she can knit him a stock?
+  Item, She can wash and scour.
+  A special virtue, for then she need not be
+ washed and scoured.
+  Item, She can spin.
+  Then may I set the world on wheels, when she
+ can spin for her living.
+  Item, She hath many nameless virtues.
+  That’s as much as to say “bastard virtues,” that
+ indeed know not their fathers and therefore have no
+ names.
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+290
+FTLN 1358
+FTLN 1359
+FTLN 1360
+FTLN 1361
+FTLN 1362
+295
+FTLN 1363
+FTLN 1364
+FTLN 1365
+FTLN 1366
+FTLN 1367
+300
+FTLN 1368
+FTLN 1369
+FTLN 1370
+FTLN 1371
+FTLN 1372
+305
+FTLN 1373
+FTLN 1374
+FTLN 1375
+FTLN 1376
+FTLN 1377
+310
+FTLN 1378
+FTLN 1379
+FTLN 1380
+FTLN 1381
+FTLN 1382
+315
+FTLN 1383
+FTLN 1384
+FTLN 1385
+FTLN 1386
+FTLN 1387
+320
+FTLN 1388
+FTLN 1389
+
+--- PAGE 59 / 94 ---
+113
+The Two Gentlemen of Verona
+ACT 3. SC. 1
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+  Here follow her vices.
+  Close at the heels of her virtues.
+  Item, She is not to be kissed  fasting in respect of
+ her breath.
+  Well, that fault may be mended with a breakfast.
+ Read on.
+  Item, She hath a sweet mouth.
+  That makes amends for her sour breath.
+  Item, She doth talk in her sleep.
+  It’s no matter for that, so she sleep not in her
+ talk.
+  Item, She is slow in words.
+  O villain, that set this down among her vices! To
+ be slow in words is a woman’s only virtue. I pray
+ thee, out with ’t, and place it for her chief virtue.
+  Item, She is proud.
+  Out with that too; it was Eve’s legacy and
+ cannot be ta’en from her.
+  Item, She hath no teeth.
+  I care not for that neither, because I love crusts.
+  Item, She is curst.
+  Well, the best is, she hath no teeth to bite.
+  Item, She will often praise her liquor.
+  If her liquor be good, she shall; if she will not, I
+ will, for good things should be praised.
+  Item, She is too liberal.
+  Of her tongue she cannot, for that’s writ down
+ she is slow of; of her purse she shall not, for that I’ll
+ keep shut; now, of another thing she may, and that
+ cannot I help. Well, proceed.
+  Item, She hath more hair than wit, and more
+ faults than hairs, and more wealth than faults.
+  Stop there. I’ll have her. She was mine and not
+ mine twice or thrice in that last article. Rehearse
+ that once more.
+  Item, She hath more hair than wit.
+FTLN 1390
+FTLN 1391
+FTLN 1392
+325
+FTLN 1393
+FTLN 1394
+FTLN 1395
+FTLN 1396
+FTLN 1397
+330
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+335
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+FTLN 1407
+340
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+FTLN 1412
+345
+FTLN 1413
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+350
+FTLN 1418
+FTLN 1419
+FTLN 1420
+FTLN 1421
+FTLN 1422
+355
+FTLN 1423
+FTLN 1424
+FTLN 1425
+
+--- PAGE 60 / 94 ---
+115
+The Two Gentlemen of Verona
+ACT 3. SC. 2
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+LANCE
+SPEED
+He exits.
+LANCE
+He  exits.
+DUKE
+THURIO
+  “More hair than wit”? It may be; I’ll prove it:
+ the cover of the salt hides the salt, and therefore it is
+ more than the salt; the hair that covers the wit is
+ more than the wit, for the greater hides the less.
+ What’s next?
+  And more faults than hairs.
+  That’s monstrous! O, that that were out!
+  And more wealth than faults.
+  Why, that word makes the faults gracious. Well,
+ I’ll have her, and if it be a match, as nothing is
+ impossible—
+  What then?
+  Why, then will I tell thee that thy master stays
+ for thee at the North Gate.
+  For me?
+  For thee? Ay, who art thou? He hath stayed for a
+ better man than thee.
+  And must I go to him?
+  Thou must run to him, for thou hast stayed so
+ long that going will scarce serve the turn.
+, handing him the paper
+  Why didst not tell me
+ sooner? Pox of your love letters! 
+  Now will he be swinged for reading my letter;
+ an unmannerly slave, that will thrust himself into
+ secrets. I’ll after, to rejoice in the boy’s correction.
+Enter Duke and  Thurio.
+ 
+ Sir Thurio, fear not but that she will love you
+ Now Valentine is banished from her sight.
+ 
+ Since his exile she hath despised me most,
+FTLN 1426
+FTLN 1427
+360
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+FTLN 1432
+365
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+FTLN 1437
+370
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+375
+FTLN 1443
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+380
+FTLN 1448
+FTLN 1449
+FTLN 1450
+Scene 2
+FTLN 1451
+FTLN 1452
+FTLN 1453
+
+--- PAGE 61 / 94 ---
+117
+The Two Gentlemen of Verona
+ACT 3. SC. 2
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+ Forsworn my company and railed at me,
+ That I am desperate of obtaining her.
+ 
+ This weak impress of love is as a figure
+ Trenchèd in ice, which with an hour’s heat
+ Dissolves to water and doth lose his form.
+ A little time will melt her frozen thoughts,
+ And worthless Valentine shall be forgot.
+Enter  Proteus.
+ How now, Sir Proteus? Is your countryman,
+ According to our proclamation, gone?
+  Gone, my good lord.
+ 
+ My daughter takes his going grievously.
+ 
+ A little time, my lord, will kill that grief.
+ 
+ So I believe, but Thurio thinks not so.
+ Proteus, the good conceit I hold of thee,
+ For thou hast shown some sign of good desert,
+ Makes me the better to confer with thee.
+ 
+ Longer than I prove loyal to your Grace
+ Let me not live to look upon your Grace.
+ 
+ Thou know’st how willingly I would effect
+ The match between Sir Thurio and my daughter?
+  I do, my lord.
+ 
+ And also, I think, thou art not ignorant
+ How she opposes her against my will?
+ 
+ She did, my lord, when Valentine was here.
+ 
+ Ay, and perversely she persevers so.
+FTLN 1454
+FTLN 1455
+5
+FTLN 1456
+FTLN 1457
+FTLN 1458
+FTLN 1459
+FTLN 1460
+10
+FTLN 1461
+FTLN 1462
+FTLN 1463
+FTLN 1464
+FTLN 1465
+15
+FTLN 1466
+FTLN 1467
+FTLN 1468
+FTLN 1469
+FTLN 1470
+20
+FTLN 1471
+FTLN 1472
+FTLN 1473
+FTLN 1474
+FTLN 1475
+25
+FTLN 1476
+FTLN 1477
+FTLN 1478
+
+--- PAGE 62 / 94 ---
+119
+The Two Gentlemen of Verona
+ACT 3. SC. 2
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+THURIO
+ What might we do to make the girl forget
+ The love of Valentine, and love Sir Thurio?
+ 
+ The best way is to slander Valentine
+ With falsehood, cowardice, and poor descent,
+ Three things that women highly hold in hate.
+ 
+ Ay, but she’ll think that it is spoke in hate.
+ 
+ Ay, if his enemy deliver it.
+ Therefore it must with circumstance be spoken
+ By one whom she esteemeth as his friend.
+ 
+ Then you must undertake to slander him.
+ 
+ And that, my lord, I shall be loath to do.
+ ’Tis an ill office for a gentleman,
+ Especially against his very friend.
+ 
+ Where your good word cannot advantage him,
+ Your slander never can endamage him;
+ Therefore the office is indifferent,
+ Being entreated to it by your friend.
+ 
+ You have prevailed, my lord. If I can do it
+ By aught that I can speak in his dispraise,
+ She shall not long continue love to him.
+ But say this weed her love from Valentine,
+ It follows not that she will love Sir Thurio.
+ 
+ Therefore, as you unwind her love from him,
+ Lest it should ravel and be good to none,
+ You must provide to bottom it on me,
+ Which must be done by praising me as much
+ As you in worth dispraise Sir Valentine.
+FTLN 1479
+FTLN 1480
+30
+FTLN 1481
+FTLN 1482
+FTLN 1483
+FTLN 1484
+FTLN 1485
+35
+FTLN 1486
+FTLN 1487
+FTLN 1488
+FTLN 1489
+FTLN 1490
+40
+FTLN 1491
+FTLN 1492
+FTLN 1493
+FTLN 1494
+FTLN 1495
+45
+FTLN 1496
+FTLN 1497
+FTLN 1498
+FTLN 1499
+FTLN 1500
+50
+FTLN 1501
+FTLN 1502
+FTLN 1503
+FTLN 1504
+FTLN 1505
+55
+
+--- PAGE 63 / 94 ---
+121
+The Two Gentlemen of Verona
+ACT 3. SC. 2
+DUKE
+PROTEUS
+DUKE
+PROTEUS
+ 
+ And, Proteus, we dare trust you in this kind
+ Because we know, on Valentine’s report,
+ You are already Love’s firm votary
+ And cannot soon revolt and change your mind.
+ Upon this warrant shall you have access
+ Where you with Sylvia may confer at large—
+ For she is lumpish, heavy, melancholy,
+ And, for your friend’s sake, will be glad of you—
+ Where you may temper her by your persuasion
+ To hate young Valentine and love my friend.
+ 
+ As much as I can do I will effect.—
+ But you, Sir Thurio, are not sharp enough.
+ You must lay lime to tangle her desires
+ By wailful sonnets, whose composèd rhymes
+ Should be full-fraught with serviceable vows.
+ 
+ Ay, much is the force of heaven-bred poesy.
+ 
+ Say that upon the altar of her beauty
+ You sacrifice your tears, your sighs, your heart.
+ Write till your ink be dry, and with your tears
+ Moist it again, and frame some feeling line
+ That may discover such integrity.
+ For Orpheus’ lute was strung with poets’ sinews,
+ Whose golden touch could soften steel and stones,
+ Make tigers tame, and huge leviathans
+ Forsake unsounded deeps to dance on sands.
+ After your dire-lamenting elegies,
+ Visit by night your lady’s chamber window
+ With some sweet consort; to their instruments
+ Tune a deploring dump; the night’s dead silence
+ Will well become such sweet complaining
+ grievance.
+ This, or else nothing, will inherit her.
+FTLN 1506
+FTLN 1507
+FTLN 1508
+FTLN 1509
+FTLN 1510
+60
+FTLN 1511
+FTLN 1512
+FTLN 1513
+FTLN 1514
+FTLN 1515
+65
+FTLN 1516
+FTLN 1517
+FTLN 1518
+FTLN 1519
+FTLN 1520
+70
+FTLN 1521
+FTLN 1522
+FTLN 1523
+FTLN 1524
+FTLN 1525
+75
+FTLN 1526
+FTLN 1527
+FTLN 1528
+FTLN 1529
+FTLN 1530
+80
+FTLN 1531
+FTLN 1532
+FTLN 1533
+FTLN 1534
+FTLN 1535
+85
+FTLN 1536
+FTLN 1537
+
+--- PAGE 64 / 94 ---
+123
+The Two Gentlemen of Verona
+ACT 3. SC. 2
+DUKE
+THURIO
+DUKE
+PROTEUS
+DUKE
+They exit.
+ 
+ This discipline shows thou hast been in love.
+, to Proteus
+ 
+ And thy advice this night I’ll put in practice.
+ Therefore, sweet Proteus, my direction-giver,
+ Let us into the city presently
+ To sort some gentlemen well-skilled in music.
+ I have a sonnet that will serve the turn
+ To give the onset to thy good advice.
+  About it, gentlemen.
+ 
+ We’ll wait upon your Grace till after supper
+ And afterward determine our proceedings.
+ 
+ Even now about it! I will pardon you.
+FTLN 1538
+FTLN 1539
+FTLN 1540
+90
+FTLN 1541
+FTLN 1542
+FTLN 1543
+FTLN 1544
+FTLN 1545
+95
+FTLN 1546
+FTLN 1547
+FTLN 1548
+
+--- PAGE 65 / 94 ---
+FIRST OUTLAW
+SECOND OUTLAW
+THIRD OUTLAW
+SPEED
+VALENTINE
+FIRST OUTLAW
+SECOND OUTLAW
+THIRD OUTLAW
+VALENTINE
+Enter certain Outlaws.
+ 
+ Fellows, stand fast. I see a passenger.
+ 
+ If there be ten, shrink not, but down with ’em.
+Enter  Valentine and  Speed.
+ 
+ Stand, sir, and throw us that you have about you.
+ If not, we’ll make you sit, and rifle you.
+, to Valentine
+ 
+ Sir, we are undone; these are the villains
+ That all the travelers do fear so much.
+  My friends—
+ 
+ That’s not so, sir. We are your enemies.
+  Peace. We’ll hear him.
+ 
+ Ay, by my beard, will we, for he is a proper man.
+ 
+ Then know that I have little wealth to lose.
+ A man I am crossed with adversity;
+ My riches are these poor habiliments,
+ Of which, if you should here disfurnish me,
+ You take the sum and substance that I have.
+127
+ACT 4
+Scene 1
+FTLN 1549
+FTLN 1550
+FTLN 1551
+FTLN 1552
+FTLN 1553
+5
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+FTLN 1558
+10
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+FTLN 1563
+15
+
+--- PAGE 66 / 94 ---
+129
+The Two Gentlemen of Verona
+ACT 4. SC. 1
+SECOND OUTLAW
+VALENTINE
+FIRST OUTLAW
+VALENTINE
+THIRD OUTLAW
+VALENTINE
+FIRST OUTLAW
+VALENTINE
+SECOND OUTLAW
+VALENTINE
+FIRST OUTLAW
+VALENTINE
+SECOND OUTLAW
+VALENTINE
+THIRD OUTLAW
+FIRST OUTLAW
+The Outlaws step aside to talk.
+SPEED
+VALENTINE
+SECOND OUTLAW
+  Whither travel you?
+  To Verona.
+  Whence came you?
+  From Milan.
+  Have you long sojourned there?
+ 
+ Some sixteen months, and longer might have stayed
+ If crooked fortune had not thwarted me.
+  What, were you banished thence?
+  I was.
+  For what offense?
+ 
+ For that which now torments me to rehearse;
+ I killed a man, whose death I much repent,
+ But yet I slew him manfully in fight
+ Without false vantage or base treachery.
+ 
+ Why, ne’er repent it if it were done so;
+ But were you banished for so small a fault?
+ 
+ I was, and held me glad of such a doom.
+  Have you the tongues?
+ 
+ My youthful travel therein made me happy,
+ Or else I often had been miserable.
+ 
+ By the bare scalp of Robin Hood’s fat friar,
+ This fellow were a king for our wild faction.
+  We’ll have him.—Sirs, a word.
+  Master, be one of them. It’s an honorable kind
+ of thievery.
+  Peace, villain.
+, advancing
+ 
+ Tell us this: have you anything to take to?
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+FTLN 1568
+20
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+FTLN 1573
+25
+FTLN 1574
+FTLN 1575
+FTLN 1576
+FTLN 1577
+FTLN 1578
+30
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+FTLN 1583
+35
+FTLN 1584
+FTLN 1585
+FTLN 1586
+FTLN 1587
+FTLN 1588
+40
+FTLN 1589
+FTLN 1590
+
+--- PAGE 67 / 94 ---
+131
+The Two Gentlemen of Verona
+ACT 4. SC. 1
+VALENTINE
+THIRD OUTLAW
+SECOND OUTLAW
+FIRST OUTLAW
+SECOND OUTLAW
+THIRD OUTLAW
+FIRST OUTLAW
+SECOND OUTLAW
+  Nothing but my fortune.
+ 
+ Know then that some of us are gentlemen,
+ Such as the fury of ungoverned youth
+ Thrust from the company of awful men.
+ Myself was from Verona banishèd
+ For practicing to steal away a lady,
+ An  heir and near  allied unto the Duke.
+ 
+ And I from Mantua, for a gentleman
+ Who, in my mood, I stabbed unto the heart.
+ 
+ And I for such like petty crimes as these.
+ But to the purpose: for we cite our faults
+ That they may hold excused our lawless lives,
+ And partly seeing you are beautified
+ With goodly shape, and by your own report
+ A linguist, and a man of such perfection
+ As we do in our quality much want—
+ 
+ Indeed because you are a banished man,
+ Therefore, above the rest, we parley to you.
+ Are you content to be our general,
+ To make a virtue of necessity
+ And live as we do in this wilderness?
+ 
+ What sayst thou? Wilt thou be of our consort?
+ Say ay, and be the captain of us all;
+ We’ll do thee homage and be ruled by thee,
+ Love thee as our commander and our king.
+ 
+ But if thou scorn our courtesy, thou diest.
+ 
+ Thou shalt not live to brag what we have offered.
+FTLN 1591
+FTLN 1592
+FTLN 1593
+45
+FTLN 1594
+FTLN 1595
+FTLN 1596
+FTLN 1597
+FTLN 1598
+50
+FTLN 1599
+FTLN 1600
+FTLN 1601
+FTLN 1602
+FTLN 1603
+55
+FTLN 1604
+FTLN 1605
+FTLN 1606
+FTLN 1607
+FTLN 1608
+60
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+FTLN 1613
+65
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+
+--- PAGE 68 / 94 ---
+133
+The Two Gentlemen of Verona
+ACT 4. SC. 2
+VALENTINE
+THIRD OUTLAW
+They exit.
+PROTEUS
+ 
+ I take your offer and will live with you,
+ Provided that you do no outrages
+ On silly women or poor passengers.
+ 
+ No, we detest such vile base practices.
+ Come, go with us; we’ll bring thee to our crews
+ And show thee all the treasure we have got,
+ Which, with ourselves, all rest at thy dispose.
+Enter Proteus.
+ 
+ Already have I been false to Valentine,
+ And now I must be as unjust to Thurio.
+ Under the color of commending him,
+ I have access my own love to prefer.
+ But Sylvia is too fair, too true, too holy
+ To be corrupted with my worthless gifts.
+ When I protest true loyalty to her,
+ She twits me with my falsehood to my friend;
+ When to her beauty I commend my vows,
+ She bids me think how I have been forsworn
+ In breaking faith with Julia, whom I loved;
+ And notwithstanding all her sudden quips,
+ The least whereof would quell a lover’s hope,
+ Yet, spaniel-like, the more she spurns my love,
+ The more it grows and fawneth on her still.
+ But here comes Thurio. Now must we to her
+ window
+ And give some evening music to her ear.
+FTLN 1618
+70
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+FTLN 1623
+75
+FTLN 1624
+Scene 2
+FTLN 1625
+FTLN 1626
+FTLN 1627
+FTLN 1628
+FTLN 1629
+5
+FTLN 1630
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+10
+FTLN 1635
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+15
+FTLN 1640
+FTLN 1641
+FTLN 1642
+
+--- PAGE 69 / 94 ---
+135
+The Two Gentlemen of Verona
+ACT 4. SC. 2
+THURIO
+PROTEUS
+THURIO
+PROTEUS
+THURIO
+PROTEUS
+THURIO
+HOST
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+HOST
+Music plays.
+JULIA
+HOST
+Enter  Thurio and Musicians.
+ 
+ How now, Sir Proteus, are you crept before us?
+ 
+ Ay, gentle Thurio, for you know that love
+ Will creep in service where it cannot go.
+ 
+ Ay, but I hope, sir, that you love not here.
+ 
+ Sir, but I do, or else I would be hence.
+ 
+ Who, Sylvia?
+  
+ Ay, Sylvia, for your sake.
+ 
+ I thank you for your own.—Now, gentlemen,
+ Let’s tune, and to it lustily awhile.
+Enter  Host of the inn, and  Julia, disguised as a
+page, Sebastian. They stand at a distance and talk.
+  Now, my young guest, methinks you’re allycholly.
+ I pray you, why is it?
+, as Sebastian
+  Marry, mine host, because I
+ cannot be merry.
+  Come, we’ll have you merry. I’ll bring you where
+ you shall hear music and see the gentleman that you
+ asked for.
+, as Sebastian
+  But shall I hear him speak?
+  Ay, that you shall.
+, as Sebastian
+  That will be music.
+  Hark, hark. 
+, as Sebastian
+  Is he among these?
+  Ay. But peace; let’s hear ’em.
+FTLN 1643
+FTLN 1644
+20
+FTLN 1645
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+25
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+30
+FTLN 1655
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+35
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+40
+
+--- PAGE 70 / 94 ---
+137
+The Two Gentlemen of Verona
+ACT 4. SC. 2
+PROTEUS
+HOST
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+HOST
+Song.
+ 
+   Who is Sylvia? What is she,
+  That all our swains commend her?
+ Holy, fair, and wise is she;
+  The heaven such grace did lend her
+ 
+ That she might admirèd be.
+ Is she kind as she is fair?
+  For beauty lives with kindness.
+ Love doth to her eyes repair
+  To help him of his blindness;
+ 
+ And, being helped, inhabits there.
+ Then to Sylvia let us sing,
+  That Sylvia is excelling;
+ She excels each mortal thing
+  Upon the dull earth dwelling.
+ 
+ To her let us garlands bring.
+  How now? Are you sadder than you were before?
+ How do you, man? The music likes you not.
+, as Sebastian
+  You mistake. The musician likes me
+ not.
+  Why, my pretty youth?
+, as Sebastian
+  He plays false, father.
+  How, out of tune on the strings?
+, as Sebastian
+  Not so; but yet so false that he
+ grieves my very heart-strings.
+  You have a quick ear.
+, as Sebastian
+  Ay, I would I were deaf; it makes
+ me have a slow heart.
+  I perceive you delight not in music.
+, as Sebastian
+  Not a whit when it jars so.
+  Hark, what fine change is in the music!
+, as Sebastian
+  Ay; that change is the spite.
+  You would have them always play but one
+ thing?
+FTLN 1665
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+45
+FTLN 1670
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+50
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+55
+FTLN 1680
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+60
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+65
+FTLN 1690
+FTLN 1691
+FTLN 1692
+FTLN 1693
+FTLN 1694
+70
+FTLN 1695
+FTLN 1696
+FTLN 1697
+
+--- PAGE 71 / 94 ---
+139
+The Two Gentlemen of Verona
+ACT 4. SC. 2
+JULIA
+HOST
+JULIA
+HOST
+Music ends.
+JULIA
+Host and Julia move away.
+PROTEUS
+THURIO
+PROTEUS
+THURIO
+Thurio and the Musicians exit.
+PROTEUS
+SYLVIA
+PROTEUS
+SYLVIA
+PROTEUS
+SYLVIA
+, as Sebastian
+ 
+ I would always have one play but one thing.
+ But, host, doth this Sir Proteus, that we talk on,
+ Often resort unto this gentlewoman?
+  I tell you what Lance his man told me: he loved
+ her out of all nick.
+, as Sebastian
+  Where is Lance?
+  Gone to seek his dog, which tomorrow, by his
+ master’s command, he must carry for a present to
+ his lady. 
+, as Sebastian
+  Peace. Stand aside. The company
+ parts. 
+ 
+ Sir Thurio, fear not you. I will so plead
+ That you shall say my cunning drift excels.
+ 
+ Where meet we?
+  
+ At Saint Gregory’s well.
+  
+ Farewell.
+Enter  Sylvia, above.
+ 
+ Madam, good even to your Ladyship.
+ 
+ I thank you for your music, gentlemen.
+ Who is that that spake?
+ 
+ One, lady, if you knew his pure heart’s truth,
+ You would quickly learn to know him by his voice.
+  Sir Proteus, as I take it.
+ 
+ Sir Proteus, gentle lady, and your servant.
+ 
+ What’s your will?
+FTLN 1698
+FTLN 1699
+75
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+80
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+85
+FTLN 1710
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+90
+FTLN 1715
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+95
+FTLN 1720
+FTLN 1721
+
+--- PAGE 72 / 94 ---
+141
+The Two Gentlemen of Verona
+ACT 4. SC. 2
+PROTEUS
+SYLVIA
+PROTEUS
+JULIA
+SYLVIA
+PROTEUS
+SYLVIA
+PROTEUS
+SYLVIA
+JULIA
+  
+ That I may compass yours.
+ 
+ You have your wish: my will is even this,
+ That presently you hie you home to bed.
+ Thou subtle, perjured, false, disloyal man,
+ Think’st thou I am so shallow, so conceitless,
+ To be seducèd by thy flattery,
+ That hast deceived so many with thy vows?
+ Return, return, and make thy love amends.
+ For me, by this pale queen of night I swear,
+ I am so far from granting thy request
+ That I despise thee for thy wrongful suit
+ And by and by intend to chide myself
+ Even for this time I spend in talking to thee.
+ 
+ I grant, sweet love, that I did love a lady,
+ But she is dead.
+, aside
+  
+ ’Twere false if I should speak it,
+ For I am sure she is not burièd.
+ 
+ Say that she be; yet Valentine thy friend
+ Survives, to whom, thyself art witness,
+ I am betrothed. And art thou not ashamed
+ To wrong him with thy importunacy?
+ 
+ I likewise hear that Valentine is dead.
+ 
+ And so suppose am I, for in his  grave,
+ Assure thyself, my love is burièd.
+ 
+ Sweet lady, let me rake it from the earth.
+ 
+ Go to thy lady’s grave and call hers thence,
+ Or, at the least, in hers sepulcher thine.
+, aside
+  He heard not that.
+FTLN 1722
+FTLN 1723
+FTLN 1724
+100
+FTLN 1725
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+105
+FTLN 1730
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+110
+FTLN 1735
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+115
+FTLN 1740
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+120
+FTLN 1745
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+125
+
+--- PAGE 73 / 94 ---
+143
+The Two Gentlemen of Verona
+ACT 4. SC. 3
+PROTEUS
+JULIA
+SYLVIA
+Sylvia exits.
+PROTEUS
+Proteus exits.
+JULIA
+HOST
+JULIA
+HOST
+JULIA
+They exit.
+EGLAMOUR
+ 
+ Madam, if your heart be so obdurate,
+ Vouchsafe me yet your picture for my love,
+ The picture that is hanging in your chamber;
+ To that I’ll speak, to that I’ll sigh and weep,
+ For since the substance of your perfect self
+ Is else devoted, I am but a shadow;
+ And to your shadow will I make true love.
+, aside
+ 
+ If ’twere a substance you would sure deceive it
+ And make it but a shadow, as I am.
+ 
+ I am very loath to be your idol, sir;
+ But since your falsehood shall become you well
+ To worship shadows and adore false shapes,
+ Send to me in the morning, and I’ll send it.
+ And so, good rest. 
+  
+ As wretches have o’ernight
+ That wait for execution in the morn. 
+, as Sebastian
+  Host, will you go?
+  By my halidom, I was fast asleep.
+, as Sebastian
+  Pray you, where lies Sir Proteus?
+  Marry, at my house. Trust me, I think ’tis almost
+ day.
+, as Sebastian
+ 
+ Not so; but it hath been the longest night
+ That e’er I watched, and the most heaviest.
+Enter Eglamour.
+ 
+ This is the hour that Madam Sylvia
+ Entreated me to call and know her mind;
+FTLN 1750
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+130
+FTLN 1755
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+135
+FTLN 1760
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+140
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+145
+FTLN 1770
+FTLN 1771
+FTLN 1772
+Scene 3
+FTLN 1773
+FTLN 1774
+
+--- PAGE 74 / 94 ---
+145
+The Two Gentlemen of Verona
+ACT 4. SC. 3
+SYLVIA
+EGLAMOUR
+SYLVIA
+EGLAMOUR
+SYLVIA
+ There’s some great matter she’d employ me in.
+ Madam, madam!
+Enter  Sylvia, above.
+  Who calls?
+  Your servant, and your friend,
+ One that attends your Ladyship’s command.
+ 
+ Sir Eglamour, a thousand times good morrow.
+ 
+ As many, worthy lady, to yourself.
+ According to your Ladyship’s impose,
+ I am thus early come to know what service
+ It is your pleasure to command me in.
+ 
+ O Eglamour, thou art a gentleman—
+ Think not I flatter, for I swear I do not—
+ Valiant, wise, remorseful, well accomplished.
+ Thou art not ignorant what dear good will
+ I bear unto the banished Valentine,
+ Nor how my father would enforce me marry
+ Vain Thurio, whom my very soul abhorred.
+ Thyself hast loved, and I have heard thee say
+ No grief did ever come so near thy heart
+ As when thy lady and thy true love died,
+ Upon whose grave thou vow’dst pure chastity.
+ Sir Eglamour, I would to Valentine,
+ To Mantua, where I hear he makes abode;
+ And for the ways are dangerous to pass,
+ I do desire thy worthy company,
+ Upon whose faith and honor I repose.
+ Urge not my father’s anger, Eglamour,
+ But think upon my grief, a lady’s grief,
+ And on the justice of my flying hence
+FTLN 1775
+FTLN 1776
+FTLN 1777
+5
+FTLN 1778
+FTLN 1779
+FTLN 1780
+FTLN 1781
+FTLN 1782
+10
+FTLN 1783
+FTLN 1784
+FTLN 1785
+FTLN 1786
+FTLN 1787
+15
+FTLN 1788
+FTLN 1789
+FTLN 1790
+FTLN 1791
+FTLN 1792
+20
+FTLN 1793
+FTLN 1794
+FTLN 1795
+FTLN 1796
+FTLN 1797
+25
+FTLN 1798
+FTLN 1799
+FTLN 1800
+FTLN 1801
+FTLN 1802
+30
+FTLN 1803
+
+--- PAGE 75 / 94 ---
+147
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+EGLAMOUR
+SYLVIA
+EGLAMOUR
+SYLVIA
+EGLAMOUR
+SYLVIA
+They exit.
+LANCE
+ To keep me from a most unholy match,
+ Which heaven and fortune still rewards with plagues.
+ I do desire thee, even from a heart
+ As full of sorrows as the sea of sands,
+ To bear me company and go with me;
+ If not, to hide what I have said to thee,
+ That I may venture to depart alone.
+ 
+ Madam, I pity much your grievances,
+ Which, since I know they virtuously are placed,
+ I give consent to go along with you,
+ Recking  as little what betideth me
+ As much I wish all good befortune you.
+ When will you go?
+  
+ This evening coming.
+ 
+ Where shall I meet you?
+  
+ At Friar Patrick’s cell,
+ Where I intend holy confession.
+ 
+ I will not fail your Ladyship. Good morrow, gentle
+ lady.
+ 
+ Good morrow, kind Sir Eglamour.
+Enter Lance, with his dog, Crab.
+  When a man’s servant shall play the cur with
+ him, look you, it goes hard—one that I brought up
+ of a puppy, one that I saved from drowning when
+ three or four of his blind brothers and sisters went
+ to it. I have taught him even as one would say
+ precisely “Thus I would teach a dog.” I was sent to
+FTLN 1804
+FTLN 1805
+FTLN 1806
+FTLN 1807
+35
+FTLN 1808
+FTLN 1809
+FTLN 1810
+FTLN 1811
+FTLN 1812
+40
+FTLN 1813
+FTLN 1814
+FTLN 1815
+FTLN 1816
+FTLN 1817
+45
+FTLN 1818
+FTLN 1819
+FTLN 1820
+FTLN 1821
+FTLN 1822
+50
+FTLN 1823
+Scene 4
+FTLN 1824
+FTLN 1825
+FTLN 1826
+FTLN 1827
+FTLN 1828
+5
+FTLN 1829
+
+--- PAGE 76 / 94 ---
+149
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+ deliver him as a present to Mistress Sylvia from my
+ master; and I came no sooner into the dining
+ chamber but he steps me to her trencher and steals
+ her capon’s leg. O, ’tis a foul thing when a cur
+ cannot keep himself in all companies! I would have,
+ as one should say, one that takes upon him to be a
+ dog indeed; to be, as it were, a dog at all things. If I
+ had not had more wit than he, to take a fault upon
+ me that he did, I think verily he had been hanged
+ for ’t. Sure as I live, he had suffered for ’t. You shall
+ judge. He thrusts me himself into the company of
+ three or four gentlemanlike dogs under the Duke’s
+ table; he had not been there—bless the mark!—a
+ pissing while but all the chamber smelt him. “Out
+ with the dog!” says one. “What cur is that?” says
+ another. “Whip him out!” says the third. “Hang him
+ up!” says the Duke. I, having been acquainted with
+ the smell before, knew it was Crab, and goes me to
+ the fellow that whips the dogs. “Friend,” quoth I,
+ “You mean to whip the dog?” “Ay, marry, do I,”
+ quoth he. “You do him the more wrong,” quoth I.
+ “’Twas I did the thing you wot of.” He makes me no
+ more ado but whips me out of the chamber. How
+ many masters would do this for his servant? Nay,
+ I’ll be sworn I have sat in the stocks for puddings he
+ hath stolen; otherwise he had been executed. I have
+ stood on the pillory for geese he hath killed; otherwise
+ he had suffered for ’t.  To Crab.  Thou think’st
+ not of this now. Nay, I remember the trick you
+ served me when I took my leave of Madam Sylvia.
+ Did not I bid thee still mark me, and do as I do?
+ When didst thou see me heave up my leg and make
+ water against a gentlewoman’s farthingale? Didst
+ thou ever see me do such a trick?
+FTLN 1830
+FTLN 1831
+FTLN 1832
+FTLN 1833
+10
+FTLN 1834
+FTLN 1835
+FTLN 1836
+FTLN 1837
+FTLN 1838
+15
+FTLN 1839
+FTLN 1840
+FTLN 1841
+FTLN 1842
+FTLN 1843
+20
+FTLN 1844
+FTLN 1845
+FTLN 1846
+FTLN 1847
+FTLN 1848
+25
+FTLN 1849
+FTLN 1850
+FTLN 1851
+FTLN 1852
+FTLN 1853
+30
+FTLN 1854
+FTLN 1855
+FTLN 1856
+FTLN 1857
+FTLN 1858
+35
+FTLN 1859
+FTLN 1860
+FTLN 1861
+FTLN 1862
+FTLN 1863
+40
+
+--- PAGE 77 / 94 ---
+151
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+PROTEUS
+JULIA
+PROTEUS
+LANCE
+PROTEUS
+LANCE
+PROTEUS
+LANCE
+PROTEUS
+LANCE
+PROTEUS
+Lance exits with Crab.
+Enter  Proteus and  Julia disguised as Sebastian.
+ 
+ Sebastian is thy name? I like thee well
+ And will employ thee in some service presently.
+, as Sebastian
+ 
+ In what you please. I’ll do what I can.
+ 
+ I hope thou wilt.  To Lance.  How now, you
+ whoreson peasant?
+ Where have you been these two days loitering?
+  Marry, sir, I carried Mistress Sylvia the dog you
+ bade me.
+  And what says she to my little jewel?
+  Marry, she says your dog was a cur, and tells
+ you currish thanks is good enough for such a
+ present.
+  But she received my dog?
+  No, indeed, did she not. Here have I brought
+ him back again.
+  What, didst thou offer her this from me?
+  Ay, sir. The other squirrel was stolen from me
+ by the hangman’s boys in the market-place, and
+ then I offered her mine own, who is a dog as big as
+ ten of yours, and therefore the gift the greater.
+ 
+ Go, get thee hence, and find my dog again,
+ Or ne’er return again into my sight.
+ Away, I say. Stayest thou to vex me here?
+ A slave that still an end turns me to shame.
+ Sebastian, I have entertainèd thee,
+ Partly that I have need of such a youth
+ That can with some discretion do my business—
+ For ’tis no trusting to yond foolish lout—
+ But chiefly for thy face and thy behavior,
+FTLN 1864
+FTLN 1865
+FTLN 1866
+FTLN 1867
+FTLN 1868
+45
+FTLN 1869
+FTLN 1870
+FTLN 1871
+FTLN 1872
+FTLN 1873
+50
+FTLN 1874
+FTLN 1875
+FTLN 1876
+FTLN 1877
+FTLN 1878
+55
+FTLN 1879
+FTLN 1880
+FTLN 1881
+FTLN 1882
+FTLN 1883
+60
+FTLN 1884
+FTLN 1885
+FTLN 1886
+FTLN 1887
+FTLN 1888
+65
+FTLN 1889
+FTLN 1890
+FTLN 1891
+FTLN 1892
+
+--- PAGE 78 / 94 ---
+153
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+He gives her a ring.
+JULIA
+PROTEUS
+JULIA
+PROTEUS
+JULIA
+PROTEUS
+JULIA
+PROTEUS
+Proteus exits.
+JULIA
+ Which, if my augury deceive me not,
+ Witness good bringing-up, fortune, and truth.
+ Therefore, know thou,  for this I entertain thee.
+ Go presently, and take this ring with thee;
+ Deliver it to Madam Sylvia.
+ She loved me well delivered it to me.
+, as Sebastian
+ 
+ It seems you loved not her, to  leave her token.
+ She is dead belike?
+  
+ Not so; I think she lives.
+, as Sebastian
+  Alas!
+  Why dost thou cry “Alas”?
+, as Sebastian
+  I cannot choose but pity her.
+  Wherefore shouldst thou pity her?
+, as Sebastian
+ 
+ Because methinks that she loved you as well
+ As you do love your lady Sylvia.
+ She dreams on him that has forgot her love;
+ You dote on her that cares not for your love.
+ ’Tis pity love should be so contrary,
+ And thinking on it makes me cry “Alas.”
+ 
+ Well, give her that ring and therewithal
+ This letter.  He gives her a paper.  That’s her
+ chamber. Tell my lady
+ I claim the promise for her heavenly picture.
+ Your message done, hie home unto my chamber,
+ Where thou shalt find me sad and solitary.
+ 
+ How many women would do such a message?
+ Alas, poor Proteus, thou hast entertained
+ A fox to be the shepherd of thy lambs.
+ Alas, poor fool, why do I pity him
+FTLN 1893
+70
+FTLN 1894
+FTLN 1895
+FTLN 1896
+FTLN 1897
+FTLN 1898
+75
+FTLN 1899
+FTLN 1900
+FTLN 1901
+FTLN 1902
+FTLN 1903
+80
+FTLN 1904
+FTLN 1905
+FTLN 1906
+FTLN 1907
+FTLN 1908
+85
+FTLN 1909
+FTLN 1910
+FTLN 1911
+FTLN 1912
+FTLN 1913
+90
+FTLN 1914
+FTLN 1915
+FTLN 1916
+FTLN 1917
+FTLN 1918
+95
+FTLN 1919
+FTLN 1920
+FTLN 1921
+
+--- PAGE 79 / 94 ---
+155
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+SYLVIA
+She is brought the picture.
+ That with his very heart despiseth me?
+ Because he loves her, he despiseth me;
+ Because I love him, I must pity him.
+ This ring I gave him when he parted from me,
+ To bind him to remember my good will;
+ And now am I, unhappy messenger,
+ To plead for that which I would not obtain,
+ To carry that which I would have refused,
+ To praise his faith, which I would have dispraised.
+ I am my master’s true confirmèd love,
+ But cannot be true servant to my master
+ Unless I prove false traitor to myself.
+ Yet will I woo for him, but yet so coldly
+ As—Heaven it knows!—I would not have him
+ speed.
+Enter  Sylvia.
+  As Sebastian.  Gentlewoman, good day. I pray you be
+ my mean
+ To bring me where to speak with Madam Sylvia.
+ 
+ What would you with her, if that I be she?
+, as Sebastian
+ 
+ If you be she, I do entreat your patience
+ To hear me speak the message I am sent on.
+  From whom?
+, as Sebastian
+  From my master, Sir Proteus,
+ madam.
+  O, he sends you for a picture?
+, as Sebastian
+  Ay, madam.
+, calling
+  Ursula, bring my picture there.
+ Go, give your master this. Tell him from me,
+ One Julia, that his changing thoughts forget,
+ Would better fit his chamber than this shadow.
+FTLN 1922
+FTLN 1923
+100
+FTLN 1924
+FTLN 1925
+FTLN 1926
+FTLN 1927
+FTLN 1928
+105
+FTLN 1929
+FTLN 1930
+FTLN 1931
+FTLN 1932
+FTLN 1933
+110
+FTLN 1934
+FTLN 1935
+FTLN 1936
+FTLN 1937
+FTLN 1938
+115
+FTLN 1939
+FTLN 1940
+FTLN 1941
+FTLN 1942
+FTLN 1943
+120
+FTLN 1944
+FTLN 1945
+FTLN 1946
+FTLN 1947
+FTLN 1948
+125
+FTLN 1949
+FTLN 1950
+FTLN 1951
+
+--- PAGE 80 / 94 ---
+157
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+JULIA
+She gives Sylvia a paper.
+She takes back the first paper
+and hands Sylvia another.
+SYLVIA
+JULIA
+SYLVIA
+She tears the second paper.
+JULIA
+She offers Sylvia a ring.
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+, as Sebastian
+  Madam, please you peruse this
+ letter. 
+ Pardon me, madam, I have unadvised
+ Delivered you a paper that I should not.
+ This is the letter to your Ladyship.
+ 
+ I pray thee let me look on that again.
+, as Sebastian
+ 
+ It may not be; good madam, pardon me.
+  There, hold.
+ I will not look upon your master’s lines;
+ I know they are stuffed with protestations
+ And full of new-found oaths, which he will break
+ As easily as I do tear his paper.
+, as Sebastian
+ 
+ Madam, he sends your Ladyship this ring.
+ 
+ The more shame for him, that he sends it me;
+ For I have heard him say a thousand times
+ His Julia gave it him at his departure.
+ Though his false finger have profaned the ring,
+ Mine shall not do his Julia so much wrong.
+, as Sebastian
+  She thanks you.
+  What sayst thou?
+, as Sebastian
+ 
+ I thank you, madam, that you tender her;
+ Poor gentlewoman, my master wrongs her much.
+  Dost thou know her?
+, as Sebastian
+ 
+ Almost as well as I do know myself.
+FTLN 1952
+FTLN 1953
+130
+FTLN 1954
+FTLN 1955
+FTLN 1956
+FTLN 1957
+FTLN 1958
+135
+FTLN 1959
+FTLN 1960
+FTLN 1961
+FTLN 1962
+FTLN 1963
+140
+FTLN 1964
+FTLN 1965
+FTLN 1966
+FTLN 1967
+FTLN 1968
+145
+FTLN 1969
+FTLN 1970
+FTLN 1971
+FTLN 1972
+FTLN 1973
+150
+FTLN 1974
+FTLN 1975
+
+--- PAGE 81 / 94 ---
+159
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+SYLVIA
+JULIA
+SYLVIA
+ To think upon her woes, I do protest
+ That I have wept a hundred several times.
+ 
+ Belike she thinks that Proteus hath forsook her?
+, as Sebastian
+ 
+ I think she doth, and that’s her cause of sorrow.
+  Is she not passing fair?
+, as Sebastian
+ 
+ She hath been fairer, madam, than she is;
+ When she did think my master loved her well,
+ She, in my judgment, was as fair as you.
+ But since she did neglect her looking-glass
+ And threw her sun-expelling mask away,
+ The air hath starved the roses in her cheeks
+ And pinched the lily tincture of her face,
+ That now she is become as black as I.
+  How tall was she?
+, as Sebastian
+ 
+ About my stature; for at Pentecost,
+ When all our pageants of delight were played,
+ Our youth got me to play the woman’s part,
+ And I was trimmed in Madam Julia’s gown,
+ Which served me as fit, by all men’s judgments,
+ As if the garment had been made for me;
+ Therefore I know she is about my height.
+ And at that time I made her weep agood,
+ For I did play a lamentable part;
+ Madam, ’twas Ariadne, passioning
+ For Theseus’ perjury and unjust flight,
+ Which I so lively acted with my tears
+ That my poor mistress, movèd therewithal,
+ Wept bitterly; and would I might be dead
+ If I in thought felt not her very sorrow.
+ 
+ She is beholding to thee, gentle youth.
+FTLN 1976
+FTLN 1977
+FTLN 1978
+155
+FTLN 1979
+FTLN 1980
+FTLN 1981
+FTLN 1982
+FTLN 1983
+160
+FTLN 1984
+FTLN 1985
+FTLN 1986
+FTLN 1987
+FTLN 1988
+165
+FTLN 1989
+FTLN 1990
+FTLN 1991
+FTLN 1992
+FTLN 1993
+170
+FTLN 1994
+FTLN 1995
+FTLN 1996
+FTLN 1997
+FTLN 1998
+175
+FTLN 1999
+FTLN 2000
+FTLN 2001
+FTLN 2002
+FTLN 2003
+180
+FTLN 2004
+FTLN 2005
+
+--- PAGE 82 / 94 ---
+161
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+She gives Julia a purse.
+JULIA
+Sylvia exits.
+ Alas, poor lady, desolate and left!
+ I weep myself to think upon thy words.
+ Here, youth, there is my purse.
+ I give thee this
+ For thy sweet mistress’ sake, because thou lov’st her.
+ Farewell.
+, as Sebastian
+ 
+ And she shall thank you for ’t if e’er you know her.
+ A virtuous gentlewoman, mild and beautiful.
+ I hope my master’s suit will be but cold,
+ Since she respects my mistress’ love so much.—
+ Alas, how love can trifle with itself!
+ Here is her picture; let me see. I think
+ If I had such a tire, this face of mine
+ Were full as lovely as is this of hers;
+ And yet the painter flattered her a little,
+ Unless I flatter with myself too much.
+ Her hair is auburn; mine is perfect yellow;
+ If that be all the difference in his love,
+ I’ll get me such a colored periwig.
+ Her eyes are gray as glass, and so are mine.
+ Ay, but her forehead’s low, and mine’s as high.
+ What should it be that he respects in her
+ But I can make respective in myself
+ If this fond Love were not a blinded god?
+ Come, shadow, come, and take this shadow up,
+ For ’tis thy rival. O, thou senseless form,
+ Thou shalt be worshipped, kissed, loved, and
+ adored;
+ And were there sense in his idolatry,
+ My substance should be statue in thy stead.
+FTLN 2006
+FTLN 2007
+FTLN 2008
+185
+FTLN 2009
+FTLN 2010
+FTLN 2011
+FTLN 2012
+FTLN 2013
+190
+FTLN 2014
+FTLN 2015
+FTLN 2016
+FTLN 2017
+FTLN 2018
+195
+FTLN 2019
+FTLN 2020
+FTLN 2021
+FTLN 2022
+FTLN 2023
+200
+FTLN 2024
+FTLN 2025
+FTLN 2026
+FTLN 2027
+FTLN 2028
+205
+FTLN 2029
+FTLN 2030
+FTLN 2031
+FTLN 2032
+FTLN 2033
+210
+FTLN 2034
+FTLN 2035
+
+--- PAGE 83 / 94 ---
+163
+The Two Gentlemen of Verona
+ACT 4. SC. 4
+She  exits.
+ I’ll use thee kindly for thy mistress’ sake,
+ That used me so, or else, by Jove I vow,
+ I should have scratched out your unseeing eyes
+ To make my master out of love with thee.
+FTLN 2036
+FTLN 2037
+FTLN 2038
+215
+FTLN 2039
+
+--- PAGE 84 / 94 ---
+EGLAMOUR
+SYLVIA
+EGLAMOUR
+They exit.
+Enter Eglamour.
+ 
+ The sun begins to gild the western sky,
+ And now it is about the very hour
+ That Sylvia at Friar Patrick’s cell should meet me.
+ She will not fail, for lovers break not hours,
+ Unless it be to come before their time,
+ So much they spur their expedition.
+Enter  Sylvia.
+ See where she comes.—Lady, a happy evening.
+ 
+ Amen, amen. Go on, good Eglamour,
+ Out at the postern by the abbey wall.
+ I fear I am attended by some spies.
+ 
+ Fear not. The forest is not three leagues off;
+ If we recover that, we are sure enough.
+167
+ACT 5
+Scene 1
+FTLN 2040
+FTLN 2041
+FTLN 2042
+FTLN 2043
+FTLN 2044
+5
+FTLN 2045
+FTLN 2046
+FTLN 2047
+FTLN 2048
+FTLN 2049
+10
+FTLN 2050
+FTLN 2051
+
+--- PAGE 85 / 94 ---
+169
+The Two Gentlemen of Verona
+ACT 5. SC. 2
+THURIO
+PROTEUS
+THURIO
+PROTEUS
+THURIO
+JULIA
+THURIO
+PROTEUS
+THURIO
+PROTEUS
+JULIA
+THURIO
+PROTEUS
+THURIO
+JULIA
+THURIO
+PROTEUS
+JULIA
+Enter Thurio, Proteus, and  Julia, disguised as
+Sebastian.
+ 
+ Sir Proteus, what says Sylvia to my suit?
+ 
+ O sir, I find her milder than she was,
+ And yet she takes exceptions at your person.
+  What? That my leg is too long?
+  No, that it is too little.
+ 
+ I’ll wear a boot to make it somewhat rounder.
+, aside
+ 
+ But love will not be spurred to what it loathes.
+  What says she to my face?
+  She says it is a fair one.
+ 
+ Nay, then the wanton lies; my face is black.
+ 
+ But pearls are fair, and the old saying is,
+ Black men are pearls in beauteous ladies’ eyes.
+, aside
+ 
+ ’Tis true, such pearls as put out ladies’ eyes,
+ For I had rather wink than look on them.
+  How likes she my discourse?
+  Ill, when you talk of war.
+ 
+ But well when I discourse of love and peace.
+, aside
+ 
+ But better, indeed, when you hold your  peace.
+  What says she to my valor?
+  O, sir, she makes no doubt of that.
+, aside
+ 
+ She needs not when she knows it cowardice.
+Scene 2
+FTLN 2052
+FTLN 2053
+FTLN 2054
+FTLN 2055
+FTLN 2056
+5
+FTLN 2057
+FTLN 2058
+FTLN 2059
+FTLN 2060
+FTLN 2061
+10
+FTLN 2062
+FTLN 2063
+FTLN 2064
+FTLN 2065
+FTLN 2066
+15
+FTLN 2067
+FTLN 2068
+FTLN 2069
+FTLN 2070
+FTLN 2071
+20
+FTLN 2072
+
+--- PAGE 86 / 94 ---
+171
+The Two Gentlemen of Verona
+ACT 5. SC. 2
+THURIO
+PROTEUS
+JULIA
+THURIO
+PROTEUS
+THURIO
+JULIA
+PROTEUS
+JULIA
+DUKE
+THURIO
+PROTEUS
+DUKE
+PROTEUS
+DUKE
+He exits.
+  What says she to my birth?
+  That you are well derived.
+, aside
+  True, from a gentleman to a fool.
+  Considers she my possessions?
+  O, ay, and pities them.
+  Wherefore?
+, aside
+  That such an ass should owe them.
+ 
+ That they are out by lease.
+, as Sebastian
+  
+ Here comes the Duke.
+Enter  Duke.
+ 
+ How now, Sir Proteus?—How now, Thurio?
+ Which of you saw Eglamour of late?
+ 
+ Not I.
+   Nor I.
+  
+ Saw you my daughter?
+  
+ Neither.
+ 
+ Why, then, she’s fled unto that peasant, Valentine,
+ And Eglamour is in her company.
+ ’Tis true, for Friar Lawrence met them both
+ As he, in penance, wandered through the forest;
+ Him he knew well and guessed that it was she,
+ But, being masked, he was not sure of it.
+ Besides, she did intend confession
+ At Patrick’s cell this even, and there she was not.
+ These likelihoods confirm her flight from hence.
+ Therefore I pray you stand not to discourse,
+ But mount you presently and meet with me
+ Upon the rising of the mountain foot
+ That leads toward Mantua, whither they are fled.
+ Dispatch, sweet gentlemen, and follow me.
+FTLN 2073
+FTLN 2074
+FTLN 2075
+FTLN 2076
+25
+FTLN 2077
+FTLN 2078
+FTLN 2079
+FTLN 2080
+FTLN 2081
+30
+FTLN 2082
+FTLN 2083
+FTLN 2084
+FTLN 2085
+FTLN 2086
+35
+FTLN 2087
+FTLN 2088
+FTLN 2089
+FTLN 2090
+FTLN 2091
+40
+FTLN 2092
+FTLN 2093
+FTLN 2094
+FTLN 2095
+FTLN 2096
+45
+FTLN 2097
+FTLN 2098
+FTLN 2099
+FTLN 2100
+FTLN 2101
+50
+
+--- PAGE 87 / 94 ---
+173
+The Two Gentlemen of Verona
+ACT 5. SC. 3
+THURIO
+He exits.
+PROTEUS
+He exits.
+JULIA
+She  exits.
+FIRST OUTLAW
+SYLVIA
+SECOND OUTLAW
+FIRST OUTLAW
+THIRD OUTLAW
+Second and Third Outlaws exit.
+FIRST OUTLAW
+ 
+ Why, this it is to be a peevish girl
+ That flies her fortune when it follows her.
+ I’ll after, more to be revenged on Eglamour
+ Than for the love of reckless Sylvia. 
+ 
+ And I will follow, more for Sylvia’s love
+ Than hate of Eglamour that goes with her.
+ 
+ And I will follow, more to cross that love
+ Than hate for Sylvia, that is gone for love.
+Enter  Sylvia and  Outlaws.
+ 
+ Come, come, be patient. We must bring you to our
+ captain.
+ 
+ A thousand more mischances than this one
+ Have learned me how to brook this patiently.
+  Come, bring her away.
+ 
+ Where is the gentleman that was with her?
+ 
+ Being nimble-footed, he hath outrun us,
+ But Moyses and Valerius follow him.
+ Go thou with her to the west end of the wood;
+ There is our captain. We’ll follow him that’s fled.
+ The thicket is beset; he cannot ’scape.
+ 
+ Come, I must bring you to our captain’s cave.
+FTLN 2102
+FTLN 2103
+FTLN 2104
+FTLN 2105
+FTLN 2106
+55
+FTLN 2107
+FTLN 2108
+FTLN 2109
+Scene 3
+FTLN 2110
+FTLN 2111
+FTLN 2112
+FTLN 2113
+FTLN 2114
+5
+FTLN 2115
+FTLN 2116
+FTLN 2117
+FTLN 2118
+FTLN 2119
+10
+FTLN 2120
+FTLN 2121
+
+--- PAGE 88 / 94 ---
+175
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+SYLVIA
+They exit.
+VALENTINE
+Shouting and sounds of fighting.
+He steps aside.
+PROTEUS
+ Fear not; he bears an honorable mind
+ And will not use a woman lawlessly.
+ 
+ O Valentine, this I endure for thee!
+Enter Valentine.
+ 
+ How use doth breed a habit in a man!
+ This shadowy desert, unfrequented woods,
+ I better brook than flourishing peopled towns;
+ Here can I sit alone, unseen of any,
+ And to the nightingale’s complaining notes
+ Tune my distresses and record my woes.
+ O thou that dost inhabit in my breast,
+ Leave not the mansion so long tenantless
+ Lest, growing ruinous, the building fall
+ And leave no memory of what it was.
+ Repair me with thy presence, Sylvia;
+ Thou gentle nymph, cherish thy forlorn swain.
+ What hallowing and what stir is this today?
+ These are my mates, that make their wills their law,
+ Have some unhappy passenger in chase.
+ They love me well, yet I have much to do
+ To keep them from uncivil outrages.
+ Withdraw thee, Valentine. Who’s this comes here?
+Enter  Proteus, Sylvia, and  Julia, disguised as
+Sebastian.
+ 
+ Madam, this service I have done for you—
+FTLN 2122
+FTLN 2123
+FTLN 2124
+15
+Scene 4
+FTLN 2125
+FTLN 2126
+FTLN 2127
+FTLN 2128
+FTLN 2129
+5
+FTLN 2130
+FTLN 2131
+FTLN 2132
+FTLN 2133
+FTLN 2134
+10
+FTLN 2135
+FTLN 2136
+FTLN 2137
+FTLN 2138
+FTLN 2139
+15
+FTLN 2140
+FTLN 2141
+FTLN 2142
+FTLN 2143
+
+--- PAGE 89 / 94 ---
+177
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+VALENTINE
+SYLVIA
+PROTEUS
+SYLVIA
+JULIA
+SYLVIA
+PROTEUS
+SYLVIA
+ Though you respect not aught your servant doth—
+ To hazard life, and rescue you from him
+ That would have forced your honor and your love.
+ Vouchsafe me for my meed but one fair look;
+ A smaller boon than this I cannot beg,
+ And less than this I am sure you cannot give.
+, aside
+ 
+ How like a dream is this I see and hear!
+ Love, lend me patience to forbear awhile.
+ 
+ O miserable, unhappy that I am!
+ 
+ Unhappy were you, madam, ere I came,
+ But by my coming, I have made you happy.
+ 
+ By thy approach thou mak’st me most unhappy.
+, aside
+ 
+ And me, when he approacheth to your presence.
+ 
+ Had I been seizèd by a hungry lion,
+ I would have been a breakfast to the beast
+ Rather than have false Proteus rescue me.
+ O heaven, be judge how I love Valentine,
+ Whose life’s as tender to me as my soul;
+ And full as much, for more there cannot be,
+ I do detest false perjured Proteus.
+ Therefore begone; solicit me no more.
+ 
+ What dangerous action, stood it next to death,
+ Would I not undergo for one calm look!
+ O, ’tis the curse in love, and still approved,
+ When women cannot love where they’re beloved.
+ 
+ When Proteus cannot love where he’s beloved.
+ Read over Julia’s heart, thy first best love,
+ For whose dear sake thou didst then rend thy faith
+FTLN 2144
+20
+FTLN 2145
+FTLN 2146
+FTLN 2147
+FTLN 2148
+FTLN 2149
+25
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+FTLN 2154
+30
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+FTLN 2159
+35
+FTLN 2160
+FTLN 2161
+FTLN 2162
+FTLN 2163
+FTLN 2164
+40
+FTLN 2165
+FTLN 2166
+FTLN 2167
+FTLN 2168
+FTLN 2169
+45
+FTLN 2170
+FTLN 2171
+
+--- PAGE 90 / 94 ---
+179
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+PROTEUS
+SYLVIA
+PROTEUS
+He seizes her.
+SYLVIA
+PROTEUS
+VALENTINE
+PROTEUS
+VALENTINE
+ Into a thousand oaths; and all those oaths
+ Descended into perjury to love me.
+ Thou hast no faith left now unless thou ’dst two,
+ And that’s far worse than none; better have none
+ Than plural faith, which is too much by one.
+ Thou counterfeit to thy true friend!
+  
+ In love
+ Who respects friend?
+  
+ All men but Proteus.
+ 
+ Nay, if the gentle spirit of moving words
+ Can no way change you to a milder form,
+ I’ll woo you like a soldier, at arms’ end,
+ And love you ’gainst the nature of love—force you.
+ 
+ O, heaven!
+  
+ I’ll force thee yield to my desire.
+, advancing
+ 
+ Ruffian, let go that rude uncivil touch,
+ Thou friend of an ill fashion.
+  
+ Valentine!
+ 
+ Thou common friend, that’s without faith or love,
+ For such is a friend now. Treacherous man,
+ Thou hast beguiled my hopes; nought but mine eye
+ Could have persuaded me. Now I dare not say
+ I have one friend alive; thou wouldst disprove me.
+ Who should be trusted when one’s right hand
+ Is perjured to the bosom? Proteus,
+ I am sorry I must never trust thee more,
+ But count the world a stranger for thy sake.
+ The private wound is deepest. O, time most
+ accursed,
+ ’Mongst all foes that a friend should be the worst!
+FTLN 2172
+FTLN 2173
+FTLN 2174
+50
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+FTLN 2179
+55
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+FTLN 2184
+60
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+FTLN 2189
+65
+FTLN 2190
+FTLN 2191
+FTLN 2192
+FTLN 2193
+FTLN 2194
+70
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+FTLN 2199
+75
+FTLN 2200
+FTLN 2201
+
+--- PAGE 91 / 94 ---
+181
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+PROTEUS
+VALENTINE
+JULIA
+She swoons.
+PROTEUS
+VALENTINE
+JULIA
+PROTEUS
+JULIA
+She rises, and hands him a ring.
+PROTEUS
+JULIA
+She offers another ring.
+PROTEUS
+JULIA
+She reveals herself.
+  My shame and guilt confounds me.
+ Forgive me, Valentine. If hearty sorrow
+ Be a sufficient ransom for offense,
+ I tender ’t here. I do as truly suffer
+ As e’er I did commit.
+  
+ Then I am paid,
+ And once again I do receive thee honest.
+ Who by repentance is not satisfied
+ Is nor of heaven nor Earth, for these are pleased;
+ By penitence th’ Eternal’s wrath’s appeased.
+ And that my love may appear plain and free,
+ All that was mine in Sylvia I give thee.
+, aside
+ 
+ O me unhappy! 
+  
+ Look to the boy.
+  
+ Why, boy!
+ Why, wag, how now? What’s the matter? Look up.
+ Speak.
+, as Sebastian
+  O, good sir, my master charged
+ me to deliver a ring to Madam Sylvia, which out of
+ my neglect was never done.
+  Where is that ring, boy?
+, as Sebastian
+  Here ’tis; this is it.
+  How, let me see.
+ Why, this is the ring I gave to Julia.
+, as Sebastian
+ 
+ O, cry you mercy, sir, I have mistook.
+ This is the ring you sent to Sylvia.
+ 
+ But how cam’st thou by this ring? At my depart
+ I gave this unto Julia.
+ 
+ And Julia herself did give it me,
+ And Julia herself hath brought it hither.
+FTLN 2202
+FTLN 2203
+FTLN 2204
+80
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+FTLN 2209
+85
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+90
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+95
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+100
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+FTLN 2229
+105
+FTLN 2230
+FTLN 2231
+
+--- PAGE 92 / 94 ---
+183
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+PROTEUS
+JULIA
+PROTEUS
+VALENTINE
+Valentine joins the hands of Julia and Proteus.
+PROTEUS
+JULIA
+OUTLAWS
+VALENTINE
+The Outlaws release the Duke and Thurio.
+  How? Julia!
+ 
+ Behold her that gave aim to all thy oaths
+ And entertained ’em deeply in her heart.
+ How oft hast thou with perjury cleft the root!
+ O, Proteus, let this habit make thee blush.
+ Be thou ashamed that I have took upon me
+ Such an immodest raiment, if shame live
+ In a disguise of love.
+ It is the lesser blot, modesty finds,
+ Women to change their shapes than men their minds.
+ 
+ “Than men their minds”? ’Tis true. O heaven, were
+ man
+ But constant, he were perfect; that one error
+ Fills him with faults, makes him run through all th’
+ sins;
+ Inconstancy falls off ere it begins.
+ What is in Sylvia’s face but I may spy
+ More fresh in Julia’s, with a constant eye?
+, to Julia and Proteus
+  Come, come, a
+ hand from either.
+ Let me be blest to make this happy close.
+ ’Twere pity two such friends should be long foes.
+ 
+ Bear witness, heaven, I have my wish forever.
+ 
+ And I mine.
+Enter  Thurio, Duke, and  Outlaws.
+  
+ A prize, a prize, a prize!
+ 
+ Forbear, forbear, I say. It is my lord the Duke.
+ Your Grace is welcome to a man disgraced,
+ Banished Valentine.
+FTLN 2232
+FTLN 2233
+FTLN 2234
+110
+FTLN 2235
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+115
+FTLN 2240
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+120
+FTLN 2245
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+125
+FTLN 2250
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+130
+FTLN 2255
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+135
+
+--- PAGE 93 / 94 ---
+185
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+DUKE
+THURIO
+VALENTINE
+THURIO
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+ 
+ Sir Valentine?
+  
+ Yonder is Sylvia, and Sylvia’s mine.
+ 
+ Thurio, give back, or else embrace thy death;
+ Come not within the measure of my wrath.
+ Do not name Sylvia thine; if once again,
+ Verona shall not hold thee. Here she stands;
+ Take but possession of her with a touch—
+ I dare thee but to breathe upon my love!
+ 
+ Sir Valentine, I care not for her, I.
+ I hold him but a fool that will endanger
+ His body for a girl that loves him not.
+ I claim her not, and therefore she is thine.
+ 
+ The more degenerate and base art thou
+ To make such means for her as thou hast done,
+ And leave her on such slight conditions.—
+ Now, by the honor of my ancestry,
+ I do applaud thy spirit, Valentine,
+ And think thee worthy of an empress’ love.
+ Know, then, I here forget all former griefs,
+ Cancel all grudge, repeal thee home again,
+ Plead a new state in thy unrivaled merit,
+ To which I thus subscribe: Sir Valentine,
+ Thou art a gentleman, and well derived;
+ Take thou thy Sylvia, for thou hast deserved her.
+ 
+ I thank your Grace, the gift hath made me happy.
+ I now beseech you, for your daughter’s sake,
+ To grant one boon that I shall ask of you.
+ 
+ I grant it for thine own, whate’er it be.
+ 
+ These banished men, that I have kept withal,
+FTLN 2260
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+140
+FTLN 2265
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+145
+FTLN 2270
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+150
+FTLN 2275
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+155
+FTLN 2280
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+160
+FTLN 2285
+FTLN 2286
+FTLN 2287
+FTLN 2288
+
+--- PAGE 94 / 94 ---
+187
+The Two Gentlemen of Verona
+ACT 5. SC. 4
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+DUKE
+VALENTINE
+They exit.
+ Are men endued with worthy qualities.
+ Forgive them what they have committed here,
+ And let them be recalled from their exile;
+ They are reformèd, civil, full of good,
+ And fit for great employment, worthy lord.
+ 
+ Thou hast prevailed; I pardon them and thee.
+ Dispose of them as thou know’st their deserts.
+ Come, let us go; we will include all jars
+ With triumphs, mirth, and rare solemnity.
+ 
+ And as we walk along, I dare be bold
+ With our discourse to make your Grace to smile.
+  Pointing to Julia.  What think you of this page, my
+ lord?
+ 
+ I think the boy hath grace in him; he blushes.
+ 
+ I warrant you, my lord, more grace than boy.
+  What mean you by that saying?
+ 
+ Please you, I’ll tell you as we pass along,
+ That you will wonder what hath fortunèd.—
+ Come, Proteus, ’tis your penance but to hear
+ The story of your loves discoverèd.
+ That done, our day of marriage shall be yours,
+ One feast, one house, one mutual happiness.
+FTLN 2289
+165
+FTLN 2290
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+170
+FTLN 2295
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+175
+FTLN 2300
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+180
+FTLN 2305
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+185
+FTLN 2310
+

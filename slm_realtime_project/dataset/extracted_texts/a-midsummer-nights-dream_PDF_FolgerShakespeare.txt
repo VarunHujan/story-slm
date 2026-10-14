@@ -1,0 +1,6554 @@
+=== BOOK TITLE: a-midsummer-nights-dream_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 87 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 87 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+ACT 2
+Scene 1
+Scene 2
+ACT 3
+Scene 1
+Scene 2
+ACT 4
+Scene 1
+Scene 2
+ACT 5
+Scene 1
+Contents
+
+--- PAGE 3 / 87 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 87 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 87 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 87 ---
+In A Midsummer Night’s Dream, residents of Athens mix with fairies
+from a local forest, with comic results. In the city, Theseus, Duke of
+Athens, is to marry Hippolyta, queen of the Amazons. Bottom the
+weaver and his friends rehearse in the woods a play they hope to
+stage for the wedding celebrations.
+Four young Athenians are in a romantic tangle. Lysander and
+Demetrius love Hermia; she loves Lysander and her friend Helena
+loves Demetrius. Hermia’s father, Egeus, commands Hermia to
+marry Demetrius, and Theseus supports the father’s right. All four
+young Athenians end up in the woods, where Robin Goodfellow,
+who serves the fairy king Oberon, puts flower juice on the eyes of
+Lysander, and then Demetrius, unintentionally causing both to love
+Helena. Oberon, who is quarreling with his wife, Titania, uses the
+flower juice on her eyes. She falls in love with Bottom, who now,
+thanks to Robin Goodfellow, wears an ass’s head.
+As the lovers sleep, Robin Goodfellow restores Lysander’s love for
+Hermia, so that now each young woman is matched with the man
+she loves. Oberon disenchants Titania and removes Bottom’s ass’s
+head. The two young couples join the royal couple in getting
+married, and Bottom rejoins his friends to perform the play.
+Synopsis
+
+--- PAGE 7 / 87 ---
+THESEUS, duke of Athens
+HIPPOLYTA, queen of the Amazons
+EGEUS, father to Hermia
+PHILOSTRATE, master of the revels to Theseus
+NICK BOTTOM, weaver
+PETER QUINCE, carpenter
+FRANCIS FLUTE, bellows-mender
+TOM SNOUT, tinker
+SNUG, joiner
+ROBIN STARVELING, tailor
+OBERON, king of the Fairies
+TITANIA, queen of the Fairies
+ROBIN GOODFELLOW, a “puck,” or hobgoblin, in Oberon’s service
+A FAIRY, in the service of Titania
+Lords and Attendants on Theseus and Hippolyta
+Other Fairies in the trains of Titania and Oberon
+Characters in the Play
+four lovers
+HERMIA
+LYSANDER
+HELENA
+DEMETRIUS
+fairies attending upon Titania
+PEASEBLOSSOM
+COBWEB
+MOTE
+MUSTARDSEED
+
+--- PAGE 8 / 87 ---
+THESEUS
+HIPPOLYTA
+THESEUS
+Philostrate exits.
+Enter Theseus, Hippolyta, and Philostrate,  with others.
+ 
+ Now, fair Hippolyta, our nuptial hour
+ Draws on apace. Four happy days bring in
+ Another moon. But, O, methinks how slow
+ This old moon wanes!  She lingers my desires
+ Like to a stepdame or a dowager
+ Long withering out a young man’s revenue.
+ 
+ Four days will quickly steep themselves in night;
+ Four nights will quickly dream away the time;
+ And then the moon, like to a silver bow
+ New -bent in heaven, shall behold the night
+ Of our solemnities.
+  
+ Go, Philostrate,
+ Stir up the Athenian youth to merriments.
+ Awake the pert and nimble spirit of mirth.
+ Turn melancholy forth to funerals;
+ The pale companion is not for our pomp.
+ Hippolyta, I wooed thee with my sword
+ And won thy love doing thee injuries,
+ But I will wed thee in another key,
+ With pomp, with triumph, and with reveling.
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+
+--- PAGE 9 / 87 ---
+9
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+EGEUS
+THESEUS
+EGEUS
+THESEUS
+Enter Egeus and his daughter Hermia, and Lysander 
+ and Demetrius.
+ 
+ Happy be Theseus, our renownèd duke!
+ 
+ Thanks, good Egeus. What’s the news with thee?
+ 
+ Full of vexation come I, with complaint
+ Against my child, my daughter Hermia.—
+ Stand forth, Demetrius.—My noble lord,
+ This man hath my consent to marry her.—
+ Stand forth, Lysander.—And, my gracious duke,
+ This man hath bewitched the bosom of my child.—
+ Thou, thou, Lysander, thou hast given her rhymes
+ And interchanged love tokens with my child.
+ Thou hast by moonlight at her window sung
+ With feigning voice verses of feigning love
+ And stol’n the impression of her fantasy
+ With bracelets of thy hair, rings, gauds, conceits,
+ Knacks, trifles, nosegays, sweetmeats—messengers
+ Of strong prevailment in unhardened youth.
+ With cunning hast thou filched my daughter’s heart,
+ Turned her obedience (which is due to me)
+ To stubborn harshness.—And, my gracious duke,
+ Be it so she will not here before your Grace
+ Consent to marry with Demetrius,
+ I beg the ancient privilege of Athens:
+ As she is mine, I may dispose of her,
+ Which shall be either to this gentleman
+ Or to her death, according to our law
+ Immediately provided in that case.
+ 
+ What say you, Hermia? Be advised, fair maid.
+ To you, your father should be as a god,
+ One that composed your beauties, yea, and one
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+
+--- PAGE 10 / 87 ---
+11
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+HERMIA
+THESEUS
+HERMIA
+THESEUS
+HERMIA
+THESEUS
+ To whom you are but as a form in wax
+ By him imprinted, and within his power
+ To leave the figure or disfigure it.
+ Demetrius is a worthy gentleman.
+ 
+ So is Lysander.
+  
+ In himself he is,
+ But in this kind, wanting your father’s voice,
+ The other must be held the worthier.
+ 
+ I would my father looked but with my eyes.
+ 
+ Rather your eyes must with his judgment look.
+ 
+ I do entreat your Grace to pardon me.
+ I know not by what power I am made bold,
+ Nor how it may concern my modesty
+ In such a presence here to plead my thoughts;
+ But I beseech your Grace that I may know
+ The worst that may befall me in this case
+ If I refuse to wed Demetrius.
+ 
+ Either to die the death or to abjure
+ Forever the society of men.
+ Therefore, fair Hermia, question your desires,
+ Know of your youth, examine well your blood,
+ Whether (if you yield not to your father’s choice)
+ You can endure the livery of a nun,
+ For aye to be in shady cloister mewed,
+ To live a barren sister all your life,
+ Chanting faint hymns to the cold fruitless moon.
+ Thrice-blessèd they that master so their blood
+ To undergo such maiden pilgrimage,
+ But earthlier happy is the rose distilled
+ Than that which, withering on the virgin thorn,
+ Grows, lives, and dies in single blessedness.
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+
+--- PAGE 11 / 87 ---
+13
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+HERMIA
+THESEUS
+DEMETRIUS
+LYSANDER
+EGEUS
+LYSANDER
+ 
+ So will I grow, so live, so die, my lord,
+ Ere I will yield my virgin patent up
+ Unto his Lordship whose unwishèd yoke
+ My soul consents not to give sovereignty.
+ 
+ Take time to pause, and by the next new moon
+ (The sealing day betwixt my love and me
+ For everlasting bond of fellowship),
+ Upon that day either prepare to die
+ For disobedience to your father’s will,
+ Or else to wed Demetrius, as he would,
+ Or on Diana’s altar to protest
+ For aye austerity and single life.
+ 
+ Relent, sweet Hermia, and, Lysander, yield
+ Thy crazèd title to my certain right.
+ 
+ You have her father’s love, Demetrius.
+ Let me have Hermia’s. Do you marry him.
+ 
+ Scornful Lysander, true, he hath my love;
+ And what is mine my love shall render him.
+ And she is mine, and all my right of her
+ I do estate unto Demetrius.
+, to Theseus
+ 
+ I am, my lord, as well derived as he,
+ As well possessed. My love is more than his;
+ My fortunes every way as fairly ranked
+ (If not with vantage) as Demetrius’;
+ And (which is more than all these boasts can be)
+ I am beloved of beauteous Hermia.
+ Why should not I then prosecute my right?
+ Demetrius, I’ll avouch it to his head,
+ Made love to Nedar’s daughter, Helena,
+ And won her soul; and she, sweet lady, dotes,
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+
+--- PAGE 12 / 87 ---
+15
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+THESEUS
+EGEUS
+All but Hermia and Lysander  exit.
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+ Devoutly dotes, dotes in idolatry,
+ Upon this spotted and inconstant man.
+ 
+ I must confess that I have heard so much,
+ And with Demetrius thought to have spoke thereof;
+ But, being overfull of self-affairs,
+ My mind did lose it.—But, Demetrius, come,
+ And come, Egeus; you shall go with me.
+ I have some private schooling for you both.—
+ For you, fair Hermia, look you arm yourself
+ To fit your fancies to your father’s will,
+ Or else the law of Athens yields you up
+ (Which by no means we may extenuate)
+ To death or to a vow of single life.—
+ Come, my Hippolyta. What cheer, my love?—
+ Demetrius and Egeus, go along.
+ I must employ you in some business
+ Against our nuptial and confer with you
+ Of something nearly that concerns yourselves.
+ 
+ With duty and desire we follow you.
+ 
+ How now, my love? Why is your cheek so pale?
+ How chance the roses there do fade so fast?
+ 
+ Belike for want of rain, which I could well
+ Beteem them from the tempest of my eyes.
+ 
+ Ay me! For aught that I could ever read,
+ Could ever hear by tale or history,
+ The course of true love never did run smooth.
+ But either it was different in blood—
+ 
+ O cross! Too high to be enthralled to low.
+ 
+ Or else misgraffèd in respect of years—
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+
+--- PAGE 13 / 87 ---
+17
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+ 
+ O spite! Too old to be engaged to young.
+ 
+ Or else it stood upon the choice of friends—
+ 
+ O hell, to choose love by another’s eyes!
+ 
+ Or, if there were a sympathy in choice,
+ War, death, or sickness did lay siege to it,
+ Making it momentany as a sound,
+ Swift as a shadow, short as any dream,
+ Brief as the lightning in the collied night,
+ That, in a spleen, unfolds both heaven and Earth,
+ And, ere a man hath power to say “Behold!”
+ The jaws of darkness do devour it up.
+ So quick bright things come to confusion.
+ 
+ If then true lovers have been ever crossed,
+ It stands as an edict in destiny.
+ Then let us teach our trial patience
+ Because it is a customary cross,
+ As due to love as thoughts and dreams and sighs,
+ Wishes and tears, poor fancy’s followers.
+ 
+ A good persuasion. Therefore, hear me, Hermia:
+ I have a widow aunt, a dowager
+ Of great revenue, and she hath no child.
+ From Athens is her house remote seven leagues,
+ And she respects me as her only son.
+ There, gentle Hermia, may I marry thee;
+ And to that place the sharp Athenian law
+ Cannot pursue us. If thou lovest me, then
+ Steal forth thy father’s house tomorrow night,
+ And in the wood a league without the town
+ (Where I did meet thee once with Helena
+ To do observance to a morn of May),
+ There will I stay for thee.
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+
+--- PAGE 14 / 87 ---
+19
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+HERMIA
+LYSANDER
+HERMIA
+HELENA
+HERMIA
+HELENA
+  
+ My good Lysander,
+ I swear to thee by Cupid’s strongest bow,
+ By his best arrow with the golden head,
+ By the simplicity of Venus’ doves,
+ By that which knitteth souls and prospers loves,
+ And by that fire which burned the Carthage queen
+ When the false Trojan under sail was seen,
+ By all the vows that ever men have broke
+ (In number more than ever women spoke),
+ In that same place thou hast appointed me,
+ Tomorrow truly will I meet with thee.
+ 
+ Keep promise, love. Look, here comes Helena.
+Enter Helena.
+ 
+ Godspeed, fair Helena. Whither away?
+ 
+ Call you me “fair”? That “fair” again unsay.
+ Demetrius loves your fair. O happy fair!
+ Your eyes are lodestars and your tongue’s sweet air
+ More tunable than lark to shepherd’s ear
+ When wheat is green, when hawthorn buds appear.
+ Sickness is catching. O, were favor so!
+ Yours would  I catch, fair Hermia, ere I go.
+ My ear should catch your voice, my eye your eye;
+ My tongue should catch your tongue’s sweet
+ melody.
+ Were the world mine, Demetrius being bated,
+ The rest I’d  give to be to you translated.
+ O, teach me how you look and with what art
+ You sway the motion of Demetrius’ heart!
+ 
+ I frown upon him, yet he loves me still.
+ 
+ O, that your frowns would teach my smiles such
+ skill!
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+190
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+195
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+200
+
+--- PAGE 15 / 87 ---
+21
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+HERMIA
+HELENA
+HERMIA
+HELENA
+HERMIA
+HELENA
+HERMIA
+LYSANDER
+HERMIA
+ 
+ I give him curses, yet he gives me love.
+ 
+ O, that my prayers could such affection move!
+ 
+ The more I hate, the more he follows me.
+ 
+ The more I love, the more he hateth me.
+ 
+ His folly, Helena, is no fault of mine.
+ 
+ None but your beauty. Would that fault were mine!
+ 
+ Take comfort: he no more shall see my face.
+ Lysander and myself will fly this place.
+ Before the time I did Lysander see
+ Seemed Athens as a paradise to me.
+ O, then, what graces in my love do dwell
+ That he hath turned a heaven unto a hell!
+ 
+ Helen, to you our minds we will unfold.
+ Tomorrow night when Phoebe doth behold
+ Her silver visage in the wat’ry glass,
+ Decking with liquid pearl the bladed grass
+ (A time that lovers’ flights doth still conceal),
+ Through Athens’ gates have we devised to steal.
+ 
+ And in the wood where often you and I
+ Upon faint primrose beds were wont to lie,
+ Emptying our bosoms of their counsel sweet,
+ There my Lysander and myself shall meet
+ And thence from Athens turn away our eyes
+ To seek new friends and stranger companies.
+ Farewell, sweet playfellow. Pray thou for us,
+ And good luck grant thee thy Demetrius.—
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+220
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+225
+FTLN 0226
+
+--- PAGE 16 / 87 ---
+23
+A Midsummer Night’s Dream
+ACT 1. SC. 1
+LYSANDER
+Hermia exits.
+Lysander exits.
+HELENA
+She exits.
+ Keep word, Lysander. We must starve our sight
+ From lovers’ food till morrow deep midnight.
+ 
+ I will, my Hermia. 
+ Helena, adieu.
+ As you on him, Demetrius dote on you!
+ 
+ How happy some o’er other some can be!
+ Through Athens I am thought as fair as she.
+ But what of that? Demetrius thinks not so.
+ He will not know what all but he do know.
+ And, as he errs, doting on Hermia’s eyes,
+ So I, admiring of his qualities.
+ Things base and vile, holding no quantity,
+ Love can transpose to form and dignity.
+ Love looks not with the eyes but with the mind;
+ And therefore is winged Cupid painted blind.
+ Nor hath Love’s mind of any judgment taste.
+ Wings, and no eyes, figure unheedy haste.
+ And therefore is Love said to be a child
+ Because in choice he is so oft beguiled.
+ As waggish boys in game themselves forswear,
+ So the boy Love is perjured everywhere.
+ For, ere Demetrius looked on Hermia’s eyne,
+ He hailed down oaths that he was only mine;
+ And when this hail some heat from Hermia felt,
+ So he dissolved, and show’rs of oaths did melt.
+ I will go tell him of fair Hermia’s flight.
+ Then to the wood will he tomorrow night
+ Pursue her. And, for this intelligence
+ If I have thanks, it is a dear expense.
+ But herein mean I to enrich my pain,
+ To have his sight thither and back again.
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+230
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+245
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+250
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+255
+FTLN 0256
+FTLN 0257
+
+--- PAGE 17 / 87 ---
+25
+A Midsummer Night’s Dream
+ACT 1. SC. 2
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+Enter Quince the carpenter, and Snug the joiner, and
+Bottom the weaver, and Flute the bellows-mender, and
+Snout the tinker, and Starveling the tailor.
+  Is all our company here?
+  You were best to call them generally, man by
+ man, according to the scrip.
+  Here is the scroll of every man’s name which
+ is thought fit, through all Athens, to play in our
+ interlude before the Duke and the Duchess on his
+ wedding day at night.
+  First, good Peter Quince, say what the play
+ treats on, then read the names of the actors, and so
+ grow to a point.
+  Marry, our play is “The most lamentable
+ comedy and most cruel death of Pyramus and
+ Thisbe.”
+  A very good piece of work, I assure you, and a
+ merry. Now, good Peter Quince, call forth your
+ actors by the scroll. Masters, spread yourselves.
+  Answer as I call you. Nick Bottom, the weaver.
+  Ready. Name what part I am for, and
+ proceed.
+  You, Nick Bottom, are set down for Pyramus.
+  What is Pyramus—a lover or a tyrant?
+  A lover that kills himself most gallant for love.
+  That will ask some tears in the true performing
+ of it. If I do it, let the audience look to their
+ eyes. I will move storms; I will condole in some
+ measure. To the rest.—Yet my chief humor is for a
+ tyrant. I could play Ercles rarely, or a part to tear a
+ cat in, to make all split:
+ The raging rocks
+ And shivering shocks
+ Shall break the locks
+Scene 2
+FTLN 0258
+FTLN 0259
+FTLN 0260
+FTLN 0261
+FTLN 0262
+5
+FTLN 0263
+FTLN 0264
+FTLN 0265
+FTLN 0266
+FTLN 0267
+10
+FTLN 0268
+FTLN 0269
+FTLN 0270
+FTLN 0271
+FTLN 0272
+15
+FTLN 0273
+FTLN 0274
+FTLN 0275
+FTLN 0276
+FTLN 0277
+20
+FTLN 0278
+FTLN 0279
+FTLN 0280
+FTLN 0281
+FTLN 0282
+25
+FTLN 0283
+FTLN 0284
+FTLN 0285
+FTLN 0286
+FTLN 0287
+30
+FTLN 0288
+
+--- PAGE 18 / 87 ---
+27
+A Midsummer Night’s Dream
+ACT 1. SC. 2
+QUINCE
+FLUTE
+QUINCE
+FLUTE
+QUINCE
+FLUTE
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+STARVELING
+QUINCE
+SNOUT
+QUINCE
+SNUG
+QUINCE
+ 
+ Of prison gates.
+ And Phibbus’ car
+ Shall shine from far
+ And make and mar
+ 
+ The foolish Fates.
+ This was lofty. Now name the rest of the players.
+ This is Ercles’ vein, a tyrant’s vein. A lover is more
+ condoling.
+  Francis Flute, the bellows-mender.
+  Here, Peter Quince.
+  Flute, you must take Thisbe on you.
+  What is Thisbe—a wand’ring knight?
+  It is the lady that Pyramus must love.
+  Nay, faith, let not me play a woman. I have a
+ beard coming.
+  That’s all one. You shall play it in a mask, and
+ you may speak as small as you will.
+  An I may hide my face, let me play Thisbe too.
+ I’ll speak in a monstrous little voice: “Thisne,
+ Thisne!”—“Ah Pyramus, my lover dear! Thy Thisbe
+ dear and lady dear!”
+  No, no, you must play Pyramus—and, Flute,
+ you Thisbe.
+  Well, proceed.
+  Robin Starveling, the tailor.
+  Here, Peter Quince.
+  Robin Starveling, you must play Thisbe’s
+ mother.—Tom Snout, the tinker.
+  Here, Peter Quince.
+  You, Pyramus’ father.—Myself, Thisbe’s
+ father.—Snug the joiner, you the lion’s part.—
+ And I hope here is a play fitted.
+  Have you the lion’s part written? Pray you, if it
+ be, give it me, for I am slow of study.
+  You may do it extempore, for it is nothing but
+ roaring.
+FTLN 0289
+FTLN 0290
+FTLN 0291
+FTLN 0292
+35
+FTLN 0293
+FTLN 0294
+FTLN 0295
+FTLN 0296
+FTLN 0297
+40
+FTLN 0298
+FTLN 0299
+FTLN 0300
+FTLN 0301
+FTLN 0302
+45
+FTLN 0303
+FTLN 0304
+FTLN 0305
+FTLN 0306
+FTLN 0307
+50
+FTLN 0308
+FTLN 0309
+FTLN 0310
+FTLN 0311
+FTLN 0312
+55
+FTLN 0313
+FTLN 0314
+FTLN 0315
+FTLN 0316
+FTLN 0317
+60
+FTLN 0318
+FTLN 0319
+FTLN 0320
+FTLN 0321
+FTLN 0322
+65
+FTLN 0323
+FTLN 0324
+
+--- PAGE 19 / 87 ---
+29
+A Midsummer Night’s Dream
+ACT 1. SC. 2
+BOTTOM
+QUINCE
+ALL
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+  Let me play the lion too. I will roar that I will
+ do any man’s heart good to hear me. I will roar that
+ I will make the Duke say “Let him roar again. Let
+ him roar again!”
+  An you should do it too terribly, you would
+ fright the Duchess and the ladies that they would
+ shriek, and that were enough to hang us all.
+  That would hang us, every mother’s son.
+  I grant you, friends, if you should fright the
+ ladies out of their wits, they would have no more
+ discretion but to hang us. But I will aggravate my
+ voice so that I will roar you as gently as any sucking
+ dove. I will roar you an ’twere any nightingale.
+  You can play no part but Pyramus, for Pyramus
+ is a sweet-faced man, a proper man as one
+ shall see in a summer’s day, a most lovely gentlemanlike
+ man. Therefore you must needs play 
+ Pyramus.
+  Well, I will undertake it. What beard were I
+ best to play it in?
+  Why, what you will.
+  I will discharge it in either your straw-color
+ beard, your orange-tawny beard, your purple-in-grain
+ beard, or your French-crown-color beard,
+ your perfit yellow.
+  Some of your French crowns have no hair at
+ all, and then you will play barefaced. But, masters,
+ here are your parts,  giving out the parts,  and I am
+ to entreat you, request you, and desire you to con
+ them by tomorrow night and meet me in the palace
+ wood, a mile without the town, by moonlight. There
+ will we rehearse, for if we meet in the city, we shall
+ be dogged with company and our devices known. In
+ the meantime I will draw a bill of properties such as
+ our play wants. I pray you fail me not.
+  We will meet, and there we may rehearse
+FTLN 0325
+FTLN 0326
+FTLN 0327
+70
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+FTLN 0332
+75
+FTLN 0333
+FTLN 0334
+FTLN 0335
+FTLN 0336
+FTLN 0337
+80
+FTLN 0338
+FTLN 0339
+FTLN 0340
+FTLN 0341
+FTLN 0342
+85
+FTLN 0343
+FTLN 0344
+FTLN 0345
+FTLN 0346
+FTLN 0347
+90
+FTLN 0348
+FTLN 0349
+FTLN 0350
+FTLN 0351
+FTLN 0352
+95
+FTLN 0353
+FTLN 0354
+FTLN 0355
+FTLN 0356
+FTLN 0357
+100
+FTLN 0358
+FTLN 0359
+FTLN 0360
+
+--- PAGE 20 / 87 ---
+31
+A Midsummer Night’s Dream
+ACT 1. SC. 2
+QUINCE
+BOTTOM
+They exit.
+ most obscenely and courageously. Take pains. Be
+ perfit. Adieu.
+  At the Duke’s Oak we meet.
+  Enough. Hold or cut bowstrings.
+FTLN 0361
+FTLN 0362
+105
+FTLN 0363
+FTLN 0364
+
+--- PAGE 21 / 87 ---
+ROBIN
+FAIRY
+ROBIN
+Enter a Fairy at one door and Robin Goodfellow at
+another.
+ 
+ How now, spirit? Whither wander you?
+ 
+ Over hill, over dale,
+  Thorough bush, thorough brier,
+ Over park, over pale,
+  Thorough flood, thorough fire;
+ I do wander everywhere,
+ Swifter than the moon’s sphere.
+ And I serve the Fairy Queen,
+ To dew her orbs upon the green.
+ The cowslips tall her pensioners be;
+ In their gold coats spots you see;
+ Those be rubies, fairy favors;
+ In those freckles live their savors.
+ I must go seek some dewdrops here
+ And hang a pearl in every cowslip’s ear.
+ Farewell, thou lob of spirits. I’ll be gone.
+ Our queen and all her elves come here anon.
+ 
+ The King doth keep his revels here tonight.
+ Take heed the Queen come not within his sight,
+35
+ACT 2
+Scene 1
+FTLN 0365
+FTLN 0366
+FTLN 0367
+FTLN 0368
+FTLN 0369
+5
+FTLN 0370
+FTLN 0371
+FTLN 0372
+FTLN 0373
+FTLN 0374
+10
+FTLN 0375
+FTLN 0376
+FTLN 0377
+FTLN 0378
+FTLN 0379
+15
+FTLN 0380
+FTLN 0381
+FTLN 0382
+FTLN 0383
+
+--- PAGE 22 / 87 ---
+37
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+FAIRY
+ROBIN
+ For Oberon is passing fell and wrath
+ Because that she, as her attendant, hath
+ A lovely boy stolen from an Indian king;
+ She never had so sweet a changeling.
+ And jealous Oberon would have the child
+ Knight of his train, to trace the forests wild.
+ But she perforce withholds the lovèd boy,
+ Crowns him with flowers and makes him all her
+ joy.
+ And now they never meet in grove or green,
+ By fountain clear or spangled starlight sheen,
+ But they do square, that all their elves for fear
+ Creep into acorn cups and hide them there.
+ 
+ Either I mistake your shape and making quite,
+ Or else you are that shrewd and knavish sprite
+ Called Robin Goodfellow. Are not you he
+ That frights the maidens of the villagery,
+ Skim milk, and sometimes labor in the quern
+ And bootless make the breathless huswife churn,
+ And sometime make the drink to bear no barm,
+ Mislead night wanderers, laughing at their harm?
+ Those that “Hobgoblin” call you and “sweet Puck,”
+ You do their work, and they shall have good luck.
+ Are not you he?
+  
+ Thou speakest aright.
+ I am that merry wanderer of the night.
+ I jest to Oberon and make him smile
+ When I a fat and bean-fed horse beguile,
+ Neighing in likeness of a filly foal.
+ And sometime lurk I in a gossip’s bowl
+ In very likeness of a roasted crab,
+ And, when she drinks, against her lips I bob
+ And on her withered dewlap pour the ale.
+ The wisest aunt, telling the saddest tale,
+ Sometime for three-foot stool mistaketh me;
+FTLN 0384
+20
+FTLN 0385
+FTLN 0386
+FTLN 0387
+FTLN 0388
+FTLN 0389
+25
+FTLN 0390
+FTLN 0391
+FTLN 0392
+FTLN 0393
+FTLN 0394
+30
+FTLN 0395
+FTLN 0396
+FTLN 0397
+FTLN 0398
+FTLN 0399
+35
+FTLN 0400
+FTLN 0401
+FTLN 0402
+FTLN 0403
+FTLN 0404
+40
+FTLN 0405
+FTLN 0406
+FTLN 0407
+FTLN 0408
+FTLN 0409
+45
+FTLN 0410
+FTLN 0411
+FTLN 0412
+FTLN 0413
+FTLN 0414
+50
+FTLN 0415
+FTLN 0416
+FTLN 0417
+FTLN 0418
+
+--- PAGE 23 / 87 ---
+39
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+FAIRY
+OBERON
+TITANIA
+OBERON
+TITANIA
+OBERON
+ Then slip I from her bum, down topples she
+ And “Tailor!” cries and falls into a cough,
+ And then the whole choir hold their hips and loffe
+ And waxen in their mirth and neeze and swear
+ A merrier hour was never wasted there.
+ But room, fairy. Here comes Oberon.
+ 
+ And here my mistress. Would that he were gone!
+Enter Oberon  the King of Fairies at one door, with his
+train, and Titania  the Queen at another, with hers.
+ 
+ Ill met by moonlight, proud Titania.
+ 
+ What, jealous Oberon? Fairies,  skip hence.
+ I have forsworn his bed and company.
+ 
+ Tarry, rash wanton. Am not I thy lord?
+ 
+ Then I must be thy lady. But I know
+ When thou hast stolen away from Fairyland
+ And in the shape of Corin sat all day
+ Playing on pipes of corn and versing love
+ To amorous Phillida. Why art thou here,
+ Come from the farthest steep of India,
+ But that, forsooth, the bouncing Amazon,
+ Your buskined mistress and your warrior love,
+ To Theseus must be wedded, and you come
+ To give their bed joy and prosperity?
+ 
+ How canst thou thus for shame, Titania,
+ Glance at my credit with Hippolyta,
+ Knowing I know thy love to Theseus?
+ Didst not thou lead him through the glimmering
+ night
+ From Perigouna,  whom he ravishèd,
+FTLN 0419
+55
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+FTLN 0424
+60
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+65
+FTLN 0430
+FTLN 0431
+FTLN 0432
+FTLN 0433
+FTLN 0434
+70
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+75
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+FTLN 0444
+80
+FTLN 0445
+
+--- PAGE 24 / 87 ---
+41
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+TITANIA
+ And make him with fair Aegles  break his faith,
+ With Ariadne and Antiopa?
+ 
+ These are the forgeries of jealousy;
+ And never, since the middle summer’s spring,
+ Met we on hill, in dale, forest, or mead,
+ By pavèd fountain or by rushy brook,
+ Or in the beachèd margent of the sea,
+ To dance our ringlets to the whistling wind,
+ But with thy brawls thou hast disturbed our sport.
+ Therefore the winds, piping to us in vain,
+ As in revenge have sucked up from the sea
+ Contagious fogs, which, falling in the land,
+ Hath every pelting river made so proud
+ That they have overborne their continents.
+ The ox hath therefore stretched his yoke in vain,
+ The plowman lost his sweat, and the green corn
+ Hath rotted ere his youth attained a beard.
+ The fold stands empty in the drownèd field,
+ And crows are fatted with the murrain flock.
+ The nine-men’s-morris is filled up with mud,
+ And the quaint mazes in the wanton green,
+ For lack of tread, are undistinguishable.
+ The human mortals want their winter here.
+ No night is now with hymn or carol blessed.
+ Therefore the moon, the governess of floods,
+ Pale in her anger, washes all the air,
+ That rheumatic diseases do abound.
+ And thorough this distemperature we see
+ The seasons alter: hoary-headed frosts
+ Fall in the fresh lap of the crimson rose,
+ And on old Hiems’ thin  and icy crown
+ An odorous chaplet of sweet summer buds
+ Is, as in mockery, set. The spring, the summer,
+ The childing autumn, angry winter, change
+ Their wonted liveries, and the mazèd world
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+85
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+90
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+95
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+FTLN 0464
+100
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+105
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+FTLN 0474
+110
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+115
+FTLN 0480
+
+--- PAGE 25 / 87 ---
+43
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+OBERON
+TITANIA
+OBERON
+TITANIA
+OBERON
+ By their increase now knows not which is which.
+ And this same progeny of evils comes
+ From our debate, from our dissension;
+ We are their parents and original.
+ 
+ Do you amend it, then. It lies in you.
+ Why should Titania cross her Oberon?
+ I do but beg a little changeling boy
+ To be my henchman.
+  
+ Set your heart at rest:
+ The Fairyland buys not the child of me.
+ His mother was a vot’ress of my order,
+ And in the spicèd Indian air by night
+ Full often hath she gossiped by my side
+ And sat with me on Neptune’s yellow sands,
+ Marking th’ embarkèd traders on the flood,
+ When we have laughed to see the sails conceive
+ And grow big-bellied with the wanton wind;
+ Which she, with pretty and with swimming gait,
+ Following (her womb then rich with my young
+ squire),
+ Would imitate and sail upon the land
+ To fetch me trifles and return again,
+ As from a voyage, rich with merchandise.
+ But she, being mortal, of that boy did die,
+ And for her sake do I rear up her boy,
+ And for her sake I will not part with him.
+ 
+ How long within this wood intend you stay?
+ 
+ Perchance till after Theseus’ wedding day.
+ If you will patiently dance in our round
+ And see our moonlight revels, go with us.
+ If not, shun me, and I will spare your haunts.
+ 
+ Give me that boy and I will go with thee.
+FTLN 0481
+FTLN 0482
+FTLN 0483
+FTLN 0484
+120
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+125
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+130
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+FTLN 0499
+135
+FTLN 0500
+FTLN 0501
+FTLN 0502
+FTLN 0503
+FTLN 0504
+140
+FTLN 0505
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+145
+FTLN 0510
+FTLN 0511
+FTLN 0512
+
+--- PAGE 26 / 87 ---
+45
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+TITANIA
+Titania and her fairies  exit.
+OBERON
+ROBIN
+OBERON
+ 
+ Not for thy fairy kingdom. Fairies, away.
+ We shall chide downright if I longer stay.
+ 
+ Well, go thy way. Thou shalt not from this grove
+ Till I torment thee for this injury.—
+ My gentle Puck, come hither. Thou rememb’rest
+ Since once I sat upon a promontory
+ And heard a mermaid on a dolphin’s back
+ Uttering such dulcet and harmonious breath
+ That the rude sea grew civil at her song
+ And certain stars shot madly from their spheres
+ To hear the sea-maid’s music.
+  
+ I remember.
+ 
+ That very time I saw (but thou couldst not),
+ Flying between the cold moon and the Earth,
+ Cupid all armed. A certain aim he took
+ At a fair vestal thronèd by the  west,
+ And loosed his love-shaft smartly from his bow
+ As it should pierce a hundred thousand hearts.
+ But I might see young Cupid’s fiery shaft
+ Quenched in the chaste beams of the wat’ry moon,
+ And the imperial vot’ress passèd on
+ In maiden meditation, fancy-free.
+ Yet marked I where the bolt of Cupid fell.
+ It fell upon a little western flower,
+ Before, milk-white, now purple with love’s wound,
+ And maidens call it “love-in-idleness.”
+ Fetch me that flower; the herb I showed thee once.
+ The juice of it on sleeping eyelids laid
+ Will make or man or woman madly dote
+ Upon the next live creature that it sees.
+ Fetch me this herb, and be thou here again
+ Ere the leviathan can swim a league.
+FTLN 0513
+FTLN 0514
+150
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+FTLN 0519
+155
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+160
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+165
+FTLN 0530
+FTLN 0531
+FTLN 0532
+FTLN 0533
+FTLN 0534
+170
+FTLN 0535
+FTLN 0536
+FTLN 0537
+FTLN 0538
+FTLN 0539
+175
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+FTLN 0544
+180
+
+--- PAGE 27 / 87 ---
+47
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+ROBIN
+He exits.
+OBERON
+DEMETRIUS
+HELENA
+DEMETRIUS
+HELENA
+ 
+ I’ll put a girdle round about the Earth
+ In forty minutes. 
+  
+ Having once this juice,
+ I’ll watch Titania when she is asleep
+ And drop the liquor of it in her eyes.
+ The next thing then she, waking, looks upon
+ (Be it on lion, bear, or wolf, or bull,
+ On meddling monkey, or on busy ape)
+ She shall pursue it with the soul of love.
+ And ere I take this charm from off her sight
+ (As I can take it with another herb),
+ I’ll make her render up her page to me.
+ But who comes here? I am invisible,
+ And I will overhear their conference.
+Enter Demetrius, Helena following him.
+ 
+ I love thee not; therefore pursue me not.
+ Where is Lysander and fair Hermia?
+ The one I’ll stay; the other stayeth me.
+ Thou told’st me they were stol’n unto this wood,
+ And here am I, and wood within this wood
+ Because I cannot meet my Hermia.
+ Hence, get thee gone, and follow me no more.
+ 
+ You draw me, you hard-hearted adamant!
+ But yet you draw not iron, for my heart
+ Is true as steel. Leave you your power to draw,
+ And I shall have no power to follow you.
+ 
+ Do I entice you? Do I speak you fair?
+ Or rather do I not in plainest truth
+ Tell you I do not, nor  I cannot love you?
+ 
+ And even for that do I love you the more.
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+FTLN 0549
+185
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+FTLN 0554
+190
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+195
+FTLN 0560
+FTLN 0561
+FTLN 0562
+FTLN 0563
+FTLN 0564
+200
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+205
+FTLN 0570
+FTLN 0571
+FTLN 0572
+FTLN 0573
+
+--- PAGE 28 / 87 ---
+49
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+DEMETRIUS
+HELENA
+DEMETRIUS
+HELENA
+DEMETRIUS
+HELENA
+ I am your spaniel, and, Demetrius,
+ The more you beat me I will fawn on you.
+ Use me but as your spaniel: spurn me, strike me,
+ Neglect me, lose me; only give me leave
+ (Unworthy as I am) to follow you.
+ What worser place can I beg in your love
+ (And yet a place of high respect with me)
+ Than to be usèd as you use your dog?
+ 
+ Tempt not too much the hatred of my spirit,
+ For I am sick when I do look on thee.
+ 
+ And I am sick when I look not on you.
+ 
+ You do impeach your modesty too much
+ To leave the city and commit yourself
+ Into the hands of one that loves you not,
+ To trust the opportunity of night
+ And the ill counsel of a desert place
+ With the rich worth of your virginity.
+ 
+ Your virtue is my privilege. For that
+ It is not night when I do see your face,
+ Therefore I think I am not in the night.
+ Nor doth this wood lack worlds of company,
+ For you, in my respect, are all the world.
+ Then, how can it be said I am alone
+ When all the world is here to look on me?
+ 
+ I’ll run from thee and hide me in the brakes
+ And leave thee to the mercy of wild beasts.
+ 
+ The wildest hath not such a heart as you.
+ Run when you will. The story shall be changed:
+ Apollo flies and Daphne holds the chase;
+ The dove pursues the griffin; the mild hind
+FTLN 0574
+210
+FTLN 0575
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+215
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+220
+FTLN 0585
+FTLN 0586
+FTLN 0587
+FTLN 0588
+FTLN 0589
+225
+FTLN 0590
+FTLN 0591
+FTLN 0592
+FTLN 0593
+FTLN 0594
+230
+FTLN 0595
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+235
+FTLN 0600
+FTLN 0601
+FTLN 0602
+FTLN 0603
+
+--- PAGE 29 / 87 ---
+51
+A Midsummer Night’s Dream
+ACT 2. SC. 1
+DEMETRIUS
+HELENA
+Demetrius exits.
+Helena exits.
+OBERON
+ROBIN
+OBERON
+Robin gives him the flower.
+ Makes speed to catch the tiger. Bootless speed
+ When cowardice pursues and valor flies!
+ 
+ I will not stay thy questions. Let me go,
+ Or if thou follow me, do not believe
+ But I shall do thee mischief in the wood.
+ 
+ Ay, in the temple, in the town, the field,
+ You do me mischief. Fie, Demetrius!
+ Your wrongs do set a scandal on my sex.
+ We cannot fight for love as men may do.
+ We should be wooed and were not made to woo.
+ I’ll follow thee and make a heaven of hell
+ To die upon the hand I love so well. 
+ 
+ Fare thee well, nymph. Ere he do leave this grove,
+ Thou shalt fly him, and he shall seek thy love.
+Enter Robin.
+ Hast thou the flower there? Welcome, wanderer.
+ 
+ Ay, there it is.
+  
+ I pray thee give it me.
+ I know a bank where the wild thyme blows,
+ Where oxlips and the nodding violet grows,
+ Quite overcanopied with luscious woodbine,
+ With sweet muskroses, and with eglantine.
+ There sleeps Titania sometime of the night,
+ Lulled in these flowers with dances and delight.
+ And there the snake throws her enameled skin,
+ Weed wide enough to wrap a fairy in.
+ And with the juice of this I’ll streak her eyes
+ And make her full of hateful fantasies.
+ Take thou some of it, and seek through this grove.
+FTLN 0604
+240
+FTLN 0605
+FTLN 0606
+FTLN 0607
+FTLN 0608
+FTLN 0609
+245
+FTLN 0610
+FTLN 0611
+FTLN 0612
+FTLN 0613
+FTLN 0614
+250
+FTLN 0615
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+255
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+260
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+265
+FTLN 0630
+FTLN 0631
+
+--- PAGE 30 / 87 ---
+53
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+He gives Robin part of the flower.
+ROBIN
+They exit.
+TITANIA
+She lies down.
+FIRST FAIRY
+CHORUS
+ A sweet Athenian lady is in love
+ With a disdainful youth. Anoint his eyes,
+ But do it when the next thing he espies
+ May be the lady. Thou shalt know the man
+ By the Athenian garments he hath on.
+ Effect it with some care, that he may prove
+ More fond on her than she upon her love.
+ And look thou meet me ere the first cock crow.
+ 
+ Fear not, my lord. Your servant shall do so.
+Enter Titania, Queen of Fairies, with her train.
+ 
+ Come, now a roundel and a fairy song;
+ Then, for the third part of a minute, hence—
+ Some to kill cankers in the muskrose buds,
+ Some war with reremice for their leathern wings
+ To make my small elves coats, and some keep back
+ The clamorous owl that nightly hoots and wonders
+ At our quaint spirits. Sing me now asleep.
+ Then to your offices and let me rest. 
+Fairies sing.
+ 
+ You spotted snakes with double tongue,
+  Thorny hedgehogs, be not seen.
+ Newts and blindworms, do no wrong,
+  Come not near our Fairy Queen.
+ 
+  Philomel, with melody
+  Sing in our sweet lullaby.
+FTLN 0632
+FTLN 0633
+FTLN 0634
+270
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+275
+FTLN 0640
+Scene 2
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+FTLN 0645
+5
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+FTLN 0650
+10
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+
+--- PAGE 31 / 87 ---
+55
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+FIRST FAIRY
+CHORUS
+Titania sleeps.
+SECOND FAIRY
+ Fairies exit.
+OBERON
+He exits.
+ Lulla, lulla, lullaby, lulla, lulla, lullaby.
+  Never harm
+  Nor spell nor charm
+ Come our lovely lady nigh.
+ So good night, with lullaby.
+ 
+ Weaving spiders, come not here.
+  Hence, you long-legged spinners, hence.
+ Beetles black, approach not near.
+  Worm nor snail, do no offence.
+ 
+  Philomel, with melody
+  Sing in our sweet lullaby.
+ Lulla, lulla, lullaby, lulla, lulla, lullaby.
+  Never harm
+  Nor spell nor charm
+ Come our lovely lady nigh.
+ So good night, with lullaby.
+ 
+ Hence, away! Now all is well.
+ One aloof stand sentinel. 
+Enter Oberon, who anoints Titania’s eyelids with the
+nectar.
+ 
+ What thou seest when thou dost wake
+ Do it for thy true love take.
+ Love and languish for his sake.
+ Be it ounce, or cat, or bear,
+ Pard, or boar with bristled hair,
+ In thy eye that shall appear
+ When thou wak’st, it is thy dear.
+ Wake when some vile thing is near. 
+Enter Lysander and Hermia.
+FTLN 0655
+15
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+FTLN 0660
+20
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+FTLN 0665
+25
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+FTLN 0670
+30
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+FTLN 0675
+35
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+FTLN 0680
+40
+
+--- PAGE 32 / 87 ---
+57
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+ 
+ Fair love, you faint with wand’ring in the wood.
+  And, to speak troth, I have forgot our way.
+ We’ll rest us, Hermia, if you think it good,
+  And tarry for the comfort of the day.
+ 
+ Be  it so, Lysander. Find you out a bed,
+ For I upon this bank will rest my head.
+ 
+ One turf shall serve as pillow for us both;
+ One heart, one bed, two bosoms, and one troth.
+ 
+ Nay, good Lysander. For my sake, my dear,
+ Lie further off yet. Do not lie so near.
+ 
+ O, take the sense, sweet, of my innocence!
+ Love takes the meaning in love’s conference.
+ I mean that my heart unto yours is  knit,
+ So that but one heart we can make of it;
+ Two bosoms interchainèd with an oath—
+ So then two bosoms and a single troth.
+ Then by your side no bed-room me deny,
+ For lying so, Hermia, I do not lie.
+ 
+ Lysander riddles very prettily.
+ Now much beshrew my manners and my pride
+ If Hermia meant to say Lysander lied.
+ But, gentle friend, for love and courtesy,
+ Lie further off in human modesty.
+ Such separation, as may well be said,
+ Becomes a virtuous bachelor and a maid.
+ So far be distant; and good night, sweet friend.
+ Thy love ne’er alter till thy sweet life end!
+ 
+ “Amen, amen” to that fair prayer, say I,
+ And then end life when I end loyalty!
+ Here is my bed. Sleep give thee all his rest!
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+FTLN 0685
+45
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+FTLN 0690
+50
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+FTLN 0695
+55
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+FTLN 0700
+60
+FTLN 0701
+FTLN 0702
+FTLN 0703
+FTLN 0704
+FTLN 0705
+65
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+FTLN 0710
+70
+
+--- PAGE 33 / 87 ---
+59
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+HERMIA
+They sleep.
+ROBIN
+He sees Lysander.
+He anoints Lysander’s eyelids
+with the nectar.
+He exits.
+HELENA
+DEMETRIUS
+HELENA
+ 
+ With half that wish the wisher’s eyes be pressed!
+Enter Robin.
+ 
+ Through the forest have I gone,
+ But Athenian found I none
+ On whose eyes I might approve
+ This flower’s force in stirring love.
+ Night and silence! Who is here?
+ Weeds of Athens he doth wear.
+ This is he my master said
+ Despisèd the Athenian maid.
+ And here the maiden, sleeping sound
+ On the dank and dirty ground.
+ Pretty soul, she durst not lie
+ Near this lack-love, this kill-courtesy.—
+ Churl, upon thy eyes I throw
+ All the power this charm doth owe.
+ When thou wak’st, let love forbid
+ Sleep his seat on thy eyelid.
+ So, awake when I am gone,
+ For I must now to Oberon. 
+Enter Demetrius and Helena, running.
+ 
+ Stay, though thou kill me, sweet Demetrius.
+ 
+ I charge thee, hence, and do not haunt me thus.
+ 
+ O, wilt thou darkling leave me? Do not so.
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+FTLN 0715
+75
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+FTLN 0720
+80
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+FTLN 0725
+85
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+FTLN 0730
+90
+FTLN 0731
+FTLN 0732
+
+--- PAGE 34 / 87 ---
+61
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+DEMETRIUS
+Demetrius exits.
+HELENA
+LYSANDER
+HELENA
+LYSANDER
+ 
+ Stay, on thy peril. I alone will go. 
+ 
+ O, I am out of breath in this fond chase.
+ The more my prayer, the lesser is my grace.
+ Happy is Hermia, wheresoe’er she lies,
+ For she hath blessèd and attractive eyes.
+ How came her eyes so bright? Not with salt tears.
+ If so, my eyes are oftener washed than hers.
+ No, no, I am as ugly as a bear,
+ For beasts that meet me run away for fear.
+ Therefore no marvel though Demetrius
+ Do as a monster fly my presence thus.
+ What wicked and dissembling glass of mine
+ Made me compare with Hermia’s sphery eyne?
+ But who is here? Lysander, on the ground!
+ Dead or asleep? I see no blood, no wound.—
+ Lysander, if you live, good sir, awake.
+, waking up
+ 
+ And run through fire I will for thy sweet sake.
+ Transparent Helena! Nature shows art,
+ That through thy bosom makes me see thy heart.
+ Where is Demetrius? O, how fit a word
+ Is that vile name to perish on my sword!
+ 
+ Do not say so. Lysander, say not so.
+ What though he love your Hermia? Lord, what
+ though?
+ Yet Hermia still loves you. Then be content.
+ 
+ Content with Hermia? No, I do repent
+ The tedious minutes I with her have spent.
+ Not Hermia, but Helena I love.
+ Who will not change a raven for a dove?
+ The will of man is by his reason swayed,
+ And reason says you are the worthier maid.
+FTLN 0733
+FTLN 0734
+FTLN 0735
+95
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+FTLN 0740
+100
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+FTLN 0745
+105
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+FTLN 0750
+110
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+FTLN 0755
+115
+FTLN 0756
+FTLN 0757
+FTLN 0758
+FTLN 0759
+FTLN 0760
+120
+FTLN 0761
+FTLN 0762
+FTLN 0763
+
+--- PAGE 35 / 87 ---
+63
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+HELENA
+She exits.
+LYSANDER
+He exits.
+HERMIA
+ Things growing are not ripe until their season;
+ So I, being young, till now ripe not to reason.
+ And touching now the point of human skill,
+ Reason becomes the marshal to my will
+ And leads me to your eyes, where I o’erlook
+ Love’s stories written in love’s richest book.
+ 
+ Wherefore was I to this keen mockery born?
+ When at your hands did I deserve this scorn?
+ Is ’t not enough, is ’t not enough, young man,
+ That I did never, no, nor never can
+ Deserve a sweet look from Demetrius’ eye,
+ But you must flout my insufficiency?
+ Good troth, you do me wrong, good sooth, you do,
+ In such disdainful manner me to woo.
+ But fare you well. Perforce I must confess
+ I thought you lord of more true gentleness.
+ O, that a lady of one man refused
+ Should of another therefore be abused! 
+ 
+ She sees not Hermia.—Hermia, sleep thou there,
+ And never mayst thou come Lysander near.
+ For, as a surfeit of the sweetest things
+ The deepest loathing to the stomach brings,
+ Or as the heresies that men do leave
+ Are hated most of those they did deceive,
+ So thou, my surfeit and my heresy,
+ Of all be hated, but the most of me!
+ And, all my powers, address your love and might
+ To honor Helen and to be her knight. 
+, waking up
+ 
+ Help me, Lysander, help me! Do thy best
+ To pluck this crawling serpent from my breast.
+ Ay me, for pity! What a dream was here!
+ Lysander, look how I do quake with fear.
+ Methought a serpent ate my heart away,
+FTLN 0764
+FTLN 0765
+125
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+FTLN 0770
+130
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+FTLN 0775
+135
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+FTLN 0780
+140
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+FTLN 0785
+145
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+FTLN 0790
+150
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+FTLN 0795
+155
+FTLN 0796
+
+--- PAGE 36 / 87 ---
+65
+A Midsummer Night’s Dream
+ACT 2. SC. 2
+She exits.
+ And you sat smiling at his cruel prey.
+ Lysander! What, removed? Lysander, lord!
+ What, out of hearing? Gone? No sound, no word?
+ Alack, where are you? Speak, an if you hear.
+ Speak, of all loves! I swoon almost with fear.—
+ No? Then I well perceive you are not nigh.
+ Either death or you I’ll find immediately.
+FTLN 0797
+FTLN 0798
+FTLN 0799
+FTLN 0800
+160
+FTLN 0801
+FTLN 0802
+FTLN 0803
+
+--- PAGE 37 / 87 ---
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+SNOUT
+STARVELING
+BOTTOM
+With Titania still asleep onstage,  enter the Clowns,
+Bottom, Quince, Snout, Starveling, Snug, and Flute.
+  Are we all met?
+  Pat, pat. And here’s a marvels convenient
+ place for our rehearsal. This green plot shall be
+ our stage, this hawthorn brake our tiring-house,
+ and we will do it in action as we will do it before
+ the Duke.
+  Peter Quince?
+  What sayest thou, bully Bottom?
+  There are things in this comedy of Pyramus
+ and Thisbe that will never please. First, Pyramus
+ must draw a sword to kill himself, which the ladies
+ cannot abide. How answer you that?
+  By ’r lakin, a parlous fear.
+  I believe we must leave the killing out,
+ when all is done.
+  Not a whit! I have a device to make all well.
+ Write me a prologue, and let the prologue seem to
+ say we will do no harm with our swords and that
+ Pyramus is not killed indeed. And, for the more
+ better assurance, tell them that I, Pyramus, am not
+ Pyramus, but Bottom the weaver. This will put them
+ out of fear.
+69
+ACT 3
+Scene 1
+FTLN 0804
+FTLN 0805
+FTLN 0806
+FTLN 0807
+FTLN 0808
+5
+FTLN 0809
+FTLN 0810
+FTLN 0811
+FTLN 0812
+FTLN 0813
+10
+FTLN 0814
+FTLN 0815
+FTLN 0816
+FTLN 0817
+FTLN 0818
+15
+FTLN 0819
+FTLN 0820
+FTLN 0821
+FTLN 0822
+FTLN 0823
+20
+FTLN 0824
+FTLN 0825
+
+--- PAGE 38 / 87 ---
+71
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+QUINCE
+BOTTOM
+SNOUT
+STARVELING
+BOTTOM
+SNOUT
+BOTTOM
+QUINCE
+SNOUT
+BOTTOM
+Quince takes out a book.
+QUINCE
+BOTTOM
+  Well, we will have such a prologue, and it shall
+ be written in eight and six.
+  No, make it two more. Let it be written in
+ eight and eight.
+  Will not the ladies be afeard of the lion?
+  I fear it, I promise you.
+  Masters, you ought to consider with yourself,
+ to bring in (God shield us!) a lion among ladies is a
+ most dreadful thing. For there is not a more fearful
+ wildfowl than your lion living, and we ought to look
+ to ’t.
+  Therefore another prologue must tell he is not
+ a lion.
+  Nay, you must name his name, and half his
+ face must be seen through the lion’s neck, and he
+ himself must speak through, saying thus, or to the
+ same defect: “Ladies,” or “Fair ladies, I would
+ wish you,” or “I would request you,” or “I would
+ entreat you not to fear, not to tremble! My life for
+ yours. If you think I come hither as a lion, it were
+ pity of my life. No, I am no such thing. I am a man as
+ other men are.” And there indeed let him name his
+ name and tell them plainly he is Snug the joiner.
+  Well, it shall be so. But there is two hard
+ things: that is, to bring the moonlight into a chamber,
+ for you know Pyramus and Thisbe meet by
+ moonlight.
+  Doth the moon shine that night we play our
+ play?
+  A calendar, a calendar! Look in the almanac.
+ Find out moonshine, find out moonshine.
+  Yes, it doth shine that night.
+  Why, then, may you leave a casement of the
+ great chamber window, where we play, open, and
+ the moon may shine in at the casement.
+FTLN 0826
+FTLN 0827
+FTLN 0828
+25
+FTLN 0829
+FTLN 0830
+FTLN 0831
+FTLN 0832
+FTLN 0833
+30
+FTLN 0834
+FTLN 0835
+FTLN 0836
+FTLN 0837
+FTLN 0838
+35
+FTLN 0839
+FTLN 0840
+FTLN 0841
+FTLN 0842
+FTLN 0843
+40
+FTLN 0844
+FTLN 0845
+FTLN 0846
+FTLN 0847
+FTLN 0848
+45
+FTLN 0849
+FTLN 0850
+FTLN 0851
+FTLN 0852
+FTLN 0853
+50
+FTLN 0854
+FTLN 0855
+FTLN 0856
+FTLN 0857
+FTLN 0858
+55
+FTLN 0859
+FTLN 0860
+
+--- PAGE 39 / 87 ---
+73
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+QUINCE
+SNOUT
+BOTTOM
+QUINCE
+ROBIN
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+He exits.
+ROBIN
+He exits.
+  Ay, or else one must come in with a bush of
+ thorns and a lantern and say he comes to disfigure
+ or to present the person of Moonshine. Then there
+ is another thing: we must have a wall in the great
+ chamber, for Pyramus and Thisbe, says the story,
+ did talk through the chink of a wall.
+  You can never bring in a wall. What say you,
+ Bottom?
+  Some man or other must present Wall. And
+ let him have some plaster, or some loam, or some
+ roughcast about him to signify wall, or let him
+ hold his fingers thus, and through that cranny shall
+ Pyramus and Thisbe whisper.
+  If that may be, then all is well. Come, sit down,
+ every mother’s son, and rehearse your parts. Pyramus,
+ you begin. When you have spoken your
+ speech, enter into that brake, and so everyone
+ according to his cue.
+Enter Robin invisible to those onstage.
+, aside
+ 
+ What hempen homespuns have we swagg’ring here
+ So near the cradle of the Fairy Queen?
+ What, a play toward? I’ll be an auditor—
+ An actor too perhaps, if I see cause.
+  Speak, Pyramus.—Thisbe, stand forth.
+, as Pyramus  
+ Thisbe, the flowers of odious savors sweet—
+  Odors, odors!
+, as Pyramus  
+ 
+ …odors savors sweet.
+ So hath thy breath, my dearest Thisbe dear.—
+ But hark, a voice! Stay thou but here awhile,
+ And by and by I will to thee appear. 
+, aside
+ 
+ A stranger Pyramus than e’er played here. 
+FTLN 0861
+FTLN 0862
+FTLN 0863
+60
+FTLN 0864
+FTLN 0865
+FTLN 0866
+FTLN 0867
+FTLN 0868
+65
+FTLN 0869
+FTLN 0870
+FTLN 0871
+FTLN 0872
+FTLN 0873
+70
+FTLN 0874
+FTLN 0875
+FTLN 0876
+FTLN 0877
+FTLN 0878
+75
+FTLN 0879
+FTLN 0880
+FTLN 0881
+FTLN 0882
+FTLN 0883
+80
+FTLN 0884
+FTLN 0885
+FTLN 0886
+FTLN 0887
+FTLN 0888
+85
+FTLN 0889
+FTLN 0890
+
+--- PAGE 40 / 87 ---
+75
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+FLUTE
+QUINCE
+FLUTE
+QUINCE
+FLUTE
+BOTTOM
+QUINCE
+Quince, Flute, Snout, Snug, and Starveling exit.
+ROBIN
+He exits.
+BOTTOM
+  Must I speak now?
+  Ay, marry, must you, for you must understand
+ he goes but to see a noise that he heard and is to
+ come again.
+, as Thisbe  
+ Most radiant Pyramus, most lily-white of hue,
+ Of color like the red rose on triumphant brier,
+ Most brisky juvenal and eke most lovely Jew,
+ As true as truest horse, that yet would never tire.
+ I’ll meet thee, Pyramus, at Ninny’s tomb.
+  “Ninus’ tomb,” man! Why, you must not
+ speak that yet. That you answer to Pyramus. You
+ speak all your part at once, cues and all.—Pyramus,
+ enter. Your cue is past. It is “never tire.”
+  O!
+  As Thisbe.  As true as truest horse, that yet would never
+ 
+ tire.
+Enter Robin, and Bottom as Pyramus with the
+ass-head.
+, as Pyramus  
+ If I were fair, fair  Thisbe, I were only thine.
+  O monstrous! O strange! We are haunted. Pray,
+ masters, fly, masters! Help!
+ 
+ I’ll follow you. I’ll lead you about a round,
+  Through bog, through bush, through brake,
+  through brier.
+ Sometime a horse I’ll be, sometime a hound,
+  A hog, a headless bear, sometime a fire,
+ And neigh and bark and grunt and roar and burn,
+ Like horse, hound, hog, bear, fire, at every turn.
+  Why do they run away? This is a knavery of
+ them to make me afeard.
+FTLN 0891
+FTLN 0892
+FTLN 0893
+90
+FTLN 0894
+FTLN 0895
+FTLN 0896
+FTLN 0897
+FTLN 0898
+95
+FTLN 0899
+FTLN 0900
+FTLN 0901
+FTLN 0902
+FTLN 0903
+100
+FTLN 0904
+FTLN 0905
+FTLN 0906
+FTLN 0907
+FTLN 0908
+105
+FTLN 0909
+FTLN 0910
+FTLN 0911
+FTLN 0912
+FTLN 0913
+110
+FTLN 0914
+FTLN 0915
+FTLN 0916
+FTLN 0917
+FTLN 0918
+115
+
+--- PAGE 41 / 87 ---
+77
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+SNOUT
+BOTTOM
+Snout exits.
+QUINCE
+He exits.
+BOTTOM
+TITANIA
+BOTTOM
+TITANIA
+BOTTOM
+Enter Snout.
+  O Bottom, thou art changed! What do I see on
+ thee?
+  What do you see? You see an ass-head of your
+ own, do you? 
+Enter Quince.
+  Bless thee, Bottom, bless thee! Thou art
+ translated! 
+  I see their knavery. This is to make an ass of
+ me, to fright me, if they could. But I will not stir
+ from this place, do what they can. I will walk up
+ and down here, and I will sing, that they shall hear
+ I am not afraid.
+He sings.   The ouzel cock, so black of hue,
+  With orange-tawny bill,
+ The throstle with his note so true,
+  The wren with little quill—
+, waking up
+ 
+ What angel wakes me from my flow’ry bed?
+ sings
+ 
+ The finch, the sparrow, and the lark,
+  The plainsong cuckoo gray,
+ Whose note full many a man doth mark
+  And dares not answer “nay”—
+ for, indeed, who would set his wit to so foolish a
+ bird? Who would give a bird the lie though he cry
+ “cuckoo” never so?
+ 
+ I pray thee, gentle mortal, sing again.
+ Mine ear is much enamored of thy note,
+ So is mine eye enthrallèd to thy shape,
+ And thy fair virtue’s force perforce doth move me
+ On the first view to say, to swear, I love thee.
+  Methinks, mistress, you should have little
+FTLN 0919
+FTLN 0920
+FTLN 0921
+FTLN 0922
+FTLN 0923
+120
+FTLN 0924
+FTLN 0925
+FTLN 0926
+FTLN 0927
+FTLN 0928
+125
+FTLN 0929
+FTLN 0930
+FTLN 0931
+FTLN 0932
+FTLN 0933
+130
+FTLN 0934
+FTLN 0935
+FTLN 0936
+FTLN 0937
+FTLN 0938
+135
+FTLN 0939
+FTLN 0940
+FTLN 0941
+FTLN 0942
+FTLN 0943
+140
+FTLN 0944
+FTLN 0945
+FTLN 0946
+FTLN 0947
+
+--- PAGE 42 / 87 ---
+79
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+TITANIA
+BOTTOM
+TITANIA
+PEASEBLOSSOM
+COBWEB
+MOTE
+MUSTARDSEED
+ALL
+TITANIA
+ reason for that. And yet, to say the truth, reason
+ and love keep little company together nowadays.
+ The more the pity that some honest neighbors will
+ not make them friends. Nay, I can gleek upon
+ occasion.
+ 
+ Thou art as wise as thou art beautiful.
+  Not so neither; but if I had wit enough to get
+ out of this wood, I have enough to serve mine own
+ turn.
+ 
+ Out of this wood do not desire to go.
+ Thou shalt remain here whether thou wilt or no.
+ I am a spirit of no common rate.
+ The summer still doth tend upon my state,
+ And I do love thee. Therefore go with me.
+ I’ll give thee fairies to attend on thee,
+ And they shall fetch thee jewels from the deep
+ And sing while thou on pressèd flowers dost sleep.
+ And I will purge thy mortal grossness so
+ That thou shalt like an airy spirit go.—
+ Peaseblossom, Cobweb, Mote, and Mustardseed!
+Enter four Fairies: Peaseblossom, Cobweb,
+Mote, and Mustardseed.
+  Ready.
+  And I.
+  And I.
+  And I.
+  Where shall we go?
+ 
+ Be kind and courteous to this gentleman.
+ Hop in his walks and gambol in his eyes;
+ Feed him with apricocks and dewberries,
+ With purple grapes, green figs, and mulberries;
+ The honey-bags steal from the humble-bees,
+FTLN 0948
+145
+FTLN 0949
+FTLN 0950
+FTLN 0951
+FTLN 0952
+FTLN 0953
+150
+FTLN 0954
+FTLN 0955
+FTLN 0956
+FTLN 0957
+FTLN 0958
+155
+FTLN 0959
+FTLN 0960
+FTLN 0961
+FTLN 0962
+FTLN 0963
+160
+FTLN 0964
+FTLN 0965
+FTLN 0966
+FTLN 0967
+FTLN 0968
+165
+FTLN 0969
+FTLN 0970
+FTLN 0971
+FTLN 0972
+FTLN 0973
+170
+FTLN 0974
+FTLN 0975
+FTLN 0976
+FTLN 0977
+
+--- PAGE 43 / 87 ---
+81
+A Midsummer Night’s Dream
+ACT 3. SC. 1
+PEASEBLOSSOM
+COBWEB
+MOTE
+MUSTARDSEED
+BOTTOM
+COBWEB
+BOTTOM
+PEASEBLOSSOM
+BOTTOM
+MUSTARDSEED
+BOTTOM
+TITANIA
+They  exit.
+ And for night-tapers crop their waxen thighs
+ And light them at the fiery glowworms’ eyes
+ To have my love to bed and to arise;
+ And pluck the wings from painted butterflies
+ To fan the moonbeams from his sleeping eyes.
+ Nod to him, elves, and do him courtesies.
+  Hail, mortal!
+  Hail!
+  Hail!
+  Hail!
+  I cry your Worships mercy, heartily.—I beseech
+ your Worship’s name.
+  Cobweb.
+  I shall desire you of more acquaintance, good
+ Master Cobweb. If I cut my finger, I shall make
+ bold with you.—Your name, honest gentleman?
+  Peaseblossom.
+  I pray you, commend me to Mistress Squash,
+ your mother, and to Master Peascod, your father.
+ Good Master Peaseblossom, I shall desire you of
+ more acquaintance too.—Your name, I beseech
+ you, sir?
+  Mustardseed.
+  Good Master Mustardseed, I know your patience
+ well. That same cowardly, giantlike ox-beef
+ hath devoured many a gentleman of your house. I
+ promise you, your kindred hath made my eyes
+ water ere now. I desire you of  more acquaintance,
+ good Master Mustardseed.
+ 
+ Come, wait upon him. Lead him to my bower.
+  The moon, methinks, looks with a wat’ry eye,
+ And when she weeps, weeps every little flower,
+  Lamenting some enforcèd chastity.
+ Tie up my lover’s tongue. Bring him silently.
+FTLN 0978
+175
+FTLN 0979
+FTLN 0980
+FTLN 0981
+FTLN 0982
+FTLN 0983
+180
+FTLN 0984
+FTLN 0985
+FTLN 0986
+FTLN 0987
+FTLN 0988
+185
+FTLN 0989
+FTLN 0990
+FTLN 0991
+FTLN 0992
+FTLN 0993
+190
+FTLN 0994
+FTLN 0995
+FTLN 0996
+FTLN 0997
+FTLN 0998
+195
+FTLN 0999
+FTLN 1000
+FTLN 1001
+FTLN 1002
+FTLN 1003
+200
+FTLN 1004
+FTLN 1005
+FTLN 1006
+FTLN 1007
+FTLN 1008
+205
+FTLN 1009
+FTLN 1010
+FTLN 1011
+
+--- PAGE 44 / 87 ---
+83
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+OBERON
+ROBIN
+Enter Oberon,  King of Fairies.
+ 
+ I wonder if Titania be awaked;
+ Then what it was that next came in her eye,
+ Which she must dote on in extremity.
+Enter Robin Goodfellow.
+ Here comes my messenger. How now, mad spirit?
+ What night-rule now about this haunted grove?
+ 
+ My mistress with a monster is in love.
+ Near to her close and consecrated bower,
+ While she was in her dull and sleeping hour,
+ A crew of patches, rude mechanicals,
+ That work for bread upon Athenian stalls,
+ Were met together to rehearse a play
+ Intended for great Theseus’ nuptial day.
+ The shallowest thick-skin of that barren sort,
+ Who Pyramus presented in their sport,
+ Forsook his scene and entered in a brake.
+ When I did him at this advantage take,
+ An ass’s noll I fixèd on his head.
+ Anon his Thisbe must be answerèd,
+ And forth my mimic  comes. When they him spy,
+ As wild geese that the creeping fowler eye,
+ Or russet-pated choughs, many in sort,
+ Rising and cawing at the gun’s report,
+ Sever themselves and madly sweep the sky,
+ So at his sight away his fellows fly,
+ And, at our stamp, here o’er and o’er one falls.
+ He “Murder” cries and help from Athens calls.
+ Their sense thus weak, lost with their fears thus
+ strong,
+ Made senseless things begin to do them wrong;
+Scene 2
+FTLN 1012
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+5
+FTLN 1017
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+10
+FTLN 1022
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+15
+FTLN 1027
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+20
+FTLN 1032
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+25
+FTLN 1037
+FTLN 1038
+FTLN 1039
+FTLN 1040
+
+--- PAGE 45 / 87 ---
+85
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+OBERON
+ROBIN
+OBERON
+ROBIN
+They step aside.
+DEMETRIUS
+HERMIA
+ For briers and thorns at their apparel snatch,
+ Some sleeves, some hats, from yielders all things
+ catch.
+ I led them on in this distracted fear
+ And left sweet Pyramus translated there.
+ When in that moment, so it came to pass,
+ Titania waked and straightway loved an ass.
+ 
+ This falls out better than I could devise.
+ But hast thou yet latched the Athenian’s eyes
+ With the love juice, as I did bid thee do?
+ 
+ I took him sleeping—that is finished, too—
+ And the Athenian woman by his side,
+ That, when he waked, of force she must be eyed.
+Enter Demetrius and Hermia.
+ 
+ Stand close. This is the same Athenian.
+ 
+ This is the woman, but not this the man.
+ 
+ O, why rebuke you him that loves you so?
+ Lay breath so bitter on your bitter foe!
+ 
+ Now I but chide, but I should use thee worse,
+ For thou, I fear, hast given me cause to curse.
+ If thou hast slain Lysander in his sleep,
+ Being o’er shoes in blood, plunge in the deep
+ And kill me too.
+ The sun was not so true unto the day
+ As he to me. Would he have stolen away
+ From sleeping Hermia? I’ll believe as soon
+ This whole Earth may be bored, and that the moon
+ May through the center creep and so displease
+FTLN 1041
+30
+FTLN 1042
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+35
+FTLN 1047
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+40
+FTLN 1052
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+45
+FTLN 1057
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+50
+FTLN 1062
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+55
+FTLN 1067
+
+--- PAGE 46 / 87 ---
+87
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+DEMETRIUS
+HERMIA
+DEMETRIUS
+HERMIA
+DEMETRIUS
+HERMIA
+DEMETRIUS
+HERMIA
+She exits.
+ Her brother’s noontide with th’ Antipodes.
+ It cannot be but thou hast murdered him.
+ So should a murderer look, so dead, so grim.
+ 
+ So should the murdered look, and so should I,
+ Pierced through the heart with your stern cruelty.
+ Yet you, the murderer, look as bright, as clear,
+ As yonder Venus in her glimmering sphere.
+ 
+ What’s this to my Lysander? Where is he?
+ Ah, good Demetrius, wilt thou give him me?
+ 
+ I had rather give his carcass to my hounds.
+ 
+ Out, dog! Out, cur! Thou driv’st me past the bounds
+ Of maiden’s patience. Hast thou slain him, then?
+ Henceforth be never numbered among men.
+ O, once tell true! Tell true, even for my sake!
+ Durst thou have looked upon him, being awake?
+ And hast thou killed him sleeping? O brave touch!
+ Could not a worm, an adder, do so much?
+ An adder did it, for with doubler tongue
+ Than thine, thou serpent, never adder stung.
+ 
+ You spend your passion on a misprised mood.
+ I am not guilty of Lysander’s blood,
+ Nor is he dead, for aught that I can tell.
+ 
+ I pray thee, tell me then that he is well.
+ 
+ An if I could, what should I get therefor?
+ 
+ A privilege never to see me more.
+ And from thy hated presence part I so.
+ See me no more, whether he be dead or no.
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+60
+FTLN 1072
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+65
+FTLN 1077
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+70
+FTLN 1082
+FTLN 1083
+FTLN 1084
+FTLN 1085
+FTLN 1086
+75
+FTLN 1087
+FTLN 1088
+FTLN 1089
+FTLN 1090
+FTLN 1091
+80
+FTLN 1092
+FTLN 1093
+FTLN 1094
+
+--- PAGE 47 / 87 ---
+89
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+DEMETRIUS
+He  lies down and falls asleep.
+OBERON
+ROBIN
+OBERON
+ROBIN
+He exits.
+OBERON
+ 
+ There is no following her in this fierce vein.
+ Here, therefore, for a while I will remain.
+ So sorrow’s heaviness doth heavier grow
+ For debt that bankrout sleep  doth sorrow owe,
+ Which now in some slight measure it will pay,
+ If for his tender here I make some stay.
+, to Robin
+ 
+ What hast thou done? Thou hast mistaken quite
+ And laid the love juice on some true-love’s sight.
+ Of thy misprision must perforce ensue
+ Some true-love turned, and not a false turned true.
+ 
+ Then fate o’errules, that, one man holding troth,
+ A million fail, confounding oath on oath.
+ 
+ About the wood go swifter than the wind,
+ And Helena of Athens look thou find.
+ All fancy-sick she is and pale of cheer
+ With sighs of love that costs the fresh blood dear.
+ By some illusion see thou bring her here.
+ I’ll charm his eyes against she do appear.
+  I go, I go, look how I go,
+ Swifter than arrow from the Tartar’s bow. 
+, applying the nectar to Demetrius’ eyes
+ 
+ Flower of this purple dye,
+ Hit with Cupid’s archery,
+ Sink in apple of his eye.
+ When his love he doth espy,
+ Let her shine as gloriously
+ As the Venus of the sky.—
+ When thou wak’st, if she be by,
+ Beg of her for remedy.
+Enter Robin.
+FTLN 1095
+FTLN 1096
+85
+FTLN 1097
+FTLN 1098
+FTLN 1099
+FTLN 1100
+FTLN 1101
+90
+FTLN 1102
+FTLN 1103
+FTLN 1104
+FTLN 1105
+FTLN 1106
+95
+FTLN 1107
+FTLN 1108
+FTLN 1109
+FTLN 1110
+FTLN 1111
+100
+FTLN 1112
+FTLN 1113
+FTLN 1114
+FTLN 1115
+FTLN 1116
+105
+FTLN 1117
+FTLN 1118
+FTLN 1119
+FTLN 1120
+FTLN 1121
+110
+FTLN 1122
+
+--- PAGE 48 / 87 ---
+91
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+ROBIN
+OBERON
+ROBIN
+They step aside.
+LYSANDER
+HELENA
+LYSANDER
+HELENA
+ 
+ Captain of our fairy band,
+ Helena is here at hand,
+ And the youth, mistook by me,
+ Pleading for a lover’s fee.
+ Shall we their fond pageant see?
+ Lord, what fools these mortals be!
+ 
+ Stand aside. The noise they make
+ Will cause Demetrius to awake.
+ 
+ Then will two at once woo one.
+ That must needs be sport alone.
+ And those things do best please me
+ That befall prepost’rously.
+Enter Lysander and Helena.
+ 
+ Why should you think that I should woo in scorn?
+  Scorn and derision never come in tears.
+ Look when I vow, I weep; and vows so born,
+  In their nativity all truth appears.
+ How can these things in me seem scorn to you,
+ Bearing the badge of faith to prove them true?
+ 
+ You do advance your cunning more and more.
+  When truth kills truth, O devilish holy fray!
+ These vows are Hermia’s. Will you give her o’er?
+  Weigh oath with oath and you will nothing
+  weigh.
+ Your vows to her and me, put in two scales,
+ Will even weigh, and both as light as tales.
+ 
+ I had no judgment when to her I swore.
+ 
+ Nor none, in my mind, now you give her o’er.
+FTLN 1123
+FTLN 1124
+FTLN 1125
+FTLN 1126
+115
+FTLN 1127
+FTLN 1128
+FTLN 1129
+FTLN 1130
+FTLN 1131
+120
+FTLN 1132
+FTLN 1133
+FTLN 1134
+FTLN 1135
+FTLN 1136
+125
+FTLN 1137
+FTLN 1138
+FTLN 1139
+FTLN 1140
+FTLN 1141
+130
+FTLN 1142
+FTLN 1143
+FTLN 1144
+FTLN 1145
+FTLN 1146
+135
+FTLN 1147
+FTLN 1148
+FTLN 1149
+
+--- PAGE 49 / 87 ---
+93
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+LYSANDER
+DEMETRIUS
+HELENA
+LYSANDER
+ 
+ Demetrius loves her, and he loves not you.
+, waking up
+ 
+ O Helen, goddess, nymph, perfect, divine!
+ To what, my love, shall I compare thine eyne?
+ Crystal is muddy. O, how ripe in show
+ Thy lips, those kissing cherries, tempting grow!
+ That pure congealèd white, high Taurus’ snow,
+ Fanned with the eastern wind, turns to a crow
+ When thou hold’st up thy hand. O, let me kiss
+ This princess of pure white, this seal of bliss!
+ 
+ O spite! O hell! I see you all are bent
+ To set against me for your merriment.
+ If you were civil and knew courtesy,
+ You would not do me thus much injury.
+ Can you not hate me, as I know you do,
+ But you must join in souls to mock me too?
+ If you were men, as men you are in show,
+ You would not use a gentle lady so,
+ To vow and swear and superpraise my parts,
+ When, I am sure, you hate me with your hearts.
+ You both are rivals and love Hermia,
+ And now both rivals to mock Helena.
+ A trim exploit, a manly enterprise,
+ To conjure tears up in a poor maid’s eyes
+ With your derision! None of noble sort
+ Would so offend a virgin and extort
+ A poor soul’s patience, all to make you sport.
+ 
+ You are unkind, Demetrius. Be not so,
+ For you love Hermia; this you know I know.
+ And here with all goodwill, with all my heart,
+ In Hermia’s love I yield you up my part.
+ And yours of Helena to me bequeath,
+ Whom I do love and will do till my death.
+FTLN 1150
+FTLN 1151
+140
+FTLN 1152
+FTLN 1153
+FTLN 1154
+FTLN 1155
+FTLN 1156
+145
+FTLN 1157
+FTLN 1158
+FTLN 1159
+FTLN 1160
+FTLN 1161
+150
+FTLN 1162
+FTLN 1163
+FTLN 1164
+FTLN 1165
+FTLN 1166
+155
+FTLN 1167
+FTLN 1168
+FTLN 1169
+FTLN 1170
+FTLN 1171
+160
+FTLN 1172
+FTLN 1173
+FTLN 1174
+FTLN 1175
+FTLN 1176
+165
+FTLN 1177
+FTLN 1178
+FTLN 1179
+FTLN 1180
+FTLN 1181
+170
+
+--- PAGE 50 / 87 ---
+95
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HELENA
+DEMETRIUS
+LYSANDER
+DEMETRIUS
+HERMIA
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+ 
+ Never did mockers waste more idle breath.
+ 
+ Lysander, keep thy Hermia. I will none.
+ If e’er I loved her, all that love is gone.
+ My heart to her but as guest-wise sojourned,
+ And now to Helen is it home returned,
+ There to remain.
+  
+ Helen, it is not so.
+ 
+ Disparage not the faith thou dost not know,
+ Lest to thy peril thou aby it dear.
+ Look where thy love comes. Yonder is thy dear.
+Enter Hermia.
+, to Lysander
+ 
+ Dark night, that from the eye his function takes,
+ The ear more quick of apprehension makes;
+ Wherein it doth impair the seeing sense,
+ It pays the hearing double recompense.
+ Thou art not by mine eye, Lysander, found;
+ Mine ear, I thank it, brought me to thy sound.
+ But why unkindly didst thou leave me so?
+ 
+ Why should he stay whom love doth press to go?
+ 
+ What love could press Lysander from my side?
+ 
+ Lysander’s love, that would not let him bide,
+ Fair Helena, who more engilds the night
+ Than all yon fiery oes and eyes of light.
+ Why seek’st thou me? Could not this make thee
+ know
+ The hate I bear thee made me leave thee so?
+ 
+ You speak not as you think. It cannot be.
+FTLN 1182
+FTLN 1183
+FTLN 1184
+FTLN 1185
+FTLN 1186
+175
+FTLN 1187
+FTLN 1188
+FTLN 1189
+FTLN 1190
+FTLN 1191
+180
+FTLN 1192
+FTLN 1193
+FTLN 1194
+FTLN 1195
+FTLN 1196
+185
+FTLN 1197
+FTLN 1198
+FTLN 1199
+FTLN 1200
+FTLN 1201
+190
+FTLN 1202
+FTLN 1203
+FTLN 1204
+FTLN 1205
+FTLN 1206
+195
+FTLN 1207
+
+--- PAGE 51 / 87 ---
+97
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HELENA
+HERMIA
+HELENA
+ 
+ Lo, she is one of this confederacy!
+ Now I perceive they have conjoined all three
+ To fashion this false sport in spite of me.—
+ Injurious Hermia, most ungrateful maid,
+ Have you conspired, have you with these contrived,
+ To bait me with this foul derision?
+ Is all the counsel that we two have shared,
+ The sisters’ vows, the hours that we have spent
+ When we have chid the hasty-footed time
+ For parting us—O, is all forgot?
+ All schooldays’ friendship, childhood innocence?
+ We, Hermia, like two artificial gods,
+ Have with our needles created both one flower,
+ Both on one sampler, sitting on one cushion,
+ Both warbling of one song, both in one key,
+ As if our hands, our sides, voices, and minds
+ Had been incorporate. So we grew together
+ Like to a double cherry, seeming parted,
+ But yet an union in partition,
+ Two lovely berries molded on one stem;
+ So with two seeming bodies but one heart,
+ Two of the first, like  coats in heraldry,
+ Due but to one, and crownèd with one crest.
+ And will you rent our ancient love asunder,
+ To join with men in scorning your poor friend?
+ It is not friendly; ’tis not maidenly.
+ Our sex, as well as I, may chide you for it,
+ Though I alone do feel the injury.
+ 
+ I am amazèd at your words.
+ I scorn you not. It seems that you scorn me.
+ 
+ Have you not set Lysander, as in scorn,
+ To follow me and praise my eyes and face,
+ And made your other love, Demetrius,
+FTLN 1208
+FTLN 1209
+FTLN 1210
+FTLN 1211
+200
+FTLN 1212
+FTLN 1213
+FTLN 1214
+FTLN 1215
+FTLN 1216
+205
+FTLN 1217
+FTLN 1218
+FTLN 1219
+FTLN 1220
+FTLN 1221
+210
+FTLN 1222
+FTLN 1223
+FTLN 1224
+FTLN 1225
+FTLN 1226
+215
+FTLN 1227
+FTLN 1228
+FTLN 1229
+FTLN 1230
+FTLN 1231
+220
+FTLN 1232
+FTLN 1233
+FTLN 1234
+FTLN 1235
+FTLN 1236
+225
+FTLN 1237
+FTLN 1238
+FTLN 1239
+FTLN 1240
+
+--- PAGE 52 / 87 ---
+99
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HERMIA
+HELENA
+LYSANDER
+HELENA
+HERMIA
+DEMETRIUS
+LYSANDER
+ Who even but now did spurn me with his foot,
+ To call me goddess, nymph, divine and rare,
+ Precious, celestial? Wherefore speaks he this
+ To her he hates? And wherefore doth Lysander
+ Deny your love (so rich within his soul)
+ And tender me, forsooth, affection,
+ But by your setting on, by your consent?
+ What though I be not so in grace as you,
+ So hung upon with love, so fortunate,
+ But miserable most, to love unloved?
+ This you should pity rather than despise.
+ 
+ I understand not what you mean by this.
+ 
+ Ay, do. Persever, counterfeit sad looks,
+ Make mouths upon me when I turn my back,
+ Wink each at other, hold the sweet jest up.
+ This sport, well carried, shall be chronicled.
+ If you have any pity, grace, or manners,
+ You would not make me such an argument.
+ But fare you well. ’Tis partly my own fault,
+ Which death or absence soon shall remedy.
+ 
+ Stay, gentle Helena. Hear my excuse,
+ My love, my life, my soul, fair Helena.
+ 
+ O excellent!
+, to Lysander
+ 
+ Sweet, do not scorn her so.
+, to Lysander
+ 
+ If she cannot entreat, I can compel.
+ 
+ Thou canst compel no more than she entreat.
+ Thy threats have no more strength than her weak
+ prayers. —
+ Helen, I love thee. By my life, I do.
+FTLN 1241
+230
+FTLN 1242
+FTLN 1243
+FTLN 1244
+FTLN 1245
+FTLN 1246
+235
+FTLN 1247
+FTLN 1248
+FTLN 1249
+FTLN 1250
+FTLN 1251
+240
+FTLN 1252
+FTLN 1253
+FTLN 1254
+FTLN 1255
+FTLN 1256
+245
+FTLN 1257
+FTLN 1258
+FTLN 1259
+FTLN 1260
+FTLN 1261
+250
+FTLN 1262
+FTLN 1263
+FTLN 1264
+FTLN 1265
+FTLN 1266
+255
+FTLN 1267
+FTLN 1268
+FTLN 1269
+
+--- PAGE 53 / 87 ---
+101
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+DEMETRIUS
+LYSANDER
+DEMETRIUS
+HERMIA
+She takes hold of Lysander.
+LYSANDER
+DEMETRIUS
+LYSANDER
+HERMIA
+LYSANDER
+HERMIA
+HELENA
+LYSANDER
+DEMETRIUS
+LYSANDER
+ I swear by that which I will lose for thee,
+ To prove him false that says I love thee not.
+ 
+ I say I love thee more than he can do.
+ 
+ If thou say so, withdraw and prove it too.
+ 
+ Quick, come.
+  
+ Lysander, whereto tends all this?
+ 
+ Away, you Ethiop!
+, to Hermia
+ 
+ No, no. He’ll
+ Seem to break loose.  To Lysander.  Take on as you
+ would follow,
+ But yet come not. You are a tame man, go!
+, to Hermia
+ 
+ Hang off, thou cat, thou burr! Vile thing, let loose,
+ Or I will shake thee from me like a serpent.
+ 
+ Why are you grown so rude? What change is this,
+ Sweet love?
+  
+ Thy love? Out, tawny Tartar, out!
+ Out, loathèd med’cine! O, hated potion, hence!
+ 
+ Do you not jest?
+  
+ Yes, sooth, and so do you.
+ 
+ Demetrius, I will keep my word with thee.
+ 
+ I would I had your bond. For I perceive
+ A weak bond holds you. I’ll not trust your word.
+ 
+ What? Should I hurt her, strike her, kill her dead?
+ Although I hate her, I’ll not harm her so.
+FTLN 1270
+FTLN 1271
+260
+FTLN 1272
+FTLN 1273
+FTLN 1274
+FTLN 1275
+FTLN 1276
+265
+FTLN 1277
+FTLN 1278
+FTLN 1279
+FTLN 1280
+FTLN 1281
+270
+FTLN 1282
+FTLN 1283
+FTLN 1284
+FTLN 1285
+FTLN 1286
+275
+FTLN 1287
+FTLN 1288
+FTLN 1289
+FTLN 1290
+FTLN 1291
+280
+FTLN 1292
+FTLN 1293
+
+--- PAGE 54 / 87 ---
+103
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HERMIA
+LYSANDER
+Hermia turns him loose.
+HERMIA
+HELENA
+HERMIA
+ 
+ What, can you do me greater harm than hate?
+ Hate me? Wherefore? O me, what news, my love?
+ Am not I Hermia? Are not you Lysander?
+ I am as fair now as I was erewhile.
+ Since night you loved me; yet since night you left
+ me.
+ Why, then, you left me—O, the gods forbid!—
+ In earnest, shall I say?
+  
+ Ay, by my life,
+ And never did desire to see thee more.
+ Therefore be out of hope, of question, of doubt.
+ Be certain, nothing truer, ’tis no jest
+ That I do hate thee and love Helena.
+ 
+ O me!  To Helena.  You juggler, you cankerblossom,
+ You thief of love! What, have you come by night
+ And stol’n my love’s heart from him?
+  
+ Fine, i’ faith.
+ Have you no modesty, no maiden shame,
+ No touch of bashfulness? What, will you tear
+ Impatient answers from my gentle tongue?
+ Fie, fie, you counterfeit, you puppet, you!
+ 
+ “Puppet”? Why so? Ay, that way goes the game.
+ Now I perceive that she hath made compare
+ Between our statures; she hath urged her height,
+ And with her personage, her tall personage,
+ Her height, forsooth, she hath prevailed with him.
+ And are you grown so high in his esteem
+ Because I am so dwarfish and so low?
+ How low am I, thou painted maypole? Speak!
+ How low am I? I am not yet so low
+ But that my nails can reach unto thine eyes.
+FTLN 1294
+FTLN 1295
+FTLN 1296
+285
+FTLN 1297
+FTLN 1298
+FTLN 1299
+FTLN 1300
+FTLN 1301
+290
+FTLN 1302
+FTLN 1303
+FTLN 1304
+FTLN 1305
+FTLN 1306
+295
+FTLN 1307
+FTLN 1308
+FTLN 1309
+FTLN 1310
+FTLN 1311
+300
+FTLN 1312
+FTLN 1313
+FTLN 1314
+FTLN 1315
+FTLN 1316
+305
+FTLN 1317
+FTLN 1318
+FTLN 1319
+FTLN 1320
+FTLN 1321
+310
+FTLN 1322
+FTLN 1323
+FTLN 1324
+
+--- PAGE 55 / 87 ---
+105
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HELENA
+HERMIA
+HELENA
+HERMIA
+HELENA
+HERMIA
+HELENA
+LYSANDER
+DEMETRIUS
+HELENA
+ 
+ I pray you, though you mock me, gentlemen,
+ Let her not hurt me. I was never curst;
+ I have no gift at all in shrewishness.
+ I am a right maid for my cowardice.
+ Let her not strike me. You perhaps may think,
+ Because she is something lower than myself,
+ That I can match her.
+  
+ “Lower”? Hark, again!
+ 
+ Good Hermia, do not be so bitter with me.
+ I evermore did love you, Hermia,
+ Did ever keep your counsels, never wronged you—
+ Save that, in love unto Demetrius,
+ I told him of your stealth unto this wood.
+ He followed you; for love, I followed him.
+ But he hath chid me hence and threatened me
+ To strike me, spurn me, nay, to kill me too.
+ And now, so you will let me quiet go,
+ To Athens will I bear my folly back
+ And follow you no further. Let me go.
+ You see how simple and how fond I am.
+ 
+ Why, get you gone. Who is ’t that hinders you?
+ 
+ A foolish heart that I leave here behind.
+ 
+ What, with Lysander?
+  
+ With Demetrius.
+ 
+ Be not afraid. She shall not harm thee, Helena.
+ 
+ No, sir, she shall not, though you take her part.
+ 
+ O, when she is angry, she is keen and shrewd.
+ She was a vixen when she went to school,
+ And though she be but little, she is fierce.
+FTLN 1325
+FTLN 1326
+315
+FTLN 1327
+FTLN 1328
+FTLN 1329
+FTLN 1330
+FTLN 1331
+320
+FTLN 1332
+FTLN 1333
+FTLN 1334
+FTLN 1335
+FTLN 1336
+325
+FTLN 1337
+FTLN 1338
+FTLN 1339
+FTLN 1340
+FTLN 1341
+330
+FTLN 1342
+FTLN 1343
+FTLN 1344
+FTLN 1345
+FTLN 1346
+335
+FTLN 1347
+FTLN 1348
+FTLN 1349
+FTLN 1350
+FTLN 1351
+340
+FTLN 1352
+FTLN 1353
+
+--- PAGE 56 / 87 ---
+107
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+HERMIA
+LYSANDER
+DEMETRIUS
+LYSANDER
+DEMETRIUS
+Demetrius and Lysander exit.
+HERMIA
+Helena retreats.
+HELENA
+She exits.
+HERMIA
+She exits.
+OBERON
+ROBIN
+ 
+ “Little” again? Nothing but  “low” and “little”?
+ Why will you suffer her to flout me thus?
+ Let me come to her.
+  
+ Get you gone, you dwarf,
+ You minimus of hind’ring knotgrass made,
+ You bead, you acorn—
+  
+ You are too officious
+ In her behalf that scorns your services.
+ Let her alone. Speak not of Helena.
+ Take not her part. For if thou dost intend
+ Never so little show of love to her,
+ Thou shalt aby it.
+  
+ Now she holds me not.
+ Now follow, if thou dar’st, to try whose right,
+ Of thine or mine, is most in Helena.
+ 
+ “Follow”? Nay, I’ll go with thee, cheek by jowl.
+ 
+ You, mistress, all this coil is long of you.
+ Nay, go not back.
+  
+ I will not trust you, I,
+ Nor longer stay in your curst company.
+ Your hands than mine are quicker for a fray.
+ My legs are longer though, to run away. 
+ 
+ I am amazed and know not what to say. 
+, to Robin
+ 
+ This is thy negligence. Still thou mistak’st,
+ Or else committ’st thy knaveries willfully.
+ 
+ Believe me, king of shadows, I mistook.
+ Did not you tell me I should know the man
+ By the Athenian garments he had on?
+FTLN 1354
+FTLN 1355
+FTLN 1356
+345
+FTLN 1357
+FTLN 1358
+FTLN 1359
+FTLN 1360
+FTLN 1361
+350
+FTLN 1362
+FTLN 1363
+FTLN 1364
+FTLN 1365
+FTLN 1366
+355
+FTLN 1367
+FTLN 1368
+FTLN 1369
+FTLN 1370
+FTLN 1371
+360
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+FTLN 1376
+365
+FTLN 1377
+FTLN 1378
+FTLN 1379
+FTLN 1380
+FTLN 1381
+370
+
+--- PAGE 57 / 87 ---
+109
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+OBERON
+He gives a flower to Robin.
+ROBIN
+ And so far blameless proves my enterprise
+ That I have ’nointed an Athenian’s eyes;
+ And so far am I glad it so did sort,
+ As this their jangling I esteem a sport.
+ 
+ Thou seest these lovers seek a place to fight.
+ Hie, therefore, Robin, overcast the night;
+ The starry welkin cover thou anon
+ With drooping fog as black as Acheron,
+ And lead these testy rivals so astray
+ As one come not within another’s way.
+ Like to Lysander sometime frame thy tongue;
+ Then stir Demetrius up with bitter wrong.
+ And sometime rail thou like Demetrius.
+ And from each other look thou lead them thus,
+ Till o’er their brows death-counterfeiting sleep
+ With leaden legs and batty wings doth creep.
+ Then crush this herb into Lysander’s eye,
+ Whose liquor hath this virtuous property,
+ To take from thence all error with his might
+ And make his eyeballs roll with wonted sight.
+ When they next wake, all this derision
+ Shall seem a dream and fruitless vision.
+ And back to Athens shall the lovers wend,
+ With league whose date till death shall never end.
+ Whiles I in this affair do thee employ,
+ I’ll to my queen and beg her Indian boy;
+ And then I will her charmèd eye release
+ From monster’s view, and all things shall be peace.
+ 
+ My fairy lord, this must be done with haste,
+ For night’s swift dragons cut the clouds full fast,
+ And yonder shines Aurora’s harbinger,
+ At whose approach, ghosts wand’ring here and
+ there
+FTLN 1382
+FTLN 1383
+FTLN 1384
+FTLN 1385
+FTLN 1386
+375
+FTLN 1387
+FTLN 1388
+FTLN 1389
+FTLN 1390
+FTLN 1391
+380
+FTLN 1392
+FTLN 1393
+FTLN 1394
+FTLN 1395
+FTLN 1396
+385
+FTLN 1397
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+390
+FTLN 1402
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+395
+FTLN 1407
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+400
+FTLN 1412
+FTLN 1413
+FTLN 1414
+
+--- PAGE 58 / 87 ---
+111
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+OBERON
+He exits.
+ROBIN
+LYSANDER
+ROBIN
+LYSANDER
+ROBIN
+Lysander exits.
+DEMETRIUS
+ Troop home to churchyards. Damnèd spirits all,
+ That in crossways and floods have burial,
+ Already to their wormy beds are gone.
+ For fear lest day should look their shames upon,
+ They willfully themselves exile from light
+ And must for aye consort with black-browed night.
+ 
+ But we are spirits of another sort.
+ I with the Morning’s love have oft made sport
+ And, like a forester, the groves may tread
+ Even till the eastern gate, all fiery red,
+ Opening on Neptune with fair blessèd beams,
+ Turns into yellow gold his salt-green streams.
+ But notwithstanding, haste! Make no delay.
+ We may effect this business yet ere day. 
+ 
+ Up and down, up and down,
+ I will lead them up and down.
+ I am feared in field and town.
+ Goblin, lead them up and down.
+ Here comes one.
+Enter Lysander.
+ 
+ Where art thou, proud Demetrius? Speak thou now.
+, in Demetrius’ voice
+ 
+ Here, villain, drawn and ready. Where art thou?
+  I will be with thee straight.
+, in Demetrius’ voice
+  Follow me, then, to
+ plainer ground. 
+Enter Demetrius.
+  Lysander, speak again.
+ Thou runaway, thou coward, art thou fled?
+ Speak! In some bush? Where dost thou hide thy
+ head?
+FTLN 1415
+FTLN 1416
+405
+FTLN 1417
+FTLN 1418
+FTLN 1419
+FTLN 1420
+FTLN 1421
+410
+FTLN 1422
+FTLN 1423
+FTLN 1424
+FTLN 1425
+FTLN 1426
+415
+FTLN 1427
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+420
+FTLN 1432
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+425
+FTLN 1437
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+430
+FTLN 1442
+
+--- PAGE 59 / 87 ---
+113
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+ROBIN
+DEMETRIUS
+ROBIN
+They exit.
+LYSANDER
+He lies down and sleeps.
+ROBIN
+DEMETRIUS
+ROBIN
+DEMETRIUS
+, in Lysander’s voice
+ 
+ Thou coward, art thou bragging to the stars,
+ Telling the bushes that thou look’st for wars,
+ And wilt not come? Come, recreant! Come, thou
+ child!
+ I’ll whip thee with a rod. He is defiled
+ That draws a sword on thee.
+  
+ Yea, art thou there?
+, in Lysander’s voice
+ 
+ Follow my voice. We’ll try no manhood here.
+Enter Lysander.
+ 
+ He goes before me and still dares me on.
+ When I come where he calls, then he is gone.
+ The villain is much lighter-heeled than I.
+ I followed fast, but faster he did fly,
+ That fallen am I in dark uneven way,
+ And here will rest me. Come, thou gentle day,
+ For if but once thou show me thy gray light,
+ I’ll find Demetrius and revenge this spite.
+Enter  Robin and Demetrius.
+, in Lysander’s voice
+ 
+ Ho, ho, ho! Coward, why com’st thou not?
+ 
+ Abide me, if thou dar’st, for well I wot
+ Thou runn’st before me, shifting every place,
+ And dar’st not stand nor look me in the face.
+ Where art thou now?
+, in Lysander’s voice
+ 
+ Come hither. I am here.
+ 
+ Nay, then, thou mock’st me. Thou shalt buy this
+ dear
+FTLN 1443
+FTLN 1444
+FTLN 1445
+FTLN 1446
+435
+FTLN 1447
+FTLN 1448
+FTLN 1449
+FTLN 1450
+FTLN 1451
+440
+FTLN 1452
+FTLN 1453
+FTLN 1454
+FTLN 1455
+FTLN 1456
+445
+FTLN 1457
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+450
+FTLN 1462
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+455
+
+--- PAGE 60 / 87 ---
+115
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+He lies down and sleeps.
+HELENA
+She lies down and  sleeps.
+ROBIN
+HERMIA
+She lies down and sleeps.
+ROBIN
+ If ever I thy face by daylight see.
+ Now go thy way. Faintness constraineth me
+ To measure out my length on this cold bed.
+ By day’s approach look to be visited.
+Enter Helena.
+ 
+ O weary night, O long and tedious night,
+  Abate thy hours! Shine, comforts, from the east,
+ That I may back to Athens by daylight
+  From these that my poor company detest.
+ And sleep, that sometimes shuts up sorrow’s eye,
+ Steal me awhile from mine own company.
+ 
+ Yet but three? Come one more.
+ Two of both kinds makes up four.
+ Here she comes, curst and sad.
+ Cupid is a knavish lad
+ Thus to make poor females mad.
+Enter Hermia.
+ 
+ Never so weary, never so in woe,
+  Bedabbled with the dew and torn with briers,
+ I can no further crawl, no further go.
+  My legs can keep no pace with my desires.
+ Here will I rest me till the break of day.
+ Heavens shield Lysander if they mean a fray!
+ 
+ 
+ On the ground
+ 
+ Sleep sound.
+ 
+ I’ll apply
+ 
+ To  your eye,
+ Gentle lover, remedy.
+FTLN 1467
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+460
+FTLN 1472
+FTLN 1473
+FTLN 1474
+FTLN 1475
+FTLN 1476
+465
+FTLN 1477
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+470
+FTLN 1482
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+475
+FTLN 1487
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+480
+FTLN 1492
+
+--- PAGE 61 / 87 ---
+117
+A Midsummer Night’s Dream
+ACT 3. SC. 2
+Robin applies the nectar 
+ to Lysander’s eyes.
+He exits.
+ 
+ When thou wak’st,
+ 
+ Thou tak’st
+ 
+ True delight
+ 
+ In the sight
+ Of thy former lady’s eye.
+ And the country proverb known,
+ That every man should take his own,
+ In your waking shall be shown.
+ 
+ Jack shall have Jill;
+ 
+ Naught shall go ill;
+ The man shall have his mare again, and all shall
+be
+ 
+ well.
+FTLN 1493
+FTLN 1494
+FTLN 1495
+FTLN 1496
+485
+FTLN 1497
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+490
+FTLN 1502
+FTLN 1503
+FTLN 1504
+
+--- PAGE 62 / 87 ---
+TITANIA
+BOTTOM
+PEASEBLOSSOM
+BOTTOM
+COBWEB
+BOTTOM
+MUSTARDSEED
+With the four lovers still asleep onstage,  enter
+Titania,  Queen of Fairies, and Bottom  and Fairies,
+and Oberon,  the King, behind them unseen by those
+onstage.
+ 
+ Come, sit thee down upon this flow’ry bed,
+  While I thy amiable cheeks do coy,
+ And stick muskroses in thy sleek smooth head,
+  And kiss thy fair large ears, my gentle joy.
+  Where’s Peaseblossom?
+  Ready.
+  Scratch my head, Peaseblossom. Where’s
+ Monsieur Cobweb?
+  Ready.
+  Monsieur Cobweb, good monsieur, get you
+ your weapons in your hand and kill me a red-hipped
+ humble-bee on the top of a thistle, and, good
+ monsieur, bring me the honey-bag. Do not fret
+ yourself too much in the action, monsieur, and,
+ good monsieur, have a care the honey-bag break
+ not; I would be loath to have you overflown with a
+ honey-bag, signior.  Cobweb exits.  Where’s Monsieur
+ Mustardseed?
+  Ready.
+121
+ACT 4
+Scene 1
+FTLN 1505
+FTLN 1506
+FTLN 1507
+FTLN 1508
+FTLN 1509
+5
+FTLN 1510
+FTLN 1511
+FTLN 1512
+FTLN 1513
+FTLN 1514
+10
+FTLN 1515
+FTLN 1516
+FTLN 1517
+FTLN 1518
+FTLN 1519
+15
+FTLN 1520
+FTLN 1521
+FTLN 1522
+FTLN 1523
+
+--- PAGE 63 / 87 ---
+123
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+BOTTOM
+MUSTARDSEED
+BOTTOM
+TITANIA
+BOTTOM
+TITANIA
+BOTTOM
+TITANIA
+BOTTOM
+TITANIA
+Fairies exit.
+Bottom and Titania sleep.
+OBERON
+  Give me your neaf, Monsieur Mustardseed.
+ Pray you, leave your courtesy, good monsieur.
+  What’s your will?
+  Nothing, good monsieur, but to help Cavalery
+ Cobweb to scratch. I must to the barber’s,
+ monsieur, for methinks I am marvels hairy about
+ the face. And I am such a tender ass, if my hair do
+ but tickle me, I must scratch.
+ 
+ What, wilt thou hear some music, my sweet love?
+  I have a reasonable good ear in music. Let’s
+ have the tongs and the bones.
+ 
+ Or say, sweet love, what thou desirest to eat.
+  Truly, a peck of provender. I could munch
+ your good dry oats. Methinks I have a great desire
+ to a bottle of hay. Good hay, sweet hay, hath no
+ fellow.
+ 
+ I have a venturous fairy that shall seek
+ The squirrel’s hoard and fetch thee new nuts.
+  I had rather have a handful or two of dried
+ peas. But, I pray you, let none of your people stir
+ me; I have an exposition of sleep come upon me.
+ 
+ Sleep thou, and I will wind thee in my arms.—
+ Fairies, begone, and be all ways away.
+ So doth the woodbine the sweet honeysuckle
+ Gently entwist; the female ivy so
+ Enrings the barky fingers of the elm.
+ O, how I love thee! How I dote on thee!
+Enter Robin Goodfellow.
+ 
+ Welcome, good Robin. Seest thou this sweet sight?
+FTLN 1524
+20
+FTLN 1525
+FTLN 1526
+FTLN 1527
+FTLN 1528
+FTLN 1529
+25
+FTLN 1530
+FTLN 1531
+FTLN 1532
+FTLN 1533
+FTLN 1534
+30
+FTLN 1535
+FTLN 1536
+FTLN 1537
+FTLN 1538
+FTLN 1539
+35
+FTLN 1540
+FTLN 1541
+FTLN 1542
+FTLN 1543
+FTLN 1544
+40
+FTLN 1545
+FTLN 1546
+FTLN 1547
+FTLN 1548
+FTLN 1549
+45
+FTLN 1550
+FTLN 1551
+
+--- PAGE 64 / 87 ---
+125
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+He applies the nectar to her eyes.
+TITANIA
+OBERON
+TITANIA
+ Her dotage now I do begin to pity.
+ For, meeting her of late behind the wood,
+ Seeking sweet favors for this hateful fool,
+ I did upbraid her and fall out with her.
+ For she his hairy temples then had rounded
+ With coronet of fresh and fragrant flowers;
+ And that same dew, which sometime on the buds
+ Was wont to swell like round and orient pearls,
+ Stood now within the pretty flouriets’ eyes,
+ Like tears that did their own disgrace bewail.
+ When I had at my pleasure taunted her,
+ And she in mild terms begged my patience,
+ I then did ask of her her changeling child,
+ Which straight she gave me, and her fairy sent
+ To bear him to my bower in Fairyland.
+ And now I have the boy, I will undo
+ This hateful imperfection of her eyes.
+ And, gentle Puck, take this transformèd scalp
+ From off the head of this Athenian swain,
+ That he, awaking when the other do,
+ May all to Athens back again repair
+ And think no more of this night’s accidents
+ But as the fierce vexation of a dream.
+ But first I will release the Fairy Queen.
+ Be as thou wast wont to be.
+ See as thou wast wont to see.
+ Dian’s bud o’er Cupid’s flower
+ Hath such force and blessèd power.
+ Now, my Titania, wake you, my sweet queen.
+, waking
+ 
+ My Oberon, what visions have I seen!
+ Methought I was enamored of an ass.
+ 
+ There lies your love.
+  
+ How came these things to pass?
+ O, how mine eyes do loathe his visage now!
+FTLN 1552
+FTLN 1553
+FTLN 1554
+50
+FTLN 1555
+FTLN 1556
+FTLN 1557
+FTLN 1558
+FTLN 1559
+55
+FTLN 1560
+FTLN 1561
+FTLN 1562
+FTLN 1563
+FTLN 1564
+60
+FTLN 1565
+FTLN 1566
+FTLN 1567
+FTLN 1568
+FTLN 1569
+65
+FTLN 1570
+FTLN 1571
+FTLN 1572
+FTLN 1573
+FTLN 1574
+70
+FTLN 1575
+FTLN 1576
+FTLN 1577
+FTLN 1578
+FTLN 1579
+75
+FTLN 1580
+FTLN 1581
+FTLN 1582
+FTLN 1583
+FTLN 1584
+80
+FTLN 1585
+
+--- PAGE 65 / 87 ---
+127
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+OBERON
+TITANIA
+ROBIN
+OBERON
+Music.
+Titania and Oberon dance.
+ROBIN
+OBERON
+TITANIA
+Oberon, Robin, and Titania  exit.
+ 
+ Silence awhile.—Robin, take off this head.—
+ Titania, music call; and strike more dead
+ Than common sleep of all these five  the sense.
+ 
+ Music, ho, music such as charmeth sleep!
+, removing the ass-head from Bottom
+ 
+ Now, when thou wak’st, with thine own fool’s eyes
+ peep.
+ 
+ Sound music. 
+ Come, my queen, take hands with me,
+ And rock the ground whereon these sleepers be.
+ Now thou and I are new in amity,
+ And will tomorrow midnight solemnly
+ Dance in Duke Theseus’ house triumphantly,
+ And bless it to all fair prosperity.
+ There shall the pairs of faithful lovers be
+ Wedded, with Theseus, all in jollity.
+ 
+ Fairy king, attend and mark.
+ I do hear the morning lark.
+ 
+ Then, my queen, in silence sad
+ Trip we after night’s shade.
+ We the globe can compass soon,
+ Swifter than the wand’ring moon.
+ 
+ Come, my lord, and in our flight
+ Tell me how it came this night
+ That I sleeping here was found
+ With these mortals on the ground.
+Wind horn. Enter Theseus and all his train,
+Hippolyta, Egeus.
+FTLN 1586
+FTLN 1587
+FTLN 1588
+FTLN 1589
+85
+FTLN 1590
+FTLN 1591
+FTLN 1592
+FTLN 1593
+FTLN 1594
+90
+FTLN 1595
+FTLN 1596
+FTLN 1597
+FTLN 1598
+FTLN 1599
+95
+FTLN 1600
+FTLN 1601
+FTLN 1602
+FTLN 1603
+FTLN 1604
+100
+FTLN 1605
+FTLN 1606
+FTLN 1607
+FTLN 1608
+FTLN 1609
+105
+FTLN 1610
+
+--- PAGE 66 / 87 ---
+129
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+THESEUS
+A Servant exits.
+HIPPOLYTA
+THESEUS
+EGEUS
+ 
+ Go, one of you, find out the Forester.
+ For now our observation is performed,
+ And, since we have the vaward of the day,
+ My love shall hear the music of my hounds.
+ Uncouple in the western valley; let them go.
+ Dispatch, I say, and find the Forester.
+ We will, fair queen, up to the mountain’s top
+ And mark the musical confusion
+ Of hounds and echo in conjunction.
+ 
+ I was with Hercules and Cadmus once,
+ When in a wood of Crete they bayed the bear
+ With hounds of Sparta. Never did I hear
+ Such gallant chiding, for, besides the groves,
+ The skies, the fountains, every region near
+ Seemed  all one mutual cry. I never heard
+ So musical a discord, such sweet thunder.
+ 
+ My hounds are bred out of the Spartan kind,
+ So flewed, so sanded; and their heads are hung
+ With ears that sweep away the morning dew;
+ Crook-kneed, and dewlapped like Thessalian bulls;
+ Slow in pursuit, but matched in mouth like bells,
+ Each under each. A cry more tunable
+ Was never holloed to, nor cheered with horn,
+ In Crete, in Sparta, nor in Thessaly.
+ Judge when you hear.—But soft! What nymphs are
+ these?
+ 
+ My lord, this is  my daughter here asleep,
+ And this Lysander; this Demetrius is,
+ This Helena, old Nedar’s Helena.
+ I wonder of their being here together.
+FTLN 1611
+FTLN 1612
+FTLN 1613
+FTLN 1614
+110
+FTLN 1615
+FTLN 1616
+FTLN 1617
+FTLN 1618
+FTLN 1619
+115
+FTLN 1620
+FTLN 1621
+FTLN 1622
+FTLN 1623
+FTLN 1624
+120
+FTLN 1625
+FTLN 1626
+FTLN 1627
+FTLN 1628
+FTLN 1629
+125
+FTLN 1630
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+130
+FTLN 1635
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+135
+FTLN 1640
+
+--- PAGE 67 / 87 ---
+131
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+THESEUS
+EGEUS
+THESEUS
+A Servant exits.
+Shout within. Wind horns. They all start up.
+THESEUS
+Demetrius, Helena, Hermia, and Lysander kneel.
+LYSANDER
+THESEUS
+They rise.
+LYSANDER
+EGEUS
+ 
+ No doubt they rose up early to observe
+ The rite of May, and hearing our intent,
+ Came here in grace of our solemnity.
+ But speak, Egeus. Is not this the day
+ That Hermia should give answer of her choice?
+  It is, my lord.
+ 
+ Go, bid the huntsmen wake them with their horns.
+ 
+ Good morrow, friends. Saint Valentine is past.
+ Begin these woodbirds but to couple now?
+ 
+ Pardon, my lord.
+  
+ I pray you all, stand up.
+ I know you two are rival enemies.
+ How comes this gentle concord in the world,
+ That hatred is so far from jealousy
+ To sleep by hate and fear no enmity?
+ 
+ My lord, I shall reply amazèdly,
+ Half sleep, half waking. But as yet, I swear,
+ I cannot truly say how I came here.
+ But, as I think—for truly would I speak,
+ And now I do bethink me, so it is:
+ I came with Hermia hither. Our intent
+ Was to be gone from Athens, where we might,
+ Without the peril of the Athenian law—
+ 
+ Enough, enough!—My lord, you have enough.
+ I beg the law, the law upon his head.
+ They would have stol’n away.—They would,
+ Demetrius,
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+140
+FTLN 1645
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+145
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+FTLN 1654
+150
+FTLN 1655
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+155
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+160
+FTLN 1665
+FTLN 1666
+FTLN 1667
+
+--- PAGE 68 / 87 ---
+133
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+DEMETRIUS
+THESEUS
+Theseus and his train,
+including Hippolyta and Egeus, exit.
+DEMETRIUS
+ Thereby to have defeated you and me:
+ You of your wife and me of my consent,
+ Of my consent that she should be your wife.
+ 
+ My lord, fair Helen told me of their stealth,
+ Of this their purpose hither to this wood,
+ And I in fury hither followed them,
+ Fair Helena in fancy following me.
+ But, my good lord, I wot not by what power
+ (But by some power it is) my love to Hermia,
+ Melted as the snow, seems to me now
+ As the remembrance of an idle gaud
+ Which in my childhood I did dote upon,
+ And all the faith, the virtue of my heart,
+ The object and the pleasure of mine eye,
+ Is only Helena. To her, my lord,
+ Was I betrothed ere I saw  Hermia.
+ But like a sickness did I loathe this food.
+ But, as in health, come to my natural taste,
+ Now I do wish it, love it, long for it,
+ And will forevermore be true to it.
+ 
+ Fair lovers, you are fortunately met.
+ Of this discourse we more will hear anon.—
+ Egeus, I will overbear your will,
+ For in the temple by and by, with us,
+ These couples shall eternally be knit.—
+ And, for the morning now is something worn,
+ Our purposed hunting shall be set aside.
+ Away with us to Athens. Three and three,
+ We’ll hold a feast in great solemnity.
+ Come, Hippolyta.
+ 
+ These things seem small and undistinguishable,
+ Like far-off mountains turnèd into clouds.
+FTLN 1668
+FTLN 1669
+165
+FTLN 1670
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+170
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+175
+FTLN 1680
+FTLN 1681
+FTLN 1682
+FTLN 1683
+FTLN 1684
+180
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+185
+FTLN 1690
+FTLN 1691
+FTLN 1692
+FTLN 1693
+FTLN 1694
+190
+FTLN 1695
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+195
+
+--- PAGE 69 / 87 ---
+135
+A Midsummer Night’s Dream
+ACT 4. SC. 1
+HERMIA
+HELENA
+DEMETRIUS
+HERMIA
+HELENA
+LYSANDER
+DEMETRIUS
+Lovers exit.
+BOTTOM
+ 
+ Methinks I see these things with parted eye,
+ When everything seems double.
+  
+ So methinks.
+ And I have found Demetrius like a jewel,
+ Mine own and not mine own.
+  
+ Are you sure
+ That we are awake? It seems to me
+ That yet we sleep, we dream. Do not you think
+ The Duke was here and bid us follow him?
+ 
+ Yea, and my father.
+  
+ And Hippolyta.
+ 
+ And he did bid us follow to the temple.
+ 
+ Why, then, we are awake. Let’s follow him,
+ And by the way let us  recount our dreams.
+, waking up
+   When my cue comes, call me,
+ and I will answer. My next is “Most fair Pyramus.”
+ Hey-ho! Peter Quince! Flute the bellows-mender!
+ Snout the tinker! Starveling! God’s my life! Stolen
+ hence and left me asleep! I have had a most rare
+ vision. I have had a dream past the wit of man to say
+ what dream it was. Man is but an ass if he go about
+ to  expound this dream. Methought I was—there
+ is no man can tell what. Methought I was and
+ methought I had—but man is but a patched  fool if
+ he will offer to say what methought I had. The eye of
+ man hath not heard, the ear of man hath not seen,
+ man’s hand is not able to taste, his tongue to
+ conceive, nor his heart to report what my dream
+ was. I will get Peter Quince to write a ballad of this
+ dream. It shall be called “Bottom’s Dream” because
+ it hath no bottom; and I will sing it in the
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+200
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+205
+FTLN 1710
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+210
+FTLN 1715
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+215
+FTLN 1720
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+220
+FTLN 1725
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+225
+FTLN 1730
+
+--- PAGE 70 / 87 ---
+137
+A Midsummer Night’s Dream
+ACT 4. SC. 2
+He exits.
+QUINCE
+STARVELING
+FLUTE
+QUINCE
+FLUTE
+QUINCE
+FLUTE
+SNUG
+FLUTE
+ latter end of a play, before the Duke. Peradventure,
+ to make it the more gracious, I shall sing it at her
+ death.
+Enter Quince, Flute, Snout, and Starveling.
+  Have you sent to Bottom’s house? Is he come
+ home yet?
+  He cannot be heard of. Out of doubt he
+ is transported.
+  If he come not, then the play is marred. It goes
+ not forward, doth it?
+  It is not possible. You have not a man in all
+ Athens able to discharge Pyramus but he.
+  No, he hath simply the best wit of any handicraftman
+ in Athens.
+  Yea, and the best person too, and he is a very
+ paramour for a sweet voice.
+  You must say “paragon.” A “paramour” is (God
+ bless us) a thing of naught.
+Enter Snug the joiner.
+  Masters, the Duke is coming from the temple,
+ and there is two or three lords and ladies more
+ married. If our sport had gone forward, we had all
+ been made men.
+  O, sweet bully Bottom! Thus hath he lost sixpence
+ a day during his life. He could not have
+ ’scaped sixpence a day. An the Duke had not given
+ him sixpence a day for playing Pyramus, I’ll be
+ hanged. He would have deserved it. Sixpence a day
+ in Pyramus, or nothing!
+Enter Bottom.
+FTLN 1731
+FTLN 1732
+FTLN 1733
+Scene 2
+FTLN 1734
+FTLN 1735
+FTLN 1736
+FTLN 1737
+FTLN 1738
+5
+FTLN 1739
+FTLN 1740
+FTLN 1741
+FTLN 1742
+FTLN 1743
+10
+FTLN 1744
+FTLN 1745
+FTLN 1746
+FTLN 1747
+FTLN 1748
+15
+FTLN 1749
+FTLN 1750
+FTLN 1751
+FTLN 1752
+FTLN 1753
+20
+FTLN 1754
+FTLN 1755
+FTLN 1756
+FTLN 1757
+
+--- PAGE 71 / 87 ---
+139
+A Midsummer Night’s Dream
+ACT 4. SC. 2
+BOTTOM
+QUINCE
+BOTTOM
+QUINCE
+BOTTOM
+They exit.
+  Where are these lads? Where are these
+ hearts?
+  Bottom! O most courageous day! O most happy
+ hour!
+  Masters, I am to discourse wonders. But ask
+ me not what; for, if I tell you, I am not true
+ Athenian. I will tell you everything right as it fell
+ out.
+  Let us hear, sweet Bottom.
+  Not a word of me. All that I will tell you is that
+ the Duke hath dined. Get your apparel together,
+ good strings to your beards, new ribbons to your
+ pumps. Meet presently at the palace. Every man
+ look o’er his part. For the short and the long is, our
+ play is preferred. In any case, let Thisbe have clean
+ linen, and let not him that plays the lion pare his
+ nails, for they shall hang out for the lion’s claws.
+ And, most dear actors, eat no onions nor garlic, for
+ we are to utter sweet breath, and I do not doubt but
+ to hear them say it is a sweet comedy. No more
+ words. Away! Go, away!
+FTLN 1758
+25
+FTLN 1759
+FTLN 1760
+FTLN 1761
+FTLN 1762
+FTLN 1763
+30
+FTLN 1764
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+35
+FTLN 1769
+FTLN 1770
+FTLN 1771
+FTLN 1772
+FTLN 1773
+40
+FTLN 1774
+FTLN 1775
+FTLN 1776
+FTLN 1777
+FTLN 1778
+45
+
+--- PAGE 72 / 87 ---
+HIPPOLYTA
+THESEUS
+Enter Theseus, Hippolyta, and Philostrate, Lords, and
+Attendants.
+ 
+ ’Tis strange, my Theseus, that these lovers speak of.
+ 
+ More strange than true. I never may believe
+ These antique fables nor these fairy toys.
+ Lovers and madmen have such seething brains,
+ Such shaping fantasies, that apprehend
+ More than cool reason ever comprehends.
+ The lunatic, the lover, and the poet
+ Are of imagination all compact.
+ One sees more devils than vast hell can hold:
+ That is the madman. The lover, all as frantic,
+ Sees Helen’s beauty in a brow of Egypt.
+ The poet’s eye, in a fine frenzy rolling,
+ Doth glance from heaven to Earth, from Earth to
+ heaven,
+ And as imagination bodies forth
+ The forms of things unknown, the poet’s pen
+ Turns them to shapes and gives to airy nothing
+ A local habitation and a name.
+ Such tricks hath strong imagination
+ That, if it would but apprehend some joy,
+143
+ACT 5
+Scene 1
+FTLN 1779
+FTLN 1780
+FTLN 1781
+FTLN 1782
+FTLN 1783
+5
+FTLN 1784
+FTLN 1785
+FTLN 1786
+FTLN 1787
+FTLN 1788
+10
+FTLN 1789
+FTLN 1790
+FTLN 1791
+FTLN 1792
+FTLN 1793
+15
+FTLN 1794
+FTLN 1795
+FTLN 1796
+FTLN 1797
+FTLN 1798
+20
+
+--- PAGE 73 / 87 ---
+145
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+HIPPOLYTA
+THESEUS
+LYSANDER
+THESEUS
+PHILOSTRATE
+THESEUS
+PHILOSTRATE
+ It comprehends some bringer of that joy.
+ Or in the night, imagining some fear,
+ How easy is a bush supposed a bear!
+ 
+ But all the story of the night told over,
+ And all their minds transfigured so together,
+ More witnesseth than fancy’s images
+ And grows to something of great constancy,
+ But, howsoever, strange and admirable.
+Enter Lovers: Lysander, Demetrius, Hermia, and Helena.
+ 
+ Here come the lovers full of joy and mirth.—
+ Joy, gentle friends! Joy and fresh days of love
+ Accompany your hearts!
+  
+ More than to us
+ Wait in your royal walks, your board, your bed!
+ 
+ Come now, what masques, what dances shall we
+ have
+ To wear away this long age of three hours
+ Between our  after-supper and bedtime?
+ Where is our usual manager of mirth?
+ What revels are in hand? Is there no play
+ To ease the anguish of a torturing hour?
+ Call Philostrate.
+, coming forward
+   Here, mighty Theseus.
+ 
+ Say what abridgment have you for this evening,
+ What masque, what music? How shall we beguile
+ The lazy time if not with some delight?
+, giving Theseus a paper
+ 
+ There is a brief how many sports are ripe.
+ Make choice of which your Highness will see first.
+FTLN 1799
+FTLN 1800
+FTLN 1801
+FTLN 1802
+FTLN 1803
+25
+FTLN 1804
+FTLN 1805
+FTLN 1806
+FTLN 1807
+FTLN 1808
+30
+FTLN 1809
+FTLN 1810
+FTLN 1811
+FTLN 1812
+FTLN 1813
+35
+FTLN 1814
+FTLN 1815
+FTLN 1816
+FTLN 1817
+FTLN 1818
+40
+FTLN 1819
+FTLN 1820
+FTLN 1821
+FTLN 1822
+FTLN 1823
+45
+FTLN 1824
+FTLN 1825
+
+--- PAGE 74 / 87 ---
+147
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+THESEUS
+PHILOSTRATE
+THESEUS
+PHILOSTRATE
+ 
+ “The battle with the Centaurs, to be sung
+ By an Athenian eunuch to the harp.”
+ We’ll none of that. That have I told my love
+ In glory of my kinsman Hercules.
+ “The riot of the tipsy Bacchanals,
+ Tearing the Thracian singer in their rage.”
+ That is an old device, and it was played
+ When I from Thebes came last a conqueror.
+ “The thrice-three Muses mourning for the death
+ Of learning, late deceased in beggary.”
+ That is some satire, keen and critical,
+ Not sorting with a nuptial ceremony.
+ “A tedious brief scene of young Pyramus
+ And his love Thisbe, very tragical mirth.”
+ “Merry” and “tragical”? “Tedious” and “brief”?
+ That is hot ice and wondrous strange snow!
+ How shall we find the concord of this discord?
+ 
+ A play there is, my lord, some ten words long
+ (Which is as brief as I have known a play),
+ But by ten words, my lord, it is too long,
+ Which makes it tedious; for in all the play,
+ There is not one word apt, one player fitted.
+ And tragical, my noble lord, it is.
+ For Pyramus therein doth kill himself,
+ Which, when I saw rehearsed, I must confess,
+ Made mine eyes water; but more merry tears
+ The passion of loud laughter never shed.
+ 
+ What are they that do play it?
+ 
+ Hard-handed men that work in Athens here,
+ Which never labored in their minds till now,
+ And now have toiled their unbreathed memories
+ With this same play, against your nuptial.
+FTLN 1826
+FTLN 1827
+FTLN 1828
+50
+FTLN 1829
+FTLN 1830
+FTLN 1831
+FTLN 1832
+FTLN 1833
+55
+FTLN 1834
+FTLN 1835
+FTLN 1836
+FTLN 1837
+FTLN 1838
+60
+FTLN 1839
+FTLN 1840
+FTLN 1841
+FTLN 1842
+FTLN 1843
+65
+FTLN 1844
+FTLN 1845
+FTLN 1846
+FTLN 1847
+FTLN 1848
+70
+FTLN 1849
+FTLN 1850
+FTLN 1851
+FTLN 1852
+FTLN 1853
+75
+FTLN 1854
+FTLN 1855
+FTLN 1856
+FTLN 1857
+
+--- PAGE 75 / 87 ---
+149
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+THESEUS
+PHILOSTRATE
+THESEUS
+Philostrate exits.
+HIPPOLYTA
+THESEUS
+HIPPOLYTA
+THESEUS
+ 
+ And we will hear it.
+  
+ No, my noble lord,
+ It is not for you. I have heard it over,
+ And it is nothing, nothing in the world,
+ Unless you can find sport in their intents,
+ Extremely stretched and conned with cruel pain
+ To do you service.
+  
+ I will hear that play,
+ For never anything can be amiss
+ When simpleness and duty tender it.
+ Go, bring them in—and take your places, ladies.
+ 
+ I love not to see wretchedness o’ercharged,
+ And duty in his service perishing.
+ 
+ Why, gentle sweet, you shall see no such thing.
+ 
+ He says they can do nothing in this kind.
+ 
+ The kinder we, to give them thanks for nothing.
+ Our sport shall be to take what they mistake;
+ And what poor duty cannot do, noble respect
+ Takes it in might, not merit.
+ Where I have come, great clerks have purposèd
+ To greet me with premeditated welcomes,
+ Where I have seen them shiver and look pale,
+ Make periods in the midst of sentences,
+ Throttle their practiced accent in their fears,
+ And in conclusion dumbly have broke off,
+ Not paying me a welcome. Trust me, sweet,
+ Out of this silence yet I picked a welcome,
+ And in the modesty of fearful duty,
+ I read as much as from the rattling tongue
+ Of saucy and audacious eloquence.
+FTLN 1858
+80
+FTLN 1859
+FTLN 1860
+FTLN 1861
+FTLN 1862
+FTLN 1863
+85
+FTLN 1864
+FTLN 1865
+FTLN 1866
+FTLN 1867
+FTLN 1868
+90
+FTLN 1869
+FTLN 1870
+FTLN 1871
+FTLN 1872
+FTLN 1873
+95
+FTLN 1874
+FTLN 1875
+FTLN 1876
+FTLN 1877
+FTLN 1878
+100
+FTLN 1879
+FTLN 1880
+FTLN 1881
+FTLN 1882
+FTLN 1883
+105
+FTLN 1884
+FTLN 1885
+FTLN 1886
+FTLN 1887
+
+--- PAGE 76 / 87 ---
+151
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+PHILOSTRATE
+THESEUS
+PROLOGUE
+Prologue exits.
+THESEUS
+LYSANDER
+HIPPOLYTA
+THESEUS
+QUINCE
+ Love, therefore, and tongue-tied simplicity
+ In least speak most, to my capacity.
+Enter Philostrate.
+ 
+ So please your Grace, the Prologue is addressed.
+  Let him approach.
+Enter the Prologue.
+ 
+ If we offend, it is with our goodwill.
+  That you should think we come not to offend,
+ But with goodwill. To show our simple skill,
+  That is the true beginning of our end.
+ Consider, then, we come but in despite.
+  We do not come, as minding to content you,
+ Our true intent is. All for your delight
+  We are not here. That you should here repent
+  you,
+ The actors are at hand, and, by their show,
+ You shall know all that you are like to know.
+  This fellow doth not stand upon points.
+  He hath rid his prologue like a rough colt;
+ he knows not the stop. A good moral, my lord: it is
+ not enough to speak, but to speak true.
+  Indeed he hath played on this prologue like
+ a child on a recorder—a sound, but not in
+ government.
+  His speech was like a tangled chain—nothing
+ impaired, but all disordered. Who is next?
+Enter Pyramus (Bottom),  and Thisbe (Flute),  and
+Wall (Snout),  and Moonshine (Starveling),  and Lion
+(Snug),  and Prologue (Quince).
+, as Prologue  
+ Gentles, perchance you wonder at this show.
+FTLN 1888
+110
+FTLN 1889
+FTLN 1890
+FTLN 1891
+FTLN 1892
+FTLN 1893
+115
+FTLN 1894
+FTLN 1895
+FTLN 1896
+FTLN 1897
+FTLN 1898
+120
+FTLN 1899
+FTLN 1900
+FTLN 1901
+FTLN 1902
+FTLN 1903
+125
+FTLN 1904
+FTLN 1905
+FTLN 1906
+FTLN 1907
+FTLN 1908
+130
+FTLN 1909
+FTLN 1910
+FTLN 1911
+FTLN 1912
+
+--- PAGE 77 / 87 ---
+153
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+THESEUS
+DEMETRIUS
+Lion, Thisbe, Moonshine, and Prologue  exit.
+SNOUT
+  But wonder on, till truth make all things plain.
+ This man is Pyramus, if you would know.
+  This beauteous lady Thisbe is certain.
+ This man with lime and roughcast doth present
+  “Wall,” that vile wall which did these lovers
+  sunder;
+ And through Wall’s chink, poor souls, they are
+ content
+  To whisper, at the which let no man wonder.
+ This man, with lantern, dog, and bush of thorn,
+  Presenteth “Moonshine,” for, if you will know,
+ By moonshine did these lovers think no scorn
+  To meet at Ninus’ tomb, there, there to woo.
+ This grisly beast (which “Lion” hight by name)
+  The trusty Thisbe coming first by night
+ Did scare  away or rather did affright;
+ And, as she fled, her mantle she did fall,
+  Which Lion vile with bloody mouth did stain.
+ Anon comes Pyramus, sweet youth and tall,
+  And finds his trusty Thisbe’s mantle slain.
+ Whereat, with blade, with bloody blameful blade,
+  He bravely broached his boiling bloody breast.
+ And Thisbe, tarrying in mulberry shade,
+  His dagger drew, and died. For all the rest,
+ Let Lion, Moonshine, Wall, and lovers twain
+ At large discourse, while here they do remain.
+  I wonder if the lion be to speak.
+  No wonder, my lord. One lion may when
+ many asses do.
+, as Wall  
+ In this same interlude it doth befall
+ That I, one Snout  by name, present a wall;
+ And such a wall as I would have you think
+ That had in it a crannied hole or chink,
+ Through which the lovers, Pyramus and Thisbe,
+FTLN 1913
+135
+FTLN 1914
+FTLN 1915
+FTLN 1916
+FTLN 1917
+FTLN 1918
+140
+FTLN 1919
+FTLN 1920
+FTLN 1921
+FTLN 1922
+FTLN 1923
+145
+FTLN 1924
+FTLN 1925
+FTLN 1926
+FTLN 1927
+FTLN 1928
+150
+FTLN 1929
+FTLN 1930
+FTLN 1931
+FTLN 1932
+FTLN 1933
+155
+FTLN 1934
+FTLN 1935
+FTLN 1936
+FTLN 1937
+FTLN 1938
+160
+FTLN 1939
+FTLN 1940
+FTLN 1941
+FTLN 1942
+FTLN 1943
+165
+FTLN 1944
+FTLN 1945
+FTLN 1946
+
+--- PAGE 78 / 87 ---
+155
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+THESEUS
+DEMETRIUS
+THESEUS
+BOTTOM
+THESEUS
+BOTTOM
+FLUTE
+ Did whisper often, very secretly.
+ This loam, this roughcast, and this stone doth show
+ That I am that same wall. The truth is so.
+ And this the cranny is, right and sinister,
+ Through which the fearful lovers are to whisper.
+  Would you desire lime and hair to speak
+ better?
+  It is the wittiest partition that ever I heard
+ discourse, my lord.
+  Pyramus draws near the wall. Silence.
+, as Pyramus  
+ O grim-looked night! O night with hue so black!
+  O night, which ever art when day is not!
+ O night! O night! Alack, alack, alack!
+  I fear my Thisbe’s promise is forgot.
+ And thou, O wall, O sweet, O lovely wall,
+  That stand’st between her father’s ground and
+  mine,
+ Thou wall, O wall, O sweet and lovely wall,
+  Show me thy chink to blink through with mine
+  eyne.
+ Thanks, courteous wall. Jove shield thee well for
+ this.
+  But what see I? No Thisbe do I see.
+ O wicked wall, through whom I see no bliss,
+  Cursed be thy stones for thus deceiving me!
+  The wall, methinks, being sensible, should
+ curse again.
+  No, in truth, sir, he should not. “Deceiving
+ me” is Thisbe’s cue. She is to enter now, and I am
+ to spy her through the wall. You shall see it will fall
+ pat as I told you. Yonder she comes.
+Enter Thisbe (Flute).
+, as Thisbe  
+ O wall, full often hast thou heard my moans
+FTLN 1947
+FTLN 1948
+170
+FTLN 1949
+FTLN 1950
+FTLN 1951
+FTLN 1952
+FTLN 1953
+175
+FTLN 1954
+FTLN 1955
+FTLN 1956
+FTLN 1957
+FTLN 1958
+180
+FTLN 1959
+FTLN 1960
+FTLN 1961
+FTLN 1962
+FTLN 1963
+185
+FTLN 1964
+FTLN 1965
+FTLN 1966
+FTLN 1967
+FTLN 1968
+190
+FTLN 1969
+FTLN 1970
+FTLN 1971
+FTLN 1972
+FTLN 1973
+195
+FTLN 1974
+FTLN 1975
+FTLN 1976
+FTLN 1977
+FTLN 1978
+200
+
+--- PAGE 79 / 87 ---
+157
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+BOTTOM
+FLUTE
+BOTTOM
+FLUTE
+BOTTOM
+FLUTE
+BOTTOM
+FLUTE
+BOTTOM
+FLUTE
+Bottom and Flute exit.
+SNOUT
+He exits.
+THESEUS
+DEMETRIUS
+HIPPOLYTA
+THESEUS
+  For parting my fair Pyramus and me.
+ My cherry lips have often kissed thy stones,
+  Thy stones with lime and hair knit up in thee.
+, as Pyramus  
+ I see a voice! Now will I to the chink
+  To spy an I can hear my Thisbe’s face.
+ Thisbe?
+, as Thisbe  
+ My love! Thou art my love, I think.
+, as Pyramus  
+  Think what thou wilt, I am thy lover’s grace,
+ And, like Limander, am I trusty still.
+, as Thisbe  
+ And I like Helen, till the Fates me kill.
+, as Pyramus  
+ Not Shafalus to Procrus was so true.
+, as Thisbe  
+ As Shafalus to Procrus, I to you.
+, as Pyramus  
+ O kiss me through the hole of this vile wall.
+, as Thisbe  
+ I kiss the wall’s hole, not your lips at all.
+, as Pyramus  
+ Wilt thou at Ninny’s tomb meet me straightway?
+, as Thisbe  
+ ’Tide life, ’tide death, I come without delay.
+, as Wall  
+ Thus have I, Wall, my part dischargèd so,
+ And, being done, thus Wall away doth go. 
+  Now is the wall down  between the two
+ neighbors.
+  No remedy, my lord, when walls are so
+ willful to hear without warning.
+  This is the silliest stuff that ever I heard.
+  The best in this kind are but shadows, and
+FTLN 1979
+FTLN 1980
+FTLN 1981
+FTLN 1982
+FTLN 1983
+205
+FTLN 1984
+FTLN 1985
+FTLN 1986
+FTLN 1987
+FTLN 1988
+210
+FTLN 1989
+FTLN 1990
+FTLN 1991
+FTLN 1992
+FTLN 1993
+215
+FTLN 1994
+FTLN 1995
+FTLN 1996
+FTLN 1997
+FTLN 1998
+220
+FTLN 1999
+FTLN 2000
+FTLN 2001
+FTLN 2002
+
+--- PAGE 80 / 87 ---
+159
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+HIPPOLYTA
+THESEUS
+SNUG
+THESEUS
+DEMETRIUS
+LYSANDER
+THESEUS
+DEMETRIUS
+THESEUS
+STARVELING
+DEMETRIUS
+THESEUS
+ the worst are no worse, if imagination amend
+ them.
+  It must be your imagination, then, and not
+ theirs.
+  If we imagine no worse of them than they of
+ themselves, they may pass for excellent men. Here
+ come two noble beasts in, a man and a lion.
+Enter Lion (Snug)  and Moonshine (Starveling).
+, as Lion  
+ You ladies, you whose gentle hearts do fear
+  The smallest monstrous mouse that creeps on
+  floor,
+ May now perchance both quake and tremble here,
+  When lion rough in wildest rage doth roar.
+ Then know that I, as Snug the joiner, am
+ A lion fell, nor else no lion’s dam;
+ For if I should as lion come in strife
+ Into this place, ’twere pity on my life.
+  A very gentle beast, and of a good
+ conscience.
+  The very best at a beast, my lord, that e’er I
+ saw.
+  This lion is a very fox for his valor.
+  True, and a goose for his discretion.
+  Not so, my lord, for his valor cannot carry
+ his discretion, and the fox carries the goose.
+  His discretion, I am sure, cannot carry his
+ valor, for the goose carries not the fox. It is well.
+ Leave it to his discretion, and let us listen to the
+ Moon.
+, as Moonshine  
+ This lanthorn doth the hornèd moon present.
+  He should have worn the horns on his
+ head.
+  He is no crescent, and his horns are invisible
+ within the circumference.
+FTLN 2003
+225
+FTLN 2004
+FTLN 2005
+FTLN 2006
+FTLN 2007
+FTLN 2008
+230
+FTLN 2009
+FTLN 2010
+FTLN 2011
+FTLN 2012
+FTLN 2013
+235
+FTLN 2014
+FTLN 2015
+FTLN 2016
+FTLN 2017
+FTLN 2018
+240
+FTLN 2019
+FTLN 2020
+FTLN 2021
+FTLN 2022
+FTLN 2023
+245
+FTLN 2024
+FTLN 2025
+FTLN 2026
+FTLN 2027
+FTLN 2028
+250
+FTLN 2029
+FTLN 2030
+FTLN 2031
+FTLN 2032
+FTLN 2033
+255
+FTLN 2034
+FTLN 2035
+
+--- PAGE 81 / 87 ---
+161
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+STARVELING
+THESEUS
+DEMETRIUS
+HIPPOLYTA
+THESEUS
+LYSANDER
+STARVELING
+DEMETRIUS
+FLUTE
+SNUG
+The Lion roars. Thisbe runs off,
+dropping her mantle.
+DEMETRIUS
+THESEUS
+HIPPOLYTA
+Lion worries the mantle.
+THESEUS
+, as Moonshine  
+ This lanthorn doth the hornèd moon present.
+ Myself the man i’ th’ moon do seem to be.
+  This is the greatest error of all the rest; the
+ man should be put into the lanthorn. How is it else
+ “the man i’ th’ moon”?
+  He dares not come there for the candle,
+ for you see, it is already in snuff.
+  I am aweary of this moon. Would he would
+ change.
+  It appears by his small light of discretion that
+ he is in the wane; but yet, in courtesy, in all reason,
+ we must stay the time.
+  Proceed, Moon.
+, as Moonshine    All that I have to say is to tell
+ you that the lanthorn is the moon, I the man i’ th’
+ moon, this thornbush my thornbush, and this dog
+ my dog.
+  Why, all these should be in the lanthorn,
+ for all these are in the moon. But silence. Here
+ comes Thisbe.
+Enter Thisbe (Flute).
+, as Thisbe  
+ This is old Ninny’s tomb. Where is my love?
+, as Lion   O!
+  Well roared, Lion.
+  Well run, Thisbe.
+  Well shone, Moon. Truly, the Moon shines
+ with a good grace.
+  Well moused, Lion.
+Enter Pyramus (Bottom).
+FTLN 2036
+FTLN 2037
+FTLN 2038
+260
+FTLN 2039
+FTLN 2040
+FTLN 2041
+FTLN 2042
+FTLN 2043
+265
+FTLN 2044
+FTLN 2045
+FTLN 2046
+FTLN 2047
+FTLN 2048
+270
+FTLN 2049
+FTLN 2050
+FTLN 2051
+FTLN 2052
+FTLN 2053
+275
+FTLN 2054
+FTLN 2055
+FTLN 2056
+FTLN 2057
+FTLN 2058
+280
+FTLN 2059
+FTLN 2060
+FTLN 2061
+FTLN 2062
+
+--- PAGE 82 / 87 ---
+163
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+DEMETRIUS
+Lion exits.
+LYSANDER
+BOTTOM
+THESEUS
+HIPPOLYTA
+BOTTOM
+Pyramus stabs himself.
+  And then came Pyramus.
+  And so the lion vanished.
+, as Pyramus  
+ Sweet Moon, I thank thee for thy sunny beams.
+  I thank thee, Moon, for shining now so bright,
+ For by thy gracious, golden, glittering gleams,
+  I trust to take of truest Thisbe sight.—
+ 
+ But stay! O spite!
+ 
+ But mark, poor knight,
+  What dreadful dole is here!
+ 
+ Eyes, do you see!
+ 
+ How can it be!
+  O dainty duck! O dear!
+ 
+ Thy mantle good—
+ 
+ What, stained with blood?
+  Approach, ye Furies fell!
+ 
+ O Fates, come, come,
+ 
+ Cut thread and thrum,
+  Quail, crush, conclude, and quell!
+  This passion, and the death of a dear friend,
+ would go near to make a man look sad.
+  Beshrew my heart but I pity the man.
+, as Pyramus  
+ O, wherefore, Nature, didst thou lions frame,
+  Since lion vile hath here deflowered my dear,
+ Which is—no, no—which was the fairest dame
+  That lived, that loved, that liked, that looked with
+  cheer?
+ 
+ Come, tears, confound!
+ 
+ Out, sword, and wound
+  The pap of Pyramus;
+ 
+ Ay, that left pap,
+ 
+ Where heart doth hop. 
+  Thus die I, thus, thus, thus.
+ 
+ Now am I dead;
+FTLN 2063
+285
+FTLN 2064
+FTLN 2065
+FTLN 2066
+FTLN 2067
+FTLN 2068
+290
+FTLN 2069
+FTLN 2070
+FTLN 2071
+FTLN 2072
+FTLN 2073
+295
+FTLN 2074
+FTLN 2075
+FTLN 2076
+FTLN 2077
+FTLN 2078
+300
+FTLN 2079
+FTLN 2080
+FTLN 2081
+FTLN 2082
+FTLN 2083
+305
+FTLN 2084
+FTLN 2085
+FTLN 2086
+FTLN 2087
+FTLN 2088
+310
+FTLN 2089
+FTLN 2090
+FTLN 2091
+FTLN 2092
+FTLN 2093
+315
+FTLN 2094
+FTLN 2095
+
+--- PAGE 83 / 87 ---
+165
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+Moonshine exits.
+Pyramus falls.
+DEMETRIUS
+LYSANDER
+THESEUS
+HIPPOLYTA
+THESEUS
+HIPPOLYTA
+DEMETRIUS
+LYSANDER
+DEMETRIUS
+FLUTE
+ 
+ Now am I fled;
+  My soul is in the sky.
+ 
+ Tongue, lose thy light!
+ 
+ Moon, take thy flight! 
+  Now die, die, die, die, die. 
+  No die, but an ace for him, for he is but
+ one.
+  Less than an ace, man, for he is dead, he is
+ nothing.
+  With the help of a surgeon he might yet
+ recover and yet prove an ass.
+  How chance Moonshine is gone before
+ Thisbe comes back and finds her lover?
+  She will find him by starlight.
+Enter Thisbe (Flute).
+ Here she comes, and her passion ends the play.
+  Methinks she should not use a long one for
+ such a Pyramus. I hope she will be brief.
+  A mote will turn the balance, which Pyramus,
+ which Thisbe, is the better: he for a man, God
+ warrant us; she for a woman, God bless us.
+  She hath spied him already with those
+ sweet eyes.
+  And thus she means, videlicet—
+, as Thisbe  
+ 
+ Asleep, my love?
+ 
+ What, dead, my dove?
+  O Pyramus, arise!
+ 
+ Speak, speak. Quite dumb?
+ 
+ Dead? Dead? A tomb
+  Must cover thy sweet eyes.
+ 
+ These lily lips,
+ 
+ This cherry nose,
+  These yellow cowslip cheeks
+ 
+ Are gone, are gone!
+FTLN 2096
+FTLN 2097
+FTLN 2098
+320
+FTLN 2099
+FTLN 2100
+FTLN 2101
+FTLN 2102
+FTLN 2103
+325
+FTLN 2104
+FTLN 2105
+FTLN 2106
+FTLN 2107
+FTLN 2108
+330
+FTLN 2109
+FTLN 2110
+FTLN 2111
+FTLN 2112
+FTLN 2113
+335
+FTLN 2114
+FTLN 2115
+FTLN 2116
+FTLN 2117
+FTLN 2118
+340
+FTLN 2119
+FTLN 2120
+FTLN 2121
+FTLN 2122
+FTLN 2123
+345
+FTLN 2124
+FTLN 2125
+FTLN 2126
+FTLN 2127
+FTLN 2128
+350
+
+--- PAGE 84 / 87 ---
+167
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+Thisbe stabs herself.
+Thisbe falls.
+THESEUS
+DEMETRIUS
+Bottom and Flute arise.
+BOTTOM
+THESEUS
+Dance, and the players exit.
+ 
+ Lovers, make moan;
+  His eyes were green as leeks.
+ 
+ O Sisters Three,
+ 
+ Come, come to me
+  With hands as pale as milk.
+ 
+ Lay them in gore,
+ 
+ Since you have shore
+  With shears his thread of silk.
+ 
+ Tongue, not a word!
+ 
+ Come, trusty sword,
+  Come, blade, my breast imbrue!
+ 
+ And farewell, friends.
+ 
+ Thus Thisbe ends.
+  Adieu, adieu, adieu. 
+  Moonshine and Lion are left to bury the
+ dead.
+  Ay, and Wall too.
+  No, I assure you, the wall is down that
+ parted their fathers. Will it please you to see the
+ Epilogue or to hear a Bergomask dance between
+ two of our company?
+  No epilogue, I pray you. For your play needs
+ no excuse. Never excuse. For when the players are
+ all dead, there need none to be blamed. Marry, if
+ he that writ it had played Pyramus and hanged
+ himself in Thisbe’s garter, it would have been a fine
+ tragedy; and so it is, truly, and very notably discharged.
+ But, come, your Bergomask. Let your
+ epilogue alone.
+ The iron tongue of midnight hath told twelve.
+ Lovers, to bed! ’Tis almost fairy time.
+ I fear we shall outsleep the coming morn
+ As much as we this night have overwatched.
+FTLN 2129
+FTLN 2130
+FTLN 2131
+FTLN 2132
+FTLN 2133
+355
+FTLN 2134
+FTLN 2135
+FTLN 2136
+FTLN 2137
+FTLN 2138
+360
+FTLN 2139
+FTLN 2140
+FTLN 2141
+FTLN 2142
+FTLN 2143
+365
+FTLN 2144
+FTLN 2145
+FTLN 2146
+FTLN 2147
+FTLN 2148
+370
+FTLN 2149
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+375
+FTLN 2154
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+380
+FTLN 2159
+FTLN 2160
+FTLN 2161
+
+--- PAGE 85 / 87 ---
+169
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+They exit.
+ROBIN
+OBERON
+ This palpable-gross play hath well beguiled
+ The heavy gait of night. Sweet friends, to bed.
+ A fortnight hold we this solemnity
+ In nightly revels and new jollity. 
+Enter Robin Goodfellow.
+ 
+ Now the hungry lion  roars,
+  And the wolf behowls  the moon,
+ Whilst the heavy plowman snores,
+  All with weary task fordone.
+ Now the wasted brands do glow,
+  Whilst the screech-owl, screeching loud,
+ Puts the wretch that lies in woe
+  In remembrance of a shroud.
+ Now it is the time of night
+  That the graves, all gaping wide,
+ Every one lets forth his sprite
+  In the church-way paths to glide.
+ And we fairies, that do run
+  By the triple Hecate’s team
+ From the presence of the sun,
+  Following darkness like a dream,
+ Now are frolic. Not a mouse
+ Shall disturb this hallowed house.
+ I am sent with broom before,
+ To sweep the dust behind the door.
+Enter Oberon and Titania,  King and Queen of Fairies,
+with all their train.
+ 
+ Through the house give glimmering light,
+  By the dead and drowsy fire.
+ Every elf and fairy sprite,
+  Hop as light as bird from brier,
+ And this ditty after me,
+ Sing and dance it trippingly.
+FTLN 2162
+FTLN 2163
+385
+FTLN 2164
+FTLN 2165
+FTLN 2166
+FTLN 2167
+FTLN 2168
+390
+FTLN 2169
+FTLN 2170
+FTLN 2171
+FTLN 2172
+FTLN 2173
+395
+FTLN 2174
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+400
+FTLN 2179
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+405
+FTLN 2184
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+410
+FTLN 2189
+FTLN 2190
+FTLN 2191
+
+--- PAGE 86 / 87 ---
+171
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+TITANIA
+Oberon leads the Fairies in song and dance.
+OBERON
+All but Robin  exit.
+ROBIN
+ 
+ First rehearse your song by rote,
+ To each word a warbling note.
+ Hand in hand, with fairy grace,
+ Will we sing and bless this place.
+ 
+ Now, until the break of day,
+ Through this house each fairy stray.
+ To the best bride-bed will we,
+ Which by us shall blessèd be,
+ And the issue there create
+ Ever shall be fortunate.
+ So shall all the couples three
+ Ever true in loving be,
+ And the blots of Nature’s hand
+ Shall not in their issue stand.
+ Never mole, harelip, nor scar,
+ Nor mark prodigious, such as are
+ Despisèd in nativity,
+ Shall upon their children be.
+ With this field-dew consecrate
+ Every fairy take his gait,
+ And each several chamber bless,
+ Through this palace, with sweet peace.
+ And the owner of it blest,
+ Ever shall in safety rest.
+ Trip away. Make no stay.
+ Meet me all by break of day.
+ 
+ If we shadows have offended,
+ Think but this and all is mended:
+ That you have but slumbered here
+ While these visions did appear.
+ And this weak and idle theme,
+FTLN 2192
+FTLN 2193
+415
+FTLN 2194
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+420
+FTLN 2199
+FTLN 2200
+FTLN 2201
+FTLN 2202
+FTLN 2203
+425
+FTLN 2204
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+430
+FTLN 2209
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+435
+FTLN 2214
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+440
+FTLN 2219
+FTLN 2220
+FTLN 2221
+FTLN 2222
+
+--- PAGE 87 / 87 ---
+173
+A Midsummer Night’s Dream
+ACT 5. SC. 1
+He exits.
+ No more yielding but a dream,
+ Gentles, do not reprehend.
+ If you pardon, we will mend.
+ And, as I am an honest Puck,
+ If we have unearnèd luck
+ Now to ’scape the serpent’s tongue,
+ We will make amends ere long.
+ Else the Puck a liar call.
+ So good night unto you all.
+ Give me your hands, if we be friends,
+ And Robin shall restore amends.
+FTLN 2223
+445
+FTLN 2224
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+450
+FTLN 2229
+FTLN 2230
+FTLN 2231
+FTLN 2232
+FTLN 2233
+455
+

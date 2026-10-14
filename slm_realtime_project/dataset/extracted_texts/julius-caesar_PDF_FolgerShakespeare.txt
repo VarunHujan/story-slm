@@ -1,0 +1,8162 @@
+=== BOOK TITLE: julius-caesar_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 106 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 106 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Contents
+
+--- PAGE 3 / 106 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 106 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 106 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 106 ---
+Caesar’s assassination is just the halfway point of Julius Caesar. The
+first part of the play leads to his death; the second portrays the
+consequences. As the action begins, Rome prepares for Caesar’s
+triumphal entrance. Brutus, Caesar’s friend and ally, fears that
+Caesar will become king, destroying the republic. Cassius and others
+convince Brutus to join a conspiracy to kill Caesar.
+On the day of the assassination, Caesar plans to stay home at the
+urging of his wife, Calphurnia. A conspirator, Decius Brutus,
+persuades him to go to the Senate with the other conspirators and his
+friend, Mark Antony. At the Senate, the conspirators stab Caesar to
+death. Antony uses a funeral oration to turn the citizens of Rome
+against them. Brutus and Cassius escape as Antony joins forces with
+Octavius Caesar.
+Encamped with their armies, Brutus and Cassius quarrel, then agree
+to march on Antony and Octavius. In the battle which follows,
+Cassius, misled by erroneous reports of loss, persuades a slave to kill
+him; Brutus’s army is defeated. Brutus commits suicide, praised by
+Antony as “the noblest Roman of them all.”
+Synopsis
+
+--- PAGE 7 / 106 ---
+JULIUS CAESAR
+CALPHURNIA, his wife
+Servant to them
+MARCUS BRUTUS
+PORTIA, his wife
+LUCIUS, their servant
+Servant to Antony
+Servant to Octavius
+A Carpenter
+A Cobbler
+A Soothsayer
+ARTEMIDORUS
+Characters in the Play
+patricians who, with Brutus,
+conspire against Caesar
+CAIUS CASSIUS
+CASCA
+CINNA
+DECIUS BRUTUS
+CAIUS LIGARIUS
+METELLUS CIMBER
+TREBONIUS
+senators
+CICERO
+PUBLIUS
+POPILIUS LENA
+tribunes
+FLAVIUS
+MARULLUS
+rulers of Rome in Acts 4 and 5
+MARK ANTONY
+LEPIDUS
+OCTAVIUS
+officers and soldiers in the
+armies of Brutus and Cassius
+LUCILIUS
+TITINIUS
+MESSALA
+VARRO
+CLAUDIUS
+YOUNG CATO
+STRATO
+VOLUMNIUS
+LABEO (nonspeaking)
+FLAVIUS (nonspeaking)
+DARDANUS
+CLITUS
+
+--- PAGE 8 / 106 ---
+First, Second, Third, and Fourth Plebeians
+CINNA the poet
+PINDARUS, slave to Cassius, freed upon Cassius’s death
+First, Second, Third, and Fourth Soldiers in Brutus’s army
+Another Poet
+A Messenger
+First and Second Soldiers in Antony’s army
+Citizens, Senators, Petitioners, Plebeians, Soldiers
+
+--- PAGE 9 / 106 ---
+FLAVIUS
+CARPENTER
+MARULLUS
+COBBLER
+MARULLUS
+COBBLER
+FLAVIUS
+Enter Flavius, Marullus, and certain Commoners,
+including a Carpenter and a Cobbler,  over the stage.
+ 
+ Hence! Home, you idle creatures, get you home!
+ Is this a holiday? What, know you not,
+ Being mechanical, you ought not walk
+ Upon a laboring day without the sign
+ Of your profession?—Speak, what trade art thou?
+  Why, sir, a carpenter.
+ 
+ Where is thy leather apron and thy rule?
+ What dost thou with thy best apparel on?—
+ You, sir, what trade are you?
+  Truly, sir, in respect of a fine workman, I am
+ but, as you would say, a cobbler.
+ 
+ But what trade art thou? Answer me directly.
+  A trade, sir, that I hope I may use with a safe
+ conscience, which is indeed, sir, a mender of bad
+ soles.
+ 
+ What trade, thou knave? Thou naughty knave, what
+ trade?
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+
+--- PAGE 10 / 106 ---
+9
+Julius Caesar
+ACT 1. SC. 1
+COBBLER
+MARULLUS
+COBBLER
+FLAVIUS
+COBBLER
+FLAVIUS
+COBBLER
+MARULLUS
+  Nay, I beseech you, sir, be not out with me.
+ Yet if you be out, sir, I can mend you.
+ 
+ What mean’st thou by that? Mend me, thou saucy
+ fellow?
+  Why, sir, cobble you.
+  Thou art a cobbler, art thou?
+  Truly, sir, all that I live by is with the
+ awl. I meddle with no tradesman’s matters nor
+ women’s matters, but withal I am indeed, sir, a
+ surgeon to old shoes: when they are in great danger,
+ I recover them. As proper men as ever trod upon
+ neat’s leather have gone upon my handiwork.
+ 
+ But wherefore art not in thy shop today?
+ Why dost thou lead these men about the streets?
+  Truly, sir, to wear out their shoes, to
+ get myself into more work. But indeed, sir, we
+ make holiday to see Caesar and to rejoice in his
+ triumph.
+ 
+ Wherefore rejoice? What conquest brings he home?
+ What tributaries follow him to Rome
+ To grace in captive bonds his chariot wheels?
+ You blocks, you stones, you worse than senseless
+ things!
+ O you hard hearts, you cruel men of Rome,
+ Knew you not Pompey? Many a time and oft
+ Have you climbed up to walls and battlements,
+ To towers and windows, yea, to chimney tops,
+ Your infants in your arms, and there have sat
+ The livelong day, with patient expectation,
+ To see great Pompey pass the streets of Rome.
+ And when you saw his chariot but appear,
+ Have you not made an universal shout,
+ That Tiber trembled underneath her banks
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+
+--- PAGE 11 / 106 ---
+11
+Julius Caesar
+ACT 1. SC. 1
+FLAVIUS
+All the Commoners exit.
+MARULLUS
+FLAVIUS
+They exit in different directions.
+ To hear the replication of your sounds
+ Made in her concave shores?
+ And do you now put on your best attire?
+ And do you now cull out a holiday?
+ And do you now strew flowers in his way
+ That comes in triumph over Pompey’s blood?
+ Be gone!
+ Run to your houses, fall upon your knees,
+ Pray to the gods to intermit the plague
+ That needs must light on this ingratitude.
+ 
+ Go, go, good countrymen, and for this fault
+ Assemble all the poor men of your sort,
+ Draw them to Tiber banks, and weep your tears
+ Into the channel, till the lowest stream
+ Do kiss the most exalted shores of all.
+ See whe’er their basest mettle be not moved.
+ They vanish tongue-tied in their guiltiness.
+ Go you down that way towards the Capitol.
+ This way will I. Disrobe the images
+ If you do find them decked with ceremonies.
+  May we do so?
+ You know it is the feast of Lupercal.
+ 
+ It is no matter. Let no images
+ Be hung with Caesar’s trophies. I’ll about
+ And drive away the vulgar from the streets;
+ So do you too, where you perceive them thick.
+ These growing feathers plucked from Caesar’s wing
+ Will make him fly an ordinary pitch,
+ Who else would soar above the view of men
+ And keep us all in servile fearfulness.
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+
+--- PAGE 12 / 106 ---
+13
+Julius Caesar
+ACT 1. SC. 2
+CAESAR
+CASCA
+CAESAR
+CALPHURNIA
+CAESAR
+ANTONY
+CAESAR
+ANTONY
+CAESAR
+Sennet.
+SOOTHSAYER
+CAESAR
+CASCA
+CAESAR
+SOOTHSAYER
+CAESAR
+BRUTUS
+Enter Caesar, Antony for the course, Calphurnia, Portia,
+Decius, Cicero, Brutus, Cassius, Casca, a Soothsayer;
+after them Marullus and Flavius and Commoners.
+ 
+ Calphurnia.
+  
+ Peace, ho! Caesar speaks.
+  
+ Calphurnia.
+  Here, my lord.
+ 
+ Stand you directly in Antonius’ way
+ When he doth run his course.—Antonius.
+  Caesar, my lord.
+ 
+ Forget not in your speed, Antonius,
+ To touch Calphurnia, for our elders say
+ The barren, touchèd in this holy chase,
+ Shake off their sterile curse.
+  
+ I shall remember.
+ When Caesar says “Do this,” it is performed.
+ 
+ Set on and leave no ceremony out. 
+  Caesar.
+  Ha! Who calls?
+ 
+ Bid every noise be still. Peace, yet again!
+ 
+ Who is it in the press that calls on me?
+ I hear a tongue shriller than all the music
+ Cry “Caesar.” Speak. Caesar is turned to hear.
+ 
+ Beware the ides of March.
+  
+ What man is that?
+ 
+ A soothsayer bids you beware the ides of March.
+Scene 2
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+5
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+10
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+15
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+20
+FTLN 0101
+FTLN 0102
+FTLN 0103
+
+--- PAGE 13 / 106 ---
+15
+Julius Caesar
+ACT 1. SC. 2
+CAESAR
+CASSIUS
+The Soothsayer comes forward.
+CAESAR
+SOOTHSAYER
+CAESAR
+Sennet. All but Brutus and Cassius exit.
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+ 
+ Set him before me. Let me see his face.
+ 
+ Fellow, come from the throng.
+ Look upon Caesar.
+ 
+ What sayst thou to me now? Speak once again.
+  Beware the ides of March.
+ 
+ He is a dreamer. Let us leave him. Pass.
+ 
+ Will you go see the order of the course?
+  Not I.
+  I pray you, do.
+ 
+ I am not gamesome. I do lack some part
+ Of that quick spirit that is in Antony.
+ Let me not hinder, Cassius, your desires.
+ I’ll leave you.
+ 
+ Brutus, I do observe you now of late.
+ I have not from your eyes that gentleness
+ And show of love as I was wont to have.
+ You bear too stubborn and too strange a hand
+ Over your friend that loves you.
+  
+ Cassius,
+ Be not deceived. If I have veiled my look,
+ I turn the trouble of my countenance
+ Merely upon myself. Vexèd I am
+ Of late with passions of some difference,
+ Conceptions only proper to myself,
+ Which give some soil, perhaps, to my behaviors.
+ But let not therefore my good friends be grieved
+ (Among which number, Cassius, be you one)
+FTLN 0104
+FTLN 0105
+25
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+30
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+35
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+40
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+45
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+50
+
+--- PAGE 14 / 106 ---
+17
+Julius Caesar
+ACT 1. SC. 2
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+ Nor construe any further my neglect
+ Than that poor Brutus, with himself at war,
+ Forgets the shows of love to other men.
+ 
+ Then, Brutus, I have much mistook your passion,
+ By means whereof this breast of mine hath buried
+ Thoughts of great value, worthy cogitations.
+ Tell me, good Brutus, can you see your face?
+ 
+ No, Cassius, for the eye sees not itself
+ But by reflection, by some other things.
+  ’Tis just.
+ And it is very much lamented, Brutus,
+ That you have no such mirrors as will turn
+ Your hidden worthiness into your eye,
+ That you might see your shadow. I have heard
+ Where many of the best respect in Rome,
+ Except immortal Caesar, speaking of Brutus
+ And groaning underneath this age’s yoke,
+ Have wished that noble Brutus had his eyes.
+ 
+ Into what dangers would you lead me, Cassius,
+ That you would have me seek into myself
+ For that which is not in me?
+ 
+ Therefore, good Brutus, be prepared to hear.
+ And since you know you cannot see yourself
+ So well as by reflection, I, your glass,
+ Will modestly discover to yourself
+ That of yourself which you yet know not of.
+ And be not jealous on me, gentle Brutus.
+ Were I a common laughter, or did use
+ To stale with ordinary oaths my love
+ To every new protester; if you know
+ That I do fawn on men and hug them hard
+ And after scandal them, or if you know
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+55
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+60
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+65
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+70
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+75
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+80
+FTLN 0161
+FTLN 0162
+
+--- PAGE 15 / 106 ---
+19
+Julius Caesar
+ACT 1. SC. 2
+Flourish and shout.
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+ That I profess myself in banqueting
+ To all the rout, then hold me dangerous.
+ 
+ What means this shouting? I do fear the people
+ Choose Caesar for their king.
+  
+ Ay, do you fear it?
+ Then must I think you would not have it so.
+ 
+ I would not, Cassius, yet I love him well.
+ But wherefore do you hold me here so long?
+ What is it that you would impart to me?
+ If it be aught toward the general good,
+ Set honor in one eye and death i’ th’ other
+ And I will look on both indifferently;
+ For let the gods so speed me as I love
+ The name of honor more than I fear death.
+ 
+ I know that virtue to be in you, Brutus,
+ As well as I do know your outward favor.
+ Well, honor is the subject of my story.
+ I cannot tell what you and other men
+ Think of this life; but, for my single self,
+ I had as lief not be as live to be
+ In awe of such a thing as I myself.
+ I was born free as Caesar; so were you;
+ We both have fed as well, and we can both
+ Endure the winter’s cold as well as he.
+ For once, upon a raw and gusty day,
+ The troubled Tiber chafing with her shores,
+ Caesar said to me “Dar’st thou, Cassius, now
+ Leap in with me into this angry flood
+ And swim to yonder point?” Upon the word,
+ Accoutered as I was, I plungèd in
+ And bade him follow; so indeed he did.
+ The torrent roared, and we did buffet it
+FTLN 0163
+FTLN 0164
+FTLN 0165
+85
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+90
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+95
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+100
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+105
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+110
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+
+--- PAGE 16 / 106 ---
+21
+Julius Caesar
+ACT 1. SC. 2
+Shout. Flourish.
+BRUTUS
+CASSIUS
+ With lusty sinews, throwing it aside
+ And stemming it with hearts of controversy.
+ But ere we could arrive the point proposed,
+ Caesar cried “Help me, Cassius, or I sink!”
+ I, as Aeneas, our great ancestor,
+ Did from the flames of Troy upon his shoulder
+ The old Anchises bear, so from the waves of Tiber
+ Did I the tired Caesar. And this man
+ Is now become a god, and Cassius is
+ A wretched creature and must bend his body
+ If Caesar carelessly but nod on him.
+ He had a fever when he was in Spain,
+ And when the fit was on him, I did mark
+ How he did shake. ’Tis true, this god did shake.
+ His coward lips did from their color fly,
+ And that same eye whose bend doth awe the world
+ Did lose his luster. I did hear him groan.
+ Ay, and that tongue of his that bade the Romans
+ Mark him and write his speeches in their books,
+ “Alas,” it cried “Give me some drink, Titinius”
+ As a sick girl. You gods, it doth amaze me
+ A man of such a feeble temper should
+ So get the start of the majestic world
+ And bear the palm alone.
+  Another general shout!
+ I do believe that these applauses are
+ For some new honors that are heaped on Caesar.
+ 
+ Why, man, he doth bestride the narrow world
+ Like a Colossus, and we petty men
+ Walk under his huge legs and peep about
+ To find ourselves dishonorable graves.
+ Men at some time are masters of their fates.
+ The fault, dear Brutus, is not in our stars,
+ But in ourselves, that we are underlings.
+FTLN 0195
+115
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+120
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+125
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+130
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+135
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+140
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+145
+FTLN 0226
+FTLN 0227
+FTLN 0228
+
+--- PAGE 17 / 106 ---
+23
+Julius Caesar
+ACT 1. SC. 2
+BRUTUS
+ “Brutus” and “Caesar”—what should be in that
+ “Caesar”?
+ Why should that name be sounded more than
+ yours?
+ Write them together, yours is as fair a name;
+ Sound them, it doth become the mouth as well;
+ Weigh them, it is as heavy; conjure with ’em,
+ “Brutus” will start a spirit as soon as “Caesar.”
+ Now, in the names of all the gods at once,
+ Upon what meat doth this our Caesar feed
+ That he is grown so great? Age, thou art shamed!
+ Rome, thou hast lost the breed of noble bloods!
+ When went there by an age, since the great flood,
+ But it was famed with more than with one man?
+ When could they say, till now, that talked of Rome,
+ That her wide walks encompassed but one man?
+ Now is it Rome indeed, and room enough
+ When there is in it but one only man.
+ O, you and I have heard our fathers say
+ There was a Brutus once that would have brooked
+ Th’ eternal devil to keep his state in Rome
+ As easily as a king.
+ 
+ That you do love me, I am nothing jealous.
+ What you would work me to, I have some aim.
+ How I have thought of this, and of these times,
+ I shall recount hereafter. For this present,
+ I would not, so with love I might entreat you,
+ Be any further moved. What you have said
+ I will consider; what you have to say
+ I will with patience hear, and find a time
+ Both meet to hear and answer such high things.
+ Till then, my noble friend, chew upon this:
+ Brutus had rather be a villager
+ Than to repute himself a son of Rome
+FTLN 0229
+FTLN 0230
+150
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+155
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+160
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+165
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+170
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+175
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+180
+FTLN 0261
+FTLN 0262
+
+--- PAGE 18 / 106 ---
+25
+Julius Caesar
+ACT 1. SC. 2
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+CAESAR
+ANTONY
+CAESAR
+ANTONY
+CAESAR
+ Under these hard conditions as this time
+ Is like to lay upon us.
+  I am glad that my weak words
+ Have struck but thus much show of fire from
+ Brutus.
+Enter Caesar and his train.
+ 
+ The games are done, and Caesar is returning.
+ 
+ As they pass by, pluck Casca by the sleeve,
+ And he will, after his sour fashion, tell you
+ What hath proceeded worthy note today.
+ 
+ I will do so. But look you, Cassius,
+ The angry spot doth glow on Caesar’s brow,
+ And all the rest look like a chidden train.
+ Calphurnia’s cheek is pale, and Cicero
+ Looks with such ferret and such fiery eyes
+ As we have seen him in the Capitol,
+ Being crossed in conference by some senators.
+ 
+ Casca will tell us what the matter is.
+  Antonius.
+  Caesar.
+ 
+ Let me have men about me that are fat,
+ Sleek-headed men, and such as sleep a-nights.
+ Yond Cassius has a lean and hungry look.
+ He thinks too much. Such men are dangerous.
+ 
+ Fear him not, Caesar; he’s not dangerous.
+ He is a noble Roman, and well given.
+ 
+ Would he were fatter! But I fear him not.
+ Yet if my name were liable to fear,
+FTLN 0263
+FTLN 0264
+FTLN 0265
+185
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+190
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+195
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+200
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+205
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+
+--- PAGE 19 / 106 ---
+27
+Julius Caesar
+ACT 1. SC. 2
+Sennet. Caesar and his train exit
+but Casca remains behind.
+CASCA
+BRUTUS
+CASCA
+BRUTUS
+CASCA
+BRUTUS
+CASCA
+CASSIUS
+CASCA
+BRUTUS
+CASCA
+ I do not know the man I should avoid
+ So soon as that spare Cassius. He reads much,
+ He is a great observer, and he looks
+ Quite through the deeds of men. He loves no plays,
+ As thou dost, Antony; he hears no music;
+ Seldom he smiles, and smiles in such a sort
+ As if he mocked himself and scorned his spirit
+ That could be moved to smile at anything.
+ Such men as he be never at heart’s ease
+ Whiles they behold a greater than themselves,
+ And therefore are they very dangerous.
+ I rather tell thee what is to be feared
+ Than what I fear; for always I am Caesar.
+ Come on my right hand, for this ear is deaf,
+ And tell me truly what thou think’st of him.
+  You pulled me by the cloak. Would you speak
+ with me?
+ 
+ Ay, Casca. Tell us what hath chanced today
+ That Caesar looks so sad.
+  Why, you were with him, were you not?
+ 
+ I should not then ask Casca what had chanced.
+  Why, there was a crown offered him; and, being
+ offered him, he put it by with the back of his hand,
+ thus, and then the people fell a-shouting.
+  What was the second noise for?
+  Why, for that too.
+ 
+ They shouted thrice. What was the last cry for?
+  Why, for that too.
+  Was the crown offered him thrice?
+  Ay, marry, was ’t, and he put it by thrice, every
+ time gentler than other; and at every putting-by,
+ mine honest neighbors shouted.
+FTLN 0290
+210
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+215
+FTLN 0296
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+220
+FTLN 0301
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+225
+FTLN 0306
+FTLN 0307
+FTLN 0308
+FTLN 0309
+FTLN 0310
+230
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+235
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+240
+FTLN 0321
+
+--- PAGE 20 / 106 ---
+29
+Julius Caesar
+ACT 1. SC. 2
+CASSIUS
+CASCA
+BRUTUS
+CASCA
+CASSIUS
+CASCA
+BRUTUS
+CASSIUS
+CASCA
+  Who offered him the crown?
+  Why, Antony.
+ 
+ Tell us the manner of it, gentle Casca.
+  I can as well be hanged as tell the manner of it.
+ It was mere foolery; I did not mark it. I saw Mark
+ Antony offer him a crown (yet ’twas not a crown
+ neither; ’twas one of these coronets), and, as I told
+ you, he put it by once; but for all that, to my
+ thinking, he would fain have had it. Then he offered
+ it to him again; then he put it by again; but to my
+ thinking, he was very loath to lay his fingers off it.
+ And then he offered it the third time. He put it the
+ third time by, and still as he refused it the rabblement
+ hooted and clapped their chopped hands and
+ threw up their sweaty nightcaps and uttered such a
+ deal of stinking breath because Caesar refused the
+ crown that it had almost choked Caesar, for he
+ swooned and fell down at it. And for mine own part,
+ I durst not laugh for fear of opening my lips and
+ receiving the bad air.
+ 
+ But soft, I pray you. What, did Caesar swoon?
+  He fell down in the marketplace and foamed at
+ mouth and was speechless.
+ 
+ ’Tis very like; he hath the falling sickness.
+ 
+ No, Caesar hath it not; but you and I
+ And honest Casca, we have the falling sickness.
+  I know not what you mean by that, but I am
+ sure Caesar fell down. If the tag-rag people did not
+ clap him and hiss him, according as he pleased and
+ displeased them, as they use to do the players in the
+ theater, I am no true man.
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+245
+FTLN 0326
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+250
+FTLN 0331
+FTLN 0332
+FTLN 0333
+FTLN 0334
+FTLN 0335
+255
+FTLN 0336
+FTLN 0337
+FTLN 0338
+FTLN 0339
+FTLN 0340
+260
+FTLN 0341
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+265
+FTLN 0346
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+270
+FTLN 0351
+FTLN 0352
+
+--- PAGE 21 / 106 ---
+31
+Julius Caesar
+ACT 1. SC. 2
+BRUTUS
+CASCA
+BRUTUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+He exits.
+ 
+ What said he when he came unto himself?
+  Marry, before he fell down, when he perceived
+ the common herd was glad he refused the crown,
+ he plucked me ope his doublet and offered them his
+ throat to cut. An I had been a man of any occupation,
+ if I would not have taken him at a word, I
+ would I might go to hell among the rogues. And so
+ he fell. When he came to himself again, he said if he
+ had done or said anything amiss, he desired their
+ Worships to think it was his infirmity. Three or four
+ wenches where I stood cried “Alas, good soul!” and
+ forgave him with all their hearts. But there’s no
+ heed to be taken of them; if Caesar had stabbed
+ their mothers, they would have done no less.
+ 
+ And, after that, he came thus sad away?
+  Ay.
+  Did Cicero say anything?
+  Ay, he spoke Greek.
+  To what effect?
+  Nay, an I tell you that, I’ll ne’er look you i’ th’
+ face again. But those that understood him smiled at
+ one another and shook their heads. But for mine
+ own part, it was Greek to me. I could tell you more
+ news too: Marullus and Flavius, for pulling scarves
+ off Caesar’s images, are put to silence. Fare you
+ well. There was more foolery yet, if I could remember
+ it.
+  Will you sup with me tonight, Casca?
+  No, I am promised forth.
+  Will you dine with me tomorrow?
+  Ay, if I be alive, and your mind hold, and your
+ dinner worth the eating.
+  Good. I will expect you.
+  Do so. Farewell both. 
+FTLN 0353
+FTLN 0354
+FTLN 0355
+275
+FTLN 0356
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+280
+FTLN 0361
+FTLN 0362
+FTLN 0363
+FTLN 0364
+FTLN 0365
+285
+FTLN 0366
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+290
+FTLN 0371
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+295
+FTLN 0376
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+300
+FTLN 0381
+FTLN 0382
+FTLN 0383
+FTLN 0384
+FTLN 0385
+305
+FTLN 0386
+
+--- PAGE 22 / 106 ---
+33
+Julius Caesar
+ACT 1. SC. 2
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+Brutus exits.
+He exits.
+ 
+ What a blunt fellow is this grown to be!
+ He was quick mettle when he went to school.
+ 
+ So is he now in execution
+ Of any bold or noble enterprise,
+ However he puts on this tardy form.
+ This rudeness is a sauce to his good wit,
+ Which gives men stomach to digest his words
+ With better appetite.
+ 
+ And so it is. For this time I will leave you.
+ Tomorrow, if you please to speak with me,
+ I will come home to you; or, if you will,
+ Come home to me, and I will wait for you.
+ 
+ I will do so. Till then, think of the world.
+ Well, Brutus, thou art noble. Yet I see
+ Thy honorable mettle may be wrought
+ From that it is disposed. Therefore it is meet
+ That noble minds keep ever with their likes;
+ For who so firm that cannot be seduced?
+ Caesar doth bear me hard, but he loves Brutus.
+ If I were Brutus now, and he were Cassius,
+ He should not humor me. I will this night
+ In several hands in at his windows throw,
+ As if they came from several citizens,
+ Writings, all tending to the great opinion
+ That Rome holds of his name, wherein obscurely
+ Caesar’s ambition shall be glancèd at
+ And after this, let Caesar seat him sure,
+ For we will shake him, or worse days endure.
+FTLN 0387
+FTLN 0388
+FTLN 0389
+FTLN 0390
+310
+FTLN 0391
+FTLN 0392
+FTLN 0393
+FTLN 0394
+FTLN 0395
+315
+FTLN 0396
+FTLN 0397
+FTLN 0398
+FTLN 0399
+FTLN 0400
+320
+FTLN 0401
+FTLN 0402
+FTLN 0403
+FTLN 0404
+FTLN 0405
+325
+FTLN 0406
+FTLN 0407
+FTLN 0408
+FTLN 0409
+FTLN 0410
+330
+FTLN 0411
+FTLN 0412
+FTLN 0413
+FTLN 0414
+
+--- PAGE 23 / 106 ---
+35
+Julius Caesar
+ACT 1. SC. 3
+CICERO
+CASCA
+CICERO
+CASCA
+Thunder and lightning. Enter Casca and Cicero.
+ 
+ Good even, Casca. Brought you Caesar home?
+ Why are you breathless? And why stare you so?
+ 
+ Are not you moved, when all the sway of earth
+ Shakes like a thing unfirm? O Cicero,
+ I have seen tempests when the scolding winds
+ Have rived the knotty oaks, and I have seen
+ Th’ ambitious ocean swell and rage and foam
+ To be exalted with the threat’ning clouds;
+ But never till tonight, never till now,
+ Did I go through a tempest dropping fire.
+ Either there is a civil strife in heaven,
+ Or else the world, too saucy with the gods,
+ Incenses them to send destruction.
+ 
+ Why, saw you anything more wonderful?
+ 
+ A common slave (you know him well by sight)
+ Held up his left hand, which did flame and burn
+ Like twenty torches joined; and yet his hand,
+ Not sensible of fire, remained unscorched.
+ Besides (I ha’ not since put up my sword),
+ Against the Capitol I met a lion,
+ Who glazed upon me and went surly by
+ Without annoying me. And there were drawn
+ Upon a heap a hundred ghastly women,
+ Transformèd with their fear, who swore they saw
+ Men all in fire walk up and down the streets.
+ And yesterday the bird of night did sit
+ Even at noonday upon the marketplace,
+ Hooting and shrieking. When these prodigies
+ Do so conjointly meet, let not men say
+Scene 3
+FTLN 0415
+FTLN 0416
+FTLN 0417
+FTLN 0418
+FTLN 0419
+5
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+FTLN 0424
+10
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+15
+FTLN 0430
+FTLN 0431
+FTLN 0432
+FTLN 0433
+FTLN 0434
+20
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+25
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+
+--- PAGE 24 / 106 ---
+37
+Julius Caesar
+ACT 1. SC. 3
+CICERO
+CASCA
+CICERO
+CASCA
+Cicero exits.
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+ “These are their reasons, they are natural,”
+ For I believe they are portentous things
+ Unto the climate that they point upon.
+ 
+ Indeed, it is a strange-disposèd time.
+ But men may construe things after their fashion,
+ Clean from the purpose of the things themselves.
+ Comes Caesar to the Capitol tomorrow?
+ 
+ He doth, for he did bid Antonius
+ Send word to you he would be there tomorrow.
+ 
+ Good night then, Casca. This disturbèd sky
+ Is not to walk in.
+  
+ Farewell, Cicero 
+Enter Cassius.
+ 
+ Who’s there?
+  
+ A Roman.
+  
+ Casca, by your voice.
+ 
+ Your ear is good. Cassius, what night is this!
+ 
+ A very pleasing night to honest men.
+ 
+ Who ever knew the heavens menace so?
+ 
+ Those that have known the Earth so full of faults.
+ For my part, I have walked about the streets,
+ Submitting me unto the perilous night,
+ And thus unbracèd, Casca, as you see,
+ Have bared my bosom to the thunder-stone;
+ And when the cross blue lightning seemed to open
+ The breast of heaven, I did present myself
+ Even in the aim and very flash of it.
+FTLN 0444
+30
+FTLN 0445
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+35
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+40
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+45
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+FTLN 0464
+50
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+55
+
+--- PAGE 25 / 106 ---
+39
+Julius Caesar
+ACT 1. SC. 3
+CASCA
+CASSIUS
+CASCA
+CASSIUS
+ 
+ But wherefore did you so much tempt the heavens?
+ It is the part of men to fear and tremble
+ When the most mighty gods by tokens send
+ Such dreadful heralds to astonish us.
+ 
+ You are dull, Casca, and those sparks of life
+ That should be in a Roman you do want,
+ Or else you use not. You look pale, and gaze,
+ And put on fear, and cast yourself in wonder,
+ To see the strange impatience of the heavens.
+ But if you would consider the true cause
+ Why all these fires, why all these gliding ghosts,
+ Why birds and beasts from quality and kind,
+ Why old men, fools, and children calculate,
+ Why all these things change from their ordinance,
+ Their natures, and preformèd faculties,
+ To monstrous quality—why, you shall find
+ That heaven hath infused them with these spirits
+ To make them instruments of fear and warning
+ Unto some monstrous state.
+ Now could I, Casca, name to thee a man
+ Most like this dreadful night,
+ That thunders, lightens, opens graves, and roars
+ As doth the lion in the Capitol;
+ A man no mightier than thyself or me
+ In personal action, yet prodigious grown,
+ And fearful, as these strange eruptions are.
+ 
+ ’Tis Caesar that you mean, is it not, Cassius?
+ 
+ Let it be who it is. For Romans now
+ Have thews and limbs like to their ancestors.
+ But, woe the while, our fathers’ minds are dead,
+ And we are governed with our mothers’ spirits.
+ Our yoke and sufferance show us womanish.
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+FTLN 0474
+60
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+65
+FTLN 0480
+FTLN 0481
+FTLN 0482
+FTLN 0483
+FTLN 0484
+70
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+75
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+80
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+FTLN 0499
+85
+FTLN 0500
+FTLN 0501
+
+--- PAGE 26 / 106 ---
+41
+Julius Caesar
+ACT 1. SC. 3
+CASCA
+CASSIUS
+Thunder still.
+CASCA
+CASSIUS
+ 
+ Indeed, they say the Senators tomorrow
+ Mean to establish Caesar as a king,
+ And he shall wear his crown by sea and land
+ In every place save here in Italy.
+ 
+ I know where I will wear this dagger then;
+ Cassius from bondage will deliver Cassius.
+ Therein, you gods, you make the weak most strong;
+ Therein, you gods, you tyrants do defeat.
+ Nor stony tower, nor walls of beaten brass,
+ Nor airless dungeon, nor strong links of iron,
+ Can be retentive to the strength of spirit;
+ But life, being weary of these worldly bars,
+ Never lacks power to dismiss itself.
+ If I know this, know all the world besides,
+ That part of tyranny that I do bear
+ I can shake off at pleasure. 
+  
+ So can I.
+ So every bondman in his own hand bears
+ The power to cancel his captivity.
+ 
+ And why should Caesar be a tyrant, then?
+ Poor man, I know he would not be a wolf
+ But that he sees the Romans are but sheep;
+ He were no lion, were not Romans hinds.
+ Those that with haste will make a mighty fire
+ Begin it with weak straws. What trash is Rome,
+ What rubbish, and what offal when it serves
+ For the base matter to illuminate
+ So vile a thing as Caesar! But, O grief,
+ Where hast thou led me? I perhaps speak this
+ Before a willing bondman; then, I know
+ My answer must be made. But I am armed,
+ And dangers are to me indifferent.
+FTLN 0502
+FTLN 0503
+FTLN 0504
+90
+FTLN 0505
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+95
+FTLN 0510
+FTLN 0511
+FTLN 0512
+FTLN 0513
+FTLN 0514
+100
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+FTLN 0519
+105
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+110
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+115
+FTLN 0530
+FTLN 0531
+FTLN 0532
+FTLN 0533
+
+--- PAGE 27 / 106 ---
+43
+Julius Caesar
+ACT 1. SC. 3
+CASCA
+They shake hands.
+CASSIUS
+CASCA
+CASSIUS
+CINNA
+CASSIUS
+CINNA
+CASSIUS
+CINNA
+ 
+ You speak to Casca, and to such a man
+ That is no fleering telltale. Hold. My hand.
+ Be factious for redress of all these griefs,
+ And I will set this foot of mine as far
+ As who goes farthest.
+  
+ There’s a bargain made.
+ Now know you, Casca, I have moved already
+ Some certain of the noblest-minded Romans
+ To undergo with me an enterprise
+ Of honorable-dangerous consequence.
+ And I do know by this they stay for me
+ In Pompey’s Porch. For now, this fearful night,
+ There is no stir or walking in the streets;
+ And the complexion of the element
+ In  favor ’s like the work we have in hand,
+ Most bloody, fiery, and most terrible.
+Enter Cinna.
+ 
+ Stand close awhile, for here comes one in haste.
+ 
+ ’Tis Cinna; I do know him by his gait.
+ He is a friend.—Cinna, where haste you so?
+ 
+ To find out you. Who’s that? Metellus Cimber?
+ 
+ No, it is Casca, one incorporate
+ To our attempts. Am I not stayed for, Cinna?
+ 
+ I am glad on ’t. What a fearful night is this!
+ There’s two or three of us have seen strange sights.
+  Am I not stayed for? Tell me.
+ 
+ Yes, you are. O Cassius, if you could
+ But win the noble Brutus to our party—
+FTLN 0534
+120
+FTLN 0535
+FTLN 0536
+FTLN 0537
+FTLN 0538
+FTLN 0539
+125
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+FTLN 0544
+130
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+FTLN 0549
+135
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+FTLN 0554
+140
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+145
+FTLN 0560
+
+--- PAGE 28 / 106 ---
+45
+Julius Caesar
+ACT 1. SC. 3
+CASSIUS
+CINNA
+CASSIUS
+Cinna exits.
+CASCA
+CASSIUS
+They exit.
+, handing him papers
+ 
+ Be you content. Good Cinna, take this paper,
+ And look you lay it in the Praetor’s chair,
+ Where Brutus may but find it; and throw this
+ In at his window; set this up with wax
+ Upon old Brutus’ statue. All this done,
+ Repair to Pompey’s Porch, where you shall find us.
+ Is Decius Brutus and Trebonius there?
+ 
+ All but Metellus Cimber, and he’s gone
+ To seek you at your house. Well, I will hie
+ And so bestow these papers as you bade me.
+ 
+ That done, repair to Pompey’s Theater.
+ Come, Casca, you and I will yet ere day
+ See Brutus at his house. Three parts of him
+ Is ours already, and the man entire
+ Upon the next encounter yields him ours.
+ 
+ O, he sits high in all the people’s hearts,
+ And that which would appear offense in us
+ His countenance, like richest alchemy,
+ Will change to virtue and to worthiness.
+ 
+ Him and his worth and our great need of him
+ You have right well conceited. Let us go,
+ For it is after midnight, and ere day
+ We will awake him and be sure of him.
+FTLN 0561
+FTLN 0562
+FTLN 0563
+FTLN 0564
+150
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+155
+FTLN 0570
+FTLN 0571
+FTLN 0572
+FTLN 0573
+FTLN 0574
+160
+FTLN 0575
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+165
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+
+--- PAGE 29 / 106 ---
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+He exits.
+BRUTUS
+Enter Brutus in his orchard.
+  What, Lucius, ho!—
+ I cannot by the progress of the stars
+ Give guess how near to day.—Lucius, I say!—
+ I would it were my fault to sleep so soundly.—
+ When, Lucius, when? Awake, I say! What, Lucius!
+Enter Lucius.
+  Called you, my lord?
+ 
+ Get me a taper in my study, Lucius.
+ When it is lighted, come and call me here.
+  I will, my lord. 
+ 
+ It must be by his death. And for my part
+ I know no personal cause to spurn at him,
+ But for the general. He would be crowned:
+ How that might change his nature, there’s the
+ question.
+ It is the bright day that brings forth the adder,
+ And that craves wary walking. Crown him that,
+ And then I grant we put a sting in him
+ That at his will he may do danger with.
+ Th’ abuse of greatness is when it disjoins
+49
+ACT 2
+Scene 1
+FTLN 0584
+FTLN 0585
+FTLN 0586
+FTLN 0587
+FTLN 0588
+5
+FTLN 0589
+FTLN 0590
+FTLN 0591
+FTLN 0592
+FTLN 0593
+10
+FTLN 0594
+FTLN 0595
+FTLN 0596
+FTLN 0597
+FTLN 0598
+15
+FTLN 0599
+FTLN 0600
+FTLN 0601
+FTLN 0602
+
+--- PAGE 30 / 106 ---
+51
+Julius Caesar
+ACT 2. SC. 1
+LUCIUS
+Gives him the letter.
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+He exits.
+BRUTUS
+Opens the letter and reads.
+ Remorse from power. And, to speak truth of Caesar,
+ I have not known when his affections swayed
+ More than his reason. But ’tis a common proof
+ That lowliness is young ambition’s ladder,
+ Whereto the climber-upward  turns his face;
+ But, when he once attains the upmost round,
+ He then unto the ladder turns his back,
+ Looks in the clouds, scorning the base degrees
+ By which he did ascend. So Caesar may.
+ Then, lest he may, prevent. And since the quarrel
+ Will bear no color for the thing he is,
+ Fashion it thus: that what he is, augmented,
+ Would run to these and these extremities.
+ And therefore think him as a serpent’s egg,
+ Which, hatched, would, as his kind, grow
+ mischievous,
+ And kill him in the shell.
+Enter Lucius.
+ 
+ The taper burneth in your closet, sir.
+ Searching the window for a flint, I found
+ This paper, thus sealed up, and I am sure
+ It did not lie there when I went to bed.
+ 
+ Get you to bed again. It is not day.
+ Is not tomorrow, boy, the ides  of March?
+  I know not, sir.
+ 
+ Look in the calendar, and bring me word.
+  I will, sir. 
+ 
+ The exhalations, whizzing in the air,
+ Give so much light that I may read by them.
+FTLN 0603
+20
+FTLN 0604
+FTLN 0605
+FTLN 0606
+FTLN 0607
+FTLN 0608
+25
+FTLN 0609
+FTLN 0610
+FTLN 0611
+FTLN 0612
+FTLN 0613
+30
+FTLN 0614
+FTLN 0615
+FTLN 0616
+FTLN 0617
+FTLN 0618
+35
+FTLN 0619
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+40
+FTLN 0624
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+45
+FTLN 0629
+FTLN 0630
+
+--- PAGE 31 / 106 ---
+53
+Julius Caesar
+ACT 2. SC. 1
+LUCIUS
+Knock within.
+BRUTUS
+Lucius exits.
+LUCIUS
+ Brutus, thou sleep’st. Awake, and see thyself!
+ Shall Rome, etc. Speak, strike, redress!
+ “Brutus, thou sleep’st. Awake.”
+ Such instigations have been often dropped
+ Where I have took them up.
+ “Shall Rome, etc.” Thus must I piece it out:
+ Shall Rome stand under one man’s awe? What,
+ Rome?
+ My ancestors did from the streets of Rome
+ The Tarquin drive when he was called a king.
+ “Speak, strike, redress!” Am I entreated
+ To speak and strike? O Rome, I make thee promise,
+ If the redress will follow, thou receivest
+ Thy full petition at the hand of Brutus.
+Enter Lucius.
+  Sir, March is wasted fifteen days.
+ 
+ ’Tis good. Go to the gate; somebody knocks.
+ Since Cassius first did whet me against Caesar,
+ I have not slept.
+ Between the acting of a dreadful thing
+ And the first motion, all the interim is
+ Like a phantasma or a hideous dream.
+ The genius and the mortal instruments
+ Are then in council, and the state of man,
+ Like to a little kingdom, suffers then
+ The nature of an insurrection.
+Enter Lucius.
+ 
+ Sir, ’tis your brother Cassius at the door,
+ Who doth desire to see you.
+FTLN 0631
+FTLN 0632
+FTLN 0633
+50
+FTLN 0634
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+55
+FTLN 0639
+FTLN 0640
+FTLN 0641
+FTLN 0642
+FTLN 0643
+60
+FTLN 0644
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+65
+FTLN 0649
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+70
+FTLN 0654
+FTLN 0655
+FTLN 0656
+FTLN 0657
+
+--- PAGE 32 / 106 ---
+55
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+Lucius exits.
+CASSIUS
+BRUTUS
+CASSIUS
+  
+ Is he alone?
+ 
+ No, sir. There are more with him.
+  
+ Do you know
+ them?
+ 
+ No, sir. Their hats are plucked about their ears,
+ And half their faces buried in their cloaks,
+ That by no means I may discover them
+ By any mark of favor.
+  
+ Let ’em enter. 
+ They are the faction. O conspiracy,
+ Sham’st thou to show thy dang’rous brow by night,
+ When evils are most free? O, then, by day
+ Where wilt thou find a cavern dark enough
+ To mask thy monstrous visage? Seek none,
+ conspiracy.
+ Hide it in smiles and affability;
+ For if thou path, thy native semblance on,
+ Not Erebus itself were dim enough
+ To hide thee from prevention.
+Enter the conspirators, Cassius, Casca, Decius, Cinna,
+Metellus, and Trebonius.
+ 
+ I think we are too bold upon your rest.
+ Good morrow, Brutus. Do we trouble you?
+ 
+ I have been up this hour, awake all night.
+ Know I these men that come along with you?
+ 
+ Yes, every man of them; and no man here
+ But honors you, and every one doth wish
+ You had but that opinion of yourself
+ Which every noble Roman bears of you.
+ This is Trebonius.
+FTLN 0658
+75
+FTLN 0659
+FTLN 0660
+FTLN 0661
+FTLN 0662
+FTLN 0663
+80
+FTLN 0664
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+85
+FTLN 0669
+FTLN 0670
+FTLN 0671
+FTLN 0672
+FTLN 0673
+90
+FTLN 0674
+FTLN 0675
+FTLN 0676
+FTLN 0677
+FTLN 0678
+95
+FTLN 0679
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+100
+FTLN 0684
+FTLN 0685
+
+--- PAGE 33 / 106 ---
+57
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+Brutus and Cassius  whisper.
+DECIUS
+CASCA
+CINNA
+CASCA
+BRUTUS
+CASSIUS
+BRUTUS
+  
+ He is welcome hither.
+ 
+ This, Decius Brutus.
+  
+ He is welcome too.
+ 
+ This, Casca; this, Cinna; and this, Metellus Cimber.
+  They are all welcome.
+ What watchful cares do interpose themselves
+ Betwixt your eyes and night?
+  Shall I entreat a word?
+ 
+ Here lies the east; doth not the day break here?
+  No.
+ 
+ O pardon, sir, it doth; and yon gray lines
+ That fret the clouds are messengers of day.
+ 
+ You shall confess that you are both deceived.
+ Here, as I point my sword, the sun arises,
+ Which is a great way growing on the south,
+ Weighing the youthful season of the year.
+ Some two months hence, up higher toward the
+ north
+ He first presents his fire, and the high east
+ Stands, as the Capitol, directly here.
+, coming forward with Cassius
+ 
+ Give me your hands all over, one by one.
+ 
+ And let us swear our resolution.
+ 
+ No, not an oath. If not the face of men,
+ The sufferance of our souls, the time’s abuse—
+ If these be motives weak, break off betimes,
+ And every man hence to his idle bed.
+ So let high-sighted tyranny range on
+FTLN 0686
+FTLN 0687
+FTLN 0688
+105
+FTLN 0689
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+110
+FTLN 0694
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+115
+FTLN 0699
+FTLN 0700
+FTLN 0701
+FTLN 0702
+FTLN 0703
+120
+FTLN 0704
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+125
+FTLN 0709
+FTLN 0710
+FTLN 0711
+FTLN 0712
+
+--- PAGE 34 / 106 ---
+59
+Julius Caesar
+ACT 2. SC. 1
+CASSIUS
+CASCA
+CINNA
+METELLUS
+ Till each man drop by lottery. But if these—
+ As I am sure they do—bear fire enough
+ To kindle cowards and to steel with valor
+ The melting spirits of women, then, countrymen,
+ What need we any spur but our own cause
+ To prick us to redress? What other bond
+ Than secret Romans that have spoke the word
+ And will not palter? And what other oath
+ Than honesty to honesty engaged
+ That this shall be or we will fall for it?
+ Swear priests and cowards and men cautelous,
+ Old feeble carrions, and such suffering souls
+ That welcome wrongs; unto bad causes swear
+ Such creatures as men doubt; but do not stain
+ The even virtue of our enterprise,
+ Nor th’ insuppressive mettle of our spirits,
+ To think that or our cause or our performance
+ Did need an oath, when every drop of blood
+ That every Roman bears, and nobly bears,
+ Is guilty of a several bastardy
+ If he do break the smallest particle
+ Of any promise that hath passed from him.
+ 
+ But what of Cicero? Shall we sound him?
+ I think he will stand very strong with us.
+ 
+ Let us not leave him out.
+  
+ No, by no means.
+ 
+ O, let us have him, for his silver hairs
+ Will purchase us a good opinion
+ And buy men’s voices to commend our deeds.
+ It shall be said his judgment ruled our hands.
+ Our youths and wildness shall no whit appear,
+ But all be buried in his gravity.
+FTLN 0713
+130
+FTLN 0714
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+135
+FTLN 0719
+FTLN 0720
+FTLN 0721
+FTLN 0722
+FTLN 0723
+140
+FTLN 0724
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+145
+FTLN 0729
+FTLN 0730
+FTLN 0731
+FTLN 0732
+FTLN 0733
+150
+FTLN 0734
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+155
+FTLN 0739
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+160
+FTLN 0744
+
+--- PAGE 35 / 106 ---
+61
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+CASSIUS
+CASCA
+DECIUS
+CASSIUS
+BRUTUS
+ 
+ O, name him not! Let us not break with him,
+ For he will never follow anything
+ That other men begin.
+  Then leave him out.
+  Indeed, he is not fit.
+ 
+ Shall no man else be touched, but only Caesar?
+ 
+ Decius, well urged. I think it is not meet
+ Mark Antony, so well beloved of Caesar,
+ Should outlive Caesar. We shall find of him
+ A shrewd contriver; and, you know, his means,
+ If he improve them, may well stretch so far
+ As to annoy us all; which to prevent,
+ Let Antony and Caesar fall together.
+ 
+ Our course will seem too bloody, Caius Cassius,
+ To cut the head off and then hack the limbs,
+ Like wrath in death and envy afterwards;
+ For Antony is but a limb of Caesar.
+ Let’s be sacrificers, but not butchers, Caius.
+ We all stand up against the spirit of Caesar,
+ And in the spirit of men there is no blood.
+ O, that we then could come by Caesar’s spirit
+ And not dismember Caesar! But, alas,
+ Caesar must bleed for it. And, gentle friends,
+ Let’s kill him boldly, but not wrathfully.
+ Let’s carve him as a dish fit for the gods,
+ Not hew him as a carcass fit for hounds.
+ And let our hearts, as subtle masters do,
+ Stir up their servants to an act of rage
+ And after seem to chide ’em. This shall make
+ Our purpose necessary and not envious;
+ Which so appearing to the common eyes,
+ We shall be called purgers, not murderers.
+FTLN 0745
+FTLN 0746
+FTLN 0747
+FTLN 0748
+165
+FTLN 0749
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+170
+FTLN 0754
+FTLN 0755
+FTLN 0756
+FTLN 0757
+FTLN 0758
+175
+FTLN 0759
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+180
+FTLN 0764
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+185
+FTLN 0769
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+190
+FTLN 0774
+FTLN 0775
+FTLN 0776
+
+--- PAGE 36 / 106 ---
+63
+Julius Caesar
+ACT 2. SC. 1
+CASSIUS
+BRUTUS
+TREBONIUS
+Clock strikes.
+BRUTUS
+CASSIUS
+TREBONIUS
+CASSIUS
+DECIUS
+ And for Mark Antony, think not of him,
+ For he can do no more than Caesar’s arm
+ When Caesar’s head is off.
+  
+ Yet I fear him,
+ For in the engrafted love he bears to Caesar—
+ 
+ Alas, good Cassius, do not think of him.
+ If he love Caesar, all that he can do
+ Is to himself: take thought and die for Caesar.
+ And that were much he should, for he is given
+ To sports, to wildness, and much company.
+ 
+ There is no fear in him. Let him not die,
+ For he will live and laugh at this hereafter.
+ 
+ Peace, count the clock.
+  
+ The clock hath stricken
+ three.
+ 
+ ’Tis time to part.
+  
+ But it is doubtful yet
+ Whether Caesar will come forth today or no,
+ For he is superstitious grown of late,
+ Quite from the main opinion he held once
+ Of fantasy, of dreams, and ceremonies.
+ It may be these apparent prodigies,
+ The unaccustomed terror of this night,
+ And the persuasion of his augurers
+ May hold him from the Capitol today.
+ 
+ Never fear that. If he be so resolved,
+ I can o’ersway him, for he loves to hear
+ That unicorns may be betrayed with trees,
+ And bears with glasses, elephants with holes,
+ Lions with toils, and men with flatterers.
+FTLN 0777
+FTLN 0778
+195
+FTLN 0779
+FTLN 0780
+FTLN 0781
+FTLN 0782
+FTLN 0783
+200
+FTLN 0784
+FTLN 0785
+FTLN 0786
+FTLN 0787
+FTLN 0788
+205
+FTLN 0789
+FTLN 0790
+FTLN 0791
+FTLN 0792
+FTLN 0793
+210
+FTLN 0794
+FTLN 0795
+FTLN 0796
+FTLN 0797
+FTLN 0798
+215
+FTLN 0799
+FTLN 0800
+FTLN 0801
+FTLN 0802
+FTLN 0803
+220
+FTLN 0804
+FTLN 0805
+FTLN 0806
+
+--- PAGE 37 / 106 ---
+65
+Julius Caesar
+ACT 2. SC. 1
+CASSIUS
+BRUTUS
+CINNA
+METELLUS
+BRUTUS
+CASSIUS
+BRUTUS
+All but Brutus exit.
+ But when I tell him he hates flatterers,
+ He says he does, being then most flatterèd.
+ Let me work,
+ For I can give his humor the true bent,
+ And I will bring him to the Capitol.
+ 
+ Nay, we will all of us be there to fetch him.
+ 
+ By the eighth hour, is that the uttermost?
+ 
+ Be that the uttermost, and fail not then.
+ 
+ Caius Ligarius doth bear Caesar hard,
+ Who rated him for speaking well of Pompey.
+ I wonder none of you have thought of him.
+ 
+ Now, good Metellus, go along by him.
+ He loves me well, and I have given him reasons.
+ Send him but hither, and I’ll fashion him.
+ 
+ The morning comes upon ’s. We’ll leave you,
+ Brutus.
+ And, friends, disperse yourselves, but all remember
+ What you have said, and show yourselves true
+ Romans.
+ 
+ Good gentlemen, look fresh and merrily.
+ Let not our looks put on our purposes,
+ But bear it, as our Roman actors do,
+ With untired spirits and formal constancy.
+ And so good morrow to you every one.
+ Boy! Lucius!—Fast asleep? It is no matter.
+ Enjoy the honey-heavy dew of slumber.
+ Thou hast no figures nor no fantasies
+FTLN 0807
+FTLN 0808
+225
+FTLN 0809
+FTLN 0810
+FTLN 0811
+FTLN 0812
+FTLN 0813
+230
+FTLN 0814
+FTLN 0815
+FTLN 0816
+FTLN 0817
+FTLN 0818
+235
+FTLN 0819
+FTLN 0820
+FTLN 0821
+FTLN 0822
+FTLN 0823
+240
+FTLN 0824
+FTLN 0825
+FTLN 0826
+FTLN 0827
+FTLN 0828
+245
+FTLN 0829
+FTLN 0830
+FTLN 0831
+FTLN 0832
+FTLN 0833
+250
+
+--- PAGE 38 / 106 ---
+67
+Julius Caesar
+ACT 2. SC. 1
+PORTIA
+BRUTUS
+PORTIA
+BRUTUS
+PORTIA
+ Which busy care draws in the brains of men.
+ Therefore thou sleep’st so sound.
+Enter Portia.
+  
+ Brutus, my lord.
+ 
+ Portia! What mean you? Wherefore rise you now?
+ It is not for your health thus to commit
+ Your weak condition to the raw cold morning.
+ 
+ Nor for yours neither. You’ve ungently, Brutus,
+ Stole from my bed. And yesternight at supper
+ You suddenly arose and walked about,
+ Musing and sighing, with your arms across,
+ And when I asked you what the matter was,
+ You stared upon me with ungentle looks.
+ I urged you further; then you scratched your head
+ And too impatiently stamped with your foot.
+ Yet I insisted; yet you answered not,
+ But with an angry wafture of your hand
+ Gave sign for me to leave you. So I did,
+ Fearing to strengthen that impatience
+ Which seemed too much enkindled, and withal
+ Hoping it was but an effect of humor,
+ Which sometime hath his hour with every man.
+ It will not let you eat nor talk nor sleep,
+ And could it work so much upon your shape
+ As it hath much prevailed on your condition,
+ I should not know you Brutus. Dear my lord,
+ Make me acquainted with your cause of grief.
+ 
+ I am not well in health, and that is all.
+ 
+ Brutus is wise and, were he not in health,
+ He would embrace the means to come by it.
+FTLN 0834
+FTLN 0835
+FTLN 0836
+FTLN 0837
+FTLN 0838
+255
+FTLN 0839
+FTLN 0840
+FTLN 0841
+FTLN 0842
+FTLN 0843
+260
+FTLN 0844
+FTLN 0845
+FTLN 0846
+FTLN 0847
+FTLN 0848
+265
+FTLN 0849
+FTLN 0850
+FTLN 0851
+FTLN 0852
+FTLN 0853
+270
+FTLN 0854
+FTLN 0855
+FTLN 0856
+FTLN 0857
+FTLN 0858
+275
+FTLN 0859
+FTLN 0860
+FTLN 0861
+FTLN 0862
+
+--- PAGE 39 / 106 ---
+69
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+PORTIA
+BRUTUS
+He lifts her up.
+PORTIA
+ 
+ Why so I do. Good Portia, go to bed.
+ 
+ Is Brutus sick? And is it physical
+ To walk unbracèd and suck up the humors
+ Of the dank morning? What, is Brutus sick,
+ And will he steal out of his wholesome bed
+ To dare the vile contagion of the night
+ And tempt the rheumy and unpurgèd air
+ To add unto his  sickness? No, my Brutus,
+ You have some sick offense within your mind,
+ Which by the right and virtue of my place
+ I ought to know of.  She kneels.  And upon my
+ knees
+ I charm you, by my once commended beauty,
+ By all your vows of love, and that great vow
+ Which did incorporate and make us one,
+ That you unfold to me, your self, your half,
+ Why you are heavy, and what men tonight
+ Have had resort to you; for here have been
+ Some six or seven who did hide their faces
+ Even from darkness.
+  
+ Kneel not, gentle Portia.
+ 
+ I should not need, if you were gentle Brutus.
+ Within the bond of marriage, tell me, Brutus,
+ Is it excepted I should know no secrets
+ That appertain to you? Am I your self
+ But, as it were, in sort or limitation,
+ To keep with you at meals, comfort your bed,
+ And talk to you sometimes? Dwell I but in the
+ suburbs
+ Of your good pleasure? If it be no more,
+ Portia is Brutus’ harlot, not his wife.
+FTLN 0863
+280
+FTLN 0864
+FTLN 0865
+FTLN 0866
+FTLN 0867
+FTLN 0868
+285
+FTLN 0869
+FTLN 0870
+FTLN 0871
+FTLN 0872
+FTLN 0873
+290
+FTLN 0874
+FTLN 0875
+FTLN 0876
+FTLN 0877
+FTLN 0878
+295
+FTLN 0879
+FTLN 0880
+FTLN 0881
+FTLN 0882
+FTLN 0883
+300
+FTLN 0884
+FTLN 0885
+FTLN 0886
+FTLN 0887
+FTLN 0888
+305
+FTLN 0889
+FTLN 0890
+FTLN 0891
+FTLN 0892
+FTLN 0893
+310
+
+--- PAGE 40 / 106 ---
+71
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+PORTIA
+BRUTUS
+Knock.
+Portia exits.
+LUCIUS
+BRUTUS
+Lucius exits.
+LIGARIUS
+ 
+ You are my true and honorable wife,
+ As dear to me as are the ruddy drops
+ That visit my sad heart.
+ 
+ If this were true, then should I know this secret.
+ I grant I am a woman, but withal
+ A woman that Lord Brutus took to wife.
+ I grant I am a woman, but withal
+ A woman well-reputed, Cato’s daughter.
+ Think you I am no stronger than my sex,
+ Being so fathered and so husbanded?
+ Tell me your counsels; I will not disclose ’em.
+ I have made strong proof of my constancy,
+ Giving myself a voluntary wound
+ Here, in the thigh. Can I bear that with patience,
+ And not my husband’s secrets?
+  
+ O you gods,
+ Render me worthy of this noble wife! 
+ Hark, hark, one knocks. Portia, go in awhile,
+ And by and by thy bosom shall partake
+ The secrets of my heart.
+ All my engagements I will construe to thee,
+ All the charactery of my sad brows.
+ Leave me with haste. 
+ Lucius, who ’s that knocks?
+Enter Lucius and Ligarius.
+ 
+ Here is a sick man that would speak with you.
+ 
+ Caius Ligarius, that Metellus spoke of.—
+ Boy, stand aside. 
+ Caius Ligarius, how?
+ 
+ Vouchsafe good morrow from a feeble tongue.
+FTLN 0894
+FTLN 0895
+FTLN 0896
+FTLN 0897
+FTLN 0898
+315
+FTLN 0899
+FTLN 0900
+FTLN 0901
+FTLN 0902
+FTLN 0903
+320
+FTLN 0904
+FTLN 0905
+FTLN 0906
+FTLN 0907
+FTLN 0908
+325
+FTLN 0909
+FTLN 0910
+FTLN 0911
+FTLN 0912
+FTLN 0913
+330
+FTLN 0914
+FTLN 0915
+FTLN 0916
+FTLN 0917
+FTLN 0918
+335
+FTLN 0919
+FTLN 0920
+FTLN 0921
+FTLN 0922
+
+--- PAGE 41 / 106 ---
+73
+Julius Caesar
+ACT 2. SC. 1
+BRUTUS
+LIGARIUS
+BRUTUS
+LIGARIUS
+He takes off his kerchief.
+BRUTUS
+LIGARIUS
+BRUTUS
+LIGARIUS
+Thunder.
+BRUTUS
+They exit.
+ 
+ O, what a time have you chose out, brave Caius,
+ To wear a kerchief! Would you were not sick!
+ 
+ I am not sick, if Brutus have in hand
+ Any exploit worthy the name of honor.
+ 
+ Such an exploit have I in hand, Ligarius,
+ Had you a healthful ear to hear of it.
+ 
+ By all the gods that Romans bow before,
+ I here discard my sickness.
+ Soul of Rome,
+ Brave son derived from honorable loins,
+ Thou like an exorcist hast conjured up
+ My mortifièd spirit. Now bid me run,
+ And I will strive with things impossible,
+ Yea, get the better of them. What’s to do?
+ 
+ A piece of work that will make sick men whole.
+ 
+ But are not some whole that we must make sick?
+ 
+ That must we also. What it is, my Caius,
+ I shall unfold to thee as we are going
+ To whom it must be done.
+  
+ Set on your foot,
+ And with a heart new-fired I follow you
+ To do I know not what; but it sufficeth
+ That Brutus leads me on. 
+  
+ Follow me then.
+FTLN 0923
+340
+FTLN 0924
+FTLN 0925
+FTLN 0926
+FTLN 0927
+FTLN 0928
+345
+FTLN 0929
+FTLN 0930
+FTLN 0931
+FTLN 0932
+FTLN 0933
+350
+FTLN 0934
+FTLN 0935
+FTLN 0936
+FTLN 0937
+FTLN 0938
+355
+FTLN 0939
+FTLN 0940
+FTLN 0941
+FTLN 0942
+FTLN 0943
+360
+FTLN 0944
+FTLN 0945
+FTLN 0946
+
+--- PAGE 42 / 106 ---
+75
+Julius Caesar
+ACT 2. SC. 2
+CAESAR
+SERVANT
+CAESAR
+SERVANT
+He exits.
+CALPHURNIA
+CAESAR
+CALPHURNIA
+Thunder and lightning. Enter Julius Caesar in his
+nightgown.
+ 
+ Nor heaven nor Earth have been at peace tonight.
+ Thrice hath Calphurnia in her sleep cried out
+ “Help ho, they murder Caesar!”—Who’s within?
+Enter a Servant.
+  My lord.
+ 
+ Go bid the priests do present sacrifice,
+ And bring me their opinions of success.
+  I will, my lord. 
+Enter Calphurnia.
+ 
+ What mean you, Caesar? Think you to walk forth?
+ You shall not stir out of your house today.
+ 
+ Caesar shall forth. The things that threatened me
+ Ne’er looked but on my back. When they shall see
+ The face of Caesar, they are vanishèd.
+ 
+ Caesar, I never stood on ceremonies,
+ Yet now they fright me. There is one within,
+ Besides the things that we have heard and seen,
+ Recounts most horrid sights seen by the watch.
+ A lioness hath whelpèd in the streets,
+ And graves have yawned and yielded up their dead.
+ Fierce fiery warriors fought  upon the clouds
+ In ranks and squadrons and right form of war,
+ Which drizzled blood upon the Capitol.
+ The noise of battle hurtled in the air,
+ Horses did  neigh, and dying men did groan,
+Scene 2
+FTLN 0947
+FTLN 0948
+FTLN 0949
+FTLN 0950
+FTLN 0951
+5
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+10
+FTLN 0957
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+15
+FTLN 0962
+FTLN 0963
+FTLN 0964
+FTLN 0965
+FTLN 0966
+20
+FTLN 0967
+FTLN 0968
+FTLN 0969
+
+--- PAGE 43 / 106 ---
+77
+Julius Caesar
+ACT 2. SC. 2
+CAESAR
+CALPHURNIA
+CAESAR
+SERVANT
+CAESAR
+CALPHURNIA
+ And ghosts did shriek and squeal about the streets.
+ O Caesar, these things are beyond all use,
+ And I do fear them.
+  
+ What can be avoided
+ Whose end is purposed by the mighty gods?
+ Yet Caesar shall go forth, for these predictions
+ Are to the world in general as to Caesar.
+ 
+ When beggars die there are no comets seen;
+ The heavens themselves blaze forth the death of
+ princes.
+ 
+ Cowards die many times before their deaths;
+ The valiant never taste of death but once.
+ Of all the wonders that I yet have heard,
+ It seems to me most strange that men should fear,
+ Seeing that death, a necessary end,
+ Will come when it will come.
+Enter a Servant.
+ What say the augurers?
+ 
+ They would not have you to stir forth today.
+ Plucking the entrails of an offering forth,
+ They could not find a heart within the beast.
+ 
+ The gods do this in shame of cowardice.
+ Caesar should be a beast without a heart
+ If he should stay at home today for fear.
+ No, Caesar shall not. Danger knows full well
+ That Caesar is more dangerous than he.
+ We are  two lions littered in one day,
+ And I the elder and more terrible.
+ And Caesar shall go forth.
+  
+ Alas, my lord,
+ Your wisdom is consumed in confidence.
+FTLN 0970
+FTLN 0971
+25
+FTLN 0972
+FTLN 0973
+FTLN 0974
+FTLN 0975
+FTLN 0976
+30
+FTLN 0977
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+35
+FTLN 0982
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+40
+FTLN 0987
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+45
+FTLN 0992
+FTLN 0993
+FTLN 0994
+FTLN 0995
+FTLN 0996
+50
+FTLN 0997
+FTLN 0998
+FTLN 0999
+
+--- PAGE 44 / 106 ---
+79
+Julius Caesar
+ACT 2. SC. 2
+She kneels.
+CAESAR
+He lifts her up.
+DECIUS
+CAESAR
+CALPHURNIA
+CAESAR
+DECIUS
+CAESAR
+ Do not go forth today. Call it my fear
+ That keeps you in the house, and not your own.
+ We’ll send Mark Antony to the Senate House,
+ And he shall say you are not well today.
+ Let me, upon my knee, prevail in this. 
+ 
+ Mark Antony shall say I am not well,
+ And for thy humor I will stay at home.
+Enter Decius.
+ Here’s Decius Brutus; he shall tell them so.
+ 
+ Caesar, all hail! Good morrow, worthy Caesar.
+ I come to fetch you to the Senate House.
+ 
+ And you are come in very happy time
+ To bear my greeting to the Senators
+ And tell them that I will not come today.
+ Cannot is false, and that I dare not, falser.
+ I will not come today. Tell them so, Decius.
+ 
+ Say he is sick.
+  
+ Shall Caesar send a lie?
+ Have I in conquest stretched mine arm so far,
+ To be afeard to tell graybeards the truth?
+ Decius, go tell them Caesar will not come.
+ 
+ Most mighty Caesar, let me know some cause,
+ Lest I be laughed at when I tell them so.
+ 
+ The cause is in my will. I will not come.
+ That is enough to satisfy the Senate.
+ But for your private satisfaction,
+ Because I love you, I will let you know.
+ Calphurnia here, my wife, stays me at home.
+FTLN 1000
+FTLN 1001
+55
+FTLN 1002
+FTLN 1003
+FTLN 1004
+FTLN 1005
+FTLN 1006
+60
+FTLN 1007
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+65
+FTLN 1012
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+70
+FTLN 1017
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+75
+FTLN 1022
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+80
+
+--- PAGE 45 / 106 ---
+81
+Julius Caesar
+ACT 2. SC. 2
+DECIUS
+CAESAR
+DECIUS
+CAESAR
+ She dreamt tonight she saw my statue,
+ Which, like a fountain with an hundred spouts,
+ Did run pure blood; and many lusty Romans
+ Came smiling and did bathe their hands in it.
+ And these does she apply for warnings and portents
+ And evils imminent, and on her knee
+ Hath begged that I will stay at home today.
+ 
+ This dream is all amiss interpreted.
+ It was a vision fair and fortunate.
+ Your statue spouting blood in many pipes,
+ In which so many smiling Romans bathed,
+ Signifies that from you great Rome shall suck
+ Reviving blood, and that great men shall press
+ For tinctures, stains, relics, and cognizance.
+ This by Calphurnia’s dream is signified.
+ 
+ And this way have you well expounded it.
+ 
+ I have, when you have heard what I can say.
+ And know it now: the Senate have concluded
+ To give this day a crown to mighty Caesar.
+ If you shall send them word you will not come,
+ Their minds may change. Besides, it were a mock
+ Apt to be rendered, for someone to say
+ “Break up the Senate till another time,
+ When Caesar’s wife shall meet with better dreams.”
+ If Caesar hide himself, shall they not whisper
+ “Lo, Caesar is afraid”?
+ Pardon me, Caesar, for my dear dear love
+ To your proceeding bids me tell you this,
+ And reason to my love is liable.
+ 
+ How foolish do your fears seem now, Calphurnia!
+ I am ashamèd I did yield to them.
+ Give me my robe, for I will go.
+FTLN 1027
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+85
+FTLN 1032
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+90
+FTLN 1037
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+95
+FTLN 1042
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+100
+FTLN 1047
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+105
+FTLN 1052
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+110
+FTLN 1057
+FTLN 1058
+
+--- PAGE 46 / 106 ---
+83
+Julius Caesar
+ACT 2. SC. 2
+PUBLIUS
+CAESAR
+BRUTUS
+CAESAR
+ANTONY
+CAESAR
+Servant exits.
+TREBONIUS
+CAESAR
+BRUTUS
+They exit.
+Enter Brutus, Ligarius, Metellus, Casca, Trebonius,
+Cinna, and Publius.
+ And look where Publius is come to fetch me.
+ 
+ Good morrow, Caesar.
+  
+ Welcome, Publius.—
+ What, Brutus, are you stirred so early too?—
+ Good morrow, Casca.—Caius Ligarius,
+ Caesar was ne’er so much your enemy
+ As that same ague which hath made you lean.—
+ What is ’t o’clock?
+  
+ Caesar, ’tis strucken eight.
+ 
+ I thank you for your pains and courtesy.
+Enter Antony.
+ See, Antony that revels long a-nights
+ Is notwithstanding up.—Good morrow, Antony.
+  So to most noble Caesar.
+, to Servant
+  Bid them prepare within.—
+ I am to blame to be thus waited for. 
+ Now, Cinna.—Now, Metellus.—What, Trebonius,
+ I have an hour’s talk in store for you.
+ Remember that you call on me today;
+ Be near me that I may remember you.
+ 
+ Caesar, I will.  Aside.  And so near will I be
+ That your best friends shall wish I had been further.
+ 
+ Good friends, go in and taste some wine with me,
+ And we, like friends, will straightway go together.
+, aside
+ 
+ That every like is not the same, O Caesar,
+ The heart of Brutus earns to think upon.
+FTLN 1059
+FTLN 1060
+FTLN 1061
+115
+FTLN 1062
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+120
+FTLN 1067
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+125
+FTLN 1072
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+130
+FTLN 1077
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+135
+FTLN 1082
+FTLN 1083
+
+--- PAGE 47 / 106 ---
+85
+Julius Caesar
+ACT 2. SC. 4
+ARTEMIDORUS
+ Thy lover,
+ Artemidorus
+He exits.
+PORTIA
+LUCIUS
+PORTIA
+Enter Artemidorus reading a paper.
+  Caesar, beware of Brutus, take heed of
+ Cassius, come not near Casca, have an eye to Cinna,
+ trust not Trebonius, mark well Metellus Cimber.
+ Decius Brutus loves thee not. Thou hast wronged
+ Caius Ligarius. There is but one mind in all these
+ men, and it is bent against Caesar. If thou beest not
+ immortal, look about you. Security gives way to
+ conspiracy. The mighty gods defend thee!
+ Here will I stand till Caesar pass along,
+ And as a suitor will I give him this.
+ My heart laments that virtue cannot live
+ Out of the teeth of emulation.
+ If thou read this, O Caesar, thou mayest live;
+ If not, the Fates with traitors do contrive.
+Enter Portia and Lucius.
+ 
+ I prithee, boy, run to the Senate House.
+ Stay not to answer me, but get thee gone.
+ Why dost thou stay?
+  
+ To know my errand, madam.
+ 
+ I would have had thee there and here again
+ Ere I can tell thee what thou shouldst do there.
+  Aside.  O constancy, be strong upon my side;
+ Set a huge mountain ’tween my heart and tongue.
+ I have a man’s mind but a woman’s might.
+Scene 3
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+FTLN 1088
+5
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+FTLN 1093
+10
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+FTLN 1098
+15
+FTLN 1099
+Scene 4
+FTLN 1100
+FTLN 1101
+FTLN 1102
+FTLN 1103
+FTLN 1104
+5
+FTLN 1105
+FTLN 1106
+FTLN 1107
+FTLN 1108
+
+--- PAGE 48 / 106 ---
+87
+Julius Caesar
+ACT 2. SC. 4
+LUCIUS
+PORTIA
+LUCIUS
+PORTIA
+LUCIUS
+PORTIA
+SOOTHSAYER
+PORTIA
+SOOTHSAYER
+PORTIA
+SOOTHSAYER
+PORTIA
+SOOTHSAYER
+PORTIA
+ How hard it is for women to keep counsel!—
+ Art thou here yet?
+  
+ Madam, what should I do?
+ Run to the Capitol, and nothing else?
+ And so return to you, and nothing else?
+ 
+ Yes, bring me word, boy, if thy lord look well,
+ For he went sickly forth. And take good note
+ What Caesar doth, what suitors press to him.
+ Hark, boy, what noise is that?
+  I hear none, madam.
+  Prithee, listen well.
+ I heard a bustling rumor like a fray,
+ And the wind brings it from the Capitol.
+  Sooth, madam, I hear nothing.
+Enter the Soothsayer.
+ 
+ Come hither, fellow. Which way hast thou been?
+  At mine own house, good lady.
+  What is ’t o’clock?
+  About the ninth hour, lady.
+ 
+ Is Caesar yet gone to the Capitol?
+ 
+ Madam, not yet. I go to take my stand
+ To see him pass on to the Capitol.
+ 
+ Thou hast some suit to Caesar, hast thou not?
+ 
+ That I have, lady. If it will please Caesar
+ To be so good to Caesar as to hear me,
+ I shall beseech him to befriend himself.
+ 
+ Why, know’st thou any harm’s intended towards
+ him?
+FTLN 1109
+10
+FTLN 1110
+FTLN 1111
+FTLN 1112
+FTLN 1113
+FTLN 1114
+15
+FTLN 1115
+FTLN 1116
+FTLN 1117
+FTLN 1118
+FTLN 1119
+20
+FTLN 1120
+FTLN 1121
+FTLN 1122
+FTLN 1123
+FTLN 1124
+25
+FTLN 1125
+FTLN 1126
+FTLN 1127
+FTLN 1128
+FTLN 1129
+30
+FTLN 1130
+FTLN 1131
+FTLN 1132
+FTLN 1133
+FTLN 1134
+35
+FTLN 1135
+
+--- PAGE 49 / 106 ---
+89
+Julius Caesar
+ACT 2. SC. 4
+SOOTHSAYER
+He exits.
+PORTIA
+They exit separately.
+ 
+ None that I know will be, much that I fear may
+ chance.
+ Good morrow to you.—Here the street is narrow.
+ The throng that follows Caesar at the heels,
+ Of senators, of praetors, common suitors,
+ Will crowd a feeble man almost to death.
+ I’ll get me to a place more void, and there
+ Speak to great Caesar as he comes along. 
+ 
+ I must go in.  Aside.  Ay me, how weak a thing
+ The heart of woman is! O Brutus,
+ The heavens speed thee in thine enterprise!
+ Sure the boy heard me.  To Lucius.  Brutus hath a
+ suit
+ That Caesar will not grant.  Aside.  O, I grow
+ faint.—
+ Run, Lucius, and commend me to my lord.
+ Say I am merry. Come to me again
+ And bring me word what he doth say to thee.
+FTLN 1136
+FTLN 1137
+FTLN 1138
+FTLN 1139
+40
+FTLN 1140
+FTLN 1141
+FTLN 1142
+FTLN 1143
+FTLN 1144
+45
+FTLN 1145
+FTLN 1146
+FTLN 1147
+FTLN 1148
+FTLN 1149
+50
+FTLN 1150
+FTLN 1151
+FTLN 1152
+FTLN 1153
+
+--- PAGE 50 / 106 ---
+CAESAR
+SOOTHSAYER
+ARTEMIDORUS
+DECIUS
+ARTEMIDORUS
+CAESAR
+ARTEMIDORUS
+CAESAR
+PUBLIUS
+CASSIUS
+Caesar goes forward, the rest following.
+Flourish. Enter Caesar, Antony, Lepidus; Brutus, Cassius,
+Casca, Decius, Metellus, Trebonius, Cinna; Publius,
+Popilius,  Artemidorus, the Soothsayer, and other
+Senators and Petitioners.
+  The ides of March are come.
+  Ay, Caesar, but not gone.
+  Hail, Caesar. Read this schedule.
+ 
+ Trebonius doth desire you to o’erread,
+ At your best leisure, this his humble suit.
+ 
+ O Caesar, read mine first, for mine’s a suit
+ That touches Caesar nearer. Read it, great Caesar.
+ 
+ What touches us ourself shall be last served.
+ 
+ Delay not, Caesar; read it instantly.
+ 
+ What, is the fellow mad?
+  
+ Sirrah, give place.
+ 
+ What, urge you your petitions in the street?
+ Come to the Capitol.
+93
+ACT 3
+Scene 1
+FTLN 1154
+FTLN 1155
+FTLN 1156
+FTLN 1157
+FTLN 1158
+5
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+FTLN 1163
+10
+FTLN 1164
+FTLN 1165
+FTLN 1166
+
+--- PAGE 51 / 106 ---
+95
+Julius Caesar
+ACT 3. SC. 1
+POPILIUS
+CASSIUS
+POPILIUS
+He walks away.
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+Trebonius and Antony exit.
+DECIUS
+BRUTUS
+CINNA
+CAESAR
+METELLUS
+, to Cassius
+ 
+ I wish your enterprise today may thrive.
+  What enterprise, Popilius?
+  Fare you well. 
+  What said Popilius Lena?
+ 
+ He wished today our enterprise might thrive.
+ I fear our purpose is discoverèd.
+ 
+ Look how he makes to Caesar. Mark him.
+ 
+ Casca, be sudden, for we fear prevention.—
+ Brutus, what shall be done? If this be known,
+ Cassius or Caesar never shall turn back,
+ For I will slay myself.
+  
+ Cassius, be constant.
+ Popilius Lena speaks not of our purposes,
+ For look, he smiles, and Caesar doth not change.
+ 
+ Trebonius knows his time, for look you, Brutus,
+ He draws Mark Antony out of the way.
+ 
+ Where is Metellus Cimber? Let him go
+ And presently prefer his suit to Caesar.
+ 
+ He is addressed. Press near and second him.
+ 
+ Casca, you are the first that rears your hand.
+ 
+ Are we all ready? What is now amiss
+ That Caesar and his Senate must redress?
+, kneeling
+ 
+ Most high, most mighty, and most puissant Caesar,
+ Metellus Cimber throws before thy seat
+ An humble heart.
+FTLN 1167
+FTLN 1168
+15
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+FTLN 1173
+20
+FTLN 1174
+FTLN 1175
+FTLN 1176
+FTLN 1177
+FTLN 1178
+25
+FTLN 1179
+FTLN 1180
+FTLN 1181
+FTLN 1182
+FTLN 1183
+30
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+FTLN 1188
+35
+FTLN 1189
+FTLN 1190
+FTLN 1191
+
+--- PAGE 52 / 106 ---
+97
+Julius Caesar
+ACT 3. SC. 1
+CAESAR
+METELLUS
+BRUTUS
+CAESAR
+CASSIUS
+CAESAR
+  
+ I must prevent thee, Cimber.
+ These couchings and these lowly courtesies
+ Might fire the blood of ordinary men
+ And turn preordinance and first decree
+ Into the law  of children. Be not fond
+ To think that Caesar bears such rebel blood
+ That will be thawed from the true quality
+ With that which melteth fools—I mean sweet
+ words,
+ Low-crookèd curtsies, and base spaniel fawning.
+ Thy brother by decree is banishèd.
+ If thou dost bend and pray and fawn for him,
+ I spurn thee like a cur out of my way.
+ Know: Caesar doth not wrong, nor without cause
+ Will he be satisfied.
+ 
+ Is there no voice more worthy than my own
+ To sound more sweetly in great Caesar’s ear
+ For the repealing of my banished brother?
+, kneeling
+ 
+ I kiss thy hand, but not in flattery, Caesar,
+ Desiring thee that Publius Cimber may
+ Have an immediate freedom of repeal.
+ 
+ What, Brutus?
+, kneeling
+ 
+ Pardon, Caesar; Caesar, pardon!
+ As low as to thy foot doth Cassius fall
+ To beg enfranchisement for Publius Cimber.
+ 
+ I could be well moved, if I were as you.
+ If I could pray to move, prayers would move me.
+ But I am constant as the Northern Star,
+ Of whose true fixed and resting quality
+ There is no fellow in the firmament.
+ The skies are painted with unnumbered sparks;
+FTLN 1192
+FTLN 1193
+40
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+FTLN 1198
+45
+FTLN 1199
+FTLN 1200
+FTLN 1201
+FTLN 1202
+FTLN 1203
+50
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+FTLN 1208
+55
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+FTLN 1213
+60
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+FTLN 1218
+65
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+
+--- PAGE 53 / 106 ---
+99
+Julius Caesar
+ACT 3. SC. 1
+CINNA
+CAESAR
+DECIUS
+CAESAR
+CASCA
+As Casca strikes, the others rise up and  stab Caesar.
+CAESAR
+He  dies.
+CINNA
+CASSIUS
+BRUTUS
+CASCA
+DECIUS
+BRUTUS
+CINNA
+ They are all fire, and every one doth shine.
+ But there’s but one in all doth hold his place.
+ So in the world: ’tis furnished well with men,
+ And men are flesh and blood, and apprehensive.
+ Yet in the number I do know but one
+ That unassailable holds on his rank,
+ Unshaked of motion; and that I am he
+ Let me a little show it, even in this:
+ That I was constant Cimber should be banished
+ And constant do remain to keep him so.
+, kneeling
+ 
+ O Caesar—
+  
+ Hence. Wilt thou lift up Olympus?
+, kneeling
+ 
+ Great Caesar—
+  
+ Doth not Brutus bootless kneel?
+  Speak, hands, for me!
+  Et tu, Brutè?—Then fall, Caesar.
+ 
+ Liberty! Freedom! Tyranny is dead!
+ Run hence, proclaim, cry it about the streets.
+ 
+ Some to the common pulpits and cry out
+ “Liberty, freedom, and enfranchisement.”
+ 
+ People and Senators, be not affrighted.
+ Fly not; stand still. Ambition’s debt is paid.
+ 
+ Go to the pulpit, Brutus.
+  
+ And Cassius too.
+  Where’s Publius?
+ 
+ Here, quite confounded with this mutiny.
+FTLN 1223
+70
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+FTLN 1228
+75
+FTLN 1229
+FTLN 1230
+FTLN 1231
+FTLN 1232
+FTLN 1233
+80
+FTLN 1234
+FTLN 1235
+FTLN 1236
+FTLN 1237
+FTLN 1238
+85
+FTLN 1239
+FTLN 1240
+FTLN 1241
+FTLN 1242
+FTLN 1243
+90
+FTLN 1244
+FTLN 1245
+FTLN 1246
+FTLN 1247
+FTLN 1248
+95
+
+--- PAGE 54 / 106 ---
+101
+Julius Caesar
+ACT 3. SC. 1
+METELLUS
+BRUTUS
+CASSIUS
+BRUTUS
+All but the Conspirators exit.
+CASSIUS
+TREBONIUS
+BRUTUS
+CASCA
+BRUTUS
+ 
+ Stand fast together, lest some friend of Caesar’s
+ Should chance—
+ 
+ Talk not of standing.—Publius, good cheer.
+ There is no harm intended to your person,
+ Nor to no Roman else. So tell them, Publius.
+ 
+ And leave us, Publius, lest that the people,
+ Rushing on us, should do your age some mischief.
+ 
+ Do so, and let no man abide this deed
+ But we the doers.
+Enter Trebonius.
+  Where is Antony?
+  Fled to his house amazed.
+ Men, wives, and children stare, cry out, and run
+ As it were doomsday.
+  
+ Fates, we will know your
+ pleasures.
+ That we shall die we know; ’tis but the time,
+ And drawing days out, that men stand upon.
+ 
+ Why, he that cuts off twenty years of life
+ Cuts off so many years of fearing death.
+ 
+ Grant that, and then is death a benefit.
+ So are we Caesar’s friends, that have abridged
+ His time of fearing death. Stoop, Romans, stoop,
+ And let us bathe our hands in Caesar’s blood
+ Up to the elbows and besmear our swords.
+ Then walk we forth, even to the marketplace,
+ And, waving our red weapons o’er our heads,
+ Let’s all cry “Peace, freedom, and liberty!”
+FTLN 1249
+FTLN 1250
+FTLN 1251
+FTLN 1252
+FTLN 1253
+100
+FTLN 1254
+FTLN 1255
+FTLN 1256
+FTLN 1257
+FTLN 1258
+105
+FTLN 1259
+FTLN 1260
+FTLN 1261
+FTLN 1262
+FTLN 1263
+110
+FTLN 1264
+FTLN 1265
+FTLN 1266
+FTLN 1267
+FTLN 1268
+115
+FTLN 1269
+FTLN 1270
+FTLN 1271
+FTLN 1272
+FTLN 1273
+120
+FTLN 1274
+FTLN 1275
+
+--- PAGE 55 / 106 ---
+103
+Julius Caesar
+ACT 3. SC. 1
+CASSIUS
+They smear their hands and swords with Caesar’s blood.
+BRUTUS
+CASSIUS
+DECIUS
+CASSIUS
+BRUTUS
+SERVANT
+ 
+ Stoop then, and wash.
+ How many ages hence
+ Shall this our lofty scene be acted over
+ In states  unborn and accents yet unknown!
+ 
+ How many times shall Caesar bleed in sport,
+ That now on Pompey’s basis lies  along
+ No worthier than the dust!
+  So oft as that shall be,
+ So often shall the knot of us be called
+ The men that gave their country liberty.
+ 
+ What, shall we forth?
+  
+ Ay, every man away.
+ Brutus shall lead, and we will grace his heels
+ With the most boldest and best hearts of Rome.
+Enter a Servant.
+ 
+ Soft, who comes here? A friend of Antony’s.
+, kneeling
+ 
+ Thus, Brutus, did my master bid me kneel.
+ Thus did Mark Antony bid me fall down,
+ And, being prostrate, thus he bade me say:
+ Brutus is noble, wise, valiant, and honest;
+ Caesar was mighty, bold, royal, and loving.
+ Say, I love Brutus, and I honor him;
+ Say, I feared Caesar, honored him, and loved him.
+ If Brutus will vouchsafe that Antony
+ May safely come to him and be resolved
+ How Caesar hath deserved to lie in death,
+ Mark Antony shall not love Caesar dead
+ So well as Brutus living, but will follow
+ The fortunes and affairs of noble Brutus
+FTLN 1276
+FTLN 1277
+FTLN 1278
+125
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+FTLN 1283
+130
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+FTLN 1288
+135
+FTLN 1289
+FTLN 1290
+FTLN 1291
+FTLN 1292
+FTLN 1293
+140
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+FTLN 1298
+145
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+150
+
+--- PAGE 56 / 106 ---
+105
+Julius Caesar
+ACT 3. SC. 1
+BRUTUS
+SERVANT
+Servant exits.
+BRUTUS
+CASSIUS
+BRUTUS
+ANTONY
+ Thorough the hazards of this untrod state
+ With all true faith. So says my master Antony.
+ 
+ Thy master is a wise and valiant Roman.
+ I never thought him worse.
+ Tell him, so please him come unto this place,
+ He shall be satisfied and, by my honor,
+ Depart untouched.
+  
+ I’ll fetch him presently.
+ 
+ I know that we shall have him well to friend.
+ 
+ I wish we may; but yet have I a mind
+ That fears him much, and my misgiving still
+ Falls shrewdly to the purpose.
+Enter Antony.
+ 
+ But here comes Antony.—Welcome, Mark Antony!
+ 
+ O mighty Caesar, dost thou lie so low?
+ Are all thy conquests, glories, triumphs, spoils
+ Shrunk to this little measure? Fare thee well.—
+ I know not, gentlemen, what you intend,
+ Who else must be let blood, who else is rank.
+ If I myself, there is no hour so fit
+ As Caesar’s death’s hour, nor no instrument
+ Of half that worth as those your swords made rich
+ With the most noble blood of all this world.
+ I do beseech you, if you bear me hard,
+ Now, whilst your purpled hands do reek and smoke,
+ Fulfill your pleasure. Live a thousand years,
+ I shall not find myself so apt to die;
+ No place will please me so, no mean of death,
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+155
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+160
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+165
+FTLN 1319
+FTLN 1320
+FTLN 1321
+FTLN 1322
+FTLN 1323
+170
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+FTLN 1328
+175
+FTLN 1329
+FTLN 1330
+
+--- PAGE 57 / 106 ---
+107
+Julius Caesar
+ACT 3. SC. 1
+BRUTUS
+CASSIUS
+BRUTUS
+ANTONY
+ As here by Caesar, and by you cut off,
+ The choice and master spirits of this age.
+ 
+ O Antony, beg not your death of us!
+ Though now we must appear bloody and cruel,
+ As by our hands and this our present act
+ You see we do, yet see you but our hands
+ And this the bleeding business they have done.
+ Our hearts you see not; they are pitiful;
+ And pity to the general wrong of Rome
+ (As fire drives out fire, so pity pity)
+ Hath done this deed on Caesar. For your part,
+ To you our swords have leaden points, Mark Antony.
+ Our arms in strength of malice, and our hearts
+ Of brothers’ temper, do receive you in
+ With all kind love, good thoughts, and reverence.
+ 
+ Your voice shall be as strong as any man’s
+ In the disposing of new dignities.
+ 
+ Only be patient till we have appeased
+ The multitude, beside themselves with fear;
+ And then we will deliver you the cause
+ Why I, that did love Caesar when I struck him,
+ Have thus proceeded.
+  
+ I doubt not of your wisdom.
+ Let each man render me his bloody hand.
+ First, Marcus Brutus, will I shake with you.—
+ Next, Caius Cassius, do I take your hand.—
+ Now, Decius Brutus, yours;—now yours,
+ Metellus;—
+ Yours, Cinna;—and, my valiant Casca, yours;—
+ Though last, not least in love, yours, good
+ Trebonius.—
+ Gentlemen all—alas, what shall I say?
+ My credit now stands on such slippery ground
+ That one of two bad ways you must conceit me,
+FTLN 1331
+FTLN 1332
+FTLN 1333
+180
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+185
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+190
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+195
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+200
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+FTLN 1358
+205
+FTLN 1359
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+210
+FTLN 1364
+
+--- PAGE 58 / 106 ---
+109
+Julius Caesar
+ACT 3. SC. 1
+CASSIUS
+ANTONY
+CASSIUS
+ANTONY
+BRUTUS
+ Either a coward or a flatterer.—
+ That I did love thee, Caesar, O, ’tis true!
+ If then thy spirit look upon us now,
+ Shall it not grieve thee dearer than thy death
+ To see thy Antony making his peace,
+ Shaking the bloody fingers of thy foes—
+ Most noble!—in the presence of thy corpse?
+ Had I as many eyes as thou hast wounds,
+ Weeping as fast as they stream forth thy blood,
+ It would become me better than to close
+ In terms of friendship with thine enemies.
+ Pardon me, Julius! Here wast thou bayed, brave
+ hart,
+ Here didst thou fall, and here thy hunters stand
+ Signed in thy spoil and crimsoned in thy Lethe.
+ O world, thou wast the forest to this hart,
+ And this indeed, O world, the heart of thee.
+ How like a deer strucken by many princes
+ Dost thou here lie!
+ 
+ Mark Antony—
+  
+ Pardon me, Caius Cassius.
+ The enemies of Caesar shall say this;
+ Then, in a friend, it is cold modesty.
+ 
+ I blame you not for praising Caesar so.
+ But what compact mean you to have with us?
+ Will you be pricked in number of our friends,
+ Or shall we on and not depend on you?
+ 
+ Therefore I took your hands, but was indeed
+ Swayed from the point by looking down on Caesar.
+ Friends am I with you all and love you all,
+ Upon this hope, that you shall give me reasons
+ Why and wherein Caesar was dangerous.
+ 
+ Or else were this a savage spectacle.
+FTLN 1365
+FTLN 1366
+FTLN 1367
+FTLN 1368
+215
+FTLN 1369
+FTLN 1370
+FTLN 1371
+FTLN 1372
+FTLN 1373
+220
+FTLN 1374
+FTLN 1375
+FTLN 1376
+FTLN 1377
+FTLN 1378
+225
+FTLN 1379
+FTLN 1380
+FTLN 1381
+FTLN 1382
+FTLN 1383
+230
+FTLN 1384
+FTLN 1385
+FTLN 1386
+FTLN 1387
+FTLN 1388
+235
+FTLN 1389
+FTLN 1390
+FTLN 1391
+FTLN 1392
+FTLN 1393
+240
+FTLN 1394
+FTLN 1395
+FTLN 1396
+FTLN 1397
+
+--- PAGE 59 / 106 ---
+111
+Julius Caesar
+ACT 3. SC. 1
+ANTONY
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+ Our reasons are so full of good regard
+ That were you, Antony, the son of Caesar,
+ You should be satisfied.
+  
+ That’s all I seek;
+ And am, moreover, suitor that I may
+ Produce his body to the marketplace,
+ And in the pulpit, as becomes a friend,
+ Speak in the order of his funeral.
+ 
+ You shall, Mark Antony.
+  
+ Brutus, a word with you.
+  Aside to Brutus.  You know not what you do. Do
+ not consent
+ That Antony speak in his funeral.
+ Know you how much the people may be moved
+ By that which he will utter?
+, aside to Cassius
+  
+ By your pardon,
+ I will myself into the pulpit first
+ And show the reason of our Caesar’s death.
+ What Antony shall speak I will protest
+ He speaks by leave and by permission,
+ And that we are contented Caesar shall
+ Have all true rites and lawful ceremonies.
+ It shall advantage more than do us wrong.
+, aside to Brutus
+ 
+ I know not what may fall. I like it not.
+ 
+ Mark Antony, here, take you Caesar’s body.
+ You shall not in your funeral speech blame us
+ But speak all good you can devise of Caesar
+ And say you do ’t by our permission,
+ Else shall you not have any hand at all
+ About his funeral. And you shall speak
+ In the same pulpit whereto I am going,
+ After my speech is ended.
+FTLN 1398
+245
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+FTLN 1403
+250
+FTLN 1404
+FTLN 1405
+FTLN 1406
+FTLN 1407
+FTLN 1408
+255
+FTLN 1409
+FTLN 1410
+FTLN 1411
+FTLN 1412
+FTLN 1413
+260
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+FTLN 1418
+265
+FTLN 1419
+FTLN 1420
+FTLN 1421
+FTLN 1422
+FTLN 1423
+270
+FTLN 1424
+FTLN 1425
+FTLN 1426
+FTLN 1427
+FTLN 1428
+275
+FTLN 1429
+
+--- PAGE 60 / 106 ---
+113
+Julius Caesar
+ACT 3. SC. 1
+ANTONY
+BRUTUS
+All but Antony exit.
+ANTONY
+SERVANT
+ANTONY
+SERVANT
+  
+ Be it so.
+ I do desire no more.
+ 
+ Prepare the body, then, and follow us.
+ 
+ O pardon me, thou bleeding piece of earth,
+ That I am meek and gentle with these butchers.
+ Thou art the ruins of the noblest man
+ That ever livèd in the tide of times.
+ Woe to the hand that shed this costly blood!
+ Over thy wounds now do I prophesy
+ (Which like dumb mouths do ope their ruby lips
+ To beg the voice and utterance of my tongue)
+ A curse shall light upon the limbs of men;
+ Domestic fury and fierce civil strife
+ Shall cumber all the parts of Italy;
+ Blood and destruction shall be so in use
+ And dreadful objects so familiar
+ That mothers shall but smile when they behold
+ Their infants quartered with the hands of war,
+ All pity choked with custom of fell deeds;
+ And Caesar’s spirit, ranging for revenge,
+ With Ate by his side come hot from hell,
+ Shall in these confines with a monarch’s voice
+ Cry “Havoc!” and let slip the dogs of war,
+ That this foul deed shall smell above the earth
+ With carrion men groaning for burial.
+Enter Octavius’ Servant.
+ You serve Octavius Caesar, do you not?
+  I do, Mark Antony.
+ 
+ Caesar did write for him to come to Rome.
+ 
+ He did receive his letters and is coming,
+FTLN 1430
+FTLN 1431
+FTLN 1432
+FTLN 1433
+280
+FTLN 1434
+FTLN 1435
+FTLN 1436
+FTLN 1437
+FTLN 1438
+285
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+FTLN 1443
+290
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+FTLN 1448
+295
+FTLN 1449
+FTLN 1450
+FTLN 1451
+FTLN 1452
+FTLN 1453
+300
+FTLN 1454
+FTLN 1455
+FTLN 1456
+FTLN 1457
+FTLN 1458
+305
+
+--- PAGE 61 / 106 ---
+115
+Julius Caesar
+ACT 3. SC. 2
+ANTONY
+SERVANT
+ANTONY
+They exit with Caesar’s body.
+PLEBEIANS
+BRUTUS
+ And bid me say to you by word of mouth—
+ O Caesar!
+ 
+ Thy heart is big. Get thee apart and weep.
+ Passion, I see, is catching, for  mine eyes,
+ Seeing those beads of sorrow stand in thine,
+ Began to water. Is thy master coming?
+ 
+ He lies tonight within seven leagues of Rome.
+ 
+ Post back with speed and tell him what hath
+ chanced.
+ Here is a mourning Rome, a dangerous Rome,
+ No Rome of safety for Octavius yet.
+ Hie hence and tell him so.—Yet stay awhile;
+ Thou shalt not back till I have borne this corpse
+ Into the marketplace. There shall I try,
+ In my oration, how the people take
+ The cruel issue of these bloody men,
+ According to the which thou shalt discourse
+ To young Octavius of the state of things.
+ Lend me your hand.
+Enter Brutus and Cassius with the Plebeians.
+ 
+ We will be satisfied! Let us be satisfied!
+ 
+ Then follow me and give me audience, friends.—
+ Cassius, go you into the other street
+ And part the numbers.—
+ Those that will hear me speak, let ’em stay here;
+ Those that will follow Cassius, go with him;
+FTLN 1459
+FTLN 1460
+FTLN 1461
+FTLN 1462
+FTLN 1463
+310
+FTLN 1464
+FTLN 1465
+FTLN 1466
+FTLN 1467
+FTLN 1468
+315
+FTLN 1469
+FTLN 1470
+FTLN 1471
+FTLN 1472
+FTLN 1473
+320
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+Scene 2
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+5
+FTLN 1483
+
+--- PAGE 62 / 106 ---
+117
+Julius Caesar
+ACT 3. SC. 2
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+Cassius exits with some of the Plebeians.
+Brutus goes into the pulpit.
+THIRD PLEBEIAN
+BRUTUS
+PLEBEIANS
+BRUTUS
+ And public reasons shall be renderèd
+ Of Caesar’s death.
+  
+ I will hear Brutus speak.
+ 
+ I will hear Cassius, and compare their reasons
+ When severally we hear them renderèd.
+ 
+ The noble Brutus is ascended. Silence.
+  Be patient till the last.
+ Romans, countrymen, and lovers, hear me for my
+ cause, and be silent that you may hear. Believe me
+ for mine honor, and have respect to mine honor
+ that you may believe. Censure me in your wisdom,
+ and awake your senses that you may the better
+ judge. If there be any in this assembly, any dear
+ friend of Caesar’s, to him I say that Brutus’ love
+ to Caesar was no less than his. If then that friend
+ demand why Brutus rose against Caesar, this is my
+ answer: not that I loved Caesar less, but that I loved
+ Rome more. Had you rather Caesar were living, and
+ die all slaves, than that Caesar were dead, to live all
+ freemen? As Caesar loved me, I weep for him. As he
+ was fortunate, I rejoice at it. As he was valiant, I
+ honor him. But, as he was ambitious, I slew him.
+ There is tears for his love, joy for his fortune, honor
+ for his valor, and death for his ambition. Who is
+ here so base that would be a bondman? If any,
+ speak, for him have I offended. Who is here so rude
+ that would not be a Roman? If any, speak, for him
+ have I offended. Who is here so vile that will not
+ love his country? If any, speak, for him have I
+ offended. I pause for a reply.
+  None, Brutus, none.
+  Then none have I offended. I have done no
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+10
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+FTLN 1492
+15
+FTLN 1493
+FTLN 1494
+FTLN 1495
+FTLN 1496
+FTLN 1497
+20
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+25
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+FTLN 1507
+30
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+FTLN 1512
+35
+FTLN 1513
+FTLN 1514
+FTLN 1515
+
+--- PAGE 63 / 106 ---
+119
+Julius Caesar
+ACT 3. SC. 2
+PLEBEIANS
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+FOURTH PLEBEIAN
+FIRST PLEBEIAN
+BRUTUS
+SECOND PLEBEIAN
+FIRST PLEBEIAN
+BRUTUS
+ more to Caesar than you shall do to Brutus. The
+ question of his death is enrolled in the Capitol, his
+ glory not extenuated wherein he was worthy, nor
+ his offenses enforced for which he suffered death.
+Enter Mark Antony and others  with Caesar’s body.
+ Here comes his body, mourned by Mark Antony,
+ who, though he had no hand in his death, shall
+ receive the benefit of his dying—a place in the
+ commonwealth—as which of you shall not? With
+ this I depart: that, as I slew my best lover for the
+ good of Rome, I have the same dagger for myself
+ when it shall please my country to need my death.
+  Live, Brutus, live, live!
+ 
+ Bring him with triumph home unto his house.
+ 
+ Give him a statue with his ancestors.
+ 
+ Let him be Caesar.
+  
+ Caesar’s better parts
+ Shall be crowned in Brutus.
+ 
+ We’ll bring him to his house with shouts and
+ clamors.
+ 
+ My countrymen—
+  
+ Peace, silence! Brutus speaks.
+  Peace, ho!
+ 
+ Good countrymen, let me depart alone,
+ And, for my sake, stay here with Antony.
+ Do grace to Caesar’s corpse, and grace his speech
+ Tending to Caesar’s glories, which Mark Antony
+ (By our permission) is allowed to make.
+FTLN 1516
+FTLN 1517
+40
+FTLN 1518
+FTLN 1519
+FTLN 1520
+FTLN 1521
+FTLN 1522
+45
+FTLN 1523
+FTLN 1524
+FTLN 1525
+FTLN 1526
+FTLN 1527
+50
+FTLN 1528
+FTLN 1529
+FTLN 1530
+FTLN 1531
+FTLN 1532
+55
+FTLN 1533
+FTLN 1534
+FTLN 1535
+FTLN 1536
+FTLN 1537
+60
+FTLN 1538
+FTLN 1539
+FTLN 1540
+FTLN 1541
+FTLN 1542
+65
+
+--- PAGE 64 / 106 ---
+121
+Julius Caesar
+ACT 3. SC. 2
+He descends and  exits.
+FIRST PLEBEIAN
+THIRD PLEBEIAN
+PLEBEIANS
+ANTONY
+He goes into the pulpit.
+FOURTH PLEBEIAN
+THIRD PLEBEIAN
+FOURTH PLEBEIAN
+FIRST PLEBEIAN
+THIRD PLEBEIAN
+SECOND PLEBEIAN
+ANTONY
+PLEBEIANS
+ANTONY
+ I do entreat you, not a man depart,
+ Save I alone, till Antony have spoke.
+ 
+ Stay, ho, and let us hear Mark Antony!
+ 
+ Let him go up into the public chair.
+ 
+ We’ll hear him.—Noble Antony, go up.
+ 
+ For Brutus’ sake, I am beholding to you.
+  What does he say of Brutus?
+  He says for Brutus’ sake
+ He finds himself beholding to us all.
+ 
+ ’Twere best he speak no harm of Brutus here.
+ 
+ This Caesar was a tyrant.
+  
+ Nay, that’s certain.
+ We are blest that Rome is rid of him.
+ 
+ Peace, let us hear what Antony can say.
+ 
+ You gentle Romans—
+  
+ Peace, ho! Let us hear him.
+ 
+ Friends, Romans, countrymen, lend me your ears.
+ I come to bury Caesar, not to praise him.
+ The evil that men do lives after them;
+ The good is oft interrèd with their bones.
+ So let it be with Caesar. The noble Brutus
+ Hath told you Caesar was ambitious.
+ If it were so, it was a grievous fault,
+ And grievously hath Caesar answered it.
+ Here, under leave of Brutus and the rest
+ (For Brutus is an honorable man;
+FTLN 1543
+FTLN 1544
+FTLN 1545
+FTLN 1546
+FTLN 1547
+70
+FTLN 1548
+FTLN 1549
+FTLN 1550
+FTLN 1551
+FTLN 1552
+75
+FTLN 1553
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+80
+FTLN 1558
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+85
+FTLN 1563
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+90
+FTLN 1568
+
+--- PAGE 65 / 106 ---
+123
+Julius Caesar
+ACT 3. SC. 2
+He weeps.
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+FOURTH PLEBEIAN
+ So are they all, all honorable men),
+ Come I to speak in Caesar’s funeral.
+ He was my friend, faithful and just to me,
+ But Brutus says he was ambitious,
+ And Brutus is an honorable man.
+ He hath brought many captives home to Rome,
+ Whose ransoms did the general coffers fill.
+ Did this in Caesar seem ambitious?
+ When that the poor have cried, Caesar hath wept;
+ Ambition should be made of sterner stuff.
+ Yet Brutus says he was ambitious,
+ And Brutus is an honorable man.
+ You all did see that on the Lupercal
+ I thrice presented him a kingly crown,
+ Which he did thrice refuse. Was this ambition?
+ Yet Brutus says he was ambitious,
+ And sure he is an honorable man.
+ I speak not to disprove what Brutus spoke,
+ But here I am to speak what I do know.
+ You all did love him once, not without cause.
+ What cause withholds you, then, to mourn for
+ him?—
+ O judgment, thou art  fled to brutish beasts,
+ And men have lost their reason!—Bear with me;
+ My heart is in the coffin there with Caesar,
+ And I must pause till it come back to me. 
+ 
+ Methinks there is much reason in his sayings.
+ 
+ If thou consider rightly of the matter,
+ Caesar has had great wrong.
+  
+ Has he, masters?
+ I fear there will a worse come in his place.
+ 
+ Marked you his words? He would not take the
+ crown;
+ Therefore ’tis certain he was not ambitious.
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+95
+FTLN 1573
+FTLN 1574
+FTLN 1575
+FTLN 1576
+FTLN 1577
+100
+FTLN 1578
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+105
+FTLN 1583
+FTLN 1584
+FTLN 1585
+FTLN 1586
+FTLN 1587
+110
+FTLN 1588
+FTLN 1589
+FTLN 1590
+FTLN 1591
+FTLN 1592
+115
+FTLN 1593
+FTLN 1594
+FTLN 1595
+FTLN 1596
+FTLN 1597
+120
+FTLN 1598
+FTLN 1599
+FTLN 1600
+FTLN 1601
+FTLN 1602
+125
+
+--- PAGE 66 / 106 ---
+125
+Julius Caesar
+ACT 3. SC. 2
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+FOURTH PLEBEIAN
+ANTONY
+FOURTH PLEBEIAN
+PLEBEIANS
+ANTONY
+ 
+ If it be found so, some will dear abide it.
+ 
+ Poor soul, his eyes are red as fire with weeping.
+ 
+ There’s not a nobler man in Rome than Antony.
+ 
+ Now mark him. He begins again to speak.
+ 
+ But yesterday the word of Caesar might
+ Have stood against the world. Now lies he there,
+ And none so poor to do him reverence.
+ O masters, if I were disposed to stir
+ Your hearts and minds to mutiny and rage,
+ I should do Brutus wrong and Cassius wrong,
+ Who, you all know, are honorable men.
+ I will not do them wrong. I rather choose
+ To wrong the dead, to wrong myself and you,
+ Than I will wrong such honorable men.
+ But here’s a parchment with the seal of Caesar.
+ I found it in his closet. ’Tis his will.
+ Let but the commons hear this testament,
+ Which, pardon me, I do not mean to read,
+ And they would go and kiss dead Caesar’s wounds
+ And dip their napkins in his sacred blood—
+ Yea, beg a hair of him for memory
+ And, dying, mention it within their wills,
+ Bequeathing it as a rich legacy
+ Unto their issue.
+ 
+ We’ll hear the will. Read it, Mark Antony.
+ 
+ The will, the will! We will hear Caesar’s will.
+ 
+ Have patience, gentle friends. I must not read it.
+FTLN 1603
+FTLN 1604
+FTLN 1605
+FTLN 1606
+FTLN 1607
+130
+FTLN 1608
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+135
+FTLN 1613
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+140
+FTLN 1618
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+145
+FTLN 1623
+FTLN 1624
+FTLN 1625
+FTLN 1626
+FTLN 1627
+150
+FTLN 1628
+FTLN 1629
+
+--- PAGE 67 / 106 ---
+127
+Julius Caesar
+ACT 3. SC. 2
+FOURTH PLEBEIAN
+PLEBEIANS
+ANTONY
+FOURTH PLEBEIAN
+PLEBEIANS
+SECOND PLEBEIAN
+ANTONY
+PLEBEIANS
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+Antony descends.
+FOURTH PLEBEIAN
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+ANTONY
+ It is not meet you know how Caesar loved you.
+ You are not wood, you are not stones, but men.
+ And, being men, hearing the will of Caesar,
+ It will inflame you; it will make you mad.
+ ’Tis good you know not that you are his heirs,
+ For if you should, O, what would come of it?
+ 
+ Read the will! We’ll hear it, Antony.
+ 
+ You shall read us the will, Caesar’s will.
+ 
+ Will you be patient? Will you stay awhile?
+ I have o’ershot myself to tell you of it.
+ I fear I wrong the honorable men
+ Whose daggers have stabbed Caesar. I do fear it.
+  They were traitors. Honorable men?
+  The will! The testament!
+  They were villains, murderers. The
+ will! Read the will.
+ 
+ You will compel me, then, to read the will?
+ Then make a ring about the corpse of Caesar,
+ And let me show you him that made the will.
+ Shall I descend? And will you give me leave?
+  Come down.
+  Descend.
+  You shall have leave.
+  A ring; stand round.
+ 
+ Stand from the hearse. Stand from the body.
+ 
+ Room for Antony, most noble Antony.
+ 
+ Nay, press not so upon me. Stand far off.
+FTLN 1630
+FTLN 1631
+FTLN 1632
+155
+FTLN 1633
+FTLN 1634
+FTLN 1635
+FTLN 1636
+FTLN 1637
+160
+FTLN 1638
+FTLN 1639
+FTLN 1640
+FTLN 1641
+FTLN 1642
+165
+FTLN 1643
+FTLN 1644
+FTLN 1645
+FTLN 1646
+FTLN 1647
+170
+FTLN 1648
+FTLN 1649
+FTLN 1650
+FTLN 1651
+FTLN 1652
+175
+FTLN 1653
+FTLN 1654
+FTLN 1655
+FTLN 1656
+
+--- PAGE 68 / 106 ---
+129
+Julius Caesar
+ACT 3. SC. 2
+PLEBEIANS
+ANTONY
+Antony lifts Caesar’s cloak.
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+  Stand back! Room! Bear back!
+ 
+ If you have tears, prepare to shed them now.
+ You all do know this mantle. I remember
+ The first time ever Caesar put it on.
+ ’Twas on a summer’s evening in his tent,
+ That day he overcame the Nervii.
+ Look, in this place ran Cassius’ dagger through.
+ See what a rent the envious Casca made.
+ Through this the well-belovèd Brutus stabbed,
+ And, as he plucked his cursèd steel away,
+ Mark how the blood of Caesar followed it,
+ As rushing out of doors to be resolved
+ If Brutus so unkindly knocked or no;
+ For Brutus, as you know, was Caesar’s angel.
+ Judge, O you gods, how dearly Caesar loved him!
+ This was the most unkindest cut of all.
+ For when the noble Caesar saw him stab,
+ Ingratitude, more strong than traitors’ arms,
+ Quite vanquished him. Then burst his mighty heart,
+ And, in his mantle muffling up his face,
+ Even at the base of Pompey’s statue
+ (Which all the while ran blood) great Caesar fell.
+ O, what a fall was there, my countrymen!
+ Then I and you and all of us fell down,
+ Whilst bloody treason flourished over us.
+ O, now you weep, and I perceive you feel
+ The dint of pity. These are gracious drops.
+ Kind souls, what, weep you when you but behold
+ Our Caesar’s vesture wounded? Look you here,
+ Here is himself, marred as you see with traitors.
+  O piteous spectacle!
+  O noble Caesar!
+  O woeful day!
+FTLN 1657
+180
+FTLN 1658
+FTLN 1659
+FTLN 1660
+FTLN 1661
+FTLN 1662
+185
+FTLN 1663
+FTLN 1664
+FTLN 1665
+FTLN 1666
+FTLN 1667
+190
+FTLN 1668
+FTLN 1669
+FTLN 1670
+FTLN 1671
+FTLN 1672
+195
+FTLN 1673
+FTLN 1674
+FTLN 1675
+FTLN 1676
+FTLN 1677
+200
+FTLN 1678
+FTLN 1679
+FTLN 1680
+FTLN 1681
+FTLN 1682
+205
+FTLN 1683
+FTLN 1684
+FTLN 1685
+FTLN 1686
+FTLN 1687
+210
+FTLN 1688
+FTLN 1689
+
+--- PAGE 69 / 106 ---
+131
+Julius Caesar
+ACT 3. SC. 2
+FOURTH PLEBEIAN
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+PLEBEIANS
+ANTONY
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+ANTONY
+PLEBEIANS
+FIRST PLEBEIAN
+  O traitors, villains!
+  O most bloody sight!
+  We will be revenged.
+  Revenge! About! Seek! Burn! Fire! Kill!
+ Slay! Let not a traitor live!
+  Stay, countrymen.
+  Peace there! Hear the noble Antony.
+  We’ll hear him, we’ll follow him,
+ we’ll die with him.
+ 
+ Good friends, sweet friends, let me not stir you up
+ To such a sudden flood of mutiny.
+ They that have done this deed are honorable.
+ What private griefs they have, alas, I know not,
+ That made them do it. They are wise and honorable
+ And will no doubt with reasons answer you.
+ I come not, friends, to steal away your hearts.
+ I am no orator, as Brutus is,
+ But, as you know me all, a plain blunt man
+ That love my friend, and that they know full well
+ That gave me public leave to speak of him.
+ For I have neither wit,  nor words, nor worth,
+ Action, nor utterance, nor the power of speech
+ To stir men’s blood. I only speak right on.
+ I tell you that which you yourselves do know,
+ Show you sweet Caesar’s wounds, poor poor dumb
+ mouths,
+ And bid them speak for me. But were I Brutus,
+ And Brutus Antony, there were an Antony
+ Would ruffle up your spirits and put a tongue
+ In every wound of Caesar that should move
+ The stones of Rome to rise and mutiny.
+ 
+ We’ll mutiny.
+   We’ll burn the house of Brutus.
+FTLN 1690
+FTLN 1691
+FTLN 1692
+215
+FTLN 1693
+FTLN 1694
+FTLN 1695
+FTLN 1696
+FTLN 1697
+220
+FTLN 1698
+FTLN 1699
+FTLN 1700
+FTLN 1701
+FTLN 1702
+225
+FTLN 1703
+FTLN 1704
+FTLN 1705
+FTLN 1706
+FTLN 1707
+230
+FTLN 1708
+FTLN 1709
+FTLN 1710
+FTLN 1711
+FTLN 1712
+235
+FTLN 1713
+FTLN 1714
+FTLN 1715
+FTLN 1716
+FTLN 1717
+240
+FTLN 1718
+FTLN 1719
+FTLN 1720
+FTLN 1721
+FTLN 1722
+245
+
+--- PAGE 70 / 106 ---
+133
+Julius Caesar
+ACT 3. SC. 2
+THIRD PLEBEIAN
+ANTONY
+PLEBEIANS
+ANTONY
+PLEBEIANS
+ANTONY
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+ANTONY
+PLEBEIANS
+ANTONY
+FIRST PLEBEIAN
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+ 
+ Away then. Come, seek the conspirators.
+ 
+ Yet hear me, countrymen; yet hear me speak.
+ 
+ Peace, ho! Hear Antony, most noble Antony!
+ 
+ Why, friends, you go to do you know not what.
+ Wherein hath Caesar thus deserved your loves?
+ Alas, you know not. I must tell you then.
+ You have forgot the will I told you of.
+ 
+ Most true. The will! Let’s stay and hear the will.
+ 
+ Here is the will, and under Caesar’s seal:
+ To every Roman citizen he gives,
+ To every several man, seventy-five drachmas.
+ 
+ Most noble Caesar! We’ll revenge his death.
+  O royal Caesar!
+  Hear me with patience.
+  Peace, ho!
+ 
+ Moreover, he hath left you all his walks,
+ His private arbors, and new-planted orchards,
+ On this side Tiber. He hath left them you,
+ And to your heirs forever—common pleasures
+ To walk abroad and recreate yourselves.
+ Here was a Caesar! When comes such another?
+ 
+ Never, never!—Come, away, away!
+ We’ll burn his body in the holy place
+ And with the brands fire the traitors’ houses.
+ Take up the body.
+  Go fetch fire.
+  Pluck down benches.
+FTLN 1723
+FTLN 1724
+FTLN 1725
+FTLN 1726
+FTLN 1727
+250
+FTLN 1728
+FTLN 1729
+FTLN 1730
+FTLN 1731
+FTLN 1732
+255
+FTLN 1733
+FTLN 1734
+FTLN 1735
+FTLN 1736
+FTLN 1737
+260
+FTLN 1738
+FTLN 1739
+FTLN 1740
+FTLN 1741
+FTLN 1742
+265
+FTLN 1743
+FTLN 1744
+FTLN 1745
+FTLN 1746
+FTLN 1747
+270
+FTLN 1748
+FTLN 1749
+
+--- PAGE 71 / 106 ---
+135
+Julius Caesar
+ACT 3. SC. 3
+FOURTH PLEBEIAN
+Plebeians exit with Caesar’s body.
+ANTONY
+SERVANT
+ANTONY
+SERVANT
+ANTONY
+SERVANT
+ANTONY
+They exit.
+CINNA
+FIRST PLEBEIAN
+  Pluck down forms, windows,
+ anything.
+ 
+ Now let it work. Mischief, thou art afoot;
+ Take thou what course thou wilt.
+Enter Servant.
+ How now, fellow?
+ 
+ Sir, Octavius is already come to Rome.
+  Where is he?
+ 
+ He and Lepidus are at Caesar’s house.
+ 
+ And thither will I straight to visit him.
+ He comes upon a wish. Fortune is merry
+ And in this mood will give us anything.
+ 
+ I heard him say Brutus and Cassius
+ Are rid like madmen through the gates of Rome.
+ 
+ Belike they had some notice of the people
+ How I had moved them. Bring me to Octavius.
+Enter Cinna the poet and after him the Plebeians.
+ 
+ I dreamt tonight that I did feast with Caesar,
+ And things unluckily charge my fantasy.
+ I have no will to wander forth of doors,
+ Yet something leads me forth.
+  What is your name?
+FTLN 1750
+FTLN 1751
+FTLN 1752
+275
+FTLN 1753
+FTLN 1754
+FTLN 1755
+FTLN 1756
+FTLN 1757
+280
+FTLN 1758
+FTLN 1759
+FTLN 1760
+FTLN 1761
+FTLN 1762
+285
+FTLN 1763
+FTLN 1764
+Scene 3
+FTLN 1765
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+5
+
+--- PAGE 72 / 106 ---
+137
+Julius Caesar
+ACT 3. SC. 3
+SECOND PLEBEIAN
+THIRD PLEBEIAN
+FOURTH PLEBEIAN
+SECOND PLEBEIAN
+FIRST PLEBEIAN
+FOURTH PLEBEIAN
+THIRD PLEBEIAN
+CINNA
+SECOND PLEBEIAN
+CINNA
+FIRST PLEBEIAN
+CINNA
+SECOND PLEBEIAN
+FOURTH PLEBEIAN
+CINNA
+THIRD PLEBEIAN
+CINNA
+FIRST PLEBEIAN
+CINNA
+FOURTH PLEBEIAN
+CINNA
+FOURTH PLEBEIAN
+THIRD PLEBEIAN
+All the Plebeians exit, carrying off Cinna.
+  Whither are you going?
+  Where do you dwell?
+  Are you a married man or a
+ bachelor?
+  Answer every man directly.
+  Ay, and briefly.
+  Ay, and wisely.
+  Ay, and truly, you were best.
+  What is my name? Whither am I going? Where
+ do I dwell? Am I a married man or a bachelor?
+ Then to answer every man directly and briefly,
+ wisely and truly: wisely I say, I am a bachelor.
+  That’s as much as to say they are
+ fools that marry. You’ll bear me a bang for that, I
+ fear. Proceed directly.
+  Directly, I am going to Caesar’s funeral.
+  As a friend or an enemy?
+  As a friend.
+  That matter is answered directly.
+  For your dwelling—briefly.
+  Briefly, I dwell by the Capitol.
+  Your name, sir, truly.
+  Truly, my name is Cinna.
+  Tear him to pieces! He’s a conspirator.
+  I am Cinna the poet, I am Cinna the poet!
+  Tear him for his bad verses, tear him
+ for his bad verses!
+  I am not Cinna the conspirator.
+  It is no matter. His name’s Cinna.
+ Pluck but his name out of his heart, and turn him
+ going.
+  Tear him, tear him! Come, brands, ho,
+ firebrands! To Brutus’, to Cassius’, burn all! Some
+ to Decius’ house, and some to Casca’s, some to
+ Ligarius’. Away, go!
+FTLN 1770
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+10
+FTLN 1775
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+15
+FTLN 1780
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+20
+FTLN 1785
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+25
+FTLN 1790
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+30
+FTLN 1795
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+35
+FTLN 1800
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+40
+
+--- PAGE 73 / 106 ---
+ANTONY
+OCTAVIUS
+LEPIDUS
+OCTAVIUS
+LEPIDUS
+ANTONY
+LEPIDUS
+OCTAVIUS
+Lepidus exits.
+ANTONY
+Enter Antony, Octavius, and Lepidus.
+ 
+ These many, then, shall die; their names are
+ pricked.
+ 
+ Your brother too must die. Consent you, Lepidus?
+ 
+ I do consent.
+  
+ Prick him down, Antony.
+ 
+ Upon condition Publius shall not live,
+ Who is your sister’s son, Mark Antony.
+ 
+ He shall not live; look, with a spot I damn him.
+ But, Lepidus, go you to Caesar’s house;
+ Fetch the will hither, and we shall determine
+ How to cut off some charge in legacies.
+  What, shall I find you here?
+  Or here, or at the Capitol. 
+ 
+ This is a slight, unmeritable man,
+ Meet to be sent on errands. Is it fit,
+ The threefold world divided, he should stand
+ One of the three to share it?
+141
+ACT 4
+Scene 1
+FTLN 1805
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+5
+FTLN 1810
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+10
+FTLN 1815
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+15
+FTLN 1820
+FTLN 1821
+
+--- PAGE 74 / 106 ---
+143
+Julius Caesar
+ACT 4. SC. 1
+OCTAVIUS
+ANTONY
+OCTAVIUS
+ANTONY
+  
+ So you thought him
+ And took his voice who should be pricked to die
+ In our black sentence and proscription.
+ 
+ Octavius, I have seen more days than you,
+ And, though we lay these honors on this man
+ To ease ourselves of diverse sland’rous loads,
+ He shall but bear them as the ass bears gold,
+ To groan and sweat under the business,
+ Either led or driven, as we point the way;
+ And having brought our treasure where we will,
+ Then take we down his load and turn him off
+ (Like to the empty ass) to shake his ears
+ And graze in commons.
+  
+ You may do your will,
+ But he’s a tried and valiant soldier.
+ 
+ So is my horse, Octavius, and for that
+ I do appoint him store of provender.
+ It is a creature that I teach to fight,
+ To wind, to stop, to run directly on,
+ His corporal motion governed by my spirit;
+ And, in some taste, is Lepidus but so.
+ He must be taught and trained and bid go forth—
+ A barren-spirited fellow, one that feeds
+ On objects, arts, and imitations
+ Which, out of use and staled by other men,
+ Begin his fashion. Do not talk of him
+ But as a property. And now, Octavius,
+ Listen great things. Brutus and Cassius
+ Are levying powers. We must straight make head.
+ Therefore let our alliance be combined,
+ Our best friends made, our means stretched;
+ And let us presently go sit in council
+ How covert matters may be best disclosed
+ And open perils surest answerèd.
+FTLN 1822
+FTLN 1823
+FTLN 1824
+20
+FTLN 1825
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+25
+FTLN 1830
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+30
+FTLN 1835
+FTLN 1836
+FTLN 1837
+FTLN 1838
+FTLN 1839
+35
+FTLN 1840
+FTLN 1841
+FTLN 1842
+FTLN 1843
+FTLN 1844
+40
+FTLN 1845
+FTLN 1846
+FTLN 1847
+FTLN 1848
+FTLN 1849
+45
+FTLN 1850
+FTLN 1851
+FTLN 1852
+FTLN 1853
+FTLN 1854
+50
+FTLN 1855
+
+--- PAGE 75 / 106 ---
+145
+Julius Caesar
+ACT 4. SC. 2
+OCTAVIUS
+They exit.
+BRUTUS
+LUCILIUS
+BRUTUS
+LUCILIUS
+BRUTUS
+PINDARUS
+BRUTUS
+Brutus and Lucilius walk aside.
+LUCILIUS
+ 
+ Let us do so, for we are at the stake
+ And bayed about with many enemies,
+ And some that smile have in their hearts, I fear,
+ Millions of mischiefs.
+Drum. Enter Brutus, Lucilius, Lucius,  and the Army.
+Titinius and Pindarus meet them.
+  Stand ho!
+  Give the word, ho, and stand!
+ 
+ What now, Lucilius, is Cassius near?
+ 
+ He is at hand, and Pindarus is come
+ To do you salutation from his master.
+ 
+ He greets me well.—Your master, Pindarus,
+ In his own change or by ill officers,
+ Hath given me some worthy cause to wish
+ Things done undone, but if he be at hand
+ I shall be satisfied.
+  
+ I do not doubt
+ But that my noble master will appear
+ Such as he is, full of regard and honor.
+ 
+ He is not doubted. 
+ A word, Lucilius,
+ How he received you. Let me be resolved.
+ 
+ With courtesy and with respect enough,
+ But not with such familiar instances
+ Nor with such free and friendly conference
+ As he hath used of old.
+FTLN 1856
+FTLN 1857
+FTLN 1858
+FTLN 1859
+55
+Scene 2
+FTLN 1860
+FTLN 1861
+FTLN 1862
+FTLN 1863
+FTLN 1864
+5
+FTLN 1865
+FTLN 1866
+FTLN 1867
+FTLN 1868
+FTLN 1869
+10
+FTLN 1870
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+15
+FTLN 1875
+FTLN 1876
+FTLN 1877
+FTLN 1878
+FTLN 1879
+20
+
+--- PAGE 76 / 106 ---
+147
+Julius Caesar
+ACT 4. SC. 2
+BRUTUS
+Low march within.
+LUCILIUS
+BRUTUS
+CASSIUS
+BRUTUS
+FIRST SOLDIER
+SECOND SOLDIER
+THIRD SOLDIER
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+  
+ Thou hast described
+ A hot friend cooling. Ever note, Lucilius,
+ When love begins to sicken and decay
+ It useth an enforcèd ceremony.
+ There are no tricks in plain and simple faith;
+ But hollow men, like horses hot at hand,
+ Make gallant show and promise of their mettle,
+ But when they should endure the bloody spur,
+ They fall their crests and, like deceitful jades,
+ Sink in the trial. Comes his army on?
+ 
+ They mean this night in Sardis to be quartered.
+ The greater part, the horse in general,
+ Are come with Cassius.
+Enter Cassius and his powers.
+  
+ Hark, he is arrived.
+ March gently on to meet him.
+  Stand ho!
+  Stand ho! Speak the word along.
+  Stand!
+  Stand!
+  Stand!
+ 
+ Most noble brother, you have done me wrong.
+ 
+ Judge me, you gods! Wrong I mine enemies?
+ And if not so, how should I wrong a brother?
+ 
+ Brutus, this sober form of yours hides wrongs,
+ And when you do them—
+  
+ Cassius, be content.
+ Speak your griefs softly. I do know you well.
+ Before the eyes of both our armies here
+ (Which should perceive nothing but love from us),
+FTLN 1880
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+25
+FTLN 1885
+FTLN 1886
+FTLN 1887
+FTLN 1888
+FTLN 1889
+30
+FTLN 1890
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+35
+FTLN 1895
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+40
+FTLN 1900
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+45
+FTLN 1905
+FTLN 1906
+FTLN 1907
+FTLN 1908
+
+--- PAGE 77 / 106 ---
+149
+Julius Caesar
+ACT 4. SC. 3
+CASSIUS
+BRUTUS
+All but Brutus and Cassius exit.
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+ Let us not wrangle. Bid them move away.
+ Then in my tent, Cassius, enlarge your griefs,
+ And I will give you audience.
+  
+ Pindarus,
+ Bid our commanders lead their charges off
+ A little from this ground.
+ 
+ Lucius,  do you the like, and let no man
+ Come to our tent till we have done our conference.
+ Let Lucilius  and Titinius guard our door.
+ 
+ That you have wronged me doth appear in this:
+ You have condemned and noted Lucius Pella
+ For taking bribes here of the Sardians,
+ Wherein my letters, praying on his side
+ Because I knew the man, was slighted off.
+ 
+ You wronged yourself to write in such a case.
+ 
+ In such a time as this it is not meet
+ That every nice offense should bear his comment.
+ 
+ Let me tell you, Cassius, you yourself
+ Are much condemned to have an itching palm,
+ To sell and mart your offices for gold
+ To undeservers.
+  
+ I an itching palm?
+ You know that you are Brutus that speaks this,
+ Or, by the gods, this speech were else your last.
+ 
+ The name of Cassius honors this corruption,
+ And chastisement doth therefore hide his head.
+FTLN 1909
+50
+FTLN 1910
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+55
+FTLN 1915
+FTLN 1916
+FTLN 1917
+Scene 3
+FTLN 1918
+FTLN 1919
+FTLN 1920
+FTLN 1921
+FTLN 1922
+5
+FTLN 1923
+FTLN 1924
+FTLN 1925
+FTLN 1926
+FTLN 1927
+10
+FTLN 1928
+FTLN 1929
+FTLN 1930
+FTLN 1931
+FTLN 1932
+15
+FTLN 1933
+FTLN 1934
+
+--- PAGE 78 / 106 ---
+151
+Julius Caesar
+ACT 4. SC. 3
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+  Chastisement?
+ 
+ Remember March; the ides of March remember.
+ Did not great Julius bleed for justice’ sake?
+ What villain touched his body that did stab
+ And not for justice? What, shall one of us
+ That struck the foremost man of all this world
+ But for supporting robbers, shall we now
+ Contaminate our fingers with base bribes
+ And sell the mighty space of our large honors
+ For so much trash as may be graspèd thus?
+ I had rather be a dog and bay the moon
+ Than such a Roman.
+  
+ Brutus, bait not me.
+ I’ll not endure it. You forget yourself
+ To hedge me in. I am a soldier, I,
+ Older in practice, abler than yourself
+ To make conditions.
+  
+ Go to! You are not, Cassius.
+  I am.
+  I say you are not.
+ 
+ Urge me no more. I shall forget myself.
+ Have mind upon your health. Tempt me no farther.
+  Away, slight man!
+ 
+ Is ’t possible?
+  
+ Hear me, for I will speak.
+ Must I give way and room to your rash choler?
+ Shall I be frighted when a madman stares?
+ 
+ O you gods, you gods, must I endure all this?
+ 
+ All this? Ay, more. Fret till your proud heart break.
+ Go show your slaves how choleric you are
+ And make your bondmen tremble. Must I budge?
+FTLN 1935
+FTLN 1936
+FTLN 1937
+20
+FTLN 1938
+FTLN 1939
+FTLN 1940
+FTLN 1941
+FTLN 1942
+25
+FTLN 1943
+FTLN 1944
+FTLN 1945
+FTLN 1946
+FTLN 1947
+30
+FTLN 1948
+FTLN 1949
+FTLN 1950
+FTLN 1951
+FTLN 1952
+35
+FTLN 1953
+FTLN 1954
+FTLN 1955
+FTLN 1956
+FTLN 1957
+40
+FTLN 1958
+FTLN 1959
+FTLN 1960
+FTLN 1961
+FTLN 1962
+45
+FTLN 1963
+FTLN 1964
+FTLN 1965
+
+--- PAGE 79 / 106 ---
+153
+Julius Caesar
+ACT 4. SC. 3
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+ Must I observe you? Must I stand and crouch
+ Under your testy humor? By the gods,
+ You shall digest the venom of your spleen
+ Though it do split you. For, from this day forth,
+ I’ll use you for my mirth, yea, for my laughter,
+ When you are waspish.
+  
+ Is it come to this?
+ 
+ You say you are a better soldier.
+ Let it appear so, make your vaunting true,
+ And it shall please me well. For mine own part,
+ I shall be glad to learn of noble men.
+ 
+ You wrong me every way, you wrong me, Brutus.
+ I said an elder soldier, not a better.
+ Did I say “better”?
+  
+ If you did, I care not.
+ 
+ When Caesar lived he durst not thus have moved
+ me.
+ 
+ Peace, peace! You durst not so have tempted him.
+  I durst not?
+  No.
+ 
+ What? Durst not tempt him?
+  
+ For your life you durst
+ not.
+ 
+ Do not presume too much upon my love.
+ I may do that I shall be sorry for.
+ 
+ You have done that you should be sorry for.
+ There is no terror, Cassius, in your threats,
+ For I am armed so strong in honesty
+ That they pass by me as the idle wind,
+FTLN 1966
+FTLN 1967
+50
+FTLN 1968
+FTLN 1969
+FTLN 1970
+FTLN 1971
+FTLN 1972
+55
+FTLN 1973
+FTLN 1974
+FTLN 1975
+FTLN 1976
+FTLN 1977
+60
+FTLN 1978
+FTLN 1979
+FTLN 1980
+FTLN 1981
+FTLN 1982
+65
+FTLN 1983
+FTLN 1984
+FTLN 1985
+FTLN 1986
+FTLN 1987
+70
+FTLN 1988
+FTLN 1989
+FTLN 1990
+FTLN 1991
+FTLN 1992
+75
+FTLN 1993
+FTLN 1994
+
+--- PAGE 80 / 106 ---
+155
+Julius Caesar
+ACT 4. SC. 3
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+ Which I respect not. I did send to you
+ For certain sums of gold, which you denied me,
+ For I can raise no money by vile means.
+ By heaven, I had rather coin my heart
+ And drop my blood for drachmas than to wring
+ From the hard hands of peasants their vile trash
+ By any indirection. I did send
+ To you for gold to pay my legions,
+ Which you denied me. Was that done like Cassius?
+ Should I have answered Caius Cassius so?
+ When Marcus Brutus grows so covetous
+ To lock such rascal counters from his friends,
+ Be ready, gods, with all your thunderbolts;
+ Dash him to pieces!
+  
+ I denied you not.
+  You did.
+ 
+ I did not. He was but a fool that brought
+ My answer back. Brutus hath rived my heart.
+ A friend should bear his friend’s infirmities,
+ But Brutus makes mine greater than they are.
+ 
+ I do not, till you practice them on me.
+ 
+ You love me not.
+  
+ I do not like your faults.
+ 
+ A friendly eye could never see such faults.
+ 
+ A flatterer’s would not, though they do appear
+ As huge as high Olympus.
+ 
+ Come, Antony, and young Octavius, come!
+ Revenge yourselves alone on Cassius,
+ For Cassius is aweary of the world—
+ Hated by one he loves, braved by his brother,
+FTLN 1995
+FTLN 1996
+FTLN 1997
+80
+FTLN 1998
+FTLN 1999
+FTLN 2000
+FTLN 2001
+FTLN 2002
+85
+FTLN 2003
+FTLN 2004
+FTLN 2005
+FTLN 2006
+FTLN 2007
+90
+FTLN 2008
+FTLN 2009
+FTLN 2010
+FTLN 2011
+FTLN 2012
+95
+FTLN 2013
+FTLN 2014
+FTLN 2015
+FTLN 2016
+FTLN 2017
+100
+FTLN 2018
+FTLN 2019
+FTLN 2020
+FTLN 2021
+FTLN 2022
+105
+FTLN 2023
+FTLN 2024
+
+--- PAGE 81 / 106 ---
+157
+Julius Caesar
+ACT 4. SC. 3
+Offering his dagger to Brutus.
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+They clasp hands.
+CASSIUS
+BRUTUS
+CASSIUS
+ Checked like a bondman, all his faults observed,
+ Set in a notebook, learned and conned by rote
+ To cast into my teeth. O, I could weep
+ My spirit from mine eyes! There is my dagger,
+ And here my naked breast; within, a heart
+ Dearer than Pluto’s mine, richer than gold.
+ If that thou be’st a Roman, take it forth.
+ I that denied thee gold will give my heart.
+ Strike as thou didst at Caesar, for I know
+ When thou didst hate him worst, thou lovedst him
+ better
+ Than ever thou lovedst Cassius.
+  
+ Sheathe your
+ dagger.
+ Be angry when you will, it shall have scope.
+ Do what you will, dishonor shall be humor.
+ O Cassius, you are yokèd with a lamb
+ That carries anger as the flint bears fire,
+ Who, much enforcèd, shows a hasty spark
+ And straight is cold again.
+  
+ Hath Cassius lived
+ To be but mirth and laughter to his Brutus
+ When grief and blood ill-tempered vexeth him?
+ 
+ When I spoke that, I was ill-tempered too.
+ 
+ Do you confess so much? Give me your hand.
+ 
+ And my heart too. 
+  
+ O Brutus!
+  
+ What’s the matter?
+ 
+ Have not you love enough to bear with me
+ When that rash humor which my mother gave me
+ Makes me forgetful?
+FTLN 2025
+FTLN 2026
+FTLN 2027
+110
+FTLN 2028
+FTLN 2029
+FTLN 2030
+FTLN 2031
+FTLN 2032
+115
+FTLN 2033
+FTLN 2034
+FTLN 2035
+FTLN 2036
+FTLN 2037
+120
+FTLN 2038
+FTLN 2039
+FTLN 2040
+FTLN 2041
+FTLN 2042
+125
+FTLN 2043
+FTLN 2044
+FTLN 2045
+FTLN 2046
+FTLN 2047
+130
+FTLN 2048
+FTLN 2049
+FTLN 2050
+FTLN 2051
+FTLN 2052
+135
+FTLN 2053
+FTLN 2054
+FTLN 2055
+
+--- PAGE 82 / 106 ---
+159
+Julius Caesar
+ACT 4. SC. 3
+BRUTUS
+POET
+LUCILIUS
+POET
+CASSIUS
+POET
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+Poet exits.
+BRUTUS
+CASSIUS
+Lucilius and Titinius exit.
+BRUTUS
+Lucius exits.
+  
+ Yes, Cassius, and from
+ henceforth
+ When you are over-earnest with your Brutus,
+ He’ll think your mother chides, and leave you so.
+Enter a Poet followed by Lucilius, Titinius, and Lucius.
+ 
+ Let me go in to see the Generals.
+ There is some grudge between ’em; ’tis not meet
+ They be alone.
+  
+ You shall not come to them.
+  Nothing but death shall stay me.
+  How now, what’s the matter?
+ 
+ For shame, you generals, what do you mean?
+ Love and be friends as two such men should be,
+ For I have seen more years, I’m sure, than ye.
+ 
+ Ha, ha, how vilely doth this cynic rhyme!
+ 
+ Get you hence, sirrah! Saucy fellow, hence!
+ 
+ Bear with him, Brutus. ’Tis his fashion.
+ 
+ I’ll know his humor when he knows his time.
+ What should the wars do with these jigging fools?—
+ Companion, hence!
+  
+ Away, away, be gone! 
+ 
+ Lucilius and Titinius, bid the commanders
+ Prepare to lodge their companies tonight.
+ 
+ And come yourselves, and bring Messala with you
+ Immediately to us. 
+  Lucius, a bowl of wine. 
+FTLN 2056
+FTLN 2057
+140
+FTLN 2058
+FTLN 2059
+FTLN 2060
+FTLN 2061
+FTLN 2062
+145
+FTLN 2063
+FTLN 2064
+FTLN 2065
+FTLN 2066
+FTLN 2067
+150
+FTLN 2068
+FTLN 2069
+FTLN 2070
+FTLN 2071
+FTLN 2072
+155
+FTLN 2073
+FTLN 2074
+FTLN 2075
+FTLN 2076
+FTLN 2077
+160
+FTLN 2078
+FTLN 2079
+FTLN 2080
+
+--- PAGE 83 / 106 ---
+161
+Julius Caesar
+ACT 4. SC. 3
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+He  drinks.
+CASSIUS
+He drinks.
+Lucius exits.
+ 
+ I did not think you could have been so angry.
+ 
+ O Cassius, I am sick of many griefs.
+ 
+ Of your philosophy you make no use
+ If you give place to accidental evils.
+ 
+ No man bears sorrow better. Portia is dead.
+  Ha? Portia?
+  She is dead.
+ 
+ How ’scaped I killing when I crossed you so?
+ O insupportable and touching loss!
+ Upon what sickness?
+  
+ Impatient of my absence,
+ And grief that young Octavius with Mark Antony
+ Have made themselves so strong—for with her
+ death
+ That tidings came—with this she fell distract
+ And, her attendants absent, swallowed fire.
+  And died so?
+  Even so.
+  O you immortal gods!
+Enter Lucius  with wine and tapers.
+ 
+ Speak no more of her.—Give me a bowl of wine.—
+ In this I bury all unkindness, Cassius. 
+ 
+ My heart is thirsty for that noble pledge.—
+ Fill, Lucius, till the wine o’erswell the cup;
+ I cannot drink too much of Brutus’ love. 
+Enter Titinius and Messala.
+FTLN 2081
+FTLN 2082
+165
+FTLN 2083
+FTLN 2084
+FTLN 2085
+FTLN 2086
+FTLN 2087
+170
+FTLN 2088
+FTLN 2089
+FTLN 2090
+FTLN 2091
+FTLN 2092
+175
+FTLN 2093
+FTLN 2094
+FTLN 2095
+FTLN 2096
+FTLN 2097
+180
+FTLN 2098
+FTLN 2099
+FTLN 2100
+FTLN 2101
+FTLN 2102
+185
+FTLN 2103
+FTLN 2104
+
+--- PAGE 84 / 106 ---
+163
+Julius Caesar
+ACT 4. SC. 3
+BRUTUS
+They sit.
+CASSIUS
+BRUTUS
+MESSALA
+BRUTUS
+MESSALA
+BRUTUS
+CASSIUS
+MESSALA
+BRUTUS
+MESSALA
+BRUTUS
+MESSALA
+BRUTUS
+MESSALA
+ 
+ Come in, Titinius. Welcome, good Messala.
+ Now sit we close about this taper here,
+ And call in question our necessities. 
+ 
+ Portia, art thou gone?
+  
+ No more, I pray you.—
+ Messala, I have here receivèd letters
+ That young Octavius and Mark Antony
+ Come down upon us with a mighty power,
+ Bending their expedition toward Philippi.
+ 
+ Myself have letters of the selfsame tenor.
+  With what addition?
+ 
+ That by proscription and bills of outlawry,
+ Octavius, Antony, and Lepidus
+ Have put to death an hundred senators.
+ 
+ Therein our letters do not well agree.
+ Mine speak of seventy senators that died
+ By their proscriptions, Cicero being one.
+ 
+ Cicero one?
+  
+ Cicero is dead,
+ And by that order of proscription.
+ Had you your letters from your wife, my lord?
+  No, Messala.
+ 
+ Nor nothing in your letters writ of her?
+  
+ Nothing, Messala.
+  
+ That methinks is strange.
+ 
+ Why ask you? Hear you aught of her in yours?
+  No, my lord.
+FTLN 2105
+FTLN 2106
+FTLN 2107
+190
+FTLN 2108
+FTLN 2109
+FTLN 2110
+FTLN 2111
+FTLN 2112
+195
+FTLN 2113
+FTLN 2114
+FTLN 2115
+FTLN 2116
+FTLN 2117
+200
+FTLN 2118
+FTLN 2119
+FTLN 2120
+FTLN 2121
+FTLN 2122
+205
+FTLN 2123
+FTLN 2124
+FTLN 2125
+FTLN 2126
+FTLN 2127
+210
+FTLN 2128
+FTLN 2129
+FTLN 2130
+FTLN 2131
+
+--- PAGE 85 / 106 ---
+165
+Julius Caesar
+ACT 4. SC. 3
+BRUTUS
+MESSALA
+BRUTUS
+MESSALA
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+ 
+ Now, as you are a Roman, tell me true.
+ 
+ Then like a Roman bear the truth I tell,
+ For certain she is dead, and by strange manner.
+ 
+ Why, farewell, Portia. We must die, Messala.
+ With meditating that she must die once,
+ I have the patience to endure it now.
+ 
+ Even so great men great losses should endure.
+ 
+ I have as much of this in art as you,
+ But yet my nature could not bear it so.
+ 
+ Well, to our work alive. What do you think
+ Of marching to Philippi presently?
+  I do not think it good.
+  Your reason?
+  This it is:
+ ’Tis better that the enemy seek us;
+ So shall he waste his means, weary his soldiers,
+ Doing himself offense, whilst we, lying still,
+ Are full of rest, defense, and nimbleness.
+ 
+ Good reasons must of force give place to better.
+ The people ’twixt Philippi and this ground
+ Do stand but in a forced affection,
+ For they have grudged us contribution.
+ The enemy, marching along by them,
+ By them shall make a fuller number up,
+ Come on refreshed, new-added, and encouraged,
+ From which advantage shall we cut him off
+ If at Philippi we do face him there,
+ These people at our back.
+  
+ Hear me, good brother—
+FTLN 2132
+215
+FTLN 2133
+FTLN 2134
+FTLN 2135
+FTLN 2136
+FTLN 2137
+220
+FTLN 2138
+FTLN 2139
+FTLN 2140
+FTLN 2141
+FTLN 2142
+225
+FTLN 2143
+FTLN 2144
+FTLN 2145
+FTLN 2146
+FTLN 2147
+230
+FTLN 2148
+FTLN 2149
+FTLN 2150
+FTLN 2151
+FTLN 2152
+235
+FTLN 2153
+FTLN 2154
+FTLN 2155
+FTLN 2156
+FTLN 2157
+240
+FTLN 2158
+FTLN 2159
+FTLN 2160
+
+--- PAGE 86 / 106 ---
+167
+Julius Caesar
+ACT 4. SC. 3
+BRUTUS
+CASSIUS
+BRUTUS
+CASSIUS
+They stand.
+BRUTUS
+Lucius exits.
+CASSIUS
+ 
+ Under your pardon. You must note besides
+ That we have tried the utmost of our friends,
+ Our legions are brim full, our cause is ripe.
+ The enemy increaseth every day;
+ We, at the height, are ready to decline.
+ There is a tide in the affairs of men
+ Which, taken at the flood, leads on to fortune;
+ Omitted, all the voyage of their life
+ Is bound in shallows and in miseries.
+ On such a full sea are we now afloat,
+ And we must take the current when it serves
+ Or lose our ventures.
+  
+ Then, with your will, go on;
+ We’ll along ourselves and meet them at Philippi.
+ 
+ The deep of night is crept upon our talk,
+ And nature must obey necessity,
+ Which we will niggard with a little rest.
+ There is no more to say.
+  
+ No more. Good night.
+ Early tomorrow will we rise and hence.
+ 
+ Lucius.
+Enter Lucius.
+ My gown. 
+ Farewell, good Messala.—
+ Good night, Titinius.—Noble, noble Cassius,
+ Good night and good repose.
+  
+ O my dear brother,
+ This was an ill beginning of the night.
+ Never come such division ’tween our souls!
+ Let it not, Brutus.
+Enter Lucius with the gown.
+FTLN 2161
+FTLN 2162
+245
+FTLN 2163
+FTLN 2164
+FTLN 2165
+FTLN 2166
+FTLN 2167
+250
+FTLN 2168
+FTLN 2169
+FTLN 2170
+FTLN 2171
+FTLN 2172
+255
+FTLN 2173
+FTLN 2174
+FTLN 2175
+FTLN 2176
+FTLN 2177
+260
+FTLN 2178
+FTLN 2179
+FTLN 2180
+FTLN 2181
+FTLN 2182
+265
+FTLN 2183
+FTLN 2184
+FTLN 2185
+FTLN 2186
+FTLN 2187
+270
+FTLN 2188
+FTLN 2189
+
+--- PAGE 87 / 106 ---
+169
+Julius Caesar
+ACT 4. SC. 3
+BRUTUS
+CASSIUS
+BRUTUS
+TITINIUS/MESSALA
+BRUTUS
+All but Brutus and Lucius  exit.
+LUCIUS
+BRUTUS
+LUCIUS
+VARRO
+BRUTUS
+VARRO
+BRUTUS
+They lie down.
+LUCIUS
+BRUTUS
+  
+ Everything is well.
+  Good night, my lord.
+  Good night, good brother.
+ 
+ Good night, Lord Brutus.
+  
+ Farewell, everyone.
+ Give me the gown. Where is thy instrument?
+ 
+ Here in the tent.
+  
+ What, thou speak’st drowsily?
+ Poor knave, I blame thee not; thou art o’erwatched.
+ Call Claudius and some other of my men;
+ I’ll have them sleep on cushions in my tent.
+  Varro and Claudius.
+Enter Varro and Claudius.
+  Calls my lord?
+ 
+ I pray you, sirs, lie in my tent and sleep.
+ It may be I shall raise you by and by
+ On business to my brother Cassius.
+ 
+ So please you, we will stand and watch your
+ pleasure.
+ 
+ I will not have it so. Lie down, good sirs.
+ It may be I shall otherwise bethink me.
+ Look, Lucius, here’s the book I sought for so.
+ I put it in the pocket of my gown.
+ 
+ I was sure your Lordship did not give it me.
+ 
+ Bear with me, good boy, I am much forgetful.
+FTLN 2190
+FTLN 2191
+FTLN 2192
+275
+FTLN 2193
+FTLN 2194
+FTLN 2195
+FTLN 2196
+FTLN 2197
+280
+FTLN 2198
+FTLN 2199
+FTLN 2200
+FTLN 2201
+FTLN 2202
+285
+FTLN 2203
+FTLN 2204
+FTLN 2205
+FTLN 2206
+FTLN 2207
+290
+FTLN 2208
+FTLN 2209
+FTLN 2210
+FTLN 2211
+FTLN 2212
+295
+FTLN 2213
+
+--- PAGE 88 / 106 ---
+171
+Julius Caesar
+ACT 4. SC. 3
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+Music and a song. Lucius then falls asleep.
+He moves the instrument.
+ Canst thou hold up thy heavy eyes awhile
+ And touch thy instrument a strain or two?
+ 
+ Ay, my lord, an ’t please you.
+  
+ It does, my boy.
+ I trouble thee too much, but thou art willing.
+  It is my duty, sir.
+ 
+ I should not urge thy duty past thy might.
+ I know young bloods look for a time of rest.
+  I have slept, my lord, already.
+ 
+ It was well done, and thou shalt sleep again.
+ I will not hold thee long. If I do live,
+ I will be good to thee.
+ This is a sleepy tune. O murd’rous slumber,
+ Layest thou thy leaden mace upon my boy,
+ That plays thee music?—Gentle knave, good night.
+ I will not do thee so much wrong to wake thee.
+ If thou dost nod, thou break’st thy instrument.
+ I’ll take it from thee and, good boy, good night.
+ Let me see, let me see; is not the leaf turned down
+ Where I left reading? Here it is, I think.
+ How ill this taper burns.
+Enter the Ghost of Caesar.
+ Ha, who comes here?—
+ I think it is the weakness of mine eyes
+ That shapes this monstrous apparition.
+ It comes upon me.—Art thou any thing?
+ Art thou some god, some angel, or some devil,
+ That mak’st my blood cold and my hair to stare?
+ Speak to me what thou art.
+FTLN 2214
+FTLN 2215
+FTLN 2216
+FTLN 2217
+300
+FTLN 2218
+FTLN 2219
+FTLN 2220
+FTLN 2221
+FTLN 2222
+305
+FTLN 2223
+FTLN 2224
+FTLN 2225
+FTLN 2226
+FTLN 2227
+310
+FTLN 2228
+FTLN 2229
+FTLN 2230
+FTLN 2231
+FTLN 2232
+315
+FTLN 2233
+FTLN 2234
+FTLN 2235
+FTLN 2236
+FTLN 2237
+320
+FTLN 2238
+FTLN 2239
+FTLN 2240
+FTLN 2241
+
+--- PAGE 89 / 106 ---
+173
+Julius Caesar
+ACT 4. SC. 3
+GHOST
+BRUTUS
+GHOST
+BRUTUS
+GHOST
+BRUTUS
+Ghost exits.
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+LUCIUS
+BRUTUS
+They rise up.
+VARRO
+CLAUDIUS
+BRUTUS
+BOTH
+BRUTUS
+VARRO
+ 
+ Thy evil spirit, Brutus.
+  
+ Why com’st thou?
+ 
+ To tell thee thou shalt see me at Philippi.
+  Well, then I shall see thee again?
+  Ay, at Philippi.
+ 
+ Why, I will see thee at Philippi, then. 
+ Now I have taken heart, thou vanishest.
+ Ill spirit, I would hold more talk with thee.—
+ Boy, Lucius!—Varro, Claudius, sirs, awake!
+ Claudius!
+  
+ The strings, my lord, are false.
+ 
+ He thinks he still is at his instrument.
+ Lucius, awake!
+  My lord?
+ 
+ Didst thou dream, Lucius, that thou so criedst out?
+ 
+ My lord, I do not know that I did cry.
+ 
+ Yes, that thou didst. Didst thou see anything?
+  Nothing, my lord.
+ 
+ Sleep again, Lucius.—Sirrah Claudius!
+  To Varro.  Fellow thou, awake! 
+  My lord?
+  My lord?
+ 
+ Why did you so cry out, sirs, in your sleep?
+ 
+ Did we, my lord?
+  
+ Ay. Saw you anything?
+  No, my lord, I saw nothing.
+FTLN 2242
+325
+FTLN 2243
+FTLN 2244
+FTLN 2245
+FTLN 2246
+FTLN 2247
+330
+FTLN 2248
+FTLN 2249
+FTLN 2250
+FTLN 2251
+FTLN 2252
+335
+FTLN 2253
+FTLN 2254
+FTLN 2255
+FTLN 2256
+FTLN 2257
+340
+FTLN 2258
+FTLN 2259
+FTLN 2260
+FTLN 2261
+FTLN 2262
+345
+FTLN 2263
+FTLN 2264
+FTLN 2265
+FTLN 2266
+FTLN 2267
+350
+
+--- PAGE 90 / 106 ---
+175
+Julius Caesar
+ACT 4. SC. 3
+CLAUDIUS
+BRUTUS
+BOTH
+They exit.
+  Nor I, my lord.
+ 
+ Go and commend me to my brother Cassius.
+ Bid him set on his powers betimes before,
+ And we will follow.
+  
+ It shall be done, my lord.
+FTLN 2268
+FTLN 2269
+FTLN 2270
+FTLN 2271
+FTLN 2272
+355
+
+--- PAGE 91 / 106 ---
+OCTAVIUS
+ANTONY
+MESSENGER
+ANTONY
+Enter Octavius, Antony, and their army.
+ 
+ Now, Antony, our hopes are answerèd.
+ You said the enemy would not come down
+ But keep the hills and upper regions.
+ It proves not so; their battles are at hand.
+ They mean to warn us at Philippi here,
+ Answering before we do demand of them.
+ 
+ Tut, I am in their bosoms, and I know
+ Wherefore they do it. They could be content
+ To visit other places, and come down
+ With fearful bravery, thinking by this face
+ To fasten in our thoughts that they have courage.
+ But ’tis not so.
+Enter a Messenger.
+  
+ Prepare you, generals.
+ The enemy comes on in gallant show.
+ Their bloody sign of battle is hung out,
+ And something to be done immediately.
+ 
+ Octavius, lead your battle softly on
+ Upon the left hand of the even field.
+179
+ACT 5
+Scene 1
+FTLN 2273
+FTLN 2274
+FTLN 2275
+FTLN 2276
+FTLN 2277
+5
+FTLN 2278
+FTLN 2279
+FTLN 2280
+FTLN 2281
+FTLN 2282
+10
+FTLN 2283
+FTLN 2284
+FTLN 2285
+FTLN 2286
+FTLN 2287
+15
+FTLN 2288
+FTLN 2289
+FTLN 2290
+
+--- PAGE 92 / 106 ---
+181
+Julius Caesar
+ACT 5. SC. 1
+OCTAVIUS
+ANTONY
+OCTAVIUS
+March.
+BRUTUS
+CASSIUS
+OCTAVIUS
+ANTONY
+OCTAVIUS
+The Generals step forward.
+BRUTUS
+OCTAVIUS
+BRUTUS
+ANTONY
+CASSIUS
+ANTONY
+BRUTUS
+ 
+ Upon the right hand, I; keep thou the left.
+ 
+ Why do you cross me in this exigent?
+ 
+ I do not cross you, but I will do so. 
+Drum. Enter Brutus, Cassius, and their army including
+Lucilius, Titinius, and Messala.
+  They stand and would have parley.
+ 
+ Stand fast, Titinius. We must out and talk.
+ 
+ Mark Antony, shall we give sign of battle?
+ 
+ No, Caesar, we will answer on their charge.
+ Make forth. The Generals would have some words.
+, to his Officers
+  Stir not until the signal.
+ 
+ Words before blows; is it so, countrymen?
+ 
+ Not that we love words better, as you do.
+ 
+ Good words are better than bad strokes, Octavius.
+ 
+ In your bad strokes, Brutus, you give good words.
+ Witness the hole you made in Caesar’s heart,
+ Crying “Long live, hail, Caesar!”
+  
+ Antony,
+ The posture of your blows are yet unknown,
+ But, for your words, they rob the Hybla bees
+ And leave them honeyless.
+  Not stingless too.
+  O yes, and soundless too,
+FTLN 2291
+FTLN 2292
+20
+FTLN 2293
+FTLN 2294
+FTLN 2295
+FTLN 2296
+FTLN 2297
+25
+FTLN 2298
+FTLN 2299
+FTLN 2300
+FTLN 2301
+FTLN 2302
+30
+FTLN 2303
+FTLN 2304
+FTLN 2305
+FTLN 2306
+FTLN 2307
+35
+FTLN 2308
+FTLN 2309
+FTLN 2310
+FTLN 2311
+
+--- PAGE 93 / 106 ---
+183
+Julius Caesar
+ACT 5. SC. 1
+ANTONY
+CASSIUS
+OCTAVIUS
+He draws.
+BRUTUS
+OCTAVIUS
+BRUTUS
+CASSIUS
+ANTONY
+OCTAVIUS
+ For you have stolen their buzzing, Antony,
+ And very wisely threat before you sting.
+ 
+ Villains, you did not so when your vile daggers
+ Hacked one another in the sides of Caesar.
+ You showed your teeth  like apes and fawned like
+ hounds
+ And bowed like bondmen, kissing Caesar’s feet,
+ Whilst damnèd Casca, like a cur, behind
+ Struck Caesar on the neck. O you flatterers!
+ 
+ Flatterers?—Now, Brutus, thank yourself!
+ This tongue had not offended so today
+ If Cassius might have ruled.
+ 
+ Come, come, the cause. If arguing make us sweat,
+ The proof of it will turn to redder drops.
+ Look, I draw a sword against conspirators;
+ When think you that the sword goes up again?
+ Never, till Caesar’s three and thirty wounds
+ Be well avenged, or till another Caesar
+ Have added slaughter to the sword of traitors.
+ 
+ Caesar, thou canst not die by traitors’ hands
+ Unless thou bring’st them with thee.
+  
+ So I hope.
+ I was not born to die on Brutus’ sword.
+ 
+ O, if thou wert the noblest of thy strain,
+ Young man, thou couldst not die more honorable.
+ 
+ A peevish schoolboy, worthless of such honor,
+ Joined with a masker and a reveler!
+ 
+ Old Cassius still.
+  
+ Come, Antony, away!—
+FTLN 2312
+40
+FTLN 2313
+FTLN 2314
+FTLN 2315
+FTLN 2316
+FTLN 2317
+45
+FTLN 2318
+FTLN 2319
+FTLN 2320
+FTLN 2321
+FTLN 2322
+50
+FTLN 2323
+FTLN 2324
+FTLN 2325
+FTLN 2326
+FTLN 2327
+55
+FTLN 2328
+FTLN 2329
+FTLN 2330
+FTLN 2331
+FTLN 2332
+60
+FTLN 2333
+FTLN 2334
+FTLN 2335
+FTLN 2336
+FTLN 2337
+65
+FTLN 2338
+FTLN 2339
+FTLN 2340
+
+--- PAGE 94 / 106 ---
+185
+Julius Caesar
+ACT 5. SC. 1
+Octavius, Antony, and their  army exit.
+CASSIUS
+BRUTUS
+Lucilius and Messala stand forth.
+LUCILIUS
+Brutus and Lucilius step aside together.
+CASSIUS
+MESSALA
+CASSIUS
+MESSALA
+ Defiance, traitors, hurl we in your teeth.
+ If you dare fight today, come to the field;
+ If not, when you have stomachs.
+ 
+ Why now, blow wind, swell billow, and swim bark!
+ The storm is up, and all is on the hazard.
+ 
+ Ho, Lucilius, hark, a word with you.
+  My lord?
+ 
+ Messala.
+   What says my general?
+  
+ Messala,
+ This is my birthday, as this very day
+ Was Cassius born. Give me thy hand, Messala.
+ Be thou my witness that against my will
+ (As Pompey was) am I compelled to set
+ Upon one battle all our liberties.
+ You know that I held Epicurus strong
+ And his opinion. Now I change my mind
+ And partly credit things that do presage.
+ Coming from Sardis, on our former ensign
+ Two mighty eagles fell, and there they perched,
+ Gorging and feeding from our soldiers’ hands,
+ Who to Philippi here consorted us.
+ This morning are they fled away and gone,
+ And in their steads do ravens, crows, and kites
+ Fly o’er our heads and downward look on us
+ As we were sickly prey. Their shadows seem
+ A canopy most fatal, under which
+ Our army lies, ready to give up the ghost.
+ 
+ Believe not so.
+FTLN 2341
+FTLN 2342
+70
+FTLN 2343
+FTLN 2344
+FTLN 2345
+FTLN 2346
+FTLN 2347
+75
+FTLN 2348
+FTLN 2349
+FTLN 2350
+FTLN 2351
+FTLN 2352
+80
+FTLN 2353
+FTLN 2354
+FTLN 2355
+FTLN 2356
+FTLN 2357
+85
+FTLN 2358
+FTLN 2359
+FTLN 2360
+FTLN 2361
+FTLN 2362
+90
+FTLN 2363
+FTLN 2364
+FTLN 2365
+FTLN 2366
+FTLN 2367
+95
+FTLN 2368
+FTLN 2369
+
+--- PAGE 95 / 106 ---
+187
+Julius Caesar
+ACT 5. SC. 1
+CASSIUS
+BRUTUS
+Brutus returns to Cassius.
+CASSIUS
+BRUTUS
+CASSIUS
+BRUTUS
+  
+ I but believe it partly,
+ For I am fresh of spirit and resolved
+ To meet all perils very constantly.
+ 
+ Even so, Lucilius. 
+  
+ Now, most noble Brutus,
+ The gods today stand friendly that we may,
+ Lovers in peace, lead on our days to age.
+ But since the affairs of men rests still incertain,
+ Let’s reason with the worst that may befall.
+ If we do lose this battle, then is this
+ The very last time we shall speak together.
+ What are you then determinèd to do?
+ 
+ Even by the rule of that philosophy
+ By which I did blame Cato for the death
+ Which he did give himself (I know not how,
+ But I do find it cowardly and vile,
+ For fear of what might fall, so to prevent
+ The time of life), arming myself with patience
+ To stay the providence of some high powers
+ That govern us below.
+  Then, if we lose this battle,
+ You are contented to be led in triumph
+ Thorough the streets of Rome?
+ 
+ No, Cassius, no. Think not, thou noble Roman,
+ That ever Brutus will go bound to Rome.
+ He bears too great a mind. But this same day
+ Must end that work the ides of March begun.
+ And whether we shall meet again, I know not.
+ Therefore our everlasting farewell take.
+ Forever and forever farewell, Cassius.
+ If we do meet again, why we shall smile;
+ If not, why then this parting was well made.
+FTLN 2370
+FTLN 2371
+FTLN 2372
+100
+FTLN 2373
+FTLN 2374
+FTLN 2375
+FTLN 2376
+FTLN 2377
+105
+FTLN 2378
+FTLN 2379
+FTLN 2380
+FTLN 2381
+FTLN 2382
+110
+FTLN 2383
+FTLN 2384
+FTLN 2385
+FTLN 2386
+FTLN 2387
+115
+FTLN 2388
+FTLN 2389
+FTLN 2390
+FTLN 2391
+FTLN 2392
+120
+FTLN 2393
+FTLN 2394
+FTLN 2395
+FTLN 2396
+FTLN 2397
+125
+FTLN 2398
+FTLN 2399
+FTLN 2400
+FTLN 2401
+
+--- PAGE 96 / 106 ---
+189
+Julius Caesar
+ACT 5. SC. 3
+CASSIUS
+BRUTUS
+They exit.
+BRUTUS
+He hands Messala papers.
+Loud alarum.
+They exit.
+CASSIUS
+ 
+ Forever and forever farewell, Brutus.
+ If we do meet again, we’ll smile indeed;
+ If not, ’tis true this parting was well made.
+ 
+ Why then, lead on.—O, that a man might know
+ The end of this day’s business ere it come!
+ But it sufficeth that the day will end,
+ And then the end is known.—Come ho, away!
+Alarum. Enter Brutus and Messala.
+ 
+ Ride, ride, Messala, ride, and give these bills
+ Unto the legions on the other side!
+ Let them set on at once, for I perceive
+ But cold demeanor in Octavius’ wing,
+ And sudden push gives them the overthrow.
+ Ride, ride, Messala! Let them all come down.
+Alarums. Enter Cassius carrying a standard  and
+Titinius.
+ 
+ O, look, Titinius, look, the villains fly!
+ Myself have to mine own turned enemy.
+ This ensign here of mine was turning back;
+ I slew the coward and did take it from him.
+FTLN 2402
+130
+FTLN 2403
+FTLN 2404
+FTLN 2405
+FTLN 2406
+FTLN 2407
+135
+FTLN 2408
+Scene 2
+FTLN 2409
+FTLN 2410
+FTLN 2411
+FTLN 2412
+FTLN 2413
+5
+FTLN 2414
+Scene 3
+FTLN 2415
+FTLN 2416
+FTLN 2417
+FTLN 2418
+
+--- PAGE 97 / 106 ---
+191
+Julius Caesar
+ACT 5. SC. 3
+TITINIUS
+PINDARUS
+CASSIUS
+TITINIUS
+CASSIUS
+TITINIUS
+He exits.
+CASSIUS
+Pindarus goes up.
+PINDARUS
+CASSIUS
+PINDARUS
+ 
+ O Cassius, Brutus gave the word too early,
+ Who, having some advantage on Octavius,
+ Took it too eagerly. His soldiers fell to spoil,
+ Whilst we by Antony are all enclosed.
+Enter Pindarus.
+ 
+ Fly further off, my lord, fly further off!
+ Mark Antony is in your tents, my lord.
+ Fly therefore, noble Cassius, fly far off.
+ 
+ This hill is far enough.—Look, look, Titinius,
+ Are those my tents where I perceive the fire?
+ 
+ They are, my lord.
+  
+ Titinius, if thou lovest me,
+ Mount thou my horse and hide thy spurs in him
+ Till he have brought thee up to yonder troops
+ And here again, that I may rest assured
+ Whether yond troops are friend or enemy.
+ 
+ I will be here again even with a thought. 
+ 
+ Go, Pindarus, get higher on that hill.
+ My sight was ever thick. Regard Titinius
+ And tell me what thou not’st about the field.
+ This day I breathèd first. Time is come round,
+ And where I did begin, there shall I end;
+ My life is run his compass.—Sirrah, what news?
+, above.   O my lord!
+  What news?
+ 
+ Titinius is enclosèd round about
+FTLN 2419
+5
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+10
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+FTLN 2429
+15
+FTLN 2430
+FTLN 2431
+FTLN 2432
+FTLN 2433
+FTLN 2434
+20
+FTLN 2435
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+25
+FTLN 2440
+FTLN 2441
+FTLN 2442
+FTLN 2443
+
+--- PAGE 98 / 106 ---
+193
+Julius Caesar
+ACT 5. SC. 3
+Shout.
+CASSIUS
+Pindarus comes down.
+Pindarus stabs him.
+He dies.
+PINDARUS
+He exits.
+MESSALA
+ With horsemen that make to him on the spur,
+ Yet he spurs on. Now they are almost on him.
+ Now Titinius! Now some light. O, he lights too.
+ He’s ta’en. 
+ And hark, they shout for joy.
+  Come down, behold no more.—
+ O, coward that I am to live so long
+ To see my best friend ta’en before my face!
+ Come hither, sirrah.
+ In Parthia did I take thee prisoner,
+ And then I swore thee, saving of thy life,
+ That whatsoever I did bid thee do
+ Thou shouldst attempt it. Come now, keep thine
+ oath.
+ Now be a freeman, and with this good sword,
+ That ran through Caesar’s bowels, search this
+ bosom.
+ Stand not to answer. Here, take thou the hilts,
+ And, when my face is covered, as ’tis now,
+ Guide thou the sword. 
+ Caesar, thou art revenged
+ Even with the sword that killed thee. 
+ 
+ So I am free, yet would not so have been,
+ Durst I have done my will.—O Cassius!—
+ Far from this country Pindarus shall run,
+ Where never Roman shall take note of him.
+Enter Titinius and Messala.
+ 
+ It is but change, Titinius, for Octavius
+ Is overthrown by noble Brutus’ power,
+ As Cassius’ legions are by Antony.
+FTLN 2444
+30
+FTLN 2445
+FTLN 2446
+FTLN 2447
+FTLN 2448
+FTLN 2449
+35
+FTLN 2450
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+40
+FTLN 2455
+FTLN 2456
+FTLN 2457
+FTLN 2458
+FTLN 2459
+45
+FTLN 2460
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+50
+FTLN 2465
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+55
+FTLN 2470
+FTLN 2471
+FTLN 2472
+
+--- PAGE 99 / 106 ---
+195
+Julius Caesar
+ACT 5. SC. 3
+TITINIUS
+MESSALA
+TITINIUS
+MESSALA
+TITINIUS
+MESSALA
+TITINIUS
+MESSALA
+TITINIUS
+MESSALA
+ 
+ These tidings will well comfort Cassius.
+ 
+ Where did you leave him?
+  
+ All disconsolate,
+ With Pindarus his bondman, on this hill.
+ 
+ Is not that he that lies upon the ground?
+ 
+ He lies not like the living. O my heart!
+ 
+ Is not that he?
+  
+ No, this was he, Messala,
+ But Cassius is no more. O setting sun,
+ As in thy red rays thou dost sink to night,
+ So in his red blood Cassius’ day is set.
+ The sun of Rome is set. Our day is gone;
+ Clouds, dews, and dangers come. Our deeds are
+ done.
+ Mistrust of my success hath done this deed.
+ 
+ Mistrust of good success hath done this deed.
+ O hateful error, melancholy’s child,
+ Why dost thou show to the apt thoughts of men
+ The things that are not? O error, soon conceived,
+ Thou never com’st unto a happy birth
+ But kill’st the mother that engendered thee!
+ 
+ What, Pindarus! Where art thou, Pindarus?
+ 
+ Seek him, Titinius, whilst I go to meet
+ The noble Brutus, thrusting this report
+ Into his ears. I may say “thrusting it,”
+ For piercing steel and darts envenomèd
+ Shall be as welcome to the ears of Brutus
+ As tidings of this sight.
+FTLN 2473
+FTLN 2474
+60
+FTLN 2475
+FTLN 2476
+FTLN 2477
+FTLN 2478
+FTLN 2479
+65
+FTLN 2480
+FTLN 2481
+FTLN 2482
+FTLN 2483
+FTLN 2484
+70
+FTLN 2485
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+75
+FTLN 2490
+FTLN 2491
+FTLN 2492
+FTLN 2493
+FTLN 2494
+80
+FTLN 2495
+FTLN 2496
+FTLN 2497
+FTLN 2498
+FTLN 2499
+85
+FTLN 2500
+
+--- PAGE 100 / 106 ---
+197
+Julius Caesar
+ACT 5. SC. 3
+TITINIUS
+Messala exits.
+Laying the garland on Cassius’ brow.
+He  dies on Cassius’ sword.
+BRUTUS
+MESSALA
+BRUTUS
+CATO
+BRUTUS
+Low alarums.
+CATO
+BRUTUS
+  
+ Hie you, Messala,
+ And I will seek for Pindarus the while.
+ Why didst thou send me forth, brave Cassius?
+ Did I not meet thy friends, and did not they
+ Put on my brows this wreath of victory
+ And bid me give it thee? Didst thou not hear their
+ shouts?
+ Alas, thou hast misconstrued everything.
+ But hold thee, take this garland on thy brow.
+ Thy Brutus bid me give it thee, and I
+ Will do his bidding.—Brutus, come apace,
+ And see how I regarded Caius Cassius.—
+ By your leave, gods, this is a Roman’s part.
+ Come, Cassius’ sword, and find Titinius’ heart!
+Alarum. Enter Brutus, Messala, young Cato, Strato,
+Volumnius, and Lucilius, Labeo, and Flavius.
+ 
+ Where, where, Messala, doth his body lie?
+ 
+ Lo, yonder, and Titinius mourning it.
+ 
+ Titinius’ face is upward.
+  
+ He is slain.
+ 
+ O Julius Caesar, thou art mighty yet;
+ Thy spirit walks abroad and turns our swords
+ In our own proper entrails. 
+  
+ Brave Titinius!—
+ Look whe’er he have not crowned dead Cassius.
+ 
+ Are yet two Romans living such as these?—
+ The last of all the Romans, fare thee well.
+FTLN 2501
+FTLN 2502
+FTLN 2503
+FTLN 2504
+90
+FTLN 2505
+FTLN 2506
+FTLN 2507
+FTLN 2508
+FTLN 2509
+95
+FTLN 2510
+FTLN 2511
+FTLN 2512
+FTLN 2513
+FTLN 2514
+100
+FTLN 2515
+FTLN 2516
+FTLN 2517
+FTLN 2518
+FTLN 2519
+105
+FTLN 2520
+FTLN 2521
+FTLN 2522
+FTLN 2523
+FTLN 2524
+110
+FTLN 2525
+
+--- PAGE 101 / 106 ---
+199
+Julius Caesar
+ACT 5. SC. 4
+They exit.
+BRUTUS
+Brutus, Messala, and Flavius exit.
+CATO
+LUCILIUS
+Cato is killed.
+ It is impossible that ever Rome
+ Should breed thy fellow.—Friends, I owe more
+ tears
+ To this dead man than you shall see me pay.—
+ I shall find time, Cassius; I shall find time.—
+ Come, therefore, and to Thasos  send his body.
+ His funerals shall not be in our camp,
+ Lest it discomfort us.—Lucilius, come.—
+ And come, young Cato. Let us to the field.—
+ Labeo and Flavius, set our battles on.
+ ’Tis three o’clock, and, Romans, yet ere night
+ We shall try fortune in a second fight.
+Alarum. Enter Brutus, Messala, Cato, Lucilius, and
+Flavius.
+ 
+ Yet, countrymen, O, yet hold up your heads!
+ 
+ What bastard doth not? Who will go with me?
+ I will proclaim my name about the field.
+ I am the son of Marcus Cato, ho!
+ A foe to tyrants and my country’s friend.
+ I am the son of Marcus Cato, ho!
+Enter Soldiers and fight.
+ 
+ And I am Brutus, Marcus Brutus, I!
+ Brutus, my country’s friend! Know me for Brutus.
+ O young and noble Cato, art thou down?
+FTLN 2526
+FTLN 2527
+FTLN 2528
+FTLN 2529
+115
+FTLN 2530
+FTLN 2531
+FTLN 2532
+FTLN 2533
+FTLN 2534
+120
+FTLN 2535
+FTLN 2536
+FTLN 2537
+Scene 4
+FTLN 2538
+FTLN 2539
+FTLN 2540
+FTLN 2541
+FTLN 2542
+5
+FTLN 2543
+FTLN 2544
+FTLN 2545
+FTLN 2546
+
+--- PAGE 102 / 106 ---
+201
+Julius Caesar
+ACT 5. SC. 4
+FIRST  SOLDIER
+LUCILIUS
+Offering money.
+FIRST  SOLDIER
+SECOND SOLDIER
+FIRST SOLDIER
+ANTONY
+LUCILIUS
+ANTONY
+They exit in different directions.
+ Why, now thou diest as bravely as Titinius
+ And mayst be honored, being Cato’s son.
+, seizing Lucilius
+ 
+ Yield, or thou diest.
+  
+ Only I yield to die.
+ There is so much that thou wilt kill me straight.
+ Kill Brutus and be honored in his death.
+ 
+ We must not. A noble prisoner!
+Enter Antony.
+ 
+ Room, ho! Tell Antony Brutus is ta’en.
+ 
+ I’ll tell the  news. Here comes the General.—
+ Brutus is ta’en, Brutus is ta’en, my lord.
+  Where is he?
+ 
+ Safe, Antony, Brutus is safe enough.
+ I dare assure thee that no enemy
+ Shall ever take alive the noble Brutus.
+ The gods defend him from so great a shame!
+ When you do find him, or alive or dead,
+ He will be found like Brutus, like himself.
+ 
+ This is not Brutus, friend, but I assure you,
+ A prize no less in worth. Keep this man safe.
+ Give him all kindness. I had rather have
+ Such men my friends than enemies. Go on,
+ And see whe’er Brutus be alive or dead,
+ And bring us word unto Octavius’ tent
+ How everything is chanced.
+FTLN 2547
+10
+FTLN 2548
+FTLN 2549
+FTLN 2550
+FTLN 2551
+FTLN 2552
+15
+FTLN 2553
+FTLN 2554
+FTLN 2555
+FTLN 2556
+FTLN 2557
+20
+FTLN 2558
+FTLN 2559
+FTLN 2560
+FTLN 2561
+FTLN 2562
+25
+FTLN 2563
+FTLN 2564
+FTLN 2565
+FTLN 2566
+FTLN 2567
+30
+FTLN 2568
+FTLN 2569
+FTLN 2570
+
+--- PAGE 103 / 106 ---
+203
+Julius Caesar
+ACT 5. SC. 5
+BRUTUS
+He sits down.
+CLITUS
+BRUTUS
+He whispers to Clitus.
+CLITUS
+BRUTUS
+CLITUS
+BRUTUS
+He whispers to Dardanus.
+DARDANUS
+CLITUS
+DARDANUS
+Dardanus and Clitus step aside.
+CLITUS
+DARDANUS
+CLITUS
+BRUTUS
+VOLUMNIUS
+BRUTUS
+Enter Brutus, Dardanus, Clitus, Strato, and Volumnius.
+ 
+ Come, poor remains of friends, rest on this rock.
+ 
+ Statilius showed the torchlight, but, my lord,
+ He came not back. He is or ta’en or slain.
+ 
+ Sit thee down, Clitus. Slaying is the word;
+ It is a deed in fashion. Hark thee, Clitus.
+ 
+ What, I, my lord? No, not for all the world.
+ 
+ Peace, then, no words.
+  
+ I’ll rather kill myself.
+ 
+ Hark thee, Dardanus. 
+  
+ Shall I do such a deed?
+  O Dardanus!
+  O Clitus!
+ 
+ What ill request did Brutus make to thee?
+ 
+ To kill him, Clitus. Look, he meditates.
+ 
+ Now is that noble vessel full of grief,
+ That it runs over even at his eyes.
+ 
+ Come hither, good Volumnius. List a word.
+ 
+ What says my lord?
+  
+ Why this, Volumnius:
+Scene 5
+FTLN 2571
+FTLN 2572
+FTLN 2573
+FTLN 2574
+FTLN 2575
+5
+FTLN 2576
+FTLN 2577
+FTLN 2578
+FTLN 2579
+FTLN 2580
+10
+FTLN 2581
+FTLN 2582
+FTLN 2583
+FTLN 2584
+FTLN 2585
+15
+FTLN 2586
+FTLN 2587
+FTLN 2588
+FTLN 2589
+
+--- PAGE 104 / 106 ---
+205
+Julius Caesar
+ACT 5. SC. 5
+VOLUMNIUS
+BRUTUS
+Low alarums.
+VOLUMNIUS
+Alarum continues.
+CLITUS
+BRUTUS
+Alarum. Cry within “Fly, fly, fly!”
+CLITUS
+BRUTUS
+All exit but Brutus and Strato.
+ The ghost of Caesar hath appeared to me
+ Two several times by night—at Sardis once
+ And this last night here in Philippi fields.
+ I know my hour is come.
+  
+ Not so, my lord.
+ 
+ Nay, I am sure it is, Volumnius.
+ Thou seest the world, Volumnius, how it goes.
+ Our enemies have beat us to the pit. 
+ It is more worthy to leap in ourselves
+ Than tarry till they push us. Good Volumnius,
+ Thou know’st that we two went to school together;
+ Even for that our love of old, I prithee,
+ Hold thou my sword hilts whilst I run on it.
+ 
+ That’s not an office for a friend, my lord.
+ 
+ Fly, fly, my lord! There is no tarrying here.
+ 
+ Farewell to you—and you—and you, Volumnius.—
+ Strato, thou hast been all this while asleep.
+ Farewell to thee, too, Strato.—Countrymen,
+ My heart doth joy that yet in all my life
+ I found no man but he was true to me.
+ I shall have glory by this losing day
+ More than Octavius and Mark Antony
+ By this vile conquest shall attain unto.
+ So fare you well at once, for Brutus’ tongue
+ Hath almost ended his life’s history.
+ Night hangs upon mine eyes; my bones would rest,
+ That have but labored to attain this hour.
+ 
+ Fly, my lord, fly!
+  
+ Hence. I will follow.
+FTLN 2590
+20
+FTLN 2591
+FTLN 2592
+FTLN 2593
+FTLN 2594
+FTLN 2595
+25
+FTLN 2596
+FTLN 2597
+FTLN 2598
+FTLN 2599
+FTLN 2600
+30
+FTLN 2601
+FTLN 2602
+FTLN 2603
+FTLN 2604
+FTLN 2605
+35
+FTLN 2606
+FTLN 2607
+FTLN 2608
+FTLN 2609
+FTLN 2610
+40
+FTLN 2611
+FTLN 2612
+FTLN 2613
+FTLN 2614
+FTLN 2615
+45
+FTLN 2616
+FTLN 2617
+FTLN 2618
+
+--- PAGE 105 / 106 ---
+207
+Julius Caesar
+ACT 5. SC. 5
+STRATO
+BRUTUS
+Brutus runs on his sword.
+He  dies.
+OCTAVIUS
+MESSALA
+STRATO
+LUCILIUS
+OCTAVIUS
+STRATO
+OCTAVIUS
+MESSALA
+STRATO
+ I prithee, Strato, stay thou by thy lord.
+ Thou art a fellow of a good respect;
+ Thy life hath had some smatch of honor in it.
+ Hold, then, my sword, and turn away thy face
+ While I do run upon it. Wilt thou, Strato?
+ 
+ Give me your hand first. Fare you well, my lord.
+ 
+ Farewell, good Strato.
+ Caesar, now be still.
+ I killed not thee with half so good a will. 
+Alarum. Retreat. Enter Antony, Octavius, Messala,
+Lucilius, and the army.
+  What man is that?
+ 
+ My master’s man.—Strato, where is thy master?
+ 
+ Free from the bondage you are in, Messala.
+ The conquerors can but make a fire of him,
+ For Brutus only overcame himself,
+ And no man else hath honor by his death.
+ 
+ So Brutus should be found.—I thank thee, Brutus,
+ That thou hast proved Lucilius’ saying true.
+ 
+ All that served Brutus, I will entertain them.—
+ Fellow, wilt thou bestow thy time with me?
+ 
+ Ay, if Messala will prefer me to you.
+ 
+ Do so, good Messala.
+  
+ How died my master, Strato?
+ 
+ I held the sword, and he did run on it.
+FTLN 2619
+FTLN 2620
+50
+FTLN 2621
+FTLN 2622
+FTLN 2623
+FTLN 2624
+FTLN 2625
+55
+FTLN 2626
+FTLN 2627
+FTLN 2628
+FTLN 2629
+FTLN 2630
+60
+FTLN 2631
+FTLN 2632
+FTLN 2633
+FTLN 2634
+FTLN 2635
+65
+FTLN 2636
+FTLN 2637
+FTLN 2638
+FTLN 2639
+FTLN 2640
+70
+FTLN 2641
+
+--- PAGE 106 / 106 ---
+209
+Julius Caesar
+ACT 5. SC. 5
+MESSALA
+ANTONY
+OCTAVIUS
+They all exit.
+ 
+ Octavius, then take him to follow thee,
+ That did the latest service to my master.
+ 
+ This was the noblest Roman of them all.
+ All the conspirators save only he
+ Did that they did in envy of great Caesar.
+ He only in a general honest thought
+ And common good to all made one of them.
+ His life was gentle and the elements
+ So mixed in him that nature might stand up
+ And say to all the world “This was a man.”
+ 
+ According to his virtue, let us use him
+ With all respect and rites of burial.
+ Within my tent his bones tonight shall lie,
+ Most like a soldier, ordered honorably.
+ So call the field to rest, and let’s away
+ To part the glories of this happy day.
+FTLN 2642
+FTLN 2643
+FTLN 2644
+FTLN 2645
+75
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+FTLN 2650
+80
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+FTLN 2655
+85
+FTLN 2656
+FTLN 2657
+

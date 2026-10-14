@@ -1,0 +1,7860 @@
+=== BOOK TITLE: king-john_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 105 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 105 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+ACT 2
+Scene 1
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+Scene 7
+Contents
+
+--- PAGE 3 / 105 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 105 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 105 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 105 ---
+The events in King John take place in the thirteenth century, well
+before Shakespeare’s other English history plays. After the death of
+John’s brother, Richard I, John rules England.
+John’s young nephew, Arthur, has a claim to the throne and is
+supported by the French. At first, a proposed marriage between the
+French crown prince and John’s niece, Blanche, calms Anglo-French
+tensions. Then the pope, in a dispute over recognizing an archbishop,
+excommunicates John and backs Arthur’s claim.
+After war erupts, John captures Arthur and orders his death. Arthur’s
+guardian, Hubert, prepares to burn out Arthur’s eyes, but then spares
+him. Arthur dies leaping from the prison wall. Arthur’s mother
+Constance grieves inconsolably.
+Meanwhile, French forces reach England. John submits to the pope
+to gain his aid. Rebellious English nobles join the French, but return
+to John when they learn the French prince plans to kill them. English
+forces under the bastard son of Richard I expel the French, but a
+monk poisons King John, whose son becomes Henry III.
+Synopsis
+
+--- PAGE 7 / 105 ---
+JOHN, King of England, with dominion over assorted
+ Continental territories
+QUEEN ELEANOR, King John’s mother, widow of King Henry II
+BLANCHE of Spain, niece to King John
+PRINCE HENRY, son to King John
+CONSTANCE, widow of Geoffrey, King John’s elder brother
+ARTHUR, Duke of Brittany, her son
+KING PHILIP II of France
+LOUIS THE DAUPHIN, his son
+DUKE OF AUSTRIA (also called LIMOGES)
+CHATILLION, ambassador from France to King John
+COUNT MELUN
+A FRENCH HERALD
+CARDINAL PANDULPH, Papal Legate
+LADY FAULCONBRIDGE
+The BASTARD, PHILIP FAULCONBRIDGE, her son by King Richard I
+ROBERT FAULCONBRIDGE, her son by Sir Robert Faulconbridge
+JAMES GURNEY, her servant
+HUBERT, supporter of King John
+A CITIZEN of Angiers
+PETER of Pomfret, a Prophet
+An ENGLISH HERALD
+EXECUTIONERS
+English MESSENGER, French MESSENGER, Sheriff, Lords, Soldiers,
+Attendants
+Characters in the Play
+English nobles
+EARL OF SALISBURY
+EARL OF PEMBROKE
+EARL OF ESSEX
+LORD BIGOT
+
+--- PAGE 8 / 105 ---
+KING JOHN
+CHATILLION
+QUEEN ELEANOR
+KING JOHN
+CHATILLION
+KING JOHN
+Enter King John, Queen Eleanor, Pembroke, Essex, and
+Salisbury, with the Chatillion of France.
+ 
+ Now say, Chatillion, what would France with us?
+ 
+ Thus, after greeting, speaks the King of France
+ In my behavior to the majesty,
+ The borrowed majesty, of England here.
+ 
+ A strange beginning: “borrowed majesty”!
+ 
+ Silence, good mother. Hear the embassy.
+ 
+ Philip of France, in right and true behalf
+ Of thy deceasèd brother Geoffrey’s son,
+ Arthur Plantagenet, lays most lawful claim
+ To this fair island and the territories,
+ To Ireland, Poitiers, Anjou, Touraine, Maine,
+ Desiring thee to lay aside the sword
+ Which sways usurpingly these several titles,
+ And put the same into young Arthur’s hand,
+ Thy nephew and right royal sovereign.
+ 
+ What follows if we disallow of this?
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+
+--- PAGE 9 / 105 ---
+9
+King John
+ACT 1. SC. 1
+CHATILLION
+KING JOHN
+CHATILLION
+KING JOHN
+Chatillion and Pembroke exit.
+QUEEN ELEANOR
+KING JOHN
+QUEEN ELEANOR
+ 
+ The proud control of fierce and bloody war,
+ To enforce these rights so forcibly withheld.
+ 
+ Here have we war for war and blood for blood,
+ Controlment for controlment: so answer France.
+ 
+ Then take my king’s defiance from my mouth,
+ The farthest limit of my embassy.
+ 
+ Bear mine to him, and so depart in peace.
+ Be thou as lightning in the eyes of France,
+ For ere thou canst report, I will be there;
+ The thunder of my cannon shall be heard.
+ So, hence. Be thou the trumpet of our wrath
+ And sullen presage of your own decay.—
+ An honorable conduct let him have.
+ Pembroke, look to ’t.—Farewell, Chatillion.
+, aside to King John
+ 
+ What now, my son! Have I not ever said
+ How that ambitious Constance would not cease
+ Till she had kindled France and all the world
+ Upon the right and party of her son?
+ This might have been prevented and made whole
+ With very easy arguments of love,
+ Which now the manage of two kingdoms must
+ With fearful bloody issue arbitrate.
+, aside to Queen Eleanor
+ 
+ Our strong possession and our right for us.
+, aside to King John
+ 
+ Your strong possession much more than your right,
+ Or else it must go wrong with you and me—
+ So much my conscience whispers in your ear,
+ Which none but God  and you and I shall hear.
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+FTLN 0022
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+
+--- PAGE 10 / 105 ---
+11
+King John
+ACT 1. SC. 1
+ESSEX
+KING JOHN
+Sheriff exits.
+PHILIP FAULCONBRIDGE
+KING JOHN
+ROBERT FAULCONBRIDGE
+KING JOHN
+PHILIP FAULCONBRIDGE
+QUEEN ELEANOR
+PHILIP FAULCONBRIDGE
+Enter a Sheriff, who speaks aside to Essex.
+ 
+ My liege, here is the strangest controversy
+ Come from the country to be judged by you
+ That e’er I heard. Shall I produce the men?
+  Let them approach. 
+ Our abbeys and our priories shall pay
+ This expedition’s  charge.
+Enter Robert Faulconbridge and Philip Faulconbridge.
+ What men are you?
+ 
+ Your faithful subject I, a gentleman,
+ Born in Northamptonshire, and eldest son,
+ As I suppose, to Robert Faulconbridge,
+ A soldier, by the honor-giving hand
+ Of Coeur de Lion knighted in the field.
+, to Robert Faulconbridge
+  What art thou?
+ 
+ The son and heir to that same Faulconbridge.
+ 
+ Is that the elder, and art thou the heir?
+ You came not of one mother then, it seems.
+ 
+ Most certain of one mother, mighty king—
+ That is well known—and, as I think, one father.
+ But for the certain knowledge of that truth
+ I put you o’er to heaven and to my mother.
+ Of that I doubt, as all men’s children may.
+ 
+ Out on thee, rude man! Thou dost shame thy
+ mother
+ And wound her honor with this diffidence.
+ 
+ I, madam? No, I have no reason for it.
+ That is my brother’s plea, and none of mine,
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+
+--- PAGE 11 / 105 ---
+13
+King John
+ACT 1. SC. 1
+KING JOHN
+PHILIP FAULCONBRIDGE
+KING JOHN
+QUEEN ELEANOR
+KING JOHN
+PHILIP FAULCONBRIDGE
+ROBERT FAULCONBRIDGE
+ The which if he can prove, he pops me out
+ At least from fair five hundred pound a year.
+ Heaven guard my mother’s honor and my land!
+ 
+ A good blunt fellow.—Why, being younger born,
+ Doth he lay claim to thine inheritance?
+ 
+ I know not why, except to get the land.
+ But once he slandered me with bastardy.
+ But whe’er I be as true begot or no,
+ That still I lay upon my mother’s head.
+ But that I am as well begot, my liege—
+ Fair fall the bones that took the pains for me!—
+ Compare our faces and be judge yourself.
+ If old Sir Robert did beget us both
+ And were our father, and this son like him,
+ O, old Sir Robert, father, on my knee
+ I give heaven thanks I was not like to thee!
+ 
+ Why, what a madcap hath heaven lent us here!
+, aside to King John
+ 
+ He hath a trick of Coeur de Lion’s face;
+ The accent of his tongue affecteth him.
+ Do you not read some tokens of my son
+ In the large composition of this man?
+, aside to Queen Eleanor
+ 
+ Mine eye hath well examinèd his parts
+ And finds them perfect Richard.  To Robert
+ Faulconbridge   Sirrah, speak.
+ What doth move you to claim your brother’s land?
+ 
+ Because he hath a half-face, like my father.
+ With half that face would he have all my land—
+ A half-faced groat five hundred pound a year!
+ 
+ My gracious liege, when that my father lived,
+ Your brother did employ my father much—
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+
+--- PAGE 12 / 105 ---
+15
+King John
+ACT 1. SC. 1
+PHILIP FAULCONBRIDGE
+ROBERT FAULCONBRIDGE
+KING JOHN
+ 
+ Well, sir, by this you cannot get my land.
+ Your tale must be how he employed my mother.
+ 
+ And once dispatched him in an embassy
+ To Germany, there with the Emperor
+ To treat of high affairs touching that time.
+ Th’ advantage of his absence took the King
+ And in the meantime sojourned at my father’s;
+ Where how he did prevail I shame to speak.
+ But truth is truth: large lengths of seas and shores
+ Between my father and my mother lay,
+ As I have heard my father speak himself,
+ When this same lusty gentleman was got.
+ Upon his deathbed he by will bequeathed
+ His lands to me, and took it on his death
+ That this my mother’s son was none of his;
+ An if he were, he came into the world
+ Full fourteen weeks before the course of time.
+ Then, good my liege, let me have what is mine,
+ My father’s land, as was my father’s will.
+ 
+ Sirrah, your brother is legitimate.
+ Your father’s wife did after wedlock bear him,
+ An if she did play false, the fault was hers,
+ Which fault lies on the hazards of all husbands
+ That marry wives. Tell me, how if my brother,
+ Who as you say took pains to get this son,
+ Had of your father claimed this son for his?
+ In sooth, good friend, your father might have kept
+ This calf, bred from his cow, from all the world;
+ In sooth he might. Then if he were my brother’s,
+ My brother might not claim him, nor your father,
+ Being none of his, refuse him. This concludes:
+ My mother’s son did get your father’s heir;
+ Your father’s heir must have your father’s land.
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+
+--- PAGE 13 / 105 ---
+17
+King John
+ACT 1. SC. 1
+ROBERT FAULCONBRIDGE
+PHILIP FAULCONBRIDGE
+QUEEN ELEANOR
+BASTARD
+QUEEN ELEANOR
+BASTARD
+QUEEN ELEANOR
+BASTARD
+ 
+ Shall then my father’s will be of no force
+ To dispossess that child which is not his?
+ 
+ Of no more force to dispossess me, sir,
+ Than was his will to get me, as I think.
+ 
+ Whether hadst thou rather: be a Faulconbridge
+ And, like thy brother, to enjoy thy land,
+ Or the reputed son of Coeur de Lion,
+ Lord of thy presence, and no land besides?
+ 
+ Madam, an if my brother had my shape
+ And I had his, Sir Robert’s his like him,
+ And if my legs were two such riding-rods,
+ My arms such eel-skins stuffed, my face so thin
+ That in mine ear I durst not stick a rose,
+ Lest men should say “Look where three-farthings
+ goes,”
+ And, to his shape, were heir to all this land,
+ Would I might never stir from off this place,
+ I would give it every foot to have this face.
+ I  would not be Sir Nob in any case.
+ 
+ I like thee well. Wilt thou forsake thy fortune,
+ Bequeath thy land to him, and follow me?
+ I am a soldier and now bound to France.
+ 
+ Brother, take you my land. I’ll take my chance.
+ Your face hath got five hundred pound a year,
+ Yet sell your face for five pence and ’tis dear.—
+ Madam, I’ll follow you unto the death.
+ 
+ Nay, I would have you go before me thither.
+ 
+ Our country manners give our betters way.
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+160
+
+--- PAGE 14 / 105 ---
+19
+King John
+ACT 1. SC. 1
+KING JOHN
+BASTARD
+KING JOHN
+Philip kneels. King John dubs him a knight,
+tapping him on the shoulder with his sword.
+BASTARD
+QUEEN ELEANOR
+BASTARD
+KING JOHN
+BASTARD
+  What is thy name?
+ 
+ Philip, my liege, so is my name begun,
+ Philip, good old Sir Robert’s wife’s eldest son.
+ 
+ From henceforth bear his name whose form thou
+ bearest.
+ Kneel thou down Philip, but rise more great.
+ Arise Sir Richard and Plantagenet.
+, rising, to Robert Faulconbridge
+ 
+ Brother by th’ mother’s side, give me your hand.
+ My father gave me honor, yours gave land.
+ Now blessèd be the hour, by night or day,
+ When I was got, Sir Robert was away!
+ 
+ The very spirit of Plantagenet!
+ I am thy grandam, Richard. Call me so.
+ 
+ Madam, by chance but not by truth. What though?
+ Something about, a little from the right,
+  In at the window, or else o’er the hatch.
+ Who dares not stir by day must walk by night,
+  And have is have, however men do catch.
+ Near or far off, well won is still well shot,
+ And I am I, howe’er I was begot.
+, to Robert Faulconbridge
+ 
+ Go, Faulconbridge, now hast thou thy desire.
+ A landless knight makes thee a landed squire.—
+ Come, madam,—and come, Richard. We must
+ speed
+ For France, for France, for it is more than need.
+ 
+ Brother, adieu, good fortune come to thee,
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+185
+FTLN 0186
+
+--- PAGE 15 / 105 ---
+21
+King John
+ACT 1. SC. 1
+All but Bastard exit.
+ For thou wast got i’ th’ way of honesty.
+ A foot of honor better than I was,
+ But many a many foot of land the worse.
+ Well, now can I make any Joan a lady.
+ “Good den, Sir Richard!” “God-a-mercy, fellow!”
+ An if his name be George, I’ll call him “Peter,”
+ For new-made honor doth forget men’s names;
+ ’Tis too respective and too sociable
+ For your conversion. Now your traveler,
+ He and his toothpick at my Worship’s mess,
+ And when my knightly stomach is sufficed,
+ Why then I suck my teeth and catechize
+ My pickèd man of countries: “My dear sir,”
+ Thus leaning on mine elbow I begin,
+ “I shall beseech you”—that is Question now,
+ And then comes Answer like an absey-book:
+ “O, sir,” says Answer, “at your best command,
+ At your employment, at your service, sir.”
+ “No, sir,” says Question, “I, sweet sir, at yours.”
+ And so, ere Answer knows what Question would,
+ Saving in dialogue of compliment
+ And talking of the Alps and Apennines,
+ The Pyrenean and the river Po,
+ It draws toward supper in conclusion so.
+ But this is worshipful society
+ And fits the mounting spirit like myself;
+ For he is but a bastard to the time
+ That doth not smack  of observation,
+ And so am I whether I smack or no;
+ And not alone in habit and device,
+ Exterior form, outward accouterment,
+ But from the inward motion to deliver
+ Sweet, sweet, sweet poison for the age’s tooth,
+ Which though I will not practice to deceive,
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+190
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+195
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+220
+
+--- PAGE 16 / 105 ---
+23
+King John
+ACT 1. SC. 1
+LADY FAULCONBRIDGE
+BASTARD
+LADY FAULCONBRIDGE
+BASTARD
+GURNEY
+BASTARD
+James Gurney  exits.
+ Yet to avoid deceit I mean to learn,
+ For it shall strew the footsteps of my rising.
+Enter Lady Faulconbridge and James Gurney.
+ But who comes in such haste in riding robes?
+ What woman post is this? Hath she no husband
+ That will take pains to blow a horn before her?
+ O me, ’tis my mother.—How now, good lady?
+ What brings you here to court so hastily?
+ 
+ Where is that slave thy brother? Where is he
+ That holds in chase mine honor up and down?
+ 
+ My brother Robert, old Sir Robert’s son?
+ Colbrand the Giant, that same mighty man?
+ Is it Sir Robert’s son that you seek so?
+ 
+ “Sir Robert’s son”? Ay, thou unreverent boy,
+ Sir Robert’s son. Why scorn’st thou at Sir Robert?
+ He is Sir Robert’s son, and so art thou.
+ 
+ James Gurney, wilt thou give us leave awhile?
+ 
+ Good leave, good Philip.
+  
+ “Philip Sparrow,” James.
+ There’s toys abroad. Anon I’ll tell thee more.
+ Madam, I was not old Sir Robert’s son.
+ Sir Robert might have eat his part in me
+ Upon Good Friday and ne’er broke his fast.
+ Sir Robert could do well—marry, to confess—
+ Could he  get me. Sir Robert could not do it;
+ We know his handiwork. Therefore, good mother,
+ To whom am I beholding for these limbs?
+ Sir Robert never holp to make this leg.
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+230
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+245
+FTLN 0246
+FTLN 0247
+
+--- PAGE 17 / 105 ---
+25
+King John
+ACT 1. SC. 1
+LADY FAULCONBRIDGE
+BASTARD
+LADY FAULCONBRIDGE
+BASTARD
+LADY FAULCONBRIDGE
+BASTARD
+ 
+ Hast thou conspirèd with thy brother too,
+ That for thine own gain shouldst defend mine
+ honor?
+ What means this scorn, thou most untoward knave?
+ 
+ Knight, knight, good mother, Basilisco-like.
+ What, I am dubbed! I have it on my shoulder.
+ But, mother, I am not Sir Robert’s son.
+ I have disclaimed Sir Robert and my land.
+ Legitimation, name, and all is gone.
+ Then, good my mother, let me know my father—
+ Some proper man, I hope. Who was it, mother?
+ 
+ Hast thou denied thyself a Faulconbridge?
+ 
+ As faithfully as I deny the devil.
+ 
+ King Richard Coeur de Lion was thy father.
+ By long and vehement suit I was seduced
+ To make room for him in my husband’s bed.
+ Heaven lay not my transgression to my charge!
+ Thou  art the issue of my dear offense,
+ Which was so strongly urged past my defense.
+ 
+ Now, by this light, were I to get again,
+ Madam, I would not wish a better father.
+ Some sins do bear their privilege on Earth,
+ And so doth yours. Your fault was not your folly.
+ Needs must you lay your heart at his dispose,
+ Subjected tribute to commanding love,
+ Against whose fury and unmatchèd force
+ The aweless lion could not wage the fight,
+ Nor keep his princely heart from Richard’s hand.
+ He that perforce robs lions of their hearts
+FTLN 0248
+FTLN 0249
+FTLN 0250
+250
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+255
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+260
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+265
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+270
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+275
+FTLN 0276
+
+--- PAGE 18 / 105 ---
+27
+King John
+ACT 1. SC. 1
+They exit.
+ May easily win a woman’s. Ay, my mother,
+ With all my heart I thank thee for my father.
+ Who lives and dares but say thou didst not well
+ When I was got, I’ll send his soul to hell.
+ Come, lady, I will show thee to my kin,
+  And they shall say when Richard me begot,
+ If thou hadst said him nay, it had been sin.
+  Who says it was, he lies. I say ’twas not.
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+280
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+
+--- PAGE 19 / 105 ---
+DAUPHIN
+ARTHUR
+DAUPHIN
+Enter, before Angiers, at one side, with Forces,  Philip
+King of France, Louis the  Dauphin, Constance, Arthur,
+and Attendants; at the other side, with Forces,  Austria,
+wearing a lion’s skin.
+ 
+ Before Angiers well met, brave Austria.—
+ Arthur, that great forerunner of thy blood,
+ Richard, that robbed the lion of his heart
+ And fought the holy wars in Palestine,
+ By this brave duke came early to his grave.
+ And, for amends to his posterity,
+ At our importance hither is he come
+ To spread his colors, boy, in thy behalf,
+ And to rebuke the usurpation
+ Of thy unnatural uncle, English John.
+ Embrace him, love him, give him welcome hither.
+ 
+ God shall forgive you Coeur de Lion’s death
+ The rather that you give his offspring life,
+ Shadowing their right under your wings of war.
+ I give you welcome with a powerless hand
+ But with a heart full of unstainèd love.
+ Welcome before the gates of Angiers, duke.
+ 
+ A noble boy. Who would not do thee right?
+31
+ACT 2
+Scene 1
+FTLN 0285
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+5
+FTLN 0290
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+10
+FTLN 0295
+FTLN 0296
+FTLN 0297
+FTLN 0298
+FTLN 0299
+15
+FTLN 0300
+FTLN 0301
+FTLN 0302
+
+--- PAGE 20 / 105 ---
+33
+King John
+ACT 2. SC. 1
+AUSTRIA
+CONSTANCE
+AUSTRIA
+KING PHILIP
+CONSTANCE
+, to Arthur
+ 
+ Upon thy cheek lay I this zealous kiss
+ As seal to this indenture of my love:
+ That to my home I will no more return
+ Till Angiers and the right thou hast in France,
+ Together with that pale, that white-faced shore,
+ Whose foot spurns back the ocean’s roaring tides
+ And coops from other lands her islanders,
+ Even till that England, hedged in with the main,
+ That water-wallèd bulwark, still secure
+ And confident from foreign purposes,
+ Even till that utmost corner of the West
+ Salute thee for her king. Till then, fair boy,
+ Will I not think of home, but follow arms.
+ 
+ O, take his mother’s thanks, a widow’s thanks,
+ Till your strong hand shall help to give him strength
+ To make a more requital to your love.
+ 
+ The peace of heaven is theirs that lift their swords
+ In such a just and charitable war.
+ 
+ Well, then, to work. Our cannon shall be bent
+ Against the brows of this resisting town.
+ Call for our chiefest men of discipline
+ To cull the plots of best advantages.
+ We’ll lay before this town our royal bones,
+ Wade to the marketplace in Frenchmen’s blood,
+ But we will make it subject to this boy.
+ 
+ Stay for an answer to your embassy,
+ Lest unadvised you stain your swords with blood.
+ My lord Chatillion may from England bring
+ That right in peace which here we urge in war,
+ And then we shall repent each drop of blood
+ That hot rash haste so indirectly shed.
+FTLN 0303
+FTLN 0304
+20
+FTLN 0305
+FTLN 0306
+FTLN 0307
+FTLN 0308
+FTLN 0309
+25
+FTLN 0310
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+30
+FTLN 0315
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+35
+FTLN 0320
+FTLN 0321
+FTLN 0322
+FTLN 0323
+FTLN 0324
+40
+FTLN 0325
+FTLN 0326
+FTLN 0327
+FTLN 0328
+FTLN 0329
+45
+FTLN 0330
+FTLN 0331
+FTLN 0332
+FTLN 0333
+
+--- PAGE 21 / 105 ---
+35
+King John
+ACT 2. SC. 1
+KING PHILIP
+CHATILLION
+Drum beats.
+KING PHILIP
+Enter Chatillion.
+ 
+ A wonder, lady! Lo, upon thy wish
+ Our messenger Chatillion is arrived.—
+ What England says say briefly, gentle lord.
+ We coldly pause for thee. Chatillion, speak.
+ 
+ Then turn your forces from this paltry siege
+ And stir them up against a mightier task.
+ England, impatient of your just demands,
+ Hath put himself in arms. The adverse winds,
+ Whose leisure I have stayed, have given him time
+ To land his legions all as soon as I.
+ His marches are expedient to this town,
+ His forces strong, his soldiers confident.
+ With him along is come the Mother Queen,
+ An Ate  stirring him to blood and strife;
+ With her her niece, the Lady Blanche of Spain;
+ With them a bastard of the King’s deceased.
+ And all th’ unsettled humors of the land—
+ Rash, inconsiderate, fiery voluntaries,
+ With ladies’ faces and fierce dragons’ spleens—
+ Have sold their fortunes at their native homes,
+ Bearing their birthrights proudly on their backs,
+ To make a hazard of new fortunes here.
+ In brief, a braver choice of dauntless spirits
+ Than now the English bottoms have waft o’er
+ Did never float upon the swelling tide
+ To do offense and scathe in Christendom.
+ The interruption of their churlish drums
+ Cuts off more circumstance. They are at hand,
+ To parley or to fight, therefore prepare.
+ 
+ How much unlooked-for is this expedition.
+FTLN 0334
+50
+FTLN 0335
+FTLN 0336
+FTLN 0337
+FTLN 0338
+FTLN 0339
+55
+FTLN 0340
+FTLN 0341
+FTLN 0342
+FTLN 0343
+FTLN 0344
+60
+FTLN 0345
+FTLN 0346
+FTLN 0347
+FTLN 0348
+FTLN 0349
+65
+FTLN 0350
+FTLN 0351
+FTLN 0352
+FTLN 0353
+FTLN 0354
+70
+FTLN 0355
+FTLN 0356
+FTLN 0357
+FTLN 0358
+FTLN 0359
+75
+FTLN 0360
+FTLN 0361
+FTLN 0362
+FTLN 0363
+
+--- PAGE 22 / 105 ---
+37
+King John
+ACT 2. SC. 1
+AUSTRIA
+KING JOHN
+KING PHILIP
+He points to Arthur.
+ 
+ By how much unexpected, by so much
+ We must awake endeavor for defense,
+ For courage mounteth with occasion.
+ Let them be welcome, then. We are prepared.
+Enter King John  of England, Bastard, Queen
+Eleanor,  Blanche, Salisbury,  Pembroke, and others.
+ 
+ Peace be to France, if France in peace permit
+ Our just and lineal entrance to our own.
+ If not, bleed France, and peace ascend to heaven,
+ Whiles we, God’s wrathful agent, do correct
+ Their proud contempt that beats his peace to heaven.
+ 
+ Peace be to England, if that war return
+ From France to England, there to live in peace.
+ England we love, and for that England’s sake
+ With burden of our armor here we sweat.
+ This toil of ours should be a work of thine;
+ But thou from loving England art so far
+ That thou hast underwrought his lawful king,
+ Cut off the sequence of posterity,
+ Outfacèd infant state, and done a rape
+ Upon the maiden virtue of the crown.
+ Look here upon thy brother Geoffrey’s face.
+ These eyes, these brows, were molded out of his;
+ This little abstract doth contain that large
+ Which died in Geoffrey, and the hand of time
+ Shall draw this brief into as huge a volume.
+ That Geoffrey was thy elder brother born,
+ And this his son. England was Geoffrey’s right,
+ And this is Geoffrey’s. In the name of God,
+ How comes it then that thou art called a king,
+FTLN 0364
+80
+FTLN 0365
+FTLN 0366
+FTLN 0367
+FTLN 0368
+FTLN 0369
+85
+FTLN 0370
+FTLN 0371
+FTLN 0372
+FTLN 0373
+FTLN 0374
+90
+FTLN 0375
+FTLN 0376
+FTLN 0377
+FTLN 0378
+FTLN 0379
+95
+FTLN 0380
+FTLN 0381
+FTLN 0382
+FTLN 0383
+FTLN 0384
+100
+FTLN 0385
+FTLN 0386
+FTLN 0387
+FTLN 0388
+FTLN 0389
+105
+FTLN 0390
+FTLN 0391
+
+--- PAGE 23 / 105 ---
+39
+King John
+ACT 2. SC. 1
+KING JOHN
+KING PHILIP
+KING JOHN
+KING PHILIP
+QUEEN ELEANOR
+CONSTANCE
+QUEEN ELEANOR
+CONSTANCE
+QUEEN ELEANOR
+ When living blood doth in these temples beat
+ Which owe the crown that thou o’ermasterest?
+ 
+ From whom hast thou this great commission,
+ France,
+ To draw my answer from thy articles?
+ 
+ From that supernal judge that stirs good thoughts
+ In any breast  of strong authority
+ To look into the blots and stains of right.
+ That judge hath made me guardian to this boy,
+ Under whose warrant I impeach thy wrong,
+ And by whose help I mean to chastise it.
+ 
+ Alack, thou dost usurp authority.
+ 
+ Excuse it is to beat usurping down.
+ 
+ Who is it thou dost call usurper, France?
+ 
+ Let me make answer: thy usurping son.
+ 
+ Out, insolent! Thy bastard shall be king
+ That thou mayst be a queen and check the world.
+ 
+ My bed was ever to thy son as true
+ As thine was to thy husband, and this boy
+ Liker in feature to his father Geoffrey
+ Than thou and John, in manners being as like
+ As rain to water or devil to his dam.
+ My boy a bastard? By my soul, I think
+ His father never was so true begot.
+ It cannot be, an if thou wert his mother.
+, to Arthur
+ 
+ There’s a good mother, boy, that blots thy father.
+FTLN 0392
+FTLN 0393
+FTLN 0394
+110
+FTLN 0395
+FTLN 0396
+FTLN 0397
+FTLN 0398
+FTLN 0399
+115
+FTLN 0400
+FTLN 0401
+FTLN 0402
+FTLN 0403
+FTLN 0404
+120
+FTLN 0405
+FTLN 0406
+FTLN 0407
+FTLN 0408
+FTLN 0409
+125
+FTLN 0410
+FTLN 0411
+FTLN 0412
+FTLN 0413
+FTLN 0414
+130
+FTLN 0415
+FTLN 0416
+FTLN 0417
+
+--- PAGE 24 / 105 ---
+41
+King John
+ACT 2. SC. 1
+CONSTANCE
+AUSTRIA
+BASTARD
+AUSTRIA
+BASTARD
+BLANCHE
+BASTARD
+AUSTRIA
+KING PHILIP
+DAUPHIN
+KING JOHN
+ 
+ There’s a good grandam, boy, that would blot thee.
+ 
+ Peace!
+   Hear the crier!
+  
+ What the devil art thou?
+ 
+ One that will play the devil, sir, with you,
+ An he may catch your hide and you alone.
+ You are the hare of whom the proverb goes,
+ Whose valor plucks dead lions by the beard.
+ I’ll smoke your skin-coat an I catch you right.
+ Sirrah, look to ’t. I’ faith, I will, i’ faith!
+ 
+ O, well did he become that lion’s robe
+ That did disrobe the lion of that robe.
+ 
+ It lies as sightly on the back of him
+ As great Alcides’ shoes upon an ass.—
+ But, ass, I’ll take that burden from your back
+ Or lay on that shall make your shoulders crack.
+ 
+ What cracker is this same that deafs our ears
+ With this abundance of superfluous breath?
+ 
+ Louis, determine what we shall do straight.
+ 
+ Women and fools, break off your conference.—
+ King John, this is the very sum of all:
+ England and Ireland, Anjou,  Touraine, Maine,
+ In right of Arthur do I claim of thee.
+ Wilt thou resign them and lay down thy arms?
+ 
+ My life as soon! I do defy thee, France.—
+ Arthur of Brittany, yield thee to my hand,
+FTLN 0418
+FTLN 0419
+135
+FTLN 0420
+FTLN 0421
+FTLN 0422
+FTLN 0423
+FTLN 0424
+140
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+FTLN 0429
+145
+FTLN 0430
+FTLN 0431
+FTLN 0432
+FTLN 0433
+FTLN 0434
+150
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+FTLN 0439
+155
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+
+--- PAGE 25 / 105 ---
+43
+King John
+ACT 2. SC. 1
+QUEEN ELEANOR
+CONSTANCE
+ARTHUR
+QUEEN ELEANOR
+CONSTANCE
+QUEEN ELEANOR
+CONSTANCE
+ And out of my dear love I’ll give thee more
+ Than e’er the coward hand of France can win.
+ Submit thee, boy.
+  
+ Come to thy grandam, child.
+ 
+ Do, child, go to it grandam, child.
+ Give grandam kingdom, and it grandam will
+ Give it a plum, a cherry, and a fig.
+ There’s a good grandam.
+, weeping
+  
+ Good my mother, peace.
+ I would that I were low laid in my grave.
+ I am not worth this coil that’s made for me.
+ 
+ His mother shames him so, poor boy, he weeps.
+ 
+ Now shame upon you whe’er she does or no!
+ His grandam’s wrongs, and not his mother’s
+ shames,
+ Draws those heaven-moving pearls from his poor
+ eyes,
+ Which heaven shall take in nature of a fee.
+ Ay, with these crystal beads heaven shall be bribed
+ To do him justice and revenge on you.
+ 
+ Thou monstrous slanderer of heaven and Earth!
+ 
+ Thou monstrous injurer of heaven and Earth,
+ Call not me slanderer. Thou and thine usurp
+ The dominations, royalties, and rights
+ Of this oppressèd boy. This is thy eldest son’s son,
+ Infortunate in nothing but in thee.
+ Thy sins are visited in this poor child.
+ The canon of the law is laid on him,
+ Being but the second generation
+ Removèd from thy sin-conceiving womb.
+FTLN 0444
+160
+FTLN 0445
+FTLN 0446
+FTLN 0447
+FTLN 0448
+FTLN 0449
+165
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+FTLN 0454
+170
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+FTLN 0459
+175
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+FTLN 0464
+180
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+FTLN 0469
+185
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+
+--- PAGE 26 / 105 ---
+45
+King John
+ACT 2. SC. 1
+KING JOHN
+CONSTANCE
+QUEEN ELEANOR
+CONSTANCE
+KING PHILIP
+Trumpet sounds.
+CITIZEN
+KING PHILIP
+KING JOHN
+KING PHILIP
+ 
+ Bedlam, have done.
+  
+ I have but this to say,
+ That he is not only plaguèd for her sin,
+ But God hath made her sin and her the plague
+ On this removèd issue, plagued for her,
+ And with her plague; her sin his injury,
+ Her injury the beadle to her sin,
+ All punished in the person of this child
+ And all for her. A plague upon her!
+ 
+ Thou unadvisèd scold, I can produce
+ A will that bars the title of thy son.
+ 
+ Ay, who doubts that? A will—a wicked will,
+ A woman’s will, a cankered grandam’s will.
+ 
+ Peace, lady. Pause, or be more temperate.
+ It ill beseems this presence to cry aim
+ To these ill-tunèd repetitions.—
+ Some trumpet summon hither to the walls
+ These men of Angiers. Let us hear them speak
+ Whose title they admit, Arthur’s or John’s.
+Enter Citizens  upon the walls.
+ 
+ Who is it that hath warned us to the walls?
+ 
+ ’Tis France, for England.
+  
+ England, for itself.
+ You men of Angiers, and my loving subjects—
+ 
+ You loving men of Angiers, Arthur’s subjects,
+ Our trumpet called you to this gentle parle—
+FTLN 0474
+190
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+FTLN 0479
+195
+FTLN 0480
+FTLN 0481
+FTLN 0482
+FTLN 0483
+FTLN 0484
+200
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+FTLN 0489
+205
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+FTLN 0494
+210
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+
+--- PAGE 27 / 105 ---
+47
+King John
+ACT 2. SC. 1
+KING JOHN
+KING PHILIP
+He takes Arthur by the hand.
+ 
+ For our advantage. Therefore hear us first.
+ These flags of France that are advancèd here
+ Before the eye and prospect of your town,
+ Have hither marched to your endamagement.
+ The cannons have their bowels full of wrath,
+ And ready mounted are they to spit forth
+ Their iron indignation ’gainst your walls.
+ All preparation for a bloody siege
+ And merciless proceeding by these French
+ Confronts your  city’s eyes, your winking gates,
+ And, but for our approach, those sleeping stones,
+ That as a waist doth girdle you about,
+ By the compulsion of their ordinance
+ By this time from their fixèd beds of lime
+ Had been dishabited, and wide havoc made
+ For bloody power to rush upon your peace.
+ But on the sight of us your lawful king,
+ Who painfully with much expedient march
+ Have brought a countercheck before your gates
+ To save unscratched your city’s threatened cheeks,
+ Behold, the French, amazed, vouchsafe a parle.
+ And now, instead of bullets wrapped in fire
+ To make a shaking fever in your walls,
+ They shoot but calm words folded up in smoke
+ To make a faithless error in your ears,
+ Which trust accordingly, kind citizens,
+ And let us in. Your king, whose labored spirits
+ Forwearied in this action of swift speed,
+ Craves harborage within your city walls.
+ 
+ When I have said, make answer to us both.
+ Lo, in this right hand, whose protection
+ Is most divinely vowed upon the right
+FTLN 0499
+215
+FTLN 0500
+FTLN 0501
+FTLN 0502
+FTLN 0503
+FTLN 0504
+220
+FTLN 0505
+FTLN 0506
+FTLN 0507
+FTLN 0508
+FTLN 0509
+225
+FTLN 0510
+FTLN 0511
+FTLN 0512
+FTLN 0513
+FTLN 0514
+230
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+FTLN 0519
+235
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+FTLN 0524
+240
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+FTLN 0529
+245
+FTLN 0530
+
+--- PAGE 28 / 105 ---
+49
+King John
+ACT 2. SC. 1
+CITIZEN
+KING JOHN
+CITIZEN
+ Of him it holds, stands young Plantagenet,
+ Son to the elder brother of this man,
+ And king o’er him and all that he enjoys.
+ For this downtrodden equity we tread
+ In warlike march these greens before your town,
+ Being no further enemy to you
+ Than the constraint of hospitable zeal
+ In the relief of this oppressèd child
+ Religiously provokes. Be pleasèd then
+ To pay that duty which you truly owe
+ To him that owes it, namely, this young prince,
+ And then our arms, like to a muzzled bear
+ Save in aspect, hath all offense sealed up.
+ Our cannons’ malice vainly shall be spent
+ Against th’ invulnerable clouds of heaven,
+ And with a blessèd and unvexed retire,
+ With unbacked swords and helmets all unbruised,
+ We will bear home that lusty blood again
+ Which here we came to spout against your town,
+ And leave your children, wives, and you in peace.
+ But if you fondly pass our proffered offer,
+ ’Tis not the roundure of your old-faced walls
+ Can hide you from our messengers of war,
+ Though all these English and their discipline
+ Were harbored in their rude circumference.
+ Then tell us, shall your city call us lord
+ In that behalf which we have challenged it?
+ Or shall we give the signal to our rage
+ And stalk in blood to our possession?
+ 
+ In brief, we are the King of England’s subjects.
+ For him, and in his right, we hold this town.
+ 
+ Acknowledge then the King and let me in.
+ 
+ That can we not. But he that proves the King,
+FTLN 0531
+FTLN 0532
+FTLN 0533
+FTLN 0534
+250
+FTLN 0535
+FTLN 0536
+FTLN 0537
+FTLN 0538
+FTLN 0539
+255
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+FTLN 0544
+260
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+FTLN 0549
+265
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+FTLN 0554
+270
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+FTLN 0559
+275
+FTLN 0560
+FTLN 0561
+FTLN 0562
+FTLN 0563
+
+--- PAGE 29 / 105 ---
+51
+King John
+ACT 2. SC. 1
+KING JOHN
+BASTARD
+KING JOHN
+KING PHILIP
+BASTARD
+KING PHILIP
+CITIZEN
+KING JOHN
+KING PHILIP
+BASTARD
+AUSTRIA
+BASTARD
+ To him will we prove loyal. Till that time
+ Have we rammed up our gates against the world.
+ 
+ Doth not the crown of England prove the King?
+ And if not that, I bring you witnesses,
+ Twice fifteen thousand hearts of England’s breed—
+  Bastards and else.
+ 
+ To verify our title with their lives.
+ 
+ As many and as wellborn bloods as those—
+  Some bastards too.
+ 
+ Stand in his face to contradict his claim.
+ 
+ Till you compound whose right is worthiest,
+ We for the worthiest hold the right from both.
+ 
+ Then God forgive the sin of all those souls
+ That to their everlasting residence,
+ Before the dew of evening fall, shall fleet
+ In dreadful trial of our kingdom’s king.
+ 
+ Amen, amen.—Mount, chevaliers! To arms!
+ 
+ Saint George, that swinged the dragon and e’er
+ since
+ Sits on ’s horseback at mine hostess’ door,
+ Teach us some fence!  To Austria.  Sirrah, were I at
+ home
+ At your den, sirrah, with your lioness,
+ I would set an ox head to your lion’s hide
+ And make a monster of you.
+  
+ Peace! No more.
+ 
+ O, tremble, for you hear the lion roar.
+FTLN 0564
+280
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+FTLN 0569
+285
+FTLN 0570
+FTLN 0571
+FTLN 0572
+FTLN 0573
+FTLN 0574
+290
+FTLN 0575
+FTLN 0576
+FTLN 0577
+FTLN 0578
+FTLN 0579
+295
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+FTLN 0584
+300
+FTLN 0585
+FTLN 0586
+FTLN 0587
+FTLN 0588
+FTLN 0589
+305
+FTLN 0590
+
+--- PAGE 30 / 105 ---
+53
+King John
+ACT 2. SC. 1
+KING JOHN
+BASTARD
+KING PHILIP
+They exit. Citizens remain, above.
+FRENCH HERALD
+ENGLISH HERALD
+, to his officers
+ 
+ Up higher to the plain, where we’ll set forth
+ In best appointment all our regiments.
+ 
+ Speed, then, to take advantage of the field.
+, to his officers
+ 
+ It shall be so, and at the other hill
+ Command the rest to stand. God and our right!
+Here, after excursions, enter the Herald of France, with
+Trumpets, to the gates.
+ 
+ You men of Angiers, open wide your gates,
+ And let young Arthur, Duke of Brittany, in,
+ Who by the hand of France this day hath made
+ Much work for tears in many an English mother,
+ Whose sons lie scattered on the bleeding ground.
+ Many a widow’s husband groveling lies
+ Coldly embracing the discolored earth,
+ And victory with little loss doth play
+ Upon the dancing banners of the French,
+ Who are at hand, triumphantly displayed,
+ To enter conquerors and to proclaim
+ Arthur of Brittany England’s king and yours.
+Enter English Herald, with Trumpet.
+ 
+ Rejoice, you men of Angiers, ring your bells!
+ King John, your king and England’s, doth approach,
+ Commander of this hot malicious day.
+ Their armors, that marched hence so silver bright,
+ Hither return all gilt with Frenchmen’s blood.
+ There stuck no plume in any English crest
+ That is removèd by a staff of France.
+FTLN 0591
+FTLN 0592
+FTLN 0593
+FTLN 0594
+310
+FTLN 0595
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+315
+FTLN 0600
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+320
+FTLN 0605
+FTLN 0606
+FTLN 0607
+FTLN 0608
+FTLN 0609
+325
+FTLN 0610
+FTLN 0611
+FTLN 0612
+FTLN 0613
+FTLN 0614
+330
+
+--- PAGE 31 / 105 ---
+55
+King John
+ACT 2. SC. 1
+CITIZEN
+KING JOHN
+KING PHILIP
+ Our colors do return in those same hands
+ That did display them when we first marched forth,
+ And like a jolly troop of huntsmen come
+ Our lusty English, all with purpled hands,
+ Dyed in the dying slaughter of their foes.
+ Open your gates, and give the victors way.
+ 
+ Heralds, from off our towers we might behold
+ From first to last the onset and retire
+ Of both your armies, whose equality
+ By our best eyes cannot be censurèd.
+ Blood hath bought blood, and blows have answered
+ blows,
+ Strength matched with strength, and power
+ confronted power.
+ Both are alike, and both alike we like.
+ One must prove greatest. While they weigh so even,
+ We hold our town for neither, yet for both.
+Enter the two Kings with their Powers ( including the
+Bastard, Queen Eleanor, Blanche, and Salisbury;
+Austria, and Louis the Dauphin ), at several doors.
+ 
+ France, hast thou yet more blood to cast away?
+ Say, shall the current of our right roam on,
+ Whose passage, vexed with thy impediment,
+ Shall leave his native channel and o’erswell
+ With course disturbed even thy confining shores,
+ Unless thou let his silver water keep
+ A peaceful progress to the ocean?
+ 
+ England, thou hast not saved one drop of blood
+ In this hot trial more than we of France,
+ Rather lost more. And by this hand I swear
+ That sways the earth this climate overlooks,
+FTLN 0615
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+335
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+340
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+345
+FTLN 0630
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+350
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+FTLN 0639
+355
+FTLN 0640
+FTLN 0641
+FTLN 0642
+
+--- PAGE 32 / 105 ---
+57
+King John
+ACT 2. SC. 1
+BASTARD
+KING JOHN
+KING PHILIP
+CITIZEN
+KING PHILIP
+KING JOHN
+CITIZEN
+ Before we will lay down our just-borne arms,
+ We’ll put thee down, ’gainst whom these arms we
+ bear,
+ Or add a royal number to the dead,
+ Gracing the scroll that tells of this war’s loss
+ With slaughter coupled to the name of kings.
+, aside
+ 
+ Ha, majesty! How high thy glory towers
+ When the rich blood of kings is set on fire!
+ O, now doth Death line his dead chaps with steel,
+ The swords of soldiers are his teeth, his fangs,
+ And now he feasts, mousing the flesh of men
+ In undetermined differences of kings.
+ Why stand these royal fronts amazèd thus?
+ Cry havoc, kings! Back to the stainèd field,
+ You equal potents, fiery-kindled spirits.
+ Then let confusion of one part confirm
+ The other’s peace. Till then, blows, blood, and
+ death!
+ 
+ Whose party do the townsmen yet admit?
+ 
+ Speak, citizens, for England. Who’s your king?
+ 
+ The King of England, when we know the King.
+ 
+ Know him in us, that here hold up his right.
+ 
+ In us, that are our own great deputy
+ And bear possession of our person here,
+ Lord of our presence, Angiers, and of you.
+ 
+ A greater power than we denies all this,
+ And till it be undoubted, we do lock
+ Our former scruple in our strong-barred gates,
+FTLN 0643
+FTLN 0644
+360
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+365
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+370
+FTLN 0655
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+375
+FTLN 0660
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+380
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+FTLN 0669
+385
+FTLN 0670
+
+--- PAGE 33 / 105 ---
+59
+King John
+ACT 2. SC. 1
+BASTARD
+KING JOHN
+BASTARD
+ Kings of our fear, until our fears resolved
+ Be by some certain king purged and deposed.
+ 
+ By heaven, these scroyles of Angiers flout you, kings,
+ And stand securely on their battlements
+ As in a theater, whence they gape and point
+ At your industrious scenes and acts of death.
+ Your royal presences, be ruled by me:
+ Do like the mutines of Jerusalem,
+ Be friends awhile, and both conjointly bend
+ Your sharpest deeds of malice on this town.
+ By east and west let France and England mount
+ Their battering cannon chargèd to the mouths,
+ Till their soul-fearing clamors have brawled down
+ The flinty ribs of this contemptuous city.
+ I’d play incessantly upon these jades,
+ Even till unfencèd desolation
+ Leave them as naked as the vulgar air.
+ That done, dissever your united strengths
+ And part your mingled colors once again;
+ Turn face to face and bloody point to point.
+ Then in a moment Fortune shall cull forth
+ Out of one side her happy minion,
+ To whom in favor she shall give the day
+ And kiss him with a glorious victory.
+ How like you this wild counsel, mighty states?
+ Smacks it not something of the policy?
+ 
+ Now by the sky that hangs above our heads,
+ I like it well. France, shall we knit our powers
+ And lay this Angiers even with the ground,
+ Then after fight who shall be king of it?
+, to King Philip
+ 
+ An if thou hast the mettle of a king,
+ Being wronged as we are by this peevish town,
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+390
+FTLN 0675
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+395
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+400
+FTLN 0685
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+405
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+410
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+415
+FTLN 0700
+FTLN 0701
+FTLN 0702
+
+--- PAGE 34 / 105 ---
+61
+King John
+ACT 2. SC. 1
+KING PHILIP
+KING JOHN
+AUSTRIA
+KING PHILIP
+BASTARD
+CITIZEN
+KING JOHN
+CITIZEN
+ Turn thou the mouth of thy artillery,
+ As we will ours, against these saucy walls,
+ And when that we have dashed them to the ground,
+ Why, then, defy each other and pell-mell
+ Make work upon ourselves, for heaven or hell.
+ 
+ Let it be so. Say, where will you assault?
+ 
+ We from the west will send destruction
+ Into this city’s bosom.
+  I from the north.
+  Our thunder from the south
+ Shall rain their drift of bullets on this town.
+, aside
+ 
+ O, prudent discipline! From north to south,
+ Austria and France shoot in each other’s mouth.
+ I’ll stir them to it. — Come, away, away!
+ 
+ Hear us, great kings. Vouchsafe awhile to stay,
+ And I shall show you peace and fair-faced league,
+ Win you this city without stroke or wound,
+ Rescue those breathing lives to die in beds
+ That here come sacrifices for the field.
+ Persever not, but hear me, mighty kings.
+ 
+ Speak on with favor. We are bent to hear.
+ 
+ That daughter there of Spain, the Lady Blanche,
+ Is near to England. Look upon the years
+ Of Louis the Dauphin and that lovely maid.
+ If lusty love should go in quest of beauty,
+ Where should he find it fairer than in Blanche?
+ If zealous love should go in search of virtue,
+ Where should he find it purer than in Blanche?
+ If love ambitious sought a match of birth,
+FTLN 0703
+FTLN 0704
+420
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+425
+FTLN 0710
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+430
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+435
+FTLN 0720
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+440
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+445
+FTLN 0730
+FTLN 0731
+
+--- PAGE 35 / 105 ---
+63
+King John
+ACT 2. SC. 1
+King Philip and Louis the Dauphin
+walk aside and talk.
+BASTARD
+ Whose veins bound richer blood than Lady
+ Blanche?
+ Such as she is, in beauty, virtue, birth,
+ Is the young Dauphin every way complete.
+ If not complete of, say he is not she,
+ And she again wants nothing, to name want,
+ If want it be not that she is not he.
+ He is the half part of a blessèd man,
+ Left to be finishèd by such as she,
+ And she a fair divided excellence,
+ Whose fullness of perfection lies in him.
+ O, two such silver currents when they join
+ Do glorify the banks that bound them in,
+ And two such shores to two such streams made one,
+ Two such controlling bounds shall you be, kings,
+ To these two princes, if you marry them.
+ This union shall do more than battery can
+ To our fast-closèd gates, for at this match,
+ With swifter spleen than powder can enforce,
+ The mouth of passage shall we fling wide ope
+ And give you entrance. But without this match,
+ The sea enragèd is not half so deaf,
+ Lions more confident, mountains and rocks
+ More free from motion, no, not Death himself
+ In mortal fury half so peremptory
+ As we to keep this city.
+, aside
+  
+ Here’s a stay
+ That shakes the rotten carcass of old Death
+ Out of his rags! Here’s a large mouth indeed
+ That spits forth death and mountains, rocks and
+ seas;
+ Talks as familiarly of roaring lions
+ As maids of thirteen do of puppy dogs.
+FTLN 0732
+FTLN 0733
+FTLN 0734
+450
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+455
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+460
+FTLN 0745
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+465
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+470
+FTLN 0755
+FTLN 0756
+FTLN 0757
+FTLN 0758
+FTLN 0759
+475
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+FTLN 0764
+480
+
+--- PAGE 36 / 105 ---
+65
+King John
+ACT 2. SC. 1
+QUEEN ELEANOR
+CITIZEN
+KING PHILIP
+KING JOHN
+ What cannoneer begot this lusty blood?
+ He speaks plain cannon fire, and smoke, and
+ bounce.
+ He gives the bastinado with his tongue.
+ Our ears are cudgeled. Not a word of his
+ But buffets better than a fist of France.
+ Zounds, I was never so bethumped with words
+ Since I first called my brother’s father Dad.
+, aside to King John
+ 
+ Son, list to this conjunction; make this match.
+ Give with our niece a dowry large enough,
+ For by this knot thou shalt so surely tie
+ Thy now unsured assurance to the crown
+ That yon green boy shall have no sun to ripe
+ The bloom that promiseth a mighty fruit.
+ I see a yielding in the looks of France.
+ Mark how they whisper. Urge them while their
+ souls
+ Are capable of this ambition,
+ Lest zeal, now melted by the windy breath
+ Of soft petitions, pity, and remorse,
+ Cool and congeal again to what it was.
+ 
+ Why answer not the double majesties
+ This friendly treaty of our threatened town?
+ 
+ Speak England first, that hath been forward first
+ To speak unto this city. What say you?
+ 
+ If that the Dauphin there, thy princely son,
+ Can in this book of beauty read “I love,”
+ Her dowry shall weigh equal with a queen.
+ For Anjou  and fair Touraine, Maine, Poitiers,
+ And all that we upon this side the sea—
+ Except this city now by us besieged—
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+485
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+490
+FTLN 0775
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+495
+FTLN 0780
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+500
+FTLN 0785
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+505
+FTLN 0790
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+510
+FTLN 0795
+
+--- PAGE 37 / 105 ---
+67
+King John
+ACT 2. SC. 1
+KING PHILIP
+DAUPHIN
+He  whispers with Blanche.
+BASTARD
+BLANCHE
+ Find liable to our crown and dignity,
+ Shall gild her bridal bed and make her rich
+ In titles, honors, and promotions,
+ As she in beauty, education, blood,
+ Holds hand with any princess of the world.
+ 
+ What sayst thou, boy? Look in the lady’s face.
+ 
+ I do, my lord, and in her eye I find
+ A wonder or a wondrous miracle,
+ The shadow of myself formed in her eye,
+ Which, being but the shadow of your son,
+ Becomes a sun and makes your son a shadow.
+ I do protest I never loved myself
+ Till now infixèd I beheld myself
+ Drawn in the flattering table of her eye.
+, aside
+ 
+ “Drawn in the flattering table of her eye”?
+  Hanged in the frowning wrinkle of her brow
+ And quartered in her heart! He doth espy
+  Himself love’s traitor. This is pity now,
+ That hanged and drawn and quartered there should
+ be
+ In such a love so vile a lout as he.
+, aside to Dauphin
+ 
+ My uncle’s will in this respect is mine.
+ If he see aught in you that makes him like,
+ That anything he sees which moves his liking
+ I can with ease translate it to my will.
+ Or if you will, to speak more properly,
+ I will enforce it eas’ly to my love.
+ Further I will not flatter you, my lord,
+ That all I see in you is worthy love,
+ Than this: that nothing do I see in you,
+FTLN 0796
+FTLN 0797
+FTLN 0798
+FTLN 0799
+515
+FTLN 0800
+FTLN 0801
+FTLN 0802
+FTLN 0803
+FTLN 0804
+520
+FTLN 0805
+FTLN 0806
+FTLN 0807
+FTLN 0808
+FTLN 0809
+525
+FTLN 0810
+FTLN 0811
+FTLN 0812
+FTLN 0813
+FTLN 0814
+530
+FTLN 0815
+FTLN 0816
+FTLN 0817
+FTLN 0818
+FTLN 0819
+535
+FTLN 0820
+FTLN 0821
+FTLN 0822
+FTLN 0823
+FTLN 0824
+540
+FTLN 0825
+
+--- PAGE 38 / 105 ---
+69
+King John
+ACT 2. SC. 1
+KING JOHN
+BLANCHE
+KING JOHN
+DAUPHIN
+KING JOHN
+KING PHILIP
+AUSTRIA
+Dauphin and Blanche join hands and kiss.
+KING PHILIP
+ Though churlish thoughts themselves should be
+ your judge,
+ That I can find should merit any hate.
+ 
+ What say these young ones? What say you, my
+ niece?
+ 
+ That she is bound in honor still to do
+ What you in wisdom still vouchsafe to say.
+ 
+ Speak then, Prince Dauphin. Can you love this lady?
+ 
+ Nay, ask me if I can refrain from love,
+ For I do love her most unfeignedly.
+ 
+ Then do I give Volquessen, Touraine, Maine,
+ Poitiers and Anjou, these five provinces
+ With her to thee, and this addition more:
+ Full thirty thousand marks of English coin.—
+ Philip of France, if thou be pleased withal,
+ Command thy son and daughter to join hands.
+ 
+ It likes us well.—Young princes, close your hands.
+ 
+ And your lips too, for I am well assured
+ That I did so when I was first assured.
+ 
+ Now, citizens of Angiers, ope your gates.
+ Let in that amity which you have made,
+ For at Saint Mary’s Chapel presently
+ The rites of marriage shall be solemnized.—
+ Is not the Lady Constance in this troop?
+ I know she is not, for this match made up
+ Her presence would have interrupted much.
+ Where is she and her son? Tell me, who knows.
+FTLN 0826
+FTLN 0827
+FTLN 0828
+FTLN 0829
+545
+FTLN 0830
+FTLN 0831
+FTLN 0832
+FTLN 0833
+FTLN 0834
+550
+FTLN 0835
+FTLN 0836
+FTLN 0837
+FTLN 0838
+FTLN 0839
+555
+FTLN 0840
+FTLN 0841
+FTLN 0842
+FTLN 0843
+FTLN 0844
+560
+FTLN 0845
+FTLN 0846
+FTLN 0847
+FTLN 0848
+FTLN 0849
+565
+FTLN 0850
+FTLN 0851
+FTLN 0852
+
+--- PAGE 39 / 105 ---
+71
+King John
+ACT 2. SC. 1
+DAUPHIN
+KING PHILIP
+KING JOHN
+All but the Bastard  exit.
+BASTARD
+ 
+ She is sad and passionate at your Highness’ tent.
+ 
+ And by my faith, this league that we have made
+ Will give her sadness very little cure.—
+ Brother of England, how may we content
+ This widow lady? In her right we came,
+ Which we, God knows, have turned another way
+ To our own vantage.
+  
+ We will heal up all,
+ For we’ll create young Arthur Duke of Brittany
+ And Earl of Richmond, and this rich, fair town
+ We make him lord of.—Call the Lady Constance.
+ Some speedy messenger bid her repair
+ To our solemnity.  Salisbury exits.  I trust we
+ shall,
+ If not fill up the measure of her will,
+ Yet in some measure satisfy her so
+ That we shall stop her exclamation.
+ Go we as well as haste will suffer us
+ To this unlooked-for, unpreparèd pomp.
+ 
+ Mad world, mad kings, mad composition!
+ John, to stop Arthur’s title in the whole,
+ Hath willingly departed with a part;
+ And France, whose armor conscience buckled on,
+ Whom zeal and charity brought to the field
+ As God’s own soldier, rounded in the ear
+ With that same purpose-changer, that sly devil,
+ That broker that still breaks the pate of faith,
+ That daily break-vow, he that wins of all,
+ Of kings, of beggars, old men, young men, maids—
+ Who having no external thing to lose
+ But the word “maid,” cheats the poor maid of
+ that—
+FTLN 0853
+FTLN 0854
+570
+FTLN 0855
+FTLN 0856
+FTLN 0857
+FTLN 0858
+FTLN 0859
+575
+FTLN 0860
+FTLN 0861
+FTLN 0862
+FTLN 0863
+FTLN 0864
+580
+FTLN 0865
+FTLN 0866
+FTLN 0867
+FTLN 0868
+FTLN 0869
+585
+FTLN 0870
+FTLN 0871
+FTLN 0872
+FTLN 0873
+FTLN 0874
+590
+FTLN 0875
+FTLN 0876
+FTLN 0877
+FTLN 0878
+FTLN 0879
+595
+FTLN 0880
+FTLN 0881
+FTLN 0882
+FTLN 0883
+FTLN 0884
+600
+
+--- PAGE 40 / 105 ---
+73
+King John
+ACT 2. SC. 1
+He exits.
+ That smooth-faced gentleman, tickling Commodity,
+ Commodity, the bias of the world—
+ The world, who of itself is peisèd well,
+ Made to run even upon even ground,
+ Till this advantage, this vile-drawing bias,
+ This sway of motion, this Commodity,
+ Makes it take head from all indifferency,
+ From all direction, purpose, course, intent.
+ And this same bias, this Commodity,
+ This bawd, this broker, this all-changing word,
+ Clapped on the outward eye of fickle France,
+ Hath drawn him from his own determined aid,
+ From a resolved and honorable war
+ To a most base and vile-concluded peace.
+ And why rail I on this Commodity?
+ But for because he hath not wooed me yet.
+ Not that I have the power to clutch my hand
+ When his fair angels would salute my palm,
+ But for my hand, as unattempted yet,
+ Like a poor beggar raileth on the rich.
+ Well, whiles I am a beggar, I will rail
+ And say there is no sin but to be rich;
+ And being rich, my virtue then shall be
+ To say there is no vice but beggary.
+ Since kings break faith upon Commodity,
+ Gain, be my lord, for I will worship thee!
+FTLN 0885
+FTLN 0886
+FTLN 0887
+FTLN 0888
+FTLN 0889
+605
+FTLN 0890
+FTLN 0891
+FTLN 0892
+FTLN 0893
+FTLN 0894
+610
+FTLN 0895
+FTLN 0896
+FTLN 0897
+FTLN 0898
+FTLN 0899
+615
+FTLN 0900
+FTLN 0901
+FTLN 0902
+FTLN 0903
+FTLN 0904
+620
+FTLN 0905
+FTLN 0906
+FTLN 0907
+FTLN 0908
+FTLN 0909
+625
+FTLN 0910
+
+--- PAGE 41 / 105 ---
+CONSTANCE
+Enter Constance, Arthur, and Salisbury.
+, to Salisbury
+ 
+ Gone to be married? Gone to swear a peace?
+ False blood to false blood joined? Gone to be friends?
+ Shall Louis have Blanche and Blanche those
+ provinces?
+ It is not so. Thou hast misspoke, misheard.
+ Be well advised; tell o’er thy tale again.
+ It cannot be; thou dost but say ’tis so.
+ I trust I may not trust thee, for thy word
+ Is but the vain breath of a common man.
+ Believe me, I do not believe thee, man.
+ I have a king’s oath to the contrary.
+ Thou shalt be punished for thus flighting me,
+ For I am sick and capable of fears,
+ Oppressed with wrongs and therefore full of fears,
+ A widow, husbandless, subject to fears,
+ A woman naturally born to fears.
+ And though thou now confess thou didst but jest,
+ With my vexed spirits I cannot take a truce,
+ But they will quake and tremble all this day.
+ What dost thou mean by shaking of thy head?
+ Why dost thou look so sadly on my son?
+ What means that hand upon that breast of thine?
+77
+ACT 3
+Scene 1
+FTLN 0911
+FTLN 0912
+FTLN 0913
+FTLN 0914
+FTLN 0915
+5
+FTLN 0916
+FTLN 0917
+FTLN 0918
+FTLN 0919
+FTLN 0920
+10
+FTLN 0921
+FTLN 0922
+FTLN 0923
+FTLN 0924
+FTLN 0925
+15
+FTLN 0926
+FTLN 0927
+FTLN 0928
+FTLN 0929
+FTLN 0930
+20
+FTLN 0931
+FTLN 0932
+
+--- PAGE 42 / 105 ---
+79
+King John
+ACT 3. SC. 1
+SALISBURY
+CONSTANCE
+SALISBURY
+CONSTANCE
+ARTHUR
+CONSTANCE
+ Why holds thine eye that lamentable rheum,
+ Like a proud river peering o’er his bounds?
+ Be these sad signs confirmers of thy words?
+ Then speak again—not all thy former tale,
+ But this one word, whether thy tale be true.
+ 
+ As true as I believe you think them false
+ That give you cause to prove my saying true.
+ 
+ O, if thou teach me to believe this sorrow,
+ Teach thou this sorrow how to make me die,
+ And let belief and life encounter so
+ As doth the fury of two desperate men
+ Which in the very meeting fall and die.
+ Louis marry Blanche?—O, boy, then where art
+ thou?—
+ France friend with England? What becomes of me?
+ Fellow, be gone. I cannot brook thy sight.
+ This news hath made thee a most ugly man.
+ 
+ What other harm have I, good lady, done
+ But spoke the harm that is by others done?
+ 
+ Which harm within itself so heinous is
+ As it makes harmful all that speak of it.
+ 
+ I do beseech you, madam, be content.
+ 
+ If thou that bidd’st me be content wert grim,
+ Ugly, and sland’rous to thy mother’s womb,
+ Full of unpleasing blots and sightless stains,
+ Lame, foolish, crooked, swart, prodigious,
+ Patched with foul moles and eye-offending marks,
+ I would not care; I then would be content,
+ For then I should not love thee; no, nor thou
+FTLN 0933
+FTLN 0934
+FTLN 0935
+25
+FTLN 0936
+FTLN 0937
+FTLN 0938
+FTLN 0939
+FTLN 0940
+30
+FTLN 0941
+FTLN 0942
+FTLN 0943
+FTLN 0944
+FTLN 0945
+35
+FTLN 0946
+FTLN 0947
+FTLN 0948
+FTLN 0949
+FTLN 0950
+40
+FTLN 0951
+FTLN 0952
+FTLN 0953
+FTLN 0954
+FTLN 0955
+45
+FTLN 0956
+FTLN 0957
+FTLN 0958
+FTLN 0959
+FTLN 0960
+50
+FTLN 0961
+
+--- PAGE 43 / 105 ---
+81
+King John
+ACT 3. SC. 1
+SALISBURY
+CONSTANCE
+She sits down.
+KING PHILIP
+ Become thy great birth, nor deserve a crown.
+ But thou art fair, and at thy birth, dear boy,
+ Nature and Fortune joined to make thee great.
+ Of Nature’s gifts thou mayst with lilies boast,
+ And with the half-blown rose. But Fortune, O,
+ She is corrupted, changed, and won from thee;
+ Sh’ adulterates hourly with thine Uncle John,
+ And with her golden hand hath plucked on France
+ To tread down fair respect of sovereignty,
+ And made his majesty the bawd to theirs.
+ France is a bawd to Fortune and King John,
+ That strumpet Fortune, that usurping John.—
+ Tell me, thou fellow, is not France forsworn?
+ Envenom him with words, or get thee gone
+ And leave those woes alone which I alone
+ Am bound to underbear.
+  
+ Pardon me, madam,
+ I may not go without you to the Kings.
+ 
+ Thou mayst, thou shalt, I will not go with thee.
+ I will instruct my sorrows to be proud,
+ For grief is proud and makes his owner stoop.
+ To me and to the state of my great grief
+ Let kings assemble, for my grief ’s so great
+ That no supporter but the huge firm Earth
+ Can hold it up. Here I and sorrows sit.
+ Here is my throne; bid kings come bow to it.
+Enter King John, hand in hand with King Philip of
+France, Louis the  Dauphin, Blanche, Queen  Eleanor,
+Bastard,  Austria, and Attendants.
+, to Blanche
+ 
+ ’Tis true, fair daughter, and this blessèd day
+ Ever in France shall be kept festival.
+FTLN 0962
+FTLN 0963
+FTLN 0964
+FTLN 0965
+55
+FTLN 0966
+FTLN 0967
+FTLN 0968
+FTLN 0969
+FTLN 0970
+60
+FTLN 0971
+FTLN 0972
+FTLN 0973
+FTLN 0974
+FTLN 0975
+65
+FTLN 0976
+FTLN 0977
+FTLN 0978
+FTLN 0979
+FTLN 0980
+70
+FTLN 0981
+FTLN 0982
+FTLN 0983
+FTLN 0984
+FTLN 0985
+75
+FTLN 0986
+FTLN 0987
+FTLN 0988
+FTLN 0989
+
+--- PAGE 44 / 105 ---
+83
+King John
+ACT 3. SC. 1
+CONSTANCE
+KING PHILIP
+CONSTANCE
+ To solemnize this day the glorious sun
+ Stays in his course and plays the alchemist,
+ Turning with splendor of his precious eye
+ The meager cloddy earth to glittering gold.
+ The yearly course that brings this day about
+ Shall never see it but a holy day.
+, rising
+ 
+ A wicked day, and not a holy day!
+ What hath this day deserved? What hath it done
+ That it in golden letters should be set
+ Among the high tides in the calendar?
+ Nay, rather turn this day out of the week,
+ This day of shame, oppression, perjury.
+ Or if it must stand still, let wives with child
+ Pray that their burdens may not fall this day,
+ Lest that their hopes prodigiously be crossed.
+ But on this day let seamen fear no wrack;
+ No bargains break that are not this day made;
+ This day, all things begun come to ill end,
+ Yea, faith itself to hollow falsehood change!
+ 
+ By heaven, lady, you shall have no cause
+ To curse the fair proceedings of this day.
+ Have I not pawned to you my majesty?
+ 
+ You have beguiled me with a counterfeit
+ Resembling majesty, which, being touched and tried,
+ Proves valueless. You are forsworn, forsworn.
+ You came in arms to spill mine enemies’ blood,
+ But now in arms you strengthen it with yours.
+ The grappling vigor and rough frown of war
+ Is cold in amity and painted peace,
+ And our oppression hath made up this league.
+ Arm, arm, you heavens, against these perjured
+ kings!
+FTLN 0990
+80
+FTLN 0991
+FTLN 0992
+FTLN 0993
+FTLN 0994
+FTLN 0995
+85
+FTLN 0996
+FTLN 0997
+FTLN 0998
+FTLN 0999
+FTLN 1000
+90
+FTLN 1001
+FTLN 1002
+FTLN 1003
+FTLN 1004
+FTLN 1005
+95
+FTLN 1006
+FTLN 1007
+FTLN 1008
+FTLN 1009
+FTLN 1010
+100
+FTLN 1011
+FTLN 1012
+FTLN 1013
+FTLN 1014
+FTLN 1015
+105
+FTLN 1016
+FTLN 1017
+FTLN 1018
+FTLN 1019
+FTLN 1020
+110
+FTLN 1021
+
+--- PAGE 45 / 105 ---
+85
+King John
+ACT 3. SC. 1
+AUSTRIA
+CONSTANCE
+AUSTRIA
+BASTARD
+AUSTRIA
+BASTARD
+KING JOHN
+ A widow cries; be husband to me, God!
+ Let not the hours of this ungodly day
+ Wear out the days in peace, but ere sunset
+ Set armèd discord ’twixt these perjured kings.
+ Hear me, O, hear me!
+  
+ Lady Constance, peace.
+ 
+ War, war, no peace! Peace is to me a war.
+ O Limoges, O Austria, thou dost shame
+ That bloody spoil. Thou slave, thou wretch, thou
+ coward,
+ Thou little valiant, great in villainy,
+ Thou ever strong upon the stronger side,
+ Thou Fortune’s champion, that dost never fight
+ But when her humorous Ladyship is by
+ To teach thee safety. Thou art perjured too,
+ And sooth’st up greatness. What a fool art thou,
+ A ramping fool, to brag and stamp and swear
+ Upon my party. Thou cold-blooded slave,
+ Hast thou not spoke like thunder on my side?
+ Been sworn my soldier, bidding me depend
+ Upon thy stars, thy fortune, and thy strength?
+ And dost thou now fall over to my foes?
+ Thou wear a lion’s hide! Doff it for shame,
+ And hang a calfskin on those recreant limbs.
+ 
+ O, that a man should speak those words to me!
+ 
+ “And hang a calfskin on those recreant limbs.”
+ 
+ Thou dar’st not say so, villain, for thy life!
+ 
+ “And hang a calfskin on those recreant limbs.”
+ 
+ We like not this. Thou dost forget thyself.
+FTLN 1022
+FTLN 1023
+FTLN 1024
+FTLN 1025
+115
+FTLN 1026
+FTLN 1027
+FTLN 1028
+FTLN 1029
+FTLN 1030
+120
+FTLN 1031
+FTLN 1032
+FTLN 1033
+FTLN 1034
+FTLN 1035
+125
+FTLN 1036
+FTLN 1037
+FTLN 1038
+FTLN 1039
+FTLN 1040
+130
+FTLN 1041
+FTLN 1042
+FTLN 1043
+FTLN 1044
+FTLN 1045
+135
+FTLN 1046
+FTLN 1047
+FTLN 1048
+FTLN 1049
+FTLN 1050
+140
+
+--- PAGE 46 / 105 ---
+87
+King John
+ACT 3. SC. 1
+KING PHILIP
+PANDULPH
+KING JOHN
+KING PHILIP
+KING JOHN
+Enter Pandulph.
+ 
+ Here comes the holy legate of the Pope.
+ 
+ Hail, you anointed deputies of heaven!
+ To thee, King John, my holy errand is.
+ I, Pandulph, of fair Milan cardinal
+ And from Pope Innocent the legate here,
+ Do in his name religiously demand
+ Why thou against the Church, our holy mother,
+ So willfully dost spurn, and force perforce
+ Keep Stephen Langton, chosen Archbishop
+ Of Canterbury, from that Holy See.
+ This, in our foresaid Holy Father’s name,
+ Pope Innocent, I do demand of thee.
+ 
+ What earthy name to interrogatories
+ Can task  the free breath of a sacred king?
+ Thou canst not, cardinal, devise a name
+ So slight, unworthy, and ridiculous
+ To charge me to an answer, as the Pope.
+ Tell him this tale, and from the mouth of England
+ Add thus much more, that no Italian priest
+ Shall tithe or toll in our dominions;
+ But as we under God  are supreme head,
+ So, under Him, that great supremacy
+ Where we do reign we will alone uphold
+ Without th’ assistance of a mortal hand.
+ So tell the Pope, all reverence set apart
+ To him and his usurped authority.
+ 
+ Brother of England, you blaspheme in this.
+ 
+ Though you and all the kings of Christendom
+ Are led so grossly by this meddling priest,
+FTLN 1051
+FTLN 1052
+FTLN 1053
+FTLN 1054
+FTLN 1055
+145
+FTLN 1056
+FTLN 1057
+FTLN 1058
+FTLN 1059
+FTLN 1060
+150
+FTLN 1061
+FTLN 1062
+FTLN 1063
+FTLN 1064
+FTLN 1065
+155
+FTLN 1066
+FTLN 1067
+FTLN 1068
+FTLN 1069
+FTLN 1070
+160
+FTLN 1071
+FTLN 1072
+FTLN 1073
+FTLN 1074
+FTLN 1075
+165
+FTLN 1076
+FTLN 1077
+FTLN 1078
+FTLN 1079
+
+--- PAGE 47 / 105 ---
+89
+King John
+ACT 3. SC. 1
+PANDULPH
+CONSTANCE
+PANDULPH
+CONSTANCE
+PANDULPH
+ Dreading the curse that money may buy out,
+ And by the merit of vile gold, dross, dust,
+ Purchase corrupted pardon of a man
+ Who in that sale sells pardon from himself,
+ Though you and all the rest, so grossly led,
+ This juggling witchcraft with revenue cherish,
+ Yet I alone, alone do me oppose
+ Against the Pope, and count his friends my foes.
+ 
+ Then, by the lawful power that I have,
+ Thou shalt stand cursed and excommunicate;
+ And blessèd shall he be that doth revolt
+ From his allegiance to an heretic;
+ And meritorious shall that hand be called,
+ Canonizèd and worshiped as a saint,
+ That takes away by any secret course
+ Thy hateful life.
+  
+ O, lawful let it be
+ That I have room with Rome to curse awhile!
+ Good father cardinal, cry thou “Amen”
+ To my keen curses, for without my wrong
+ There is no tongue hath power to curse him right.
+ 
+ There’s law and warrant, lady, for my curse.
+ 
+ And for mine, too. When law can do no right,
+ Let it be lawful that law bar no wrong.
+ Law cannot give my child his kingdom here,
+ For he that holds his kingdom holds the law.
+ Therefore, since law itself is perfect wrong,
+ How can the law forbid my tongue to curse?
+ 
+ Philip of France, on peril of a curse,
+ Let go the hand of that arch-heretic,
+ And raise the power of France upon his head
+ Unless he do submit himself to Rome.
+FTLN 1080
+170
+FTLN 1081
+FTLN 1082
+FTLN 1083
+FTLN 1084
+FTLN 1085
+175
+FTLN 1086
+FTLN 1087
+FTLN 1088
+FTLN 1089
+FTLN 1090
+180
+FTLN 1091
+FTLN 1092
+FTLN 1093
+FTLN 1094
+FTLN 1095
+185
+FTLN 1096
+FTLN 1097
+FTLN 1098
+FTLN 1099
+FTLN 1100
+190
+FTLN 1101
+FTLN 1102
+FTLN 1103
+FTLN 1104
+FTLN 1105
+195
+FTLN 1106
+FTLN 1107
+FTLN 1108
+FTLN 1109
+FTLN 1110
+200
+FTLN 1111
+
+--- PAGE 48 / 105 ---
+91
+King John
+ACT 3. SC. 1
+QUEEN ELEANOR
+CONSTANCE
+AUSTRIA
+BASTARD
+AUSTRIA
+BASTARD
+KING JOHN
+CONSTANCE
+DAUPHIN
+BLANCHE
+CONSTANCE
+BLANCHE
+CONSTANCE
+ 
+ Look’st thou pale, France? Do not let go thy hand.
+ 
+ Look to that, devil, lest that France repent
+ And by disjoining hands, hell lose a soul.
+ 
+ King Philip, listen to the Cardinal.
+ 
+ And hang a calfskin on his recreant limbs.
+ 
+ Well, ruffian, I must pocket up these wrongs,
+ Because—
+  
+ Your breeches best may carry them.
+ 
+ Philip, what sayst thou to the Cardinal?
+ 
+ What should he say, but as the Cardinal?
+ 
+ Bethink you, father, for the difference
+ Is purchase of a heavy curse from Rome,
+ Or the light loss of England for a friend.
+ Forgo the easier.
+  
+ That’s the curse of Rome.
+ 
+ O Louis, stand fast! The devil tempts thee here
+ In likeness of a new untrimmèd bride.
+ 
+ The Lady Constance speaks not from her faith,
+ But from her need.
+, to King Philip
+ 
+ O, if thou grant my need,
+ Which only lives but by the death of faith,
+ That need must needs infer this principle:
+ That faith would live again by death of need.
+ O, then tread down my need, and faith mounts up;
+ Keep my need up, and faith is trodden down.
+FTLN 1112
+FTLN 1113
+FTLN 1114
+FTLN 1115
+205
+FTLN 1116
+FTLN 1117
+FTLN 1118
+FTLN 1119
+FTLN 1120
+210
+FTLN 1121
+FTLN 1122
+FTLN 1123
+FTLN 1124
+FTLN 1125
+215
+FTLN 1126
+FTLN 1127
+FTLN 1128
+FTLN 1129
+FTLN 1130
+220
+FTLN 1131
+FTLN 1132
+FTLN 1133
+FTLN 1134
+FTLN 1135
+225
+FTLN 1136
+
+--- PAGE 49 / 105 ---
+93
+King John
+ACT 3. SC. 1
+KING JOHN
+CONSTANCE
+AUSTRIA
+BASTARD
+KING PHILIP
+PANDULPH
+KING PHILIP
+ 
+ The King is moved, and answers not to this.
+, to King Philip
+ 
+ O, be removed from him, and answer well!
+ 
+ Do so, King Philip. Hang no more in doubt.
+ 
+ Hang nothing but a calfskin, most sweet lout.
+ 
+ I am perplexed and know not what to say.
+ 
+ What canst thou say but will perplex thee more,
+ If thou stand excommunicate and cursed?
+ 
+ Good reverend father, make my person yours,
+ And tell me how you would bestow yourself.
+ This royal hand and mine are newly knit,
+ And the conjunction of our inward souls
+ Married, in league, coupled, and linked together
+ With all religious strength of sacred vows.
+ The latest breath that gave the sound of words
+ Was deep-sworn faith, peace, amity, true love
+ Between our kingdoms and our royal selves;
+ And even before this truce, but new before,
+ No longer than we well could wash our hands
+ To clap this royal bargain up of peace,
+ God  knows they were besmeared and overstained
+ With slaughter’s pencil, where revenge did paint
+ The fearful difference of incensèd kings.
+ And shall these hands, so lately purged of blood,
+ So newly joined in love, so strong in both,
+ Unyoke this seizure and this kind regreet?
+ Play fast and loose with faith? So jest with heaven?
+ Make such unconstant children of ourselves
+ As now again to snatch our palm from palm,
+FTLN 1137
+FTLN 1138
+FTLN 1139
+FTLN 1140
+230
+FTLN 1141
+FTLN 1142
+FTLN 1143
+FTLN 1144
+FTLN 1145
+235
+FTLN 1146
+FTLN 1147
+FTLN 1148
+FTLN 1149
+FTLN 1150
+240
+FTLN 1151
+FTLN 1152
+FTLN 1153
+FTLN 1154
+FTLN 1155
+245
+FTLN 1156
+FTLN 1157
+FTLN 1158
+FTLN 1159
+FTLN 1160
+250
+FTLN 1161
+FTLN 1162
+FTLN 1163
+FTLN 1164
+
+--- PAGE 50 / 105 ---
+95
+King John
+ACT 3. SC. 1
+PANDULPH
+KING PHILIP
+PANDULPH
+ Unswear faith sworn, and on the marriage bed
+ Of smiling peace to march a bloody host
+ And make a riot on the gentle brow
+ Of true sincerity? O holy sir,
+ My reverend father, let it not be so!
+ Out of your grace, devise, ordain, impose
+ Some gentle order, and then we shall be blest
+ To do your pleasure and continue friends.
+ 
+ All form is formless, order orderless,
+ Save what is opposite to England’s love.
+ Therefore to arms! Be champion of our Church,
+ Or let the Church, our mother, breathe her curse,
+ A mother’s curse, on her revolting son.
+ France, thou mayst hold a serpent by the tongue,
+ A chafèd  lion by the mortal paw,
+ A fasting tiger safer by the tooth,
+ Than keep in peace that hand which thou dost hold.
+ 
+ I may disjoin my hand, but not my faith.
+ 
+ So mak’st thou faith an enemy to faith,
+ And like a civil war sett’st oath to oath,
+ Thy tongue against thy tongue. O, let thy vow
+ First made to God,  first be to God  performed,
+ That is, to be the champion of our Church!
+ What since thou swor’st is sworn against thyself
+ And may not be performèd by thyself,
+ For that which thou hast sworn to do amiss
+ Is not amiss when it is truly done;
+ And being not done where doing tends to ill,
+ The truth is then most done not doing it.
+ The better act of purposes mistook
+ Is to mistake again; though indirect,
+ Yet indirection thereby grows direct,
+FTLN 1165
+255
+FTLN 1166
+FTLN 1167
+FTLN 1168
+FTLN 1169
+FTLN 1170
+260
+FTLN 1171
+FTLN 1172
+FTLN 1173
+FTLN 1174
+FTLN 1175
+265
+FTLN 1176
+FTLN 1177
+FTLN 1178
+FTLN 1179
+FTLN 1180
+270
+FTLN 1181
+FTLN 1182
+FTLN 1183
+FTLN 1184
+FTLN 1185
+275
+FTLN 1186
+FTLN 1187
+FTLN 1188
+FTLN 1189
+FTLN 1190
+280
+FTLN 1191
+FTLN 1192
+FTLN 1193
+FTLN 1194
+FTLN 1195
+285
+FTLN 1196
+
+--- PAGE 51 / 105 ---
+97
+King John
+ACT 3. SC. 1
+AUSTRIA
+BASTARD
+DAUPHIN
+BLANCHE
+She kneels.
+ And falsehood falsehood cures, as fire cools fire
+ Within the scorchèd veins of one new-burned.
+ It is religion that doth make vows kept,
+ But thou hast sworn against religion
+ By what thou swear’st against the thing thou
+ swear’st,
+ And mak’st an oath the surety for thy truth
+ Against an oath. The truth thou art unsure
+ To swear swears only not to be forsworn,
+ Else what a mockery should it be to swear?
+ But thou dost swear only to be forsworn,
+ And most forsworn to keep what thou dost swear.
+ Therefore thy later vows against thy first
+ Is in thyself rebellion to thyself.
+ And better conquest never canst thou make
+ Than arm thy constant and thy nobler parts
+ Against these giddy loose suggestions,
+ Upon which better part our prayers come in,
+ If thou vouchsafe them. But if not, then know
+ The peril of our curses light on thee
+ So heavy as thou shalt not shake them off,
+ But in despair die under their black weight.
+ 
+ Rebellion, flat rebellion!
+  
+ Will ’t not be?
+ Will not a calfskin stop that mouth of thine?
+ 
+ Father, to arms!
+  
+ Upon thy wedding day?
+ Against the blood that thou hast marrièd?
+ What, shall our feast be kept with slaughtered men?
+ Shall braying trumpets and loud churlish drums,
+ Clamors of hell, be measures to our pomp?
+ O husband, hear me! Ay, alack, how new
+ Is “husband” in my mouth! Even for that name,
+FTLN 1197
+FTLN 1198
+FTLN 1199
+FTLN 1200
+290
+FTLN 1201
+FTLN 1202
+FTLN 1203
+FTLN 1204
+FTLN 1205
+295
+FTLN 1206
+FTLN 1207
+FTLN 1208
+FTLN 1209
+FTLN 1210
+300
+FTLN 1211
+FTLN 1212
+FTLN 1213
+FTLN 1214
+FTLN 1215
+305
+FTLN 1216
+FTLN 1217
+FTLN 1218
+FTLN 1219
+FTLN 1220
+310
+FTLN 1221
+FTLN 1222
+FTLN 1223
+FTLN 1224
+FTLN 1225
+315
+FTLN 1226
+FTLN 1227
+FTLN 1228
+FTLN 1229
+
+--- PAGE 52 / 105 ---
+99
+King John
+ACT 3. SC. 1
+CONSTANCE
+BLANCHE
+CONSTANCE
+DAUPHIN
+PANDULPH
+KING PHILIP
+CONSTANCE
+QUEEN ELEANOR
+KING JOHN
+BASTARD
+BLANCHE
+ Which till this time my tongue did ne’er pronounce,
+ Upon my knee I beg, go not to arms
+ Against mine uncle.
+, kneeling
+ 
+ O, upon my knee
+ Made hard with kneeling, I do pray to thee,
+ Thou virtuous Dauphin, alter not the doom
+ Forethought by heaven!
+, to Dauphin
+ 
+ Now shall I see thy love. What motive may
+ Be stronger with thee than the name of wife?
+ 
+ That which upholdeth him that thee upholds,
+ His honor.—O, thine honor, Louis, thine honor!
+, to King Philip
+ 
+ I muse your Majesty doth seem so cold,
+ When such profound respects do pull you on.
+ 
+ I will denounce a curse upon his head.
+, dropping King John’s hand
+ 
+ Thou shalt not need.—England, I will fall from
+ thee.
+, rising
+ 
+ O, fair return of banished majesty!
+ 
+ O, foul revolt of French inconstancy!
+ 
+ France, thou shalt rue this hour within this hour.
+ 
+ Old Time the clock-setter, that bald sexton Time,
+ Is it as he will? Well, then, France shall rue.
+, rising
+ 
+ The sun’s o’ercast with blood. Fair day, adieu.
+ Which is the side that I must go withal?
+ I am with both, each army hath a hand,
+FTLN 1230
+320
+FTLN 1231
+FTLN 1232
+FTLN 1233
+FTLN 1234
+FTLN 1235
+325
+FTLN 1236
+FTLN 1237
+FTLN 1238
+FTLN 1239
+FTLN 1240
+330
+FTLN 1241
+FTLN 1242
+FTLN 1243
+FTLN 1244
+FTLN 1245
+335
+FTLN 1246
+FTLN 1247
+FTLN 1248
+FTLN 1249
+FTLN 1250
+340
+FTLN 1251
+FTLN 1252
+FTLN 1253
+
+--- PAGE 53 / 105 ---
+101
+King John
+ACT 3. SC. 2
+DAUPHIN
+BLANCHE
+KING JOHN
+Bastard exits.
+KING PHILIP
+KING JOHN
+They exit.
+BASTARD
+ And in their rage, I having hold of both,
+ They whirl asunder and dismember me.
+ Husband, I cannot pray that thou mayst win.—
+ Uncle, I needs must pray that thou mayst lose.—
+ Father, I may not wish the fortune thine.—
+ Grandam, I will not wish thy wishes thrive.
+ Whoever wins, on that side shall I lose.
+ Assurèd loss before the match be played.
+ 
+ Lady, with me, with me thy fortune lies.
+ 
+ There where my fortune lives, there my life dies.
+, to Bastard
+ 
+ Cousin, go draw our puissance together.
+ France, I am burned up with inflaming wrath,
+ A rage whose heat hath this condition,
+ That nothing can allay, nothing but blood—
+ The blood, and dearest-valued blood, of France.
+ 
+ Thy rage shall burn thee up, and thou shalt turn
+ To ashes ere our blood shall quench that fire.
+ Look to thyself. Thou art in jeopardy.
+ 
+ No more than he that threats.—To arms let’s hie!
+Alarums, excursions.
+Enter Bastard with Austria’s head.
+ 
+ Now, by my life, this day grows wondrous hot.
+ Some airy devil hovers in the sky
+ And pours down mischief. Austria’s head lie there,
+ While Philip breathes.
+FTLN 1254
+FTLN 1255
+345
+FTLN 1256
+FTLN 1257
+FTLN 1258
+FTLN 1259
+FTLN 1260
+350
+FTLN 1261
+FTLN 1262
+FTLN 1263
+FTLN 1264
+FTLN 1265
+355
+FTLN 1266
+FTLN 1267
+FTLN 1268
+FTLN 1269
+FTLN 1270
+360
+FTLN 1271
+FTLN 1272
+Scene 2
+FTLN 1273
+FTLN 1274
+FTLN 1275
+FTLN 1276
+
+--- PAGE 54 / 105 ---
+103
+King John
+ACT 3. SC. 3
+KING JOHN
+BASTARD
+They  exit.
+KING JOHN
+ARTHUR
+KING JOHN
+BASTARD
+Enter King  John, Arthur, Hubert.
+ 
+ Hubert, keep this boy.—Philip, make up.
+ My mother is assailèd in our tent
+ And ta’en, I fear.
+  
+ My lord, I rescued her.
+ Her Highness is in safety, fear you not.
+ But on, my liege, for very little pains
+ Will bring this labor to an happy end.
+Alarums, excursions, retreat.
+Enter King  John, Queen  Eleanor, Arthur, Bastard,
+Hubert, Lords.
+, to Queen Eleanor
+ 
+ So shall it be. Your Grace shall stay behind
+ So strongly guarded.  To Arthur.  Cousin, look not sad.
+ Thy grandam loves thee, and thy uncle will
+ As dear be to thee as thy father was.
+ 
+ O, this will make my mother die with grief!
+, to Bastard
+ 
+ Cousin, away for England! Haste before,
+ And ere our coining see thou shake the bags
+ Of hoarding abbots; imprisoned angels
+ Set at liberty. The fat ribs of peace
+ Must by the hungry now be fed upon.
+ Use our commission in his utmost force.
+ 
+ Bell, book, and candle shall not drive me back
+ When gold and silver becks me to come on.
+ I leave your Highness.—Grandam, I will pray,
+FTLN 1277
+5
+FTLN 1278
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+10
+FTLN 1283
+Scene 3
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+FTLN 1288
+5
+FTLN 1289
+FTLN 1290
+FTLN 1291
+FTLN 1292
+FTLN 1293
+10
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+
+--- PAGE 55 / 105 ---
+105
+King John
+ACT 3. SC. 3
+QUEEN ELEANOR
+KING JOHN
+Bastard exits.
+QUEEN ELEANOR
+They walk aside.
+KING JOHN
+He takes Hubert aside.
+HUBERT
+KING JOHN
+ If ever I remember to be holy,
+ For your fair safety. So I kiss your hand.
+ 
+ Farewell, gentle cousin.
+  
+ Coz, farewell. 
+, to Arthur
+ 
+ Come hither, little kinsman. Hark, a word.
+ 
+ Come hither, Hubert. 
+ O, my gentle Hubert,
+ We owe thee much. Within this wall of flesh
+ There is a soul counts thee her creditor,
+ And with advantage means to pay thy love.
+ And, my good friend, thy voluntary oath
+ Lives in this bosom dearly cherishèd.
+ Give me thy hand. I had a thing to say,
+ But I will fit it with some better tune.
+ By heaven, Hubert, I am almost ashamed
+ To say what good respect I have of thee.
+ 
+ I am much bounden to your Majesty.
+ 
+ Good friend, thou hast no cause to say so yet,
+ But thou shalt have. And, creep time ne’er so slow,
+ Yet it shall come for me to do thee good.
+ I had a thing to say—but let it go.
+ The sun is in the heaven, and the proud day,
+ Attended with the pleasures of the world,
+ Is all too wanton and too full of gauds
+ To give me audience. If the midnight bell
+ Did with his iron tongue and brazen mouth
+ Sound on into the drowsy race of night;
+ If this same were a churchyard where we stand,
+ And thou possessèd with a thousand wrongs;
+FTLN 1298
+15
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+20
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+25
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+30
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+35
+FTLN 1319
+FTLN 1320
+FTLN 1321
+FTLN 1322
+FTLN 1323
+40
+FTLN 1324
+FTLN 1325
+FTLN 1326
+
+--- PAGE 56 / 105 ---
+107
+King John
+ACT 3. SC. 3
+HUBERT
+KING JOHN
+HUBERT
+KING JOHN
+HUBERT
+KING JOHN
+HUBERT
+KING JOHN
+ Or if that surly spirit, melancholy,
+ Had baked thy blood and made it heavy, thick,
+ Which else runs tickling up and down the veins,
+ Making that idiot, laughter, keep men’s eyes
+ And strain their cheeks to idle merriment,
+ A passion hateful to my purposes;
+ Or if that thou couldst see me without eyes,
+ Hear me without thine ears, and make reply
+ Without a tongue, using conceit alone,
+ Without eyes, ears, and harmful sound of words;
+ Then, in despite of brooded watchful day,
+ I would into thy bosom pour my thoughts.
+ But, ah, I will not. Yet I love thee well,
+ And by my troth I think thou lov’st me well.
+ 
+ So well that what you bid me undertake,
+ Though that my death were adjunct to my act,
+ By heaven, I would do it.
+  Do not I know thou wouldst?
+ Good Hubert, Hubert, Hubert, throw thine eye
+ On yon young boy. I’ll tell thee what, my friend,
+ He is a very serpent in my way,
+ And wheresoe’er this foot of mine doth tread,
+ He lies before me. Dost thou understand me?
+ Thou art his keeper.
+  
+ And I’ll keep him so
+ That he shall not offend your Majesty.
+ 
+ Death.
+   My lord?
+  
+ A grave.
+  
+ He shall not live.
+  Enough.
+ I could be merry now. Hubert, I love thee.
+ Well, I’ll not say what I intend for thee.
+FTLN 1327
+FTLN 1328
+45
+FTLN 1329
+FTLN 1330
+FTLN 1331
+FTLN 1332
+FTLN 1333
+50
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+55
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+60
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+65
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+70
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+FTLN 1358
+75
+FTLN 1359
+
+--- PAGE 57 / 105 ---
+109
+King John
+ACT 3. SC. 4
+QUEEN ELEANOR
+KING JOHN
+They exit.
+KING PHILIP
+PANDULPH
+KING PHILIP
+DAUPHIN
+KING PHILIP
+ Remember.  He turns to Queen Eleanor.  Madam, fare
+ you well.
+ I’ll send those powers o’er to your Majesty.
+  My blessing go with thee.
+, to Arthur
+  For England, cousin, go.
+ Hubert shall be your man, attend on you
+ With all true duty.—On toward Calais, ho!
+Enter King Philip of  France, Louis the  Dauphin,
+Pandulph, Attendants.
+ 
+ So, by a roaring tempest on the flood,
+ A whole armada of convicted sail
+ Is scattered and disjoined from fellowship.
+ 
+ Courage and comfort. All shall yet go well.
+ 
+ What can go well when we have run so ill?
+ Are we not beaten? Is not Angiers lost?
+ Arthur ta’en prisoner? Divers dear friends slain?
+ And bloody England into England gone,
+ O’erbearing interruption, spite of France?
+ 
+ What he hath won, that hath he fortified.
+ So hot a speed, with such advice disposed,
+ Such temperate order in so fierce a cause,
+ Doth want example. Who hath read or heard
+ Of any kindred action like to this?
+ 
+ Well could I bear that England had this praise,
+ So we could find some pattern of our shame.
+Enter Constance, with her hair unbound.
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+80
+FTLN 1364
+FTLN 1365
+FTLN 1366
+Scene 4
+FTLN 1367
+FTLN 1368
+FTLN 1369
+FTLN 1370
+FTLN 1371
+5
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+FTLN 1376
+10
+FTLN 1377
+FTLN 1378
+FTLN 1379
+FTLN 1380
+FTLN 1381
+15
+FTLN 1382
+
+--- PAGE 58 / 105 ---
+111
+King John
+ACT 3. SC. 4
+CONSTANCE
+KING PHILIP
+CONSTANCE
+KING PHILIP
+CONSTANCE
+PANDULPH
+CONSTANCE
+ Look who comes here! A grave unto a soul,
+ Holding th’ eternal spirit against her will
+ In the vile prison of afflicted breath.—
+ I prithee, lady, go away with me.
+ 
+ Lo, now, now see the issue of your peace!
+ 
+ Patience, good lady. Comfort, gentle Constance.
+ 
+ No, I defy all counsel, all redress,
+ But that which ends all counsel, true redress.
+ Death, death, O amiable, lovely death,
+ Thou odoriferous stench, sound rottenness,
+ Arise forth from the couch of lasting night,
+ Thou hate and terror to prosperity,
+ And I will kiss thy detestable bones
+ And put my eyeballs in thy vaulty brows,
+ And ring these fingers with thy household worms,
+ And stop this gap of breath with fulsome dust,
+ And be a carrion monster like thyself.
+ Come, grin on me, and I will think thou smil’st,
+ And buss thee as thy wife. Misery’s love,
+ O, come to me!
+  
+ O fair affliction, peace!
+ 
+ No, no, I will not, having breath to cry.
+ O, that my tongue were in the thunder’s mouth!
+ Then with a passion would I shake the world
+ And rouse from sleep that fell anatomy
+ Which cannot hear a lady’s feeble voice,
+ Which scorns a modern invocation.
+ 
+ Lady, you utter madness and not sorrow.
+ 
+ Thou art not  holy to belie me so.
+ I am not mad. This hair I tear is mine;
+FTLN 1383
+FTLN 1384
+FTLN 1385
+FTLN 1386
+20
+FTLN 1387
+FTLN 1388
+FTLN 1389
+FTLN 1390
+FTLN 1391
+25
+FTLN 1392
+FTLN 1393
+FTLN 1394
+FTLN 1395
+FTLN 1396
+30
+FTLN 1397
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+35
+FTLN 1402
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+40
+FTLN 1407
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+45
+FTLN 1412
+
+--- PAGE 59 / 105 ---
+113
+King John
+ACT 3. SC. 4
+KING PHILIP
+CONSTANCE
+KING PHILIP
+CONSTANCE
+She binds up her hair.
+ My name is Constance; I was Geoffrey’s wife;
+ Young Arthur is my son, and he is lost.
+ I am not mad; I would to heaven I were,
+ For then ’tis like I should forget myself.
+ O, if I could, what grief should I forget!
+ Preach some philosophy to make me mad,
+ And thou shalt be canonized, cardinal.
+ For, being not mad but sensible of grief,
+ My reasonable part produces reason
+ How I may be delivered of these woes,
+ And teaches me to kill or hang myself.
+ If I were mad, I should forget my son,
+ Or madly think a babe of clouts were he.
+ I am not mad. Too well, too well I feel
+ The different plague of each calamity.
+ 
+ Bind up those tresses.—O, what love I note
+ In the fair multitude of those her hairs;
+ Where but by chance a silver drop hath fall’n,
+ Even to that drop ten thousand wiry friends
+ Do glue themselves in sociable grief,
+ Like true, inseparable, faithful loves,
+ Sticking together in calamity.
+ 
+ To England, if you will.
+  
+ Bind up your hairs.
+ 
+ Yes, that I will. And wherefore will I do it?
+ I tore them from their bonds and cried aloud
+ “O, that these hands could so redeem my son,
+ As they have given these hairs their liberty!”
+ But now I envy at their liberty,
+ And will again commit them to their bonds,
+ Because my poor child is a prisoner.
+FTLN 1413
+FTLN 1414
+FTLN 1415
+FTLN 1416
+50
+FTLN 1417
+FTLN 1418
+FTLN 1419
+FTLN 1420
+FTLN 1421
+55
+FTLN 1422
+FTLN 1423
+FTLN 1424
+FTLN 1425
+FTLN 1426
+60
+FTLN 1427
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+65
+FTLN 1432
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+70
+FTLN 1437
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+75
+FTLN 1442
+FTLN 1443
+
+--- PAGE 60 / 105 ---
+115
+King John
+ACT 3. SC. 4
+PANDULPH
+CONSTANCE
+KING PHILIP
+CONSTANCE
+She unbinds her hair.
+She exits.
+ And father cardinal, I have heard you say
+ That we shall see and know our friends in heaven.
+ If that be true, I shall see my boy again;
+ For since the birth of Cain, the first male child,
+ To him that did but yesterday suspire,
+ There was not such a gracious creature born.
+ But now will canker sorrow eat my bud
+ And chase the native beauty from his cheek,
+ And he will look as hollow as a ghost,
+ As dim and meager as an ague’s fit,
+ And so he’ll die; and, rising so again,
+ When I shall meet him in the court of heaven
+ I shall not know him. Therefore never, never
+ Must I behold my pretty Arthur more.
+ 
+ You hold too heinous a respect of grief.
+ 
+ He talks to me that never had a son.
+ 
+ You are as fond of grief as of your child.
+ 
+ Grief fills the room up of my absent child,
+ Lies in his bed, walks up and down with me,
+ Puts on his pretty looks, repeats his words,
+ Remembers me of all his gracious parts,
+ Stuffs out his vacant garments with his form;
+ Then, have I reason to be fond of grief?
+ Fare you well. Had you such a loss as I,
+ I could give better comfort than you do.
+ I will not keep this form upon my head
+ When there is such disorder in my wit.
+ O Lord! My boy, my Arthur, my fair son,
+ My life, my joy, my food, my all the world,
+ My widow-comfort and my sorrows’ cure! 
+FTLN 1444
+FTLN 1445
+FTLN 1446
+80
+FTLN 1447
+FTLN 1448
+FTLN 1449
+FTLN 1450
+FTLN 1451
+85
+FTLN 1452
+FTLN 1453
+FTLN 1454
+FTLN 1455
+FTLN 1456
+90
+FTLN 1457
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+95
+FTLN 1462
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+100
+FTLN 1467
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+105
+FTLN 1472
+FTLN 1473
+
+--- PAGE 61 / 105 ---
+117
+King John
+ACT 3. SC. 4
+KING PHILIP
+He exits, with Attendants.
+DAUPHIN
+PANDULPH
+DAUPHIN
+PANDULPH
+DAUPHIN
+PANDULPH
+ 
+ I fear some outrage, and I’ll follow her.
+ 
+ There’s nothing in this world can make me joy.
+ Life is as tedious as a twice-told tale,
+ Vexing the dull ear of a drowsy man;
+ And bitter shame hath spoiled the sweet world’s
+ taste,
+ That it yields naught but shame and bitterness.
+ 
+ Before the curing of a strong disease,
+ Even in the instant of repair and health,
+ The fit is strongest. Evils that take leave
+ On their departure most of all show evil.
+ What have you lost by losing of this day?
+ 
+ All days of glory, joy, and happiness.
+ 
+ If you had won it, certainly you had.
+ No, no. When Fortune means to men most good,
+ She looks upon them with a threat’ning eye.
+ ’Tis strange to think how much King John hath lost
+ In this which he accounts so clearly won.
+ Are not you grieved that Arthur is his prisoner?
+ 
+ As heartily as he is glad he hath him.
+ 
+ Your mind is all as youthful as your blood.
+ Now hear me speak with a prophetic spirit.
+ For even the breath of what I mean to speak
+ Shall blow each dust, each straw, each little rub,
+ Out of the path which shall directly lead
+ Thy foot to England’s throne. And therefore mark:
+ John hath seized Arthur, and it cannot be
+ That, whiles warm life plays in that infant’s veins,
+FTLN 1474
+FTLN 1475
+FTLN 1476
+110
+FTLN 1477
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+115
+FTLN 1482
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+120
+FTLN 1487
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+125
+FTLN 1492
+FTLN 1493
+FTLN 1494
+FTLN 1495
+FTLN 1496
+130
+FTLN 1497
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+135
+
+--- PAGE 62 / 105 ---
+119
+King John
+ACT 3. SC. 4
+DAUPHIN
+PANDULPH
+DAUPHIN
+PANDULPH
+DAUPHIN
+PANDULPH
+ The misplaced John should entertain an hour,
+ One minute, nay, one quiet breath of rest.
+ A scepter snatched with an unruly hand
+ Must be as boisterously maintained as gained.
+ And he that stands upon a slipp’ry place
+ Makes nice of no vile hold to stay him up.
+ That John may stand, then Arthur needs must fall.
+ So be it, for it cannot be but so.
+ 
+ But what shall I gain by young Arthur’s fall?
+ 
+ You, in the right of Lady Blanche your wife,
+ May then make all the claim that Arthur did.
+ 
+ And lose it, life and all, as Arthur did.
+ 
+ How green you are and fresh in this old world!
+ John lays you plots. The times conspire with you,
+ For he that steeps his safety in true blood
+ Shall find but bloody safety, and untrue.
+ This act so evilly borne shall cool the hearts
+ Of all his people and freeze up their zeal,
+ That none so small advantage shall step forth
+ To check his reign but they will cherish it.
+ No natural exhalation in the sky,
+ No scope of nature, no distempered day,
+ No common wind, no customèd event,
+ But they will pluck away his natural cause
+ And call them meteors, prodigies, and signs,
+ Abortives, presages, and tongues of heaven,
+ Plainly denouncing vengeance upon John.
+ 
+ Maybe he will not touch young Arthur’s life,
+ But hold himself safe in his prisonment.
+ 
+ O, sir, when he shall hear of your approach,
+FTLN 1502
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+140
+FTLN 1507
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+145
+FTLN 1512
+FTLN 1513
+FTLN 1514
+FTLN 1515
+FTLN 1516
+150
+FTLN 1517
+FTLN 1518
+FTLN 1519
+FTLN 1520
+FTLN 1521
+155
+FTLN 1522
+FTLN 1523
+FTLN 1524
+FTLN 1525
+FTLN 1526
+160
+FTLN 1527
+FTLN 1528
+FTLN 1529
+FTLN 1530
+FTLN 1531
+165
+
+--- PAGE 63 / 105 ---
+121
+King John
+ACT 3. SC. 4
+DAUPHIN
+They exit.
+ If that young Arthur be not gone already,
+ Even at that news he dies; and then the hearts
+ Of all his people shall revolt from him
+ And kiss the lips of unacquainted change,
+ And pick strong matter of revolt and wrath
+ Out of the bloody fingers’ ends of John.
+ Methinks I see this hurly all on foot;
+ And, O, what better matter breeds for you
+ Than I have named! The bastard Faulconbridge
+ Is now in England ransacking the Church,
+ Offending charity. If but a dozen French
+ Were there in arms, they would be as a call
+ To train ten thousand English to their side,
+ Or as a little snow, tumbled about,
+ Anon becomes a mountain. O noble dauphin,
+ Go with me to the King. ’Tis wonderful
+ What may be wrought out of their discontent,
+ Now that their souls are topful of offense.
+ For England, go. I will whet on the King.
+ 
+ Strong reasons makes strange actions. Let us go.
+ If you say ay, the King will not say no.
+FTLN 1532
+FTLN 1533
+FTLN 1534
+FTLN 1535
+FTLN 1536
+170
+FTLN 1537
+FTLN 1538
+FTLN 1539
+FTLN 1540
+FTLN 1541
+175
+FTLN 1542
+FTLN 1543
+FTLN 1544
+FTLN 1545
+FTLN 1546
+180
+FTLN 1547
+FTLN 1548
+FTLN 1549
+FTLN 1550
+FTLN 1551
+185
+FTLN 1552
+
+--- PAGE 64 / 105 ---
+HUBERT
+EXECUTIONER
+HUBERT
+Executioners exit.
+ARTHUR
+HUBERT
+ARTHUR
+HUBERT
+ARTHUR
+Enter Hubert and Executioners, with irons and rope.
+ 
+ Heat me these irons hot, and look thou stand
+ Within the arras. When I strike my foot
+ Upon the bosom of the ground, rush forth
+ And bind the boy which you shall find with me
+ Fast to the chair. Be heedful. Hence, and watch.
+ 
+ I hope your warrant will bear out the deed.
+ 
+ Uncleanly scruples fear not you. Look to ’t.
+ Young lad, come forth. I have to say with you.
+Enter Arthur.
+ 
+ Good morrow, Hubert.
+  
+ Good morrow, little prince.
+ 
+ As little prince, having so great a title
+ To be more prince, as may be. You are sad.
+ 
+ Indeed, I have been merrier.
+  
+ Mercy on me!
+125
+ACT 4
+Scene 1
+FTLN 1553
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+5
+FTLN 1558
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+10
+FTLN 1563
+FTLN 1564
+FTLN 1565
+FTLN 1566
+
+--- PAGE 65 / 105 ---
+127
+King John
+ACT 4. SC. 1
+HUBERT
+ARTHUR
+HUBERT
+He shows Arthur a paper.
+ARTHUR
+HUBERT
+ Methinks nobody should be sad but I.
+ Yet I remember, when I was in France,
+ Young gentlemen would be as sad as night
+ Only for wantonness. By my christendom,
+ So I were out of prison and kept sheep,
+ I should be as merry as the day is long.
+ And so I would be here but that I doubt
+ My uncle practices more harm to me.
+ He is afraid of me, and I of him.
+ Is it my fault that I was Geoffrey’s son?
+ No, indeed, is ’t not. And I would to heaven
+ I were your son, so you would love me, Hubert.
+, aside
+ 
+ If I talk to him, with his innocent prate
+ He will awake my mercy, which lies dead.
+ Therefore I will be sudden and dispatch.
+ 
+ Are you sick, Hubert? You look pale today.
+ In sooth, I would you were a little sick
+ That I might sit all night and watch with you.
+ I warrant I love you more than you do me.
+, aside
+ 
+ His words do take possession of my bosom.
+ Read here, young Arthur.  ( Aside. ) How now,
+ foolish rheum?
+ Turning dispiteous torture out of door?
+ I must be brief lest resolution drop
+ Out at mine eyes in tender womanish tears.—
+ Can you not read it? Is it not fair writ?
+ 
+ Too fairly, Hubert, for so foul effect.
+ Must you with hot irons burn out both mine eyes?
+ 
+ Young boy, I must.
+FTLN 1567
+15
+FTLN 1568
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+20
+FTLN 1573
+FTLN 1574
+FTLN 1575
+FTLN 1576
+FTLN 1577
+25
+FTLN 1578
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+30
+FTLN 1583
+FTLN 1584
+FTLN 1585
+FTLN 1586
+FTLN 1587
+35
+FTLN 1588
+FTLN 1589
+FTLN 1590
+FTLN 1591
+FTLN 1592
+40
+FTLN 1593
+FTLN 1594
+FTLN 1595
+
+--- PAGE 66 / 105 ---
+129
+King John
+ACT 4. SC. 1
+ARTHUR
+HUBERT
+ARTHUR
+HUBERT
+ARTHUR
+  
+ And will you?
+  
+ And I will.
+ 
+ Have you the heart? When your head did but ache,
+ I knit my handkercher about your brows—
+ The best I had, a princess wrought it me—
+ And I did never ask it you again;
+ And with my hand at midnight held your head,
+ And like the watchful minutes to the hour
+ Still and anon cheered up the heavy time,
+ Saying “What lack you?” and “Where lies your
+ grief?”
+ Or “What good love may I perform for you?”
+ Many a poor man’s son would have lien still
+ And ne’er have spoke a loving word to you;
+ But you at your sick service had a prince.
+ Nay, you may think my love was crafty love,
+ And call it cunning. Do, an if you will.
+ If heaven be pleased that you must use me ill,
+ Why then you must. Will you put out mine eyes—
+ These eyes that never did nor never shall
+ So much as frown on you?
+  
+ I have sworn to do it.
+ And with hot irons must I burn them out.
+ 
+ Ah, none but in this Iron Age would do it.
+ The iron of itself, though heat red-hot,
+ Approaching near these eyes, would drink my tears
+ And quench this fiery indignation
+ Even in the matter of mine innocence;
+ Nay, after that, consume away in rust
+ But for containing fire to harm mine eye.
+ Are you more stubborn-hard than hammered iron?
+ An if an angel should have come to me
+ And told me Hubert should put out mine eyes,
+FTLN 1596
+FTLN 1597
+45
+FTLN 1598
+FTLN 1599
+FTLN 1600
+FTLN 1601
+FTLN 1602
+50
+FTLN 1603
+FTLN 1604
+FTLN 1605
+FTLN 1606
+FTLN 1607
+55
+FTLN 1608
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+60
+FTLN 1613
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+65
+FTLN 1618
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+70
+FTLN 1623
+FTLN 1624
+FTLN 1625
+FTLN 1626
+FTLN 1627
+75
+FTLN 1628
+
+--- PAGE 67 / 105 ---
+131
+King John
+ACT 4. SC. 1
+HUBERT
+ARTHUR
+HUBERT
+He takes the iron.
+ARTHUR
+HUBERT
+EXECUTIONER
+Executioners exit.
+ARTHUR
+HUBERT
+ARTHUR
+ I would not have believed him. No tongue but
+ Hubert’s.
+ stamps his foot and calls
+  Come forth.
+Enter Executioners with ropes, a heated iron, and a
+brazier of burning coals.
+ Do as I bid you do.
+ 
+ O, save me, Hubert, save me! My eyes are out
+ Even with the fierce looks of these bloody men.
+ 
+ Give me the iron, I say, and bind him here.
+ 
+ Alas, what need you be so boist’rous-rough?
+ I will not struggle; I will stand stone-still.
+ For God’s  sake, Hubert, let me not be bound!
+ Nay, hear me, Hubert! Drive these men away,
+ And I will sit as quiet as a lamb.
+ I will not stir nor wince nor speak a word
+ Nor look upon the iron angerly.
+ Thrust but these men away, and I’ll forgive you,
+ Whatever torment you do put me to.
+, to Executioners
+ 
+ Go stand within. Let me alone with him.
+ 
+ I am best pleased to be from such a deed.
+ 
+ Alas, I then have chid away my friend!
+ He hath a stern look but a gentle heart.
+ Let him come back, that his compassion may
+ Give life to yours.
+  
+ Come, boy, prepare yourself.
+ 
+ Is there no remedy?
+FTLN 1629
+FTLN 1630
+FTLN 1631
+FTLN 1632
+80
+FTLN 1633
+FTLN 1634
+FTLN 1635
+FTLN 1636
+FTLN 1637
+85
+FTLN 1638
+FTLN 1639
+FTLN 1640
+FTLN 1641
+FTLN 1642
+90
+FTLN 1643
+FTLN 1644
+FTLN 1645
+FTLN 1646
+FTLN 1647
+95
+FTLN 1648
+FTLN 1649
+FTLN 1650
+FTLN 1651
+FTLN 1652
+100
+
+--- PAGE 68 / 105 ---
+133
+King John
+ACT 4. SC. 1
+HUBERT
+ARTHUR
+HUBERT
+ARTHUR
+He seizes the iron.
+HUBERT
+ARTHUR
+HUBERT
+ARTHUR
+  
+ None but to lose your eyes.
+ 
+ O God,  that there were but a mote in yours,
+ A grain, a dust, a gnat, a wandering hair,
+ Any annoyance in that precious sense.
+ Then, feeling what small things are boisterous
+ there,
+ Your vile intent must needs seem horrible.
+ 
+ Is this your promise? Go to, hold your tongue.
+ 
+ Hubert, the utterance of a brace of tongues
+ Must needs want pleading for a pair of eyes.
+ Let me not hold my tongue. Let me not, Hubert,
+ Or, Hubert, if you will, cut out my tongue,
+ So I may keep mine eyes. O, spare mine eyes,
+ Though to no use but still to look on you.
+ Lo, by my troth, the instrument is cold,
+ And would not harm me.
+, taking back the iron
+ 
+ I can heat it, boy.
+ 
+ No, in good sooth. The fire is dead with grief,
+ Being create for comfort, to be used
+ In undeserved extremes. See else yourself.
+ There is no malice in this burning coal.
+ The breath of heaven hath blown his spirit out
+ And strewed repentant ashes on his head.
+ 
+ But with my breath I can revive it, boy.
+ 
+ An if you do, you will but make it blush
+ And glow with shame of your proceedings, Hubert.
+ Nay, it perchance will sparkle in your eyes,
+FTLN 1653
+FTLN 1654
+FTLN 1655
+FTLN 1656
+FTLN 1657
+105
+FTLN 1658
+FTLN 1659
+FTLN 1660
+FTLN 1661
+FTLN 1662
+110
+FTLN 1663
+FTLN 1664
+FTLN 1665
+FTLN 1666
+FTLN 1667
+115
+FTLN 1668
+FTLN 1669
+FTLN 1670
+FTLN 1671
+FTLN 1672
+120
+FTLN 1673
+FTLN 1674
+FTLN 1675
+FTLN 1676
+FTLN 1677
+125
+FTLN 1678
+FTLN 1679
+
+--- PAGE 69 / 105 ---
+135
+King John
+ACT 4. SC. 2
+HUBERT
+ARTHUR
+HUBERT
+ARTHUR
+HUBERT
+They exit.
+KING JOHN
+PEMBROKE
+ And, like a dog that is compelled to fight,
+ Snatch at his master that doth tar him on.
+ All things that you should use to do me wrong
+ Deny their office. Only you do lack
+ That mercy which fierce fire and iron extends,
+ Creatures of note for mercy-lacking uses.
+ 
+ Well, see to live. I will not touch thine eye
+ For all the treasure that thine uncle owes.
+ Yet am I sworn, and I did purpose, boy,
+ With this same very iron to burn them out.
+ 
+ O, now you look like Hubert. All this while
+ You were disguisèd.
+  
+ Peace. No more. Adieu.
+ Your uncle must not know but you are dead.
+ I’ll fill these doggèd spies with false reports.
+ And, pretty child, sleep doubtless and secure
+ That Hubert, for the wealth of all the world,
+ Will not offend thee.
+  
+ O heaven! I thank you, Hubert.
+ 
+ Silence. No more. Go closely in with me.
+ Much danger do I undergo for thee.
+Enter King  John, Pembroke, Salisbury, and other
+Lords. King John ascends the throne.
+ 
+ Here once again we sit, once again  crowned
+ And looked upon, I hope, with cheerful eyes.
+ 
+ This “once again,” but that your Highness pleased,
+FTLN 1680
+FTLN 1681
+FTLN 1682
+130
+FTLN 1683
+FTLN 1684
+FTLN 1685
+FTLN 1686
+FTLN 1687
+135
+FTLN 1688
+FTLN 1689
+FTLN 1690
+FTLN 1691
+FTLN 1692
+140
+FTLN 1693
+FTLN 1694
+FTLN 1695
+FTLN 1696
+FTLN 1697
+145
+FTLN 1698
+FTLN 1699
+FTLN 1700
+Scene 2
+FTLN 1701
+FTLN 1702
+FTLN 1703
+
+--- PAGE 70 / 105 ---
+137
+King John
+ACT 4. SC. 2
+SALISBURY
+PEMBROKE
+SALISBURY
+PEMBROKE
+ Was once superfluous. You were crowned before,
+ And that high royalty was ne’er plucked off,
+ The faiths of men ne’er stainèd with revolt;
+ Fresh expectation troubled not the land
+ With any longed-for change or better state.
+ 
+ Therefore, to be possessed with double pomp,
+ To guard a title that was rich before,
+ To gild refinèd gold, to paint the lily,
+ To throw a perfume on the violet,
+ To smooth the ice or add another hue
+ Unto the rainbow, or with taper-light
+ To seek the beauteous eye of heaven to garnish,
+ Is wasteful and ridiculous excess.
+ 
+ But that your royal pleasure must be done,
+ This act is as an ancient tale new told,
+ And, in the last repeating, troublesome,
+ Being urgèd at a time unseasonable.
+ 
+ In this the antique and well-noted face
+ Of plain old form is much disfigurèd,
+ And like a shifted wind unto a sail,
+ It makes the course of thoughts to fetch about,
+ Startles and frights consideration,
+ Makes sound opinion sick and truth suspected
+ For putting on so new a fashioned robe.
+ 
+ When workmen strive to do better than well,
+ They do confound their skill in covetousness,
+ And oftentimes excusing of a fault
+ Doth make the fault the worse by th’ excuse,
+ As patches set upon a little breach
+ Discredit more in hiding of the fault
+ Than did the fault before it was so patched.
+FTLN 1704
+FTLN 1705
+5
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+FTLN 1710
+10
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+FTLN 1715
+15
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+FTLN 1720
+20
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+FTLN 1725
+25
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+FTLN 1730
+30
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+
+--- PAGE 71 / 105 ---
+139
+King John
+ACT 4. SC. 2
+SALISBURY
+KING JOHN
+PEMBROKE
+ 
+ To this effect, before you were new-crowned,
+ We breathed our counsel; but it pleased your
+ Highness
+ To overbear it, and we are all well pleased,
+ Since all and every part of what we would
+ Doth make a stand at what your Highness will.
+ 
+ Some reasons of this double coronation
+ I have possessed you with, and think them strong;
+ And more, more strong, when  lesser is my fear,
+ I shall endue you with. Meantime, but ask
+ What you would have reformed that is not well,
+ And well shall you perceive how willingly
+ I will both hear and grant you your requests.
+ 
+ Then I, as one that am the tongue of these
+ To sound the purposes of all their hearts,
+ Both for myself and them, but chief of all
+ Your safety, for the which myself and them
+ Bend their best studies, heartily request
+ Th’ enfranchisement of Arthur, whose restraint
+ Doth move the murmuring lips of discontent
+ To break into this dangerous argument:
+ If what in rest you have in right you hold,
+ Why then your fears, which, as they say, attend
+ The steps of wrong, should move you to mew up
+ Your tender kinsman and to choke his days
+ With barbarous ignorance and deny his youth
+ The rich advantage of good exercise.
+ That the time’s enemies may not have this
+ To grace occasions, let it be our suit
+ That you have bid us ask, his liberty,
+ Which for our goods we do no further ask
+ Than whereupon our weal, on you depending,
+ Counts it your weal he have his liberty.
+FTLN 1735
+35
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+FTLN 1740
+40
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+FTLN 1745
+45
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+FTLN 1750
+50
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+FTLN 1755
+55
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+FTLN 1760
+60
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+FTLN 1765
+65
+FTLN 1766
+FTLN 1767
+
+--- PAGE 72 / 105 ---
+141
+King John
+ACT 4. SC. 2
+KING JOHN
+King John and Hubert talk aside.
+PEMBROKE
+SALISBURY
+PEMBROKE
+KING JOHN
+SALISBURY
+PEMBROKE
+KING JOHN
+ 
+ Let it be so. I do commit his youth
+ To your direction.
+Enter Hubert.
+ Hubert, what news with you?
+ 
+ This is the man should do the bloody deed.
+ He showed his warrant to a friend of mine.
+ The image of a wicked heinous fault
+ Lives in his eye. That close aspect of his
+ Doth  show the mood of a much troubled breast,
+ And I do fearfully believe ’tis done
+ What we so feared he had a charge to do.
+ 
+ The color of the King doth come and go
+ Between his purpose and his conscience,
+ Like heralds ’twixt two dreadful battles set.
+ His passion is so ripe it needs must break.
+ 
+ And when it breaks, I fear will issue thence
+ The foul corruption of a sweet child’s death.
+, coming forward with Hubert
+ 
+ We cannot hold mortality’s strong hand.—
+ Good lords, although my will to give is living,
+ The suit which you demand is gone and dead.
+ He tells us Arthur is deceased tonight.
+ 
+ Indeed, we feared his sickness was past cure.
+ 
+ Indeed, we heard how near his death he was
+ Before the child himself felt he was sick.
+ This must be answered either here or hence.
+ 
+ Why do you bend such solemn brows on me?
+FTLN 1768
+FTLN 1769
+FTLN 1770
+70
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+FTLN 1775
+75
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+FTLN 1780
+80
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+FTLN 1785
+85
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+FTLN 1790
+90
+FTLN 1791
+FTLN 1792
+
+--- PAGE 73 / 105 ---
+143
+King John
+ACT 4. SC. 2
+SALISBURY
+PEMBROKE
+Pembroke, Salisbury, and other Lords  exit.
+KING JOHN
+MESSENGER
+KING JOHN
+ Think you I bear the shears of destiny?
+ Have I commandment on the pulse of life?
+ 
+ It is apparent foul play, and ’tis shame
+ That greatness should so grossly offer it.
+ So thrive it in your game, and so farewell.
+ 
+ Stay yet, Lord Salisbury. I’ll go with thee
+ And find th’ inheritance of this poor child,
+ His little kingdom of a forcèd grave.
+ That blood which owed the breadth of all this isle,
+ Three foot of it doth hold. Bad world the while!
+ This must not be thus borne; this will break out
+ To all our sorrows, and ere long, I doubt.
+ 
+ They burn in indignation. I repent.
+ There is no sure foundation set on blood,
+ No certain life achieved by others’ death.
+Enter Messenger.
+ A fearful eye thou hast. Where is that blood
+ That I have seen inhabit in those cheeks?
+ So foul a sky clears not without a storm.
+ Pour down thy weather: how goes all in France?
+ 
+ From France to England. Never such a power
+ For any foreign preparation
+ Was levied in the body of a land.
+ The copy of your speed is learned by them,
+ For when you should be told they do prepare,
+ The tidings comes that they are all arrived.
+ 
+ O, where hath our intelligence been drunk?
+ Where hath it slept? Where is my mother’s care,
+FTLN 1793
+FTLN 1794
+FTLN 1795
+95
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+FTLN 1800
+100
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+FTLN 1805
+105
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+FTLN 1810
+110
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+FTLN 1815
+115
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+
+--- PAGE 74 / 105 ---
+145
+King John
+ACT 4. SC. 2
+MESSENGER
+KING JOHN
+MESSENGER
+KING JOHN
+BASTARD
+KING JOHN
+BASTARD
+ That such an army could be drawn in France
+ And she not hear of it?
+  
+ My liege, her ear
+ Is stopped with dust. The first of April died
+ Your noble mother. And as I hear, my lord,
+ The Lady Constance in a frenzy died
+ Three days before. But this from rumor’s tongue
+ I idly heard. If true or false, I know not.
+, aside
+ 
+ Withhold thy speed, dreadful occasion!
+ O, make a league with me till I have pleased
+ My discontented peers. What? Mother dead?
+ How wildly then walks my estate in France!—
+ Under whose conduct came those powers of France
+ That thou for truth giv’st out are landed here?
+ 
+ Under the Dauphin.
+  
+ Thou hast made me giddy
+ With these ill tidings.
+Enter Bastard and Peter of Pomfret.
+To Bastard.  
+ Now, what says the world
+ To your proceedings? Do not seek to stuff
+ My head with more ill news, for it is full.
+ 
+ But if you be afeard to hear the worst,
+ Then let the worst, unheard, fall on your head.
+ 
+ Bear with me, cousin, for I was amazed
+ Under the tide, but now I breathe again
+ Aloft the flood and can give audience
+ To any tongue, speak it of what it will.
+ 
+ How I have sped among the clergymen
+ The sums I have collected shall express.
+FTLN 1820
+120
+FTLN 1821
+FTLN 1822
+FTLN 1823
+FTLN 1824
+FTLN 1825
+125
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+FTLN 1830
+130
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+FTLN 1835
+135
+FTLN 1836
+FTLN 1837
+FTLN 1838
+FTLN 1839
+FTLN 1840
+140
+FTLN 1841
+FTLN 1842
+FTLN 1843
+FTLN 1844
+FTLN 1845
+145
+FTLN 1846
+FTLN 1847
+
+--- PAGE 75 / 105 ---
+147
+King John
+ACT 4. SC. 2
+KING JOHN
+PETER
+KING JOHN
+Hubert and Peter exit.
+BASTARD
+KING JOHN
+BASTARD
+KING JOHN
+ But as I traveled hither through the land,
+ I find the people strangely fantasied,
+ Possessed with rumors, full of idle dreams,
+ Not knowing what they fear, but full of fear.
+ And here’s a prophet that I brought with me
+ From forth the streets of Pomfret, whom I found
+ With many hundreds treading on his heels,
+ To whom he sung in rude harsh-sounding rhymes
+ That ere the next Ascension Day at noon,
+ Your Highness should deliver up your crown.
+, to Peter
+ 
+ Thou idle dreamer, wherefore didst thou so?
+ 
+ Foreknowing that the truth will fall out so.
+ 
+ Hubert, away with him! Imprison him.
+ And on that day at noon, whereon he says
+ I shall yield up my crown, let him be hanged.
+ Deliver him to safety and return,
+ For I must use thee. 
+ O my gentle cousin,
+ Hear’st thou the news abroad, who are arrived?
+ 
+ The French, my lord. Men’s mouths are full of it.
+ Besides, I met Lord Bigot and Lord Salisbury
+ With eyes as red as new-enkindled fire,
+ And others more, going to seek the grave
+ Of Arthur, whom they say is killed tonight
+ On your suggestion.
+  
+ Gentle kinsman, go
+ And thrust thyself into their companies.
+ I have a way to win their loves again.
+ Bring them before me.
+  
+ I will seek them out.
+ 
+ Nay, but make haste, the better foot before!
+FTLN 1848
+FTLN 1849
+FTLN 1850
+150
+FTLN 1851
+FTLN 1852
+FTLN 1853
+FTLN 1854
+FTLN 1855
+155
+FTLN 1856
+FTLN 1857
+FTLN 1858
+FTLN 1859
+FTLN 1860
+160
+FTLN 1861
+FTLN 1862
+FTLN 1863
+FTLN 1864
+FTLN 1865
+165
+FTLN 1866
+FTLN 1867
+FTLN 1868
+FTLN 1869
+FTLN 1870
+170
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+FTLN 1875
+175
+FTLN 1876
+FTLN 1877
+FTLN 1878
+
+--- PAGE 76 / 105 ---
+149
+King John
+ACT 4. SC. 2
+BASTARD
+He exits.
+KING JOHN
+MESSENGER
+Messenger exits.
+KING JOHN
+HUBERT
+KING JOHN
+HUBERT
+ O, let me have no subject enemies
+ When adverse foreigners affright my towns
+ With dreadful pomp of stout invasion.
+ Be Mercury, set feathers to thy heels,
+ And fly like thought from them to me again.
+ 
+ The spirit of the time shall teach me speed.
+ 
+ Spoke like a sprightful noble gentleman.
+  To Messenger.  Go after him, for he perhaps shall
+ need
+ Some messenger betwixt me and the peers,
+ And be thou he.
+  
+ With all my heart, my liege.
+  My mother dead!
+Enter Hubert.
+ 
+ My lord, they say five moons were seen tonight—
+ Four fixèd, and the fifth did whirl about
+ The other four in wondrous motion.
+ 
+ Five moons!
+  
+ Old men and beldams in the streets
+ Do prophesy upon it dangerously.
+ Young Arthur’s death is common in their mouths,
+ And when they talk of him, they shake their heads
+ And whisper one another in the ear,
+ And he that speaks doth grip the hearer’s wrist,
+ Whilst he that hears makes fearful action
+ With wrinkled brows, with nods, with rolling eyes.
+ I saw a smith stand with his hammer, thus,
+ The whilst his iron did on the anvil cool,
+FTLN 1879
+FTLN 1880
+180
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+FTLN 1885
+185
+FTLN 1886
+FTLN 1887
+FTLN 1888
+FTLN 1889
+FTLN 1890
+190
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+FTLN 1895
+195
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+FTLN 1900
+200
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+FTLN 1905
+205
+
+--- PAGE 77 / 105 ---
+151
+King John
+ACT 4. SC. 2
+KING JOHN
+HUBERT
+KING JOHN
+HUBERT
+KING JOHN
+ With open mouth swallowing a tailor’s news,
+ Who with his shears and measure in his hand,
+ Standing on slippers which his nimble haste
+ Had falsely thrust upon contrary feet,
+ Told of a many thousand warlike French
+ That were embattlèd and ranked in Kent.
+ Another lean, unwashed artificer
+ Cuts off his tale and talks of Arthur’s death.
+ 
+ Why seek’st thou to possess me with these fears?
+ Why urgest thou so oft young Arthur’s death?
+ Thy hand hath murdered him. I had a mighty cause
+ To wish him dead, but thou hadst none to kill him.
+ 
+ No had, my lord! Why, did you not provoke me?
+ 
+ It is the curse of kings to be attended
+ By slaves that take their humors for a warrant
+ To break within the bloody house of life,
+ And on the winking of authority
+ To understand a law, to know the meaning
+ Of dangerous majesty, when perchance it frowns
+ More upon humor than advised respect.
+, showing a paper
+ 
+ Here is your hand and seal for what I did.
+ 
+ O, when the last accompt twixt heaven and Earth
+ Is to be made, then shall this hand and seal
+ Witness against us to damnation!
+ How oft the sight of means to do ill deeds
+ Make deeds ill done! Hadst not thou been by,
+ A fellow by the hand of nature marked,
+ Quoted, and signed to do a deed of shame,
+ This murder had not come into my mind.
+ But taking note of thy abhorred aspect,
+FTLN 1906
+FTLN 1907
+FTLN 1908
+FTLN 1909
+FTLN 1910
+210
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+FTLN 1915
+215
+FTLN 1916
+FTLN 1917
+FTLN 1918
+FTLN 1919
+FTLN 1920
+220
+FTLN 1921
+FTLN 1922
+FTLN 1923
+FTLN 1924
+FTLN 1925
+225
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+FTLN 1930
+230
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+FTLN 1935
+235
+
+--- PAGE 78 / 105 ---
+153
+King John
+ACT 4. SC. 2
+HUBERT
+KING JOHN
+HUBERT
+ Finding thee fit for bloody villainy,
+ Apt, liable to be employed in danger,
+ I faintly broke with thee of Arthur’s death;
+ And thou, to be endearèd to a king,
+ Made it no conscience to destroy a prince.
+  My lord—
+ 
+ Hadst thou but shook thy head or made a pause
+ When I spake darkly what I purposèd,
+ Or turned an eye of doubt upon my face,
+ As bid me tell my tale in express words,
+ Deep shame had struck me dumb, made me break
+ off,
+ And those thy fears might have wrought fears in me.
+ But thou didst understand me by my signs
+ And didst in signs again parley with sin,
+ Yea, without stop didst let thy heart consent
+ And consequently thy rude hand to act
+ The deed which both our tongues held vile to name.
+ Out of my sight, and never see me more.
+ My nobles leave me, and my state is braved,
+ Even at my gates, with ranks of foreign powers.
+ Nay, in the body of this fleshly land,
+ This kingdom, this confine of blood and breath,
+ Hostility and civil tumult reigns
+ Between my conscience and my cousin’s death.
+ 
+ Arm you against your other enemies.
+ I’ll make a peace between your soul and you.
+ Young Arthur is alive. This hand of mine
+ Is yet a maiden and an innocent hand,
+ Not painted with the crimson spots of blood.
+ Within this bosom never entered yet
+ The dreadful motion of a murderous thought,
+ And you have slandered nature in my form,
+FTLN 1936
+FTLN 1937
+FTLN 1938
+FTLN 1939
+FTLN 1940
+240
+FTLN 1941
+FTLN 1942
+FTLN 1943
+FTLN 1944
+FTLN 1945
+245
+FTLN 1946
+FTLN 1947
+FTLN 1948
+FTLN 1949
+FTLN 1950
+250
+FTLN 1951
+FTLN 1952
+FTLN 1953
+FTLN 1954
+FTLN 1955
+255
+FTLN 1956
+FTLN 1957
+FTLN 1958
+FTLN 1959
+FTLN 1960
+260
+FTLN 1961
+FTLN 1962
+FTLN 1963
+FTLN 1964
+FTLN 1965
+265
+FTLN 1966
+FTLN 1967
+FTLN 1968
+
+--- PAGE 79 / 105 ---
+155
+King John
+ACT 4. SC. 3
+KING JOHN
+They exit.
+ARTHUR
+He jumps.
+He  dies.
+SALISBURY
+ Which, howsoever rude exteriorly,
+ Is yet the cover of a fairer mind
+ Than to be butcher of an innocent child.
+ 
+ Doth Arthur live? O, haste thee to the peers,
+ Throw this report on their incensèd rage,
+ And make them tame to their obedience.
+ Forgive the comment that my passion made
+ Upon thy feature, for my rage was blind,
+ And foul imaginary eyes of blood
+ Presented thee more hideous than thou art.
+ O, answer not, but to my closet bring
+ The angry lords with all expedient haste.
+ I conjure thee but slowly; run more fast.
+Enter Arthur on the walls, dressed as a shipboy.
+ 
+ The wall is high, and yet will I leap down.
+ Good ground, be pitiful and hurt me not.
+ There’s few or none do know me. If they did,
+ This shipboy’s semblance hath disguised me quite.
+ I am afraid, and yet I’ll venture it.
+ If I get down and do not break my limbs,
+ I’ll find a thousand shifts to get away.
+ As good to die and go as die and stay.
+ O me, my uncle’s spirit is in these stones.
+ Heaven take my soul, and England keep my bones.
+Enter Pembroke, Salisbury with a letter,  and Bigot.
+ 
+ Lords, I will meet him at Saint Edmundsbury;
+FTLN 1969
+FTLN 1970
+270
+FTLN 1971
+FTLN 1972
+FTLN 1973
+FTLN 1974
+FTLN 1975
+275
+FTLN 1976
+FTLN 1977
+FTLN 1978
+FTLN 1979
+FTLN 1980
+280
+FTLN 1981
+Scene 3
+FTLN 1982
+FTLN 1983
+FTLN 1984
+FTLN 1985
+FTLN 1986
+5
+FTLN 1987
+FTLN 1988
+FTLN 1989
+FTLN 1990
+FTLN 1991
+10
+FTLN 1992
+
+--- PAGE 80 / 105 ---
+157
+King John
+ACT 4. SC. 3
+PEMBROKE
+SALISBURY
+BIGOT
+SALISBURY
+BASTARD
+SALISBURY
+BASTARD
+SALISBURY
+BASTARD
+PEMBROKE
+BASTARD
+ It is our safety, and we must embrace
+ This gentle offer of the perilous time.
+ 
+ Who brought that letter from the Cardinal?
+ 
+ The Count Melun, a noble lord of France,
+ Whose private with me of the Dauphin’s love
+ Is much more general than these lines import.
+ 
+ Tomorrow morning let us meet him, then.
+ 
+ Or rather then set forward, for ’twill be
+ Two long days’ journey, lords, or ere we meet.
+Enter Bastard.
+ 
+ Once more today well met, distempered lords.
+ The King by me requests your presence straight.
+ 
+ The King hath dispossessed himself of us.
+ We will not line his thin bestainèd cloak
+ With our pure honors, nor attend the foot
+ That leaves the print of blood where’er it walks.
+ Return, and tell him so. We know the worst.
+ 
+ Whate’er you think, good words I think were best.
+ 
+ Our griefs and not our manners reason now.
+ 
+ But there is little reason in your grief.
+ Therefore ’twere reason you had manners now.
+ 
+ Sir, sir, impatience hath his privilege.
+ 
+ ’Tis true, to hurt his master, no man’s else.
+FTLN 1993
+FTLN 1994
+FTLN 1995
+FTLN 1996
+15
+FTLN 1997
+FTLN 1998
+FTLN 1999
+FTLN 2000
+FTLN 2001
+20
+FTLN 2002
+FTLN 2003
+FTLN 2004
+FTLN 2005
+FTLN 2006
+25
+FTLN 2007
+FTLN 2008
+FTLN 2009
+FTLN 2010
+FTLN 2011
+30
+FTLN 2012
+FTLN 2013
+FTLN 2014
+
+--- PAGE 81 / 105 ---
+159
+King John
+ACT 4. SC. 3
+SALISBURY
+He sees Arthur’s body.
+PEMBROKE
+SALISBURY
+BIGOT
+SALISBURY
+PEMBROKE
+BASTARD
+ 
+ This is the prison.
+ What is he lies here?
+ 
+ O Death, made proud with pure and princely beauty!
+ The Earth had not a hole to hide this deed.
+ 
+ Murder, as hating what himself hath done,
+ Doth lay it open to urge on revenge.
+ 
+ Or when he doomed this beauty to a grave,
+ Found it too precious-princely for a grave.
+, to Bastard
+ 
+ Sir Richard, what think you? You have beheld.
+ Or have you read or heard, or could you think,
+ Or do you almost think, although you see,
+ That you do see? Could thought, without this object,
+ Form such another? This is the very top,
+ The height, the crest, or crest unto the crest,
+ Of murder’s arms. This is the bloodiest shame,
+ The wildest savagery, the vilest stroke
+ That ever wall-eyed wrath or staring rage
+ Presented to the tears of soft remorse.
+ 
+ All murders past do stand excused in this.
+ And this, so sole and so unmatchable,
+ Shall give a holiness, a purity,
+ To the yet unbegotten sin of times
+ And prove a deadly bloodshed but a jest,
+ Exampled by this heinous spectacle.
+ 
+ It is a damnèd and a bloody work,
+ The graceless action of a heavy hand,
+ If that it be the work of any hand.
+FTLN 2015
+FTLN 2016
+35
+FTLN 2017
+FTLN 2018
+FTLN 2019
+FTLN 2020
+FTLN 2021
+40
+FTLN 2022
+FTLN 2023
+FTLN 2024
+FTLN 2025
+FTLN 2026
+45
+FTLN 2027
+FTLN 2028
+FTLN 2029
+FTLN 2030
+FTLN 2031
+50
+FTLN 2032
+FTLN 2033
+FTLN 2034
+FTLN 2035
+FTLN 2036
+55
+FTLN 2037
+FTLN 2038
+FTLN 2039
+FTLN 2040
+FTLN 2041
+60
+
+--- PAGE 82 / 105 ---
+161
+King John
+ACT 4. SC. 3
+SALISBURY
+He kneels.
+PEMBROKE, BIGOT
+They rise.
+HUBERT
+SALISBURY
+HUBERT
+SALISBURY
+BASTARD
+SALISBURY
+HUBERT
+He puts his hand on his sword.
+ 
+ If that it be the work of any hand?
+ We had a kind of light what would ensue.
+ It is the shameful work of Hubert’s hand,
+ The practice and the purpose of the King,
+ From whose obedience I forbid my soul,
+ Kneeling before this ruin of sweet life 
+ And breathing to his breathless excellence
+ The incense of a vow, a holy vow:
+ Never to taste the pleasures of the world,
+ Never to be infected with delight,
+ Nor conversant with ease and idleness,
+ Till I have set a glory to this hand
+ By giving it the worship of revenge.
+, kneeling
+ 
+ Our souls religiously confirm thy words.
+Enter Hubert.
+ 
+ Lords, I am hot with haste in seeking you.
+ Arthur doth live; the King hath sent for you.
+ 
+ O, he is bold and blushes not at death!—
+ Avaunt, thou hateful villain, get thee gone!
+ 
+ I am no villain.
+, drawing his sword
+   Must I rob the law?
+ 
+ Your sword is bright, sir. Put it up again.
+ 
+ Not till I sheathe it in a murderer’s skin.
+ 
+ Stand back, Lord Salisbury, stand back, I say.
+ By heaven, I think my sword’s as sharp as yours.
+FTLN 2042
+FTLN 2043
+FTLN 2044
+FTLN 2045
+FTLN 2046
+65
+FTLN 2047
+FTLN 2048
+FTLN 2049
+FTLN 2050
+FTLN 2051
+70
+FTLN 2052
+FTLN 2053
+FTLN 2054
+FTLN 2055
+FTLN 2056
+75
+FTLN 2057
+FTLN 2058
+FTLN 2059
+FTLN 2060
+FTLN 2061
+80
+FTLN 2062
+FTLN 2063
+FTLN 2064
+FTLN 2065
+
+--- PAGE 83 / 105 ---
+163
+King John
+ACT 4. SC. 3
+BIGOT
+HUBERT
+SALISBURY
+HUBERT
+PEMBROKE
+BASTARD
+SALISBURY
+BASTARD
+BIGOT
+HUBERT
+BIGOT
+HUBERT
+He weeps.
+ I would not have you, lord, forget yourself,
+ Nor tempt the danger of my true defense,
+ Lest I, by marking of your rage, forget
+ Your worth, your greatness, and nobility.
+ 
+ Out, dunghill! Dar’st thou brave a nobleman?
+ 
+ Not for my life. But yet I dare defend
+ My innocent life against an emperor.
+ 
+ Thou art a murderer.
+  
+ Do not prove me so.
+ Yet I am none. Whose tongue soe’er speaks false,
+ Not truly speaks. Who speaks not truly, lies.
+, drawing his sword
+ 
+ Cut him to pieces.
+, drawing his sword
+   Keep the peace, I say.
+ 
+ Stand by, or I shall gall you, Faulconbridge.
+ 
+ Thou wert better gall the devil, Salisbury.
+ If thou but frown on me, or stir thy foot,
+ Or teach thy hasty spleen to do me shame,
+ I’ll strike thee dead. Put up thy sword betime,
+ Or I’ll so maul you and your toasting-iron
+ That you shall think the devil is come from hell.
+ 
+ What wilt thou do, renownèd Faulconbridge?
+ Second a villain and a murderer?
+ 
+ Lord Bigot, I am none.
+  
+ Who killed this prince?
+ 
+ ’Tis not an hour since I left him well.
+ I honored him, I loved him, and will weep
+ My date of life out for his sweet life’s loss.
+FTLN 2066
+85
+FTLN 2067
+FTLN 2068
+FTLN 2069
+FTLN 2070
+FTLN 2071
+90
+FTLN 2072
+FTLN 2073
+FTLN 2074
+FTLN 2075
+FTLN 2076
+95
+FTLN 2077
+FTLN 2078
+FTLN 2079
+FTLN 2080
+FTLN 2081
+100
+FTLN 2082
+FTLN 2083
+FTLN 2084
+FTLN 2085
+FTLN 2086
+105
+FTLN 2087
+FTLN 2088
+FTLN 2089
+FTLN 2090
+FTLN 2091
+110
+FTLN 2092
+
+--- PAGE 84 / 105 ---
+165
+King John
+ACT 4. SC. 3
+SALISBURY
+BIGOT
+PEMBROKE
+Lords exit.
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+ 
+ Trust not those cunning waters of his eyes,
+ For villainy is not without such rheum,
+ And he, long traded in it, makes it seem
+ like rivers of remorse and innocency.
+ Away with me, all you whose souls abhor
+ Th’ uncleanly savors of a slaughterhouse,
+ For I am stifled with this smell of sin.
+ 
+ Away, toward Bury, to the Dauphin there.
+ 
+ There, tell the King, he may inquire us out.
+ 
+ Here’s a good world! Knew you of this fair work?
+ Beyond the infinite and boundless reach
+ Of mercy, if thou didst this deed of death,
+ Art thou damned, Hubert.
+  Do but hear me, sir.
+  Ha! I’ll tell thee what.
+ Thou ’rt damned as black—nay, nothing is so black—
+ Thou art more deep damned than Prince Lucifer.
+ There is not yet so ugly a fiend of hell
+ As thou shalt be, if thou didst kill this child.
+ 
+ Upon my soul—
+  
+ If thou didst but consent
+ To this most cruel act, do but despair,
+ And if thou want’st a cord, the smallest thread
+ That ever spider twisted from her womb
+ Will serve to strangle thee; a rush will be a beam
+ To hang thee on. Or wouldst thou drown thyself,
+ Put but a little water in a spoon
+ And it shall be as all the ocean,
+ Enough to stifle such a villain up.
+ I do suspect thee very grievously.
+FTLN 2093
+FTLN 2094
+FTLN 2095
+FTLN 2096
+115
+FTLN 2097
+FTLN 2098
+FTLN 2099
+FTLN 2100
+FTLN 2101
+120
+FTLN 2102
+FTLN 2103
+FTLN 2104
+FTLN 2105
+FTLN 2106
+125
+FTLN 2107
+FTLN 2108
+FTLN 2109
+FTLN 2110
+FTLN 2111
+130
+FTLN 2112
+FTLN 2113
+FTLN 2114
+FTLN 2115
+FTLN 2116
+135
+FTLN 2117
+FTLN 2118
+FTLN 2119
+FTLN 2120
+FTLN 2121
+140
+FTLN 2122
+
+--- PAGE 85 / 105 ---
+167
+King John
+ACT 4. SC. 3
+HUBERT
+BASTARD
+Hubert takes up Arthur’s body.
+They  exit, with Hubert carrying Arthur’s body.
+ 
+ If I in act, consent, or sin of thought
+ Be guilty of the stealing that sweet breath
+ Which was embounded in this beauteous clay,
+ Let hell want pains enough to torture me.
+ I left him well.
+  
+ Go, bear him in thine arms.
+ I am amazed, methinks, and lose my way
+ Among the thorns and dangers of this world.
+ How easy dost thou take all England up!
+ From forth this morsel of dead royalty,
+ The life, the right, and truth of all this realm
+ Is fled to heaven, and England now is left
+ To tug and scamble and to part by th’ teeth
+ The unowed interest of proud-swelling state.
+ Now for the bare-picked bone of majesty
+ Doth doggèd war bristle his angry crest
+ And snarleth in the gentle eyes of peace.
+ Now powers from home and discontents at home
+ Meet in one line, and vast confusion waits,
+ As doth a raven on a sick-fall’n beast,
+ The imminent decay of wrested pomp.
+ Now happy he whose cloak and cincture can
+ Hold out this tempest. Bear away that child,
+ And follow me with speed. I’ll to the King.
+ A thousand businesses are brief in hand,
+ And heaven itself doth frown upon the land.
+FTLN 2123
+FTLN 2124
+FTLN 2125
+FTLN 2126
+145
+FTLN 2127
+FTLN 2128
+FTLN 2129
+FTLN 2130
+FTLN 2131
+150
+FTLN 2132
+FTLN 2133
+FTLN 2134
+FTLN 2135
+FTLN 2136
+155
+FTLN 2137
+FTLN 2138
+FTLN 2139
+FTLN 2140
+FTLN 2141
+160
+FTLN 2142
+FTLN 2143
+FTLN 2144
+FTLN 2145
+FTLN 2146
+165
+FTLN 2147
+FTLN 2148
+
+--- PAGE 86 / 105 ---
+KING JOHN
+PANDULPH
+KING JOHN
+PANDULPH
+Enter King John and Pandulph with the crown, and
+their  Attendants.
+ 
+ Thus have I yielded up into your hand
+ The circle of my glory.
+, handing John the crown
+   Take again
+ From this my hand, as holding of the Pope,
+ Your sovereign greatness and authority.
+ 
+ Now keep your holy word. Go meet the French,
+ And from his Holiness use all your power
+ To stop their marches ’fore we are inflamed.
+ Our discontented counties do revolt,
+ Our people quarrel with obedience,
+ Swearing allegiance and the love of soul
+ To stranger blood, to foreign royalty.
+ This inundation of mistempered humor
+ Rests by you only to be qualified.
+ Then pause not, for the present time’s so sick
+ That present med’cine must be ministered,
+ Or overthrow incurable ensues.
+ 
+ It was my breath that blew this tempest up,
+ Upon your stubborn usage of the Pope;
+171
+ACT 5
+Scene 1
+FTLN 2149
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+5
+FTLN 2154
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+10
+FTLN 2159
+FTLN 2160
+FTLN 2161
+FTLN 2162
+FTLN 2163
+15
+FTLN 2164
+FTLN 2165
+FTLN 2166
+FTLN 2167
+
+--- PAGE 87 / 105 ---
+173
+King John
+ACT 5. SC. 1
+He exits, with Attendants.
+KING JOHN
+BASTARD
+KING JOHN
+BASTARD
+KING JOHN
+BASTARD
+ But since you are a gentle convertite,
+ My tongue shall hush again this storm of war
+ And make fair weather in your blust’ring land.
+ On this Ascension Day, remember well:
+ Upon your oath of service to the Pope,
+ Go I to make the French lay down their arms.
+ 
+ Is this Ascension Day? Did not the prophet
+ Say that before Ascension Day at noon
+ My crown I should give off? Even so I have.
+ I did suppose it should be on constraint,
+ But, God  be thanked, it is but voluntary.
+Enter Bastard.
+ 
+ All Kent hath yielded. Nothing there holds out
+ But Dover Castle. London hath received
+ Like a kind host the Dauphin and his powers.
+ Your nobles will not hear you, but are gone
+ To offer service to your enemy;
+ And wild amazement hurries up and down
+ The little number of your doubtful friends.
+ 
+ Would not my lords return to me again
+ After they heard young Arthur was alive?
+ 
+ They found him dead and cast into the streets,
+ An empty casket where the jewel of life
+ By some damned hand was robbed and ta’en away.
+ 
+ That villain Hubert told me he did live!
+ 
+ So, on my soul, he did, for aught he knew.
+ But wherefore do you droop? Why look you sad?
+ Be great in act, as you have been in thought.
+FTLN 2168
+20
+FTLN 2169
+FTLN 2170
+FTLN 2171
+FTLN 2172
+FTLN 2173
+25
+FTLN 2174
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+30
+FTLN 2179
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+35
+FTLN 2184
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+40
+FTLN 2189
+FTLN 2190
+FTLN 2191
+FTLN 2192
+FTLN 2193
+45
+FTLN 2194
+
+--- PAGE 88 / 105 ---
+175
+King John
+ACT 5. SC. 1
+KING JOHN
+BASTARD
+KING JOHN
+ Let not the world see fear and sad distrust
+ Govern the motion of a kingly eye.
+ Be stirring as the time; be fire with fire;
+ Threaten the threat’ner, and outface the brow
+ Of bragging horror. So shall inferior eyes,
+ That borrow their behaviors from the great,
+ Grow great by your example and put on
+ The dauntless spirit of resolution.
+ Away, and glister like the god of war
+ When he intendeth to become the field.
+ Show boldness and aspiring confidence.
+ What, shall they seek the lion in his den
+ And fright him there? And make him tremble there?
+ O, let it not be said! Forage, and run
+ To meet displeasure farther from the doors,
+ And grapple with him ere he come so nigh.
+ 
+ The legate of the Pope hath been with me,
+ And I have made a happy peace with him,
+ And he hath promised to dismiss the powers
+ Led by the Dauphin.
+  
+ O inglorious league!
+ Shall we upon the footing of our land
+ Send fair-play orders and make compromise,
+ Insinuation, parley, and base truce
+ To arms invasive? Shall a beardless boy,
+ A cockered silken wanton, brave our fields
+ And flesh his spirit in a warlike soil,
+ Mocking the air with colors idly spread,
+ And find no check? Let us, my liege, to arms!
+ Perchance the Cardinal cannot make your peace;
+ Or if he do, let it at least be said
+ They saw we had a purpose of defense.
+ 
+ Have thou the ordering of this present time.
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+50
+FTLN 2199
+FTLN 2200
+FTLN 2201
+FTLN 2202
+FTLN 2203
+55
+FTLN 2204
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+60
+FTLN 2209
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+65
+FTLN 2214
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+70
+FTLN 2219
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+75
+FTLN 2224
+FTLN 2225
+FTLN 2226
+FTLN 2227
+
+--- PAGE 89 / 105 ---
+177
+King John
+ACT 5. SC. 2
+BASTARD
+They exit.
+DAUPHIN
+SALISBURY
+ 
+ Away, then, with good courage!  ( Aside. ) Yet I
+ know
+ Our party may well meet a prouder foe.
+Enter, in arms, Louis the  Dauphin, Salisbury, Melun,
+Pembroke, Bigot, and French and English  Soldiers.
+, handing a paper to Melun
+ 
+ My Lord Melun, let this be copied out,
+ And keep it safe for our remembrance.
+ Return the precedent to these lords again,
+ That having our fair order written down,
+ Both they and we, perusing o’er these notes,
+ May know wherefore we took the Sacrament,
+ And keep our faiths firm and inviolable.
+ 
+ Upon our sides it never shall be broken.
+ And, noble dauphin, albeit we swear
+ A voluntary zeal and unurged faith
+ To your proceedings, yet believe me, prince,
+ I am not glad that such a sore of time
+ Should seek a plaster by contemned revolt
+ And heal the inveterate canker of one wound
+ By making many. O, it grieves my soul
+ That I must draw this metal from my side
+ To be a widow-maker! O, and there
+ Where honorable rescue and defense
+ Cries out upon the name of Salisbury!
+ But such is the infection of the time
+ That for the health and physic of our right,
+ We cannot deal but with the very hand
+ Of stern injustice and confusèd wrong.
+FTLN 2228
+80
+FTLN 2229
+FTLN 2230
+Scene 2
+FTLN 2231
+FTLN 2232
+FTLN 2233
+FTLN 2234
+FTLN 2235
+5
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+FTLN 2240
+10
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+FTLN 2245
+15
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+FTLN 2250
+20
+FTLN 2251
+FTLN 2252
+FTLN 2253
+
+--- PAGE 90 / 105 ---
+179
+King John
+ACT 5. SC. 2
+He weeps.
+DAUPHIN
+ And is ’t not pity, O my grievèd friends,
+ That we, the sons and children of this isle,
+ Was born to see so sad an hour as this,
+ Wherein we step after a stranger, march
+ Upon her gentle bosom, and fill up
+ Her enemies’ ranks? I must withdraw and weep
+ Upon the spot of this enforcèd cause,
+ To grace the gentry of a land remote,
+ And follow unacquainted colors here.
+ What, here? O nation, that thou couldst remove,
+ That Neptune’s arms, who clippeth thee about,
+ Would bear thee from the knowledge of thyself
+ And grapple  thee unto a pagan shore,
+ Where these two Christian armies might combine
+ The blood of malice in a vein of league,
+ And not to spend it so unneighborly. 
+ 
+ A noble temper dost thou show in this,
+ And great affections wrestling in thy bosom
+ Doth make an earthquake of nobility.
+ O, what a noble combat hast thou  fought
+ Between compulsion and a brave respect!
+ Let me wipe off this honorable dew
+ That silverly doth progress on thy cheeks.
+ My heart hath melted at a lady’s tears,
+ Being an ordinary inundation,
+ But this effusion of such manly drops,
+ This shower, blown up by tempest of the soul,
+ Startles mine eyes and makes me more amazed
+ Than had I seen the vaulty top of heaven
+ Figured quite o’er with burning meteors.
+ Lift up thy brow, renownèd Salisbury,
+ And with a great heart heave away this storm.
+ Commend these waters to those baby eyes
+ That never saw the giant world enraged,
+ Nor met with fortune other than at feasts
+FTLN 2254
+FTLN 2255
+25
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+FTLN 2260
+30
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+FTLN 2265
+35
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+FTLN 2270
+40
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+FTLN 2275
+45
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+FTLN 2280
+50
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+FTLN 2285
+55
+FTLN 2286
+FTLN 2287
+FTLN 2288
+
+--- PAGE 91 / 105 ---
+181
+King John
+ACT 5. SC. 2
+PANDULPH
+DAUPHIN
+ Full warm of blood, of mirth, of gossiping.
+ Come, come; for thou shalt thrust thy hand as deep
+ Into the purse of rich prosperity
+ As Louis himself.—So, nobles, shall you all,
+ That knit your sinews to the strength of mine.
+ And even there, methinks, an angel spake.
+Enter Pandulph.
+ Look where the holy legate comes apace
+ To give us warrant from the hand of God,
+ And on our actions set the name of right
+ With holy breath.
+  
+ Hail, noble prince of France.
+ The next is this: King John hath reconciled
+ Himself to Rome; his spirit is come in
+ That so stood out against the holy Church,
+ The great metropolis and See of Rome.
+ Therefore thy threat’ning colors now wind up,
+ And tame the savage spirit of wild war
+ That, like a lion fostered up at hand,
+ It may lie gently at the foot of peace
+ And be no further harmful than in show.
+ 
+ Your Grace shall pardon me; I will not back.
+ I am too high-born to be propertied,
+ To be a secondary at control,
+ Or useful servingman and instrument
+ To any sovereign state throughout the world.
+ Your breath first kindled the dead coal of wars
+ Between this chastised kingdom and myself
+ And brought in matter that should feed this fire;
+ And now ’tis far too huge to be blown out
+ With that same weak wind which enkindled it.
+ You taught me how to know the face of right,
+ Acquainted me with interest to this land,
+ Yea, thrust this enterprise into my heart.
+FTLN 2289
+FTLN 2290
+60
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+FTLN 2295
+65
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+FTLN 2300
+70
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+FTLN 2305
+75
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+FTLN 2310
+80
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+FTLN 2315
+85
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+FTLN 2320
+90
+FTLN 2321
+
+--- PAGE 92 / 105 ---
+183
+King John
+ACT 5. SC. 2
+PANDULPH
+DAUPHIN
+A trumpet sounds.
+BASTARD
+ And come you now to tell me John hath made
+ His peace with Rome? What is that peace to me?
+ I, by the honor of my marriage bed,
+ After young Arthur claim this land for mine.
+ And now it is half conquered, must I back
+ Because that John hath made his peace with Rome?
+ Am I Rome’s slave? What penny hath Rome borne?
+ What men provided? What munition sent
+ To underprop this action? Is ’t not I
+ That undergo this charge? Who else but I,
+ And such as to my claim are liable,
+ Sweat in this business and maintain this war?
+ Have I not heard these islanders shout out
+ “Vive le Roi” as I have banked their towns?
+ Have I not here the best cards for the game
+ To win this easy match played for a crown?
+ And shall I now give o’er the yielded set?
+ No, no, on my soul, it never shall be said.
+ 
+ You look but on the outside of this work.
+ 
+ Outside or inside, I will not return
+ Till my attempt so much be glorified
+ As to my ample hope was promisèd
+ Before I drew this gallant head of war
+ And culled these fiery spirits from the world
+ To outlook conquest and to win renown
+ Even in the jaws of danger and of death.
+ What lusty trumpet thus doth summon us?
+Enter Bastard.
+ 
+ According to the fair play of the world,
+ Let me have audience. I am sent to speak,
+ My holy lord of Milan, from the King.
+FTLN 2322
+FTLN 2323
+FTLN 2324
+FTLN 2325
+95
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+FTLN 2330
+100
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+FTLN 2335
+105
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+FTLN 2340
+110
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+FTLN 2345
+115
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+FTLN 2350
+120
+FTLN 2351
+
+--- PAGE 93 / 105 ---
+185
+King John
+ACT 5. SC. 2
+PANDULPH
+BASTARD
+ I come to learn how you have dealt for him,
+ And, as you answer, I do know the scope
+ And warrant limited unto my tongue.
+ 
+ The Dauphin is too willful-opposite
+ And will not temporize with my entreaties.
+ He flatly says he’ll not lay down his arms.
+ 
+ By all the blood that ever fury breathed,
+ The youth says well! Now hear our English king,
+ For thus his royalty doth speak in me:
+ He is prepared—and reason too he should.
+ This apish and unmannerly approach,
+ This harnessed masque and unadvisèd revel,
+ This unheard sauciness and boyish troops,
+ The King doth smile at, and is well prepared
+ To whip this dwarfish war, these pigmy arms,
+ From out the circle of his territories.
+ That hand which had the strength, even at your door,
+ To cudgel you and make you take the hatch,
+ To dive like buckets in concealèd wells,
+ To crouch in litter of your stable planks,
+ To lie like pawns locked up in chests and trunks,
+ To hug with swine, to seek sweet safety out
+ In vaults and prisons, and to thrill and shake
+ Even at the crying of your nation’s crow,
+ Thinking this voice an armèd Englishman—
+ Shall that victorious hand be feebled here
+ That in your chambers gave you chastisement?
+ No! Know the gallant monarch is in arms,
+ And like an eagle o’er his aerie towers
+ To souse annoyance that comes near his nest.—
+ And you degenerate, you ingrate revolts,
+ You bloody Neroes, ripping up the womb
+ Of your dear mother England, blush for shame!
+ For your own ladies and pale-visaged maids
+FTLN 2352
+FTLN 2353
+FTLN 2354
+FTLN 2355
+125
+FTLN 2356
+FTLN 2357
+FTLN 2358
+FTLN 2359
+FTLN 2360
+130
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+FTLN 2365
+135
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+FTLN 2370
+140
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+FTLN 2375
+145
+FTLN 2376
+FTLN 2377
+FTLN 2378
+FTLN 2379
+FTLN 2380
+150
+FTLN 2381
+FTLN 2382
+FTLN 2383
+FTLN 2384
+FTLN 2385
+155
+
+--- PAGE 94 / 105 ---
+187
+King John
+ACT 5. SC. 2
+DAUPHIN
+PANDULPH
+BASTARD
+DAUPHIN
+BASTARD
+DAUPHIN
+BASTARD
+They exit.
+ Like Amazons come tripping after drums,
+ Their thimbles into armèd gauntlets change,
+ Their needles to lances, and their gentle hearts
+ To fierce and bloody inclination.
+ 
+ There end thy brave and turn thy face in peace.
+ We grant thou canst outscold us. Fare thee well.
+ We hold our time too precious to be spent
+ With such a brabbler.
+  
+ Give me leave to speak.
+ 
+ No, I will speak.
+  
+ We will attend to neither.
+ Strike up the drums, and let the tongue of war
+ Plead for our interest and our being here.
+ 
+ Indeed, your drums being beaten will cry out,
+ And so shall you, being beaten. Do but start
+ An echo with the clamor of thy drum,
+ And even at hand a drum is ready braced
+ That shall reverberate all as loud as thine.
+ Sound but another, and another shall,
+ As loud as thine, rattle the welkin’s ear
+ And mock the deep-mouthed thunder. For at hand,
+ Not trusting to this halting legate here,
+ Whom he hath used rather for sport than need,
+ Is warlike John, and in his forehead sits
+ A bare-ribbed Death, whose office is this day
+ To feast upon whole thousands of the French.
+ 
+ Strike up our drums to find this danger out.
+ 
+ And thou shalt find it, dauphin, do not doubt.
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+FTLN 2390
+160
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+FTLN 2395
+165
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+FTLN 2400
+170
+FTLN 2401
+FTLN 2402
+FTLN 2403
+FTLN 2404
+FTLN 2405
+175
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+FTLN 2410
+180
+FTLN 2411
+FTLN 2412
+FTLN 2413
+
+--- PAGE 95 / 105 ---
+189
+King John
+ACT 5. SC. 4
+KING JOHN
+HUBERT
+KING JOHN
+MESSENGER
+KING JOHN
+MESSENGER
+KING JOHN
+They exit.
+SALISBURY
+Alarums. Enter King  John and Hubert.
+ 
+ How goes the day with us? O, tell me, Hubert.
+ 
+ Badly, I fear. How fares your Majesty?
+ 
+ This fever that hath troubled me so long
+ Lies heavy on me. O, my heart is sick.
+Enter a Messenger.
+ 
+ My lord, your valiant kinsman, Faulconbridge,
+ Desires your Majesty to leave the field
+ And send him word by me which way you go.
+ 
+ Tell him toward Swinstead, to the abbey there.
+ 
+ Be of good comfort, for the great supply
+ That was expected by the Dauphin here
+ Are wracked three nights ago on Goodwin Sands.
+ This news was brought to Richard but even now.
+ The French fight coldly and retire themselves.
+ 
+ Ay me, this tyrant fever burns me up
+ And will not let me welcome this good news.
+ Set on toward Swinstead. To my litter straight.
+ Weakness possesseth me, and I am faint.
+Enter Salisbury, Pembroke, and Bigot.
+ 
+ I did not think the King so stored with friends.
+Scene 3
+FTLN 2414
+FTLN 2415
+FTLN 2416
+FTLN 2417
+FTLN 2418
+5
+FTLN 2419
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+10
+FTLN 2424
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+15
+FTLN 2429
+FTLN 2430
+Scene 4
+FTLN 2431
+
+--- PAGE 96 / 105 ---
+191
+King John
+ACT 5. SC. 4
+PEMBROKE
+SALISBURY
+PEMBROKE
+MELUN
+SALISBURY
+PEMBROKE
+SALISBURY
+MELUN
+SALISBURY
+MELUN
+ 
+ Up once again. Put spirit in the French.
+ If they miscarry, we miscarry too.
+ 
+ That misbegotten devil, Faulconbridge,
+ In spite of spite, alone upholds the day.
+ 
+ They say King John, sore sick, hath left the field.
+Enter Melun, wounded, led by a Soldier.
+ 
+ Lead me to the revolts of England here.
+ 
+ When we were happy, we had other names.
+ 
+ It is the Count Melun.
+  
+ Wounded to death.
+ 
+ Fly, noble English; you are bought and sold.
+ Unthread the rude eye of rebellion
+ And welcome home again discarded faith.
+ Seek out King John and fall before his feet,
+ For if the French be lords of this loud day,
+ He means to recompense the pains you take
+ By cutting off your heads. Thus hath he sworn,
+ And I with him, and many more with me,
+ Upon the altar at Saint Edmundsbury,
+ Even on that altar where we swore to you
+ Dear amity and everlasting love.
+ 
+ May this be possible? May this be true?
+ 
+ Have I not hideous death within my view,
+ Retaining but a quantity of life,
+ Which bleeds away even as a form of wax
+ Resolveth from his figure ’gainst the fire?
+FTLN 2432
+FTLN 2433
+FTLN 2434
+FTLN 2435
+5
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+FTLN 2440
+10
+FTLN 2441
+FTLN 2442
+FTLN 2443
+FTLN 2444
+FTLN 2445
+15
+FTLN 2446
+FTLN 2447
+FTLN 2448
+FTLN 2449
+FTLN 2450
+20
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+FTLN 2455
+25
+FTLN 2456
+
+--- PAGE 97 / 105 ---
+193
+King John
+ACT 5. SC. 4
+SALISBURY
+ What in the world should make me now deceive,
+ Since I must lose the use of all deceit?
+ Why should I then be false, since it is true
+ That I must die here and live hence by truth?
+ I say again, if Louis do win the day,
+ He is forsworn if e’er those eyes of yours
+ Behold another daybreak in the East.
+ But even this night, whose black contagious breath
+ Already smokes about the burning crest
+ Of the old, feeble, and day-wearied sun,
+ Even this ill night your breathing shall expire,
+ Paying the fine of rated treachery
+ Even with a treacherous fine of all your lives,
+ If Louis by your assistance win the day.
+ Commend me to one Hubert with your king;
+ The love of him, and this respect besides,
+ For that my grandsire was an Englishman,
+ Awakes my conscience to confess all this.
+ In lieu whereof, I pray you bear me hence
+ From forth the noise and rumor of the field,
+ Where I may think the remnant of my thoughts
+ In peace, and part this body and my soul
+ With contemplation and devout desires.
+ 
+ We do believe thee, and beshrew my soul
+ But I do love the favor and the form
+ Of this most fair occasion, by the which
+ We will untread the steps of damnèd flight,
+ And like a bated and retirèd flood,
+ Leaving our rankness and irregular course,
+ Stoop low within those bounds we have o’erlooked
+ And calmly run on in obedience
+ Even to our ocean, to our great King John.
+ My arm shall give thee help to bear thee hence,
+ For I do see the cruel pangs of death
+FTLN 2457
+FTLN 2458
+FTLN 2459
+FTLN 2460
+30
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+FTLN 2465
+35
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+FTLN 2470
+40
+FTLN 2471
+FTLN 2472
+FTLN 2473
+FTLN 2474
+FTLN 2475
+45
+FTLN 2476
+FTLN 2477
+FTLN 2478
+FTLN 2479
+FTLN 2480
+50
+FTLN 2481
+FTLN 2482
+FTLN 2483
+FTLN 2484
+FTLN 2485
+55
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+FTLN 2490
+60
+
+--- PAGE 98 / 105 ---
+195
+King John
+ACT 5. SC. 5
+They exit, assisting Melun.
+DAUPHIN
+MESSENGER
+DAUPHIN
+MESSENGER
+DAUPHIN
+MESSENGER
+ Right in thine eye.—Away, my friends! New flight,
+ And happy newness, that intends old right.
+Enter Louis, the  Dauphin and his train.
+ 
+ The sun of heaven, methought, was loath to set,
+ But stayed and made the western welkin blush,
+ When English measured  backward their own
+ ground
+ In faint retire. O, bravely came we off,
+ When with a volley of our needless shot,
+ After such bloody toil, we bid good night
+ And wound our tott’ring colors clearly up,
+ Last in the field and almost lords of it.
+Enter a Messenger.
+ 
+ Where is my prince, the Dauphin?
+  
+ Here. What news?
+ 
+ The Count Melun is slain. The English lords,
+ By his persuasion, are again fall’n off,
+ And your supply, which you have wished so long,
+ Are cast away and sunk on Goodwin Sands.
+ 
+ Ah, foul, shrewd news. Beshrew thy very heart!
+ I did not think to be so sad tonight
+ As this hath made me. Who was he that said
+ King John did fly an hour or two before
+ The stumbling night did part our weary powers?
+ 
+ Whoever spoke it, it is true, my lord.
+FTLN 2491
+FTLN 2492
+Scene 5
+FTLN 2493
+FTLN 2494
+FTLN 2495
+FTLN 2496
+FTLN 2497
+5
+FTLN 2498
+FTLN 2499
+FTLN 2500
+FTLN 2501
+FTLN 2502
+10
+FTLN 2503
+FTLN 2504
+FTLN 2505
+FTLN 2506
+FTLN 2507
+15
+FTLN 2508
+FTLN 2509
+FTLN 2510
+FTLN 2511
+FTLN 2512
+20
+FTLN 2513
+
+--- PAGE 99 / 105 ---
+197
+King John
+ACT 5. SC. 6
+DAUPHIN
+They exit.
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+ 
+ Well, keep good quarter and good care tonight.
+ The day shall not be up so soon as I
+ To try the fair adventure of tomorrow.
+Enter Bastard and Hubert, severally.
+ 
+ Who’s there? Speak ho! Speak quickly, or I shoot.
+ 
+ A friend. What art thou?
+  
+ Of the part of England.
+ 
+ Whither dost thou go?
+  
+ What’s that to thee?
+ 
+ Why may not I demand of thine affairs
+ As well as thou of mine? Hubert, I think?
+  Thou hast a perfect thought.
+ I will upon all hazards well believe
+ Thou art my friend, that know’st my tongue so well.
+ Who art thou?
+  
+ Who thou wilt. An if thou please,
+ Thou mayst befriend me so much as to think
+ I come one way of the Plantagenets.
+ 
+ Unkind remembrance! Thou and endless night
+ Have done me shame. Brave soldier, pardon me
+ That any accent breaking from thy tongue
+ Should ’scape the true acquaintance of mine ear.
+ 
+ Come, come. Sans compliment, what news abroad?
+FTLN 2514
+FTLN 2515
+FTLN 2516
+Scene 6
+FTLN 2517
+FTLN 2518
+FTLN 2519
+FTLN 2520
+FTLN 2521
+5
+FTLN 2522
+FTLN 2523
+FTLN 2524
+FTLN 2525
+FTLN 2526
+10
+FTLN 2527
+FTLN 2528
+FTLN 2529
+FTLN 2530
+FTLN 2531
+15
+FTLN 2532
+FTLN 2533
+FTLN 2534
+FTLN 2535
+
+--- PAGE 100 / 105 ---
+199
+King John
+ACT 5. SC. 6
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+HUBERT
+BASTARD
+ 
+ Why, here walk I in the black brow of night
+ To find you out.
+  
+ Brief, then; and what’s the news?
+ 
+ O my sweet sir, news fitting to the night,
+ Black, fearful, comfortless, and horrible.
+ 
+ Show me the very wound of this ill news.
+ I am no woman; I’ll not swoon at it.
+ 
+ The King, I fear, is poisoned by a monk.
+ I left him almost speechless, and broke out
+ To acquaint you with this evil, that you might
+ The better arm you to the sudden time
+ Than if you had at leisure known of this.
+ 
+ How did he take it? Who did taste to him?
+ 
+ A monk, I tell you, a resolvèd villain,
+ Whose bowels suddenly burst out. The King
+ Yet speaks and peradventure may recover.
+ 
+ Who didst thou leave to tend his Majesty?
+ 
+ Why, know you not? The lords are all come back,
+ And brought Prince Henry in their company,
+ At whose request the King hath pardoned them,
+ And they are all about his Majesty.
+ 
+ Withhold thine indignation, mighty God,
+ And tempt us not to bear above our power.
+ I’ll tell thee, Hubert, half my power this night,
+ Passing these flats, are taken by the tide.
+ These Lincoln Washes have devourèd them.
+ Myself, well mounted, hardly have escaped.
+FTLN 2536
+20
+FTLN 2537
+FTLN 2538
+FTLN 2539
+FTLN 2540
+FTLN 2541
+25
+FTLN 2542
+FTLN 2543
+FTLN 2544
+FTLN 2545
+FTLN 2546
+30
+FTLN 2547
+FTLN 2548
+FTLN 2549
+FTLN 2550
+FTLN 2551
+35
+FTLN 2552
+FTLN 2553
+FTLN 2554
+FTLN 2555
+FTLN 2556
+40
+FTLN 2557
+FTLN 2558
+FTLN 2559
+FTLN 2560
+FTLN 2561
+45
+FTLN 2562
+
+--- PAGE 101 / 105 ---
+201
+King John
+ACT 5. SC. 7
+They exit.
+PRINCE HENRY
+PEMBROKE
+PRINCE HENRY
+Bigot exits.
+PEMBROKE
+PRINCE HENRY
+ Away before. Conduct me to the King.
+ I doubt he will be dead or ere I come.
+Enter Prince Henry, Salisbury, and Bigot.
+ 
+ It is too late. The life of all his blood
+ Is touched corruptibly, and his pure brain,
+ Which some suppose the soul’s frail dwelling-house,
+ Doth, by the idle comments that it makes,
+ Foretell the ending of mortality.
+Enter Pembroke.
+ 
+ His Highness yet doth speak, and holds belief
+ That being brought into the open air
+ It would allay the burning quality
+ Of that fell poison which assaileth him.
+ 
+ Let him be brought into the orchard here.
+ Doth he still rage?
+  
+ He is more patient
+ Than when you left him. Even now he sung.
+ 
+ O vanity of sickness! Fierce extremes
+ In their continuance will not feel themselves.
+ Death, having preyed upon the outward parts,
+ Leaves them invisible, and his siege is now
+ Against the mind,  the which he pricks and wounds
+ With many legions of strange fantasies,
+ Which in their throng and press to that last hold
+FTLN 2563
+FTLN 2564
+Scene 7
+FTLN 2565
+FTLN 2566
+FTLN 2567
+FTLN 2568
+FTLN 2569
+5
+FTLN 2570
+FTLN 2571
+FTLN 2572
+FTLN 2573
+FTLN 2574
+10
+FTLN 2575
+FTLN 2576
+FTLN 2577
+FTLN 2578
+FTLN 2579
+15
+FTLN 2580
+FTLN 2581
+FTLN 2582
+FTLN 2583
+FTLN 2584
+20
+
+--- PAGE 102 / 105 ---
+203
+King John
+ACT 5. SC. 7
+SALISBURY
+KING JOHN
+PRINCE HENRY
+KING JOHN
+PRINCE HENRY
+KING JOHN
+ Confound themselves. ’Tis strange that Death should
+ sing.
+ I am the cygnet to this pale faint swan,
+ Who chants a doleful hymn to his own death,
+ And from the organ-pipe of frailty sings
+ His soul and body to their lasting rest.
+ 
+ Be of good comfort, prince, for you are born
+ To set a form upon that indigest
+ Which he hath left so shapeless and so rude.
+King  John brought in, attended by Bigot.
+ 
+ Ay, marry, now my soul hath elbow-room.
+ It would not out at windows nor at doors.
+ There is so hot a summer in my bosom
+ That all my bowels crumble up to dust.
+ I am a scribbled form drawn with a pen
+ Upon a parchment, and against this fire
+ Do I shrink up.
+  
+ How fares your Majesty?
+ 
+ Poisoned—ill fare—dead, forsook, cast off,
+ And none of you will bid the winter come
+ To thrust his icy fingers in my maw,
+ Nor let my kingdom’s rivers take their course
+ Through my burned bosom, nor entreat the North
+ To make his bleak winds kiss my parchèd lips
+ And comfort me with cold. I do not ask you much.
+ I beg cold comfort, and you are so strait
+ And so ingrateful, you deny me that.
+ 
+ O, that there were some virtue in my tears
+ That might relieve you!
+  
+ The salt in them is hot.
+ Within me is a hell, and there the poison
+FTLN 2585
+FTLN 2586
+FTLN 2587
+FTLN 2588
+FTLN 2589
+25
+FTLN 2590
+FTLN 2591
+FTLN 2592
+FTLN 2593
+FTLN 2594
+30
+FTLN 2595
+FTLN 2596
+FTLN 2597
+FTLN 2598
+FTLN 2599
+35
+FTLN 2600
+FTLN 2601
+FTLN 2602
+FTLN 2603
+FTLN 2604
+40
+FTLN 2605
+FTLN 2606
+FTLN 2607
+FTLN 2608
+FTLN 2609
+45
+FTLN 2610
+FTLN 2611
+FTLN 2612
+FTLN 2613
+FTLN 2614
+50
+
+--- PAGE 103 / 105 ---
+205
+King John
+ACT 5. SC. 7
+BASTARD
+KING JOHN
+BASTARD
+King John dies.
+SALISBURY
+PRINCE HENRY
+BASTARD
+ Is, as a fiend, confined to tyrannize
+ On unreprievable, condemnèd blood.
+Enter Bastard.
+ 
+ O, I am scalded with my violent motion
+ And spleen of speed to see your Majesty.
+ 
+ O cousin, thou art come to set mine eye.
+ The tackle of my heart is cracked and burnt,
+ And all the shrouds wherewith my life should sail
+ Are turnèd to one thread, one little hair.
+ My heart hath one poor string to stay it by,
+ Which holds but till thy news be utterèd,
+ And then all this thou seest is but a clod
+ And module of confounded royalty.
+ 
+ The Dauphin is preparing hitherward,
+ Where God  He knows how we shall answer him.
+ For in a night the best part of my power,
+ As I upon advantage did remove,
+ Were in the Washes all unwarily
+ Devourèd by the unexpected flood.
+ 
+ You breathe these dead news in as dead an ear.—
+ My liege! My lord!—But now a king, now thus.
+ 
+ Even so must I run on, and even so stop.
+ What surety of the world, what hope, what stay,
+ When this was now a king and now is clay?
+ 
+ Art thou gone so? I do but stay behind
+ To do the office for thee of revenge,
+ And then my soul shall wait on thee to heaven,
+ As it on Earth hath been thy servant still.—
+FTLN 2615
+FTLN 2616
+FTLN 2617
+FTLN 2618
+FTLN 2619
+55
+FTLN 2620
+FTLN 2621
+FTLN 2622
+FTLN 2623
+FTLN 2624
+60
+FTLN 2625
+FTLN 2626
+FTLN 2627
+FTLN 2628
+FTLN 2629
+65
+FTLN 2630
+FTLN 2631
+FTLN 2632
+FTLN 2633
+FTLN 2634
+70
+FTLN 2635
+FTLN 2636
+FTLN 2637
+FTLN 2638
+FTLN 2639
+75
+FTLN 2640
+FTLN 2641
+
+--- PAGE 104 / 105 ---
+207
+King John
+ACT 5. SC. 7
+SALISBURY
+BASTARD
+SALISBURY
+BASTARD
+PRINCE HENRY
+BASTARD
+ Now, now, you stars, that move in your right spheres,
+ Where be your powers? Show now your mended
+ faiths
+ And instantly return with me again
+ To push destruction and perpetual shame
+ Out of the weak door of our fainting land.
+ Straight let us seek, or straight we shall be sought;
+ The Dauphin rages at our very heels.
+ 
+ It seems you know not, then, so much as we.
+ The Cardinal Pandulph is within at rest,
+ Who half an hour since came from the Dauphin,
+ And brings from him such offers of our peace
+ As we with honor and respect may take,
+ With purpose presently to leave this war.
+ 
+ He will the rather do it when he sees
+ Ourselves well-sinewèd to our defense.
+ 
+ Nay, ’tis in a manner done already,
+ For many carriages he hath dispatched
+ To the sea-side, and put his cause and quarrel
+ To the disposing of the Cardinal,
+ With whom yourself, myself, and other lords,
+ If you think meet, this afternoon will post
+ To consummate this business happily.
+ 
+ Let it be so.—And you, my noble prince,
+ With other princes that may best be spared,
+ Shall wait upon your father’s funeral.
+ 
+ At Worcester must his body be interred,
+ For so he willed it.
+  
+ Thither shall it, then,
+ And happily may your sweet self put on
+ The lineal state and glory of the land,
+FTLN 2642
+FTLN 2643
+FTLN 2644
+80
+FTLN 2645
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+85
+FTLN 2650
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+90
+FTLN 2655
+FTLN 2656
+FTLN 2657
+FTLN 2658
+FTLN 2659
+95
+FTLN 2660
+FTLN 2661
+FTLN 2662
+FTLN 2663
+FTLN 2664
+100
+FTLN 2665
+FTLN 2666
+FTLN 2667
+FTLN 2668
+FTLN 2669
+105
+FTLN 2670
+FTLN 2671
+FTLN 2672
+
+--- PAGE 105 / 105 ---
+209
+King John
+ACT 5. SC. 7
+He kneels.
+SALISBURY
+Salisbury, Pembroke, and Bigot kneel.
+PRINCE HENRY
+They rise.
+BASTARD
+They exit, bearing the body of King John.
+ To whom with all submission on my knee
+ I do bequeath my faithful services
+ And true subjection everlastingly. 
+ 
+ And the like tender of our love we make
+ To rest without a spot forevermore.
+ 
+ I have a kind soul that would give you  thanks
+ And knows not how to do it but with tears.
+ 
+ O, let us pay the time but needful woe,
+ Since it hath been beforehand with our griefs.
+ This England never did nor never shall
+ Lie at the proud foot of a conqueror
+ But when it first did help to wound itself.
+ Now these her princes are come home again,
+ Come the three corners of the world in arms
+ And we shall shock them. Naught shall make us rue,
+ If England to itself do rest but true.
+FTLN 2673
+FTLN 2674
+110
+FTLN 2675
+FTLN 2676
+FTLN 2677
+FTLN 2678
+FTLN 2679
+115
+FTLN 2680
+FTLN 2681
+FTLN 2682
+FTLN 2683
+FTLN 2684
+120
+FTLN 2685
+FTLN 2686
+FTLN 2687
+FTLN 2688
+

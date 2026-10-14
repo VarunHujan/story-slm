@@ -1,0 +1,8118 @@
+=== BOOK TITLE: much-ado-about-nothing_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 99 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 99 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+ACT 4
+Scene 1
+Scene 2
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Contents
+
+--- PAGE 3 / 99 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 99 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 99 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 99 ---
+The primary plot of Much Ado About Nothing turns on the courtship
+and scandal involving young Hero and her suitor, Claudio, but the
+witty war of words between Claudio’s friend Benedick and Hero’s
+cousin Beatrice often takes center stage.
+Set in Messina, the play begins as Don Pedro’s army returns after a
+victory. Benedick, a gentleman soldier, resumes a verbal duel with
+Beatrice, the niece of Messina’s governor, Leonato. Count Claudio is
+smitten by Leonato’s daughter, Hero. After Don Pedro woos her in
+disguise for Claudio, the two young lovers plan to marry in a week.
+To fill in the time until the wedding, Don Pedro and the others set
+about tricking Benedick and Beatrice into falling in love with each
+other. Meanwhile, Don Pedro’s disgruntled brother, Don John, plots
+to ruin Hero and halt her wedding. Claudio believes Don John’s
+deception, is convinced Hero has a lover, and, at the wedding,
+brutally rejects her.
+With Hero in hiding and falsely reported dead, Beatrice persuades
+Benedick to fight Claudio. Tragedy is averted when the bumbling
+city watch, having discovered Don John’s treachery, arrives and
+clears Hero’s name. With Claudio forgiven, both couples are ready
+to get married.
+Synopsis
+
+--- PAGE 7 / 99 ---
+LEONATO, Governor of Messina
+HERO, his daughter
+BEATRICE, his niece
+LEONATO’S BROTHER
+DON PEDRO, Prince of Aragon
+COUNT CLAUDIO, a young lord from Florence
+SIGNIOR BENEDICK, a gentleman from Padua
+BALTHASAR
+SIGNIOR ANTONIO
+DON JOHN, Don Pedro’s brother
+DOGBERRY, Master Constable in Messina
+VERGES, Dogberry’s partner
+GEORGE SEACOAL, leader of the Watch
+FIRST WATCHMAN
+SECOND WATCHMAN
+SEXTON
+FRIAR FRANCIS
+MESSENGER to Leonato
+MESSENGER to Don Pedro
+BOY
+Musicians, Lords, Attendants, Son to Leonato’s brother
+Characters in the Play
+waiting gentlewomen to Hero
+MARGARET
+URSULA
+Don John’s followers
+BORACHIO
+CONRADE
+
+--- PAGE 8 / 99 ---
+LEONATO
+MESSENGER
+LEONATO
+MESSENGER
+LEONATO
+MESSENGER
+LEONATO
+MESSENGER
+Enter Leonato, Governor of Messina, Hero his daughter,
+and Beatrice his niece, with a Messenger.
+, with a letter
+  I learn in this letter that Don
+ Pedro of Aragon comes this night to Messina.
+  He is very near by this. He was not three
+ leagues off when I left him.
+  How many gentlemen have you lost in this
+ action?
+  But few of any sort, and none of name.
+  A victory is twice itself when the achiever
+ brings home full numbers. I find here that Don
+ Pedro hath bestowed much honor on a young
+ Florentine called Claudio.
+  Much deserved on his part, and equally
+ remembered by Don Pedro. He hath borne himself
+ beyond the promise of his age, doing in the figure
+ of a lamb the feats of a lion. He hath indeed better
+ bettered expectation than you must expect of me to
+ tell you how.
+  He hath an uncle here in Messina will be
+ very much glad of it.
+  I have already delivered him letters, and
+ there appears much joy in him, even so much that
+ joy could not show itself modest enough without a
+ badge of bitterness.
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+FTLN 0022
+FTLN 0023
+
+--- PAGE 9 / 99 ---
+9
+Much Ado About Nothing
+ACT 1. SC. 1
+LEONATO
+MESSENGER
+LEONATO
+BEATRICE
+MESSENGER
+LEONATO
+HERO
+MESSENGER
+BEATRICE
+LEONATO
+MESSENGER
+BEATRICE
+MESSENGER
+BEATRICE
+MESSENGER
+BEATRICE
+  Did he break out into tears?
+  In great measure.
+  A kind overflow of kindness. There are no
+ faces truer than those that are so washed. How
+ much better is it to weep at joy than to joy at
+ weeping!
+  I pray you, is Signior Mountanto returned
+ from the wars or no?
+  I know none of that name, lady. There
+ was none such in the army of any sort.
+  What is he that you ask for, niece?
+  My cousin means Signior Benedick of Padua.
+  O, he’s returned, and as pleasant as ever
+ he was.
+  He set up his bills here in Messina and
+ challenged Cupid at the flight, and my uncle’s Fool,
+ reading the challenge, subscribed for Cupid and
+ challenged him at the bird-bolt. I pray you, how
+ many hath he killed and eaten in these wars? But
+ how many hath he killed? For indeed I promised to
+ eat all of his killing.
+  Faith, niece, you tax Signior Benedick too
+ much, but he’ll be meet with you, I doubt it not.
+  He hath done good service, lady, in these
+ wars.
+  You had musty victual, and he hath holp to
+ eat it. He is a very valiant trencherman; he hath an
+ excellent stomach.
+  And a good soldier too, lady.
+  And a good soldier to a lady, but what is he
+ to a lord?
+  A lord to a lord, a man to a man, stuffed
+ with all honorable virtues.
+  It is so indeed. He is no less than a stuffed
+ man, but for the stuffing—well, we are all mortal.
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+
+--- PAGE 10 / 99 ---
+11
+Much Ado About Nothing
+ACT 1. SC. 1
+LEONATO
+BEATRICE
+MESSENGER
+BEATRICE
+MESSENGER
+BEATRICE
+MESSENGER
+BEATRICE
+MESSENGER
+BEATRICE
+LEONATO
+BEATRICE
+MESSENGER
+  You must not, sir, mistake my niece. There is
+ a kind of merry war betwixt Signior Benedick and
+ her. They never meet but there’s a skirmish of wit
+ between them.
+  Alas, he gets nothing by that. In our last
+ conflict, four of his five wits went halting off, and
+ now is the whole man governed with one, so that if
+ he have wit enough to keep himself warm, let him
+ bear it for a difference between himself and his
+ horse, for it is all the wealth that he hath left to
+ be known a reasonable creature. Who is his companion
+ now? He hath every month a new sworn
+ brother.
+  Is ’t possible?
+  Very easily possible. He wears his faith but
+ as the fashion of his hat; it ever changes with the
+ next block.
+  I see, lady, the gentleman is not in your
+ books.
+  No. An he were, I would burn my study. But
+ I pray you, who is his companion? Is there no
+ young squarer now that will make a voyage with
+ him to the devil?
+  He is most in the company of the right
+ noble Claudio.
+  O Lord, he will hang upon him like a
+ disease! He is sooner caught than the pestilence,
+ and the taker runs presently mad. God help the
+ noble Claudio! If he have caught the Benedick, it
+ will cost him a thousand pound ere he be cured.
+  I will hold friends with you, lady.
+  Do, good friend.
+  You will never run mad, niece.
+  No, not till a hot January.
+  Don Pedro is approached.
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+FTLN 0093
+
+--- PAGE 11 / 99 ---
+13
+Much Ado About Nothing
+ACT 1. SC. 1
+PRINCE
+LEONATO
+PRINCE
+LEONATO
+BENEDICK
+LEONATO
+PRINCE
+Leonato and the Prince move aside.
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+Enter Don Pedro, Prince of Aragon, with  Claudio,
+Benedick, Balthasar, and John the Bastard.
+  Good Signior Leonato, are you come to meet
+ your trouble? The fashion of the world is to avoid
+ cost, and you encounter it.
+  Never came trouble to my house in the
+ likeness of your Grace, for trouble being gone,
+ comfort should remain, but when you depart from
+ me, sorrow abides and happiness takes his leave.
+  You embrace your charge too willingly.  Turning
+ to Hero.   I think this is your daughter.
+  Her mother hath many times told me so.
+  Were you in doubt, sir, that you asked her?
+  Signior Benedick, no, for then were you a
+ child.
+  You have it full, Benedick. We may guess by
+ this what you are, being a man. Truly the lady
+ fathers herself.—Be happy, lady, for you are like
+ an honorable father.
+  If Signior Leonato be her father, she would
+ not have his head on her shoulders for all Messina,
+ as like him as she is.
+  I wonder that you will still be talking, Signior
+ Benedick, nobody marks you.
+  What, my dear Lady Disdain! Are you yet
+ living?
+  Is it possible disdain should die while she
+ hath such meet food to feed it as Signior Benedick?
+ Courtesy itself must convert to disdain if you come
+ in her presence.
+  Then is courtesy a turncoat. But it is certain
+ I am loved of all ladies, only you excepted; and
+ I would I could find in my heart that I had not a
+ hard heart, for truly I love none.
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+
+--- PAGE 12 / 99 ---
+15
+Much Ado About Nothing
+ACT 1. SC. 1
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+Leonato and the Prince come forward.
+PRINCE
+LEONATO
+DON JOHN
+LEONATO
+PRINCE
+All  exit except Benedick and Claudio.
+CLAUDIO
+  A dear happiness to women. They would
+ else have been troubled with a pernicious suitor. I
+ thank God and my cold blood I am of your humor
+ for that. I had rather hear my dog bark at a crow
+ than a man swear he loves me.
+  God keep your Ladyship still in that mind,
+ so some gentleman or other shall ’scape a predestinate
+ scratched face.
+  Scratching could not make it worse an
+ ’twere such a face as yours were.
+  Well, you are a rare parrot-teacher.
+  A bird of my tongue is better than a beast of
+ yours.
+  I would my horse had the speed of your
+ tongue and so good a continuer, but keep your
+ way, i’ God’s name, I have done.
+  You always end with a jade’s trick. I know
+ you of old.
+  That is the sum of all, Leonato.—Signior
+ Claudio and Signior Benedick, my dear friend
+ Leonato hath invited you all. I tell him we shall stay
+ here at the least a month, and he heartily prays
+ some occasion may detain us longer. I dare swear
+ he is no hypocrite, but prays from his heart.
+  If you swear, my lord, you shall not be
+ forsworn.  To Don John.  Let me bid you welcome,
+ my lord, being reconciled to the Prince your brother,
+ I owe you all duty.
+  I thank you. I am not of many words, but I
+ thank you.
+  Please it your Grace lead on?
+  Your hand, Leonato. We will go together.
+  Benedick, didst thou note the daughter of
+ Signior Leonato?
+FTLN 0126
+FTLN 0127
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+
+--- PAGE 13 / 99 ---
+17
+Much Ado About Nothing
+ACT 1. SC. 1
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+  I noted her not, but I looked on her.
+  Is she not a modest young lady?
+  Do you question me as an honest man
+ should do, for my simple true judgment? Or would
+ you have me speak after my custom, as being a
+ professed tyrant to their sex?
+  No, I pray thee, speak in sober judgment.
+  Why, i’ faith, methinks she’s too low for a
+ high praise, too brown for a fair praise, and too
+ little for a great praise. Only this commendation I
+ can afford her, that were she other than she is, she
+ were unhandsome, and being no other but as she is,
+ I do not like her.
+  Thou thinkest I am in sport. I pray thee tell
+ me truly how thou lik’st her.
+  Would you buy her that you enquire after
+ her?
+  Can the world buy such a jewel?
+  Yea, and a case to put it into. But speak you
+ this with a sad brow? Or do you play the flouting
+ jack, to tell us Cupid is a good hare-finder and
+ Vulcan a rare carpenter? Come, in what key shall a
+ man take you to go in the song?
+  In mine eye she is the sweetest lady that ever
+ I looked on.
+  I can see yet without spectacles, and I see
+ no such matter. There’s her cousin, an she were not
+ possessed with a fury, exceeds her as much in
+ beauty as the first of May doth the last of December.
+ But I hope you have no intent to turn husband, have
+ you?
+  I would scarce trust myself, though I had
+ sworn the contrary, if Hero would be my wife.
+  Is ’t come to this? In faith, hath not the
+ world one man but he will wear his cap with
+ suspicion? Shall I never see a bachelor of threescore
+FTLN 0160
+160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+FTLN 0164
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+190
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+195
+
+--- PAGE 14 / 99 ---
+19
+Much Ado About Nothing
+ACT 1. SC. 1
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+BENEDICK
+CLAUDIO
+PRINCE
+BENEDICK
+ again? Go to, i’ faith, an thou wilt needs thrust
+ thy neck into a yoke, wear the print of it, and sigh
+ away Sundays. Look, Don Pedro is returned to seek
+ you.
+Enter Don Pedro, Prince of Aragon.
+  What secret hath held you here that you followed
+ not to Leonato’s?
+  I would your Grace would constrain me to
+ tell.
+  I charge thee on thy allegiance.
+  You hear, Count Claudio, I can be secret as
+ a dumb man, I would have you think so, but on my
+ allegiance—mark you this, on my allegiance—he
+ is in love. With who? Now, that is your Grace’s part.
+ Mark how short his answer is: with Hero, Leonato’s
+ short daughter.
+  If this were so, so were it uttered.
+  Like the old tale, my lord: “It is not so, nor
+ ’twas not so, but, indeed, God forbid it should be
+ so.”
+  If my passion change not shortly, God forbid
+ it should be otherwise.
+  Amen, if you love her, for the lady is very well
+ worthy.
+  You speak this to fetch me in, my lord.
+  By my troth, I speak my thought.
+  And in faith, my lord, I spoke mine.
+  And by my two faiths and troths, my lord, I
+ spoke mine.
+  That I love her, I feel.
+  That she is worthy, I know.
+  That I neither feel how she should be loved
+ nor know how she should be worthy is the opinion
+ that fire cannot melt out of me. I will die in it at the
+ stake.
+FTLN 0196
+FTLN 0197
+FTLN 0198
+FTLN 0199
+FTLN 0200
+200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+220
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+
+--- PAGE 15 / 99 ---
+21
+Much Ado About Nothing
+ACT 1. SC. 1
+PRINCE
+CLAUDIO
+BENEDICK
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+CLAUDIO
+  Thou wast ever an obstinate heretic in the
+ despite of beauty.
+  And never could maintain his part but in the
+ force of his will.
+  That a woman conceived me, I thank her;
+ that she brought me up, I likewise give her most
+ humble thanks. But that I will have a recheat
+ winded in my forehead or hang my bugle in an
+ invisible baldrick, all women shall pardon me.
+ Because I will not do them the wrong to mistrust
+ any, I will do myself the right to trust none. And the
+ fine is, for the which I may go the finer, I will live a
+ bachelor.
+  I shall see thee, ere I die, look pale with love.
+  With anger, with sickness, or with hunger,
+ my lord, not with love. Prove that ever I lose more
+ blood with love than I will get again with drinking,
+ pick out mine eyes with a ballad-maker’s pen and
+ hang me up at the door of a brothel house for the
+ sign of blind Cupid.
+  Well, if ever thou dost fall from this faith, thou
+ wilt prove a notable argument.
+  If I do, hang me in a bottle like a cat and
+ shoot at me, and he that hits me, let him be clapped
+ on the shoulder and called Adam.
+  Well, as time shall try.
+ In time the savage bull doth bear the yoke.
+  The savage bull may, but if ever the sensible
+ Benedick bear it, pluck off the bull’s horns and set
+ them in my forehead, and let me be vilely painted,
+ and in such great letters as they write “Here is good
+ horse to hire” let them signify under my sign “Here
+ you may see Benedick the married man.”
+  If this should ever happen, thou wouldst be
+ horn-mad.
+FTLN 0230
+230
+FTLN 0231
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+235
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+240
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+245
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+250
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+255
+FTLN 0256
+FTLN 0257
+FTLN 0258
+FTLN 0259
+FTLN 0260
+260
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+
+--- PAGE 16 / 99 ---
+23
+Much Ado About Nothing
+ACT 1. SC. 1
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+CLAUDIO
+PRINCE
+BENEDICK
+He exits.
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+  Nay, if Cupid have not spent all his quiver in
+ Venice, thou wilt quake for this shortly.
+  I look for an earthquake too, then.
+  Well, you will temporize with the hours. In the
+ meantime, good Signior Benedick, repair to Leonato’s.
+ Commend me to him, and tell him I will not
+ fail him at supper, for indeed he hath made great
+ preparation.
+  I have almost matter enough in me for such
+ an embassage, and so I commit you—
+  To the tuition of God. From my house, if I had
+ it—
+  The sixth of July. Your loving friend,
+ Benedick.
+  Nay, mock not, mock not. The body of your
+ discourse is sometimes guarded with fragments,
+ and the guards are but slightly basted on neither.
+ Ere you flout old ends any further, examine your
+ conscience. And so I leave you. 
+ 
+ My liege, your Highness now may do me good.
+ 
+ My love is thine to teach. Teach it but how,
+ And thou shalt see how apt it is to learn
+ Any hard lesson that may do thee good.
+ 
+ Hath Leonato any son, my lord?
+ 
+ No child but Hero; she’s his only heir.
+ Dost thou affect her, Claudio?
+  
+ O, my lord,
+ When you went onward on this ended action,
+ I looked upon her with a soldier’s eye,
+ That liked, but had a rougher task in hand
+ Than to drive liking to the name of love.
+ But now I am returned and that war thoughts
+FTLN 0265
+265
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+270
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+275
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+280
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+285
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+FTLN 0290
+290
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+295
+FTLN 0296
+
+--- PAGE 17 / 99 ---
+25
+Much Ado About Nothing
+ACT 1. SC. 1
+PRINCE
+CLAUDIO
+PRINCE
+They exit.
+ Have left their places vacant, in their rooms
+ Come thronging soft and delicate desires,
+ All prompting me how fair young Hero is,
+ Saying I liked her ere I went to wars.
+ 
+ Thou wilt be like a lover presently
+ And tire the hearer with a book of words.
+ If thou dost love fair Hero, cherish it,
+ And I will break with her and with her father,
+ And thou shalt have her. Was ’t not to this end
+ That thou began’st to twist so fine a story?
+ 
+ How sweetly you do minister to love,
+ That know love’s grief by his complexion!
+ But lest my liking might too sudden seem,
+ I would have salved it with a longer treatise.
+ 
+ What need the bridge much broader than the flood?
+ The fairest grant is the necessity.
+ Look what will serve is fit. ’Tis once, thou lovest,
+ And I will fit thee with the remedy.
+ I know we shall have reveling tonight.
+ I will assume thy part in some disguise
+ And tell fair Hero I am Claudio,
+ And in her bosom I’ll unclasp my heart
+ And take her hearing prisoner with the force
+ And strong encounter of my amorous tale.
+ Then after to her father will I break,
+ And the conclusion is, she shall be thine.
+ In practice let us put it presently.
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+300
+FTLN 0301
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+305
+FTLN 0306
+FTLN 0307
+FTLN 0308
+FTLN 0309
+FTLN 0310
+310
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+315
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+320
+FTLN 0321
+FTLN 0322
+FTLN 0323
+
+--- PAGE 18 / 99 ---
+27
+Much Ado About Nothing
+ACT 1. SC. 2
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+They exit.
+Enter Leonato, meeting  an old man, brother to
+Leonato.
+  How now, brother, where is my cousin, your
+ son? Hath he provided this music?
+  He is very busy about it. But,
+ brother, I can tell you strange news that you yet
+ dreamt not of.
+  Are they good?
+  As the events stamps them, but
+ they have a good cover; they show well outward.
+ The Prince and Count Claudio, walking in a thick-pleached
+ alley in mine orchard, were thus much
+ overheard by a man of mine: the Prince discovered
+ to Claudio that he loved my niece your daughter and
+ meant to acknowledge it this night in a dance, and if
+ he found her accordant, he meant to take the
+ present time by the top and instantly break with you
+ of it.
+  Hath the fellow any wit that told you this?
+  A good sharp fellow. I will send
+ for him, and question him yourself.
+  No, no, we will hold it as a dream till it
+ appear itself. But I will acquaint my daughter
+ withal, that she may be the better prepared for an
+ answer, if peradventure this be true. Go you and tell
+ her of it.
+Enter Antonio’s son, with a Musician and Attendants.
+ Cousins, you know what you have to do.—O, I cry
+ you mercy, friend. Go you with me and I will use
+ your skill.—Good cousin, have a care this busy
+ time.
+Scene 2
+FTLN 0324
+FTLN 0325
+FTLN 0326
+FTLN 0327
+FTLN 0328
+5
+FTLN 0329
+FTLN 0330
+FTLN 0331
+FTLN 0332
+FTLN 0333
+10
+FTLN 0334
+FTLN 0335
+FTLN 0336
+FTLN 0337
+FTLN 0338
+15
+FTLN 0339
+FTLN 0340
+FTLN 0341
+FTLN 0342
+FTLN 0343
+20
+FTLN 0344
+FTLN 0345
+FTLN 0346
+FTLN 0347
+FTLN 0348
+25
+FTLN 0349
+FTLN 0350
+FTLN 0351
+
+--- PAGE 19 / 99 ---
+29
+Much Ado About Nothing
+ACT 1. SC. 3
+CONRADE
+DON JOHN
+CONRADE
+DON JOHN
+CONRADE
+DON JOHN
+CONRADE
+DON JOHN
+Enter Sir John the Bastard, and Conrade, his
+companion.
+  What the goodyear, my lord, why are you
+ thus out of measure sad?
+  There is no measure in the occasion that
+ breeds. Therefore the sadness is without limit.
+  You should hear reason.
+  And when I have heard it, what blessing
+ brings it?
+  If not a present remedy, at least a patient
+ sufferance.
+  I wonder that thou, being, as thou sayst thou
+ art, born under Saturn, goest about to apply a moral
+ medicine to a mortifying mischief. I cannot hide
+ what I am. I must be sad when I have cause, and
+ smile at no man’s jests; eat when I have stomach,
+ and wait for no man’s leisure; sleep when I am
+ drowsy, and tend on no man’s business; laugh when
+ I am merry, and claw no man in his humor.
+  Yea, but you must not make the full show of
+ this till you may do it without controlment. You
+ have of late stood out against your brother, and he
+ hath ta’en you newly into his grace, where it is
+ impossible you should take true root but by the fair
+ weather that you make yourself. It is needful that
+ you frame the season for your own harvest.
+  I had rather be a canker in a hedge than a
+ rose in his grace, and it better fits my blood to be
+ disdained of all than to fashion a carriage to rob
+ love from any. In this, though I cannot be said to be
+ a flattering honest man, it must not be denied but I
+ am a plain-dealing villain. I am trusted with a
+ muzzle and enfranchised with a clog; therefore I
+ have decreed not to sing in my cage. If I had my
+Scene 3
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+FTLN 0356
+5
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+FTLN 0361
+10
+FTLN 0362
+FTLN 0363
+FTLN 0364
+FTLN 0365
+FTLN 0366
+15
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+FTLN 0371
+20
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+FTLN 0376
+25
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+FTLN 0381
+30
+FTLN 0382
+FTLN 0383
+
+--- PAGE 20 / 99 ---
+31
+Much Ado About Nothing
+ACT 1. SC. 3
+CONRADE
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+ mouth, I would bite; if I had my liberty, I would do
+ my liking. In the meantime, let me be that I am, and
+ seek not to alter me.
+  Can you make no use of your discontent?
+  I make all use of it, for I use it only. Who
+ comes here?
+Enter Borachio.
+ What news, Borachio?
+  I came yonder from a great supper. The
+ Prince your brother is royally entertained by
+ Leonato, and I can give you intelligence of an
+ intended marriage.
+  Will it serve for any model to build mischief
+ on? What is he for a fool that betroths himself to
+ unquietness?
+  Marry, it is your brother’s right hand.
+  Who, the most exquisite Claudio?
+  Even he.
+  A proper squire. And who, and who? Which
+ way looks he?
+  Marry, on Hero, the daughter and heir of
+ Leonato.
+  A very forward March chick! How came you
+ to this?
+  Being entertained for a perfumer, as I was
+ smoking a musty room, comes me the Prince and
+ Claudio, hand in hand, in sad conference. I
+ whipped me behind the arras, and there heard it
+ agreed upon that the Prince should woo Hero for
+ himself, and having obtained her, give her to Count
+ Claudio.
+  Come, come, let us thither. This may prove
+ food to my displeasure. That young start-up hath
+ all the glory of my overthrow. If I can cross him any
+FTLN 0384
+FTLN 0385
+FTLN 0386
+35
+FTLN 0387
+FTLN 0388
+FTLN 0389
+FTLN 0390
+FTLN 0391
+40
+FTLN 0392
+FTLN 0393
+FTLN 0394
+FTLN 0395
+FTLN 0396
+45
+FTLN 0397
+FTLN 0398
+FTLN 0399
+FTLN 0400
+FTLN 0401
+50
+FTLN 0402
+FTLN 0403
+FTLN 0404
+FTLN 0405
+FTLN 0406
+55
+FTLN 0407
+FTLN 0408
+FTLN 0409
+FTLN 0410
+FTLN 0411
+60
+FTLN 0412
+FTLN 0413
+FTLN 0414
+FTLN 0415
+FTLN 0416
+65
+
+--- PAGE 21 / 99 ---
+33
+Much Ado About Nothing
+ACT 1. SC. 3
+CONRADE
+DON JOHN
+BORACHIO
+They  exit.
+ way, I bless myself every way. You are both sure, and
+ will assist me?
+  To the death, my lord.
+  Let us to the great supper. Their cheer is the
+ greater that I am subdued. Would the cook were o’
+ my mind! Shall we go prove what’s to be done?
+  We’ll wait upon your Lordship.
+FTLN 0417
+FTLN 0418
+FTLN 0419
+FTLN 0420
+FTLN 0421
+70
+FTLN 0422
+FTLN 0423
+
+--- PAGE 22 / 99 ---
+LEONATO
+LEONATO’S BROTHER
+BEATRICE
+HERO
+BEATRICE
+LEONATO
+BEATRICE
+LEONATO
+LEONATO’S BROTHER
+BEATRICE
+Enter Leonato, his brother, Hero his daughter, and
+Beatrice his niece, with Ursula and Margaret.
+  Was not Count John here at supper?
+  I saw him not.
+  How tartly that gentleman looks! I never
+ can see him but I am heartburned an hour after.
+  He is of a very melancholy disposition.
+  He were an excellent man that were made
+ just in the midway between him and Benedick. The
+ one is too like an image and says nothing, and the
+ other too like my lady’s eldest son, evermore
+ tattling.
+  Then half Signior Benedick’s tongue in
+ Count John’s mouth, and half Count John’s melancholy
+ in Signior Benedick’s face—
+  With a good leg and a good foot, uncle, and
+ money enough in his purse, such a man would win
+ any woman in the world if he could get her
+ goodwill.
+  By my troth, niece, thou wilt never get thee a
+ husband if thou be so shrewd of thy tongue.
+  In faith, she’s too curst.
+  Too curst is more than curst. I shall lessen
+ God’s sending that way, for it is said “God sends a
+37
+ACT 2
+Scene 1
+FTLN 0424
+FTLN 0425
+FTLN 0426
+FTLN 0427
+FTLN 0428
+5
+FTLN 0429
+FTLN 0430
+FTLN 0431
+FTLN 0432
+FTLN 0433
+10
+FTLN 0434
+FTLN 0435
+FTLN 0436
+FTLN 0437
+FTLN 0438
+15
+FTLN 0439
+FTLN 0440
+FTLN 0441
+FTLN 0442
+FTLN 0443
+20
+FTLN 0444
+FTLN 0445
+
+--- PAGE 23 / 99 ---
+39
+Much Ado About Nothing
+ACT 2. SC. 1
+LEONATO
+BEATRICE
+LEONATO
+BEATRICE
+LEONATO
+BEATRICE
+LEONATO’S BROTHER
+BEATRICE
+LEONATO
+ curst cow short horns,” but to a cow too curst, he
+ sends none.
+  So, by being too curst, God will send you no
+ horns.
+  Just, if He send me no husband, for the
+ which blessing I am at Him upon my knees every
+ morning and evening. Lord, I could not endure a
+ husband with a beard on his face. I had rather lie in
+ the woolen!
+  You may light on a husband that hath no
+ beard.
+  What should I do with him? Dress him in my
+ apparel and make him my waiting gentlewoman?
+ He that hath a beard is more than a youth, and he
+ that hath no beard is less than a man; and he that is
+ more than a youth is not for me, and he that is less
+ than a man, I am not for him. Therefore I will even
+ take sixpence in earnest of the bearherd, and lead
+ his apes into hell.
+  Well then, go you into hell?
+  No, but to the gate, and there will the devil
+ meet me like an old cuckold with horns on his
+ head, and say “Get you to heaven, Beatrice, get you
+ to heaven; here’s no place for you maids.” So deliver
+ I up my apes and away to Saint Peter; for the
+ heavens, he shows me where the bachelors sit, and
+ there live we as merry as the day is long.
+, to Hero
+  Well, niece, I trust you
+ will be ruled by your father.
+  Yes, faith, it is my cousin’s duty to make
+ curtsy and say “Father, as it please you.” But yet for
+ all that, cousin, let him be a handsome fellow, or
+ else make another curtsy and say “Father, as it
+ please me.”
+  Well, niece, I hope to see you one day fitted
+ with a husband.
+FTLN 0446
+FTLN 0447
+FTLN 0448
+25
+FTLN 0449
+FTLN 0450
+FTLN 0451
+FTLN 0452
+FTLN 0453
+30
+FTLN 0454
+FTLN 0455
+FTLN 0456
+FTLN 0457
+FTLN 0458
+35
+FTLN 0459
+FTLN 0460
+FTLN 0461
+FTLN 0462
+FTLN 0463
+40
+FTLN 0464
+FTLN 0465
+FTLN 0466
+FTLN 0467
+FTLN 0468
+45
+FTLN 0469
+FTLN 0470
+FTLN 0471
+FTLN 0472
+FTLN 0473
+50
+FTLN 0474
+FTLN 0475
+FTLN 0476
+FTLN 0477
+FTLN 0478
+55
+FTLN 0479
+FTLN 0480
+FTLN 0481
+
+--- PAGE 24 / 99 ---
+41
+Much Ado About Nothing
+ACT 2. SC. 1
+BEATRICE
+LEONATO
+BEATRICE
+LEONATO
+BEATRICE
+LEONATO
+Leonato and his brother step aside.
+PRINCE
+They begin to dance.
+HERO
+PRINCE
+HERO
+  Not till God make men of some other metal
+ than earth. Would it not grieve a woman to be
+ overmastered with a piece of valiant dust? To make
+ an account of her life to a clod of wayward marl?
+ No, uncle, I’ll none. Adam’s sons are my brethren,
+ and truly I hold it a sin to match in my kindred.
+, to Hero
+  Daughter, remember what I told
+ you. If the Prince do solicit you in that kind, you
+ know your answer.
+  The fault will be in the music, cousin, if you
+ be not wooed in good time. If the Prince be too
+ important, tell him there is measure in everything,
+ and so dance out the answer. For hear me, Hero,
+ wooing, wedding, and repenting is as a Scotch jig, a
+ measure, and a cinquepace. The first suit is hot and
+ hasty like a Scotch jig, and full as fantastical; the
+ wedding, mannerly modest as a measure, full of
+ state and ancientry; and then comes repentance,
+ and with his bad legs falls into the cinquepace faster
+ and faster till he sink into his grave.
+  Cousin, you apprehend passing shrewdly.
+  I have a good eye, uncle; I can see a church
+ by daylight.
+  The revelers are entering, brother. Make
+ good room. 
+Enter, with a Drum,  Prince Pedro, Claudio, and
+Benedick, Signior Antonio,  and Balthasar, all in
+masks, with Borachio and Don  John.
+, to Hero
+  Lady, will you walk a bout with your
+ friend? 
+  So you walk softly, and look sweetly, and say
+ nothing, I am yours for the walk, and especially
+ when I walk away.
+  With me in your company?
+  I may say so when I please.
+FTLN 0482
+FTLN 0483
+60
+FTLN 0484
+FTLN 0485
+FTLN 0486
+FTLN 0487
+FTLN 0488
+65
+FTLN 0489
+FTLN 0490
+FTLN 0491
+FTLN 0492
+FTLN 0493
+70
+FTLN 0494
+FTLN 0495
+FTLN 0496
+FTLN 0497
+FTLN 0498
+75
+FTLN 0499
+FTLN 0500
+FTLN 0501
+FTLN 0502
+FTLN 0503
+80
+FTLN 0504
+FTLN 0505
+FTLN 0506
+FTLN 0507
+FTLN 0508
+85
+FTLN 0509
+FTLN 0510
+FTLN 0511
+FTLN 0512
+FTLN 0513
+90
+
+--- PAGE 25 / 99 ---
+43
+Much Ado About Nothing
+ACT 2. SC. 1
+PRINCE
+HERO
+PRINCE
+HERO
+PRINCE
+They move aside;
+Benedick and Margaret move forward.
+BENEDICK
+MARGARET
+BENEDICK
+MARGARET
+BENEDICK
+MARGARET
+They separate; Benedick moves aside;
+Balthasar moves forward.
+BALTHASAR
+MARGARET
+BALTHASAR
+They move aside;
+Ursula and Antonio move forward.
+URSULA
+ANTONIO
+URSULA
+ANTONIO
+URSULA
+ANTONIO
+URSULA
+  And when please you to say so?
+  When I like your favor, for God defend the lute
+ should be like the case.
+  My visor is Philemon’s roof; within the house
+ is Jove.
+  Why, then, your visor should be thatched.
+  Speak low if you speak love.
+, to Margaret
+  Well, I would you did like me.
+  So would not I for your own sake, for I have
+ many ill qualities.
+  Which is one?
+  I say my prayers aloud.
+  I love you the better; the hearers may cry
+ “Amen.”
+  God match me with a good dancer.
+  Amen.
+  And God keep him out of my sight when the
+ dance is done. Answer, clerk.
+  No more words. The clerk is answered.
+  I know you well enough. You are Signior
+ Antonio.
+  At a word, I am not.
+  I know you by the waggling of your head.
+  To tell you true, I counterfeit him.
+  You could never do him so ill-well unless you
+ were the very man. Here’s his dry hand up and
+ down. You are he, you are he.
+  At a word, I am not.
+  Come, come, do you think I do not know you
+ by your excellent wit? Can virtue hide itself? Go to,
+FTLN 0514
+FTLN 0515
+FTLN 0516
+FTLN 0517
+FTLN 0518
+95
+FTLN 0519
+FTLN 0520
+FTLN 0521
+FTLN 0522
+FTLN 0523
+100
+FTLN 0524
+FTLN 0525
+FTLN 0526
+FTLN 0527
+FTLN 0528
+105
+FTLN 0529
+FTLN 0530
+FTLN 0531
+FTLN 0532
+FTLN 0533
+110
+FTLN 0534
+FTLN 0535
+FTLN 0536
+FTLN 0537
+FTLN 0538
+115
+FTLN 0539
+FTLN 0540
+FTLN 0541
+FTLN 0542
+FTLN 0543
+120
+
+--- PAGE 26 / 99 ---
+45
+Much Ado About Nothing
+ACT 2. SC. 1
+They move aside;
+Benedick and Beatrice move forward.
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+Dance. Then  exit all except
+Don John, Borachio, and Claudio.
+ mum, you are he. Graces will appear, and there’s an
+ end.
+  Will you not tell me who told you so?
+  No, you shall pardon me.
+  Nor will you not tell me who you are?
+  Not now.
+  That I was disdainful, and that I had my
+ good wit out of The Hundred Merry Tales! Well, this
+ was Signior Benedick that said so.
+  What’s he?
+  I am sure you know him well enough.
+  Not I, believe me.
+  Did he never make you laugh?
+  I pray you, what is he?
+  Why, he is the Prince’s jester, a very dull
+ fool; only his gift is in devising impossible slanders.
+ None but libertines delight in him, and the commendation
+ is not in his wit but in his villainy, for he
+ both pleases men and angers them, and then they
+ laugh at him and beat him. I am sure he is in the
+ fleet.I would he had boarded me.
+  When I know the gentleman, I’ll tell him
+ what you say.
+  Do, do. He’ll but break a comparison or two
+ on me, which peradventure not marked or not
+ laughed at strikes him into melancholy, and then
+ there’s a partridge wing saved, for the fool will eat
+ no supper that night.  Music for the dance.  We must
+ follow the leaders.
+  In every good thing.
+  Nay, if they lead to any ill, I will leave them
+ at the next turning.
+FTLN 0544
+FTLN 0545
+FTLN 0546
+FTLN 0547
+FTLN 0548
+125
+FTLN 0549
+FTLN 0550
+FTLN 0551
+FTLN 0552
+FTLN 0553
+130
+FTLN 0554
+FTLN 0555
+FTLN 0556
+FTLN 0557
+FTLN 0558
+135
+FTLN 0559
+FTLN 0560
+FTLN 0561
+FTLN 0562
+FTLN 0563
+140
+FTLN 0564
+FTLN 0565
+FTLN 0566
+FTLN 0567
+FTLN 0568
+145
+FTLN 0569
+FTLN 0570
+FTLN 0571
+FTLN 0572
+FTLN 0573
+150
+FTLN 0574
+FTLN 0575
+
+--- PAGE 27 / 99 ---
+47
+Much Ado About Nothing
+ACT 2. SC. 1
+DON JOHN
+BORACHIO
+DON JOHN
+CLAUDIO
+DON JOHN
+CLAUDIO
+DON JOHN
+BORACHIO
+DON JOHN
+They exit. Claudio remains.
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+, to Borachio
+  Sure my brother is amorous
+ on Hero, and hath withdrawn her father to break
+ with him about it. The ladies follow her, and but one
+ visor remains.
+  And that is Claudio. I know him by his
+ bearing.
+, to Claudio
+  Are not you Signior Benedick?
+  You know me well. I am he.
+  Signior, you are very near my brother in his
+ love. He is enamored on Hero. I pray you dissuade
+ him from her. She is no equal for his birth. You
+ may do the part of an honest man in it.
+  How know you he loves her?
+  I heard him swear his affection.
+  So did I too, and he swore he would marry
+ her tonight.
+  Come, let us to the banquet.
+, unmasking
+ 
+ Thus answer I in name of Benedick,
+ But hear these ill news with the ears of Claudio.
+ ’Tis certain so. The Prince woos for himself.
+ Friendship is constant in all other things
+ Save in the office and affairs of love.
+ Therefore all hearts in love use their own tongues.
+ Let every eye negotiate for itself
+ And trust no agent, for beauty is a witch
+ Against whose charms faith melteth into blood.
+ This is an accident of hourly proof,
+ Which I mistrusted not. Farewell therefore, Hero.
+Enter Benedick.
+  Count Claudio?
+  Yea, the same.
+  Come, will you go with me?
+  Whither?
+FTLN 0576
+FTLN 0577
+FTLN 0578
+155
+FTLN 0579
+FTLN 0580
+FTLN 0581
+FTLN 0582
+FTLN 0583
+160
+FTLN 0584
+FTLN 0585
+FTLN 0586
+FTLN 0587
+FTLN 0588
+165
+FTLN 0589
+FTLN 0590
+FTLN 0591
+FTLN 0592
+FTLN 0593
+170
+FTLN 0594
+FTLN 0595
+FTLN 0596
+FTLN 0597
+FTLN 0598
+175
+FTLN 0599
+FTLN 0600
+FTLN 0601
+FTLN 0602
+FTLN 0603
+180
+FTLN 0604
+FTLN 0605
+FTLN 0606
+FTLN 0607
+
+--- PAGE 28 / 99 ---
+49
+Much Ado About Nothing
+ACT 2. SC. 1
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+He exits.
+BENEDICK
+PRINCE
+BENEDICK
+PRINCE
+  Even to the next willow, about your own
+ business, county. What fashion will you wear the
+ garland of? About your neck like an usurer’s chain?
+ Or under your arm like a lieutenant’s scarf? You
+ must wear it one way, for the Prince hath got your
+ Hero.
+  I wish him joy of her.
+  Why, that’s spoken like an honest drover; so
+ they sell bullocks. But did you think the Prince
+ would have served you thus?
+  I pray you, leave me.
+  Ho, now you strike like the blind man.
+ ’Twas the boy that stole your meat, and you’ll beat
+ the post.
+  If it will not be, I’ll leave you. 
+  Alas, poor hurt fowl, now will he creep into
+ sedges. But that my Lady Beatrice should know
+ me, and not know me! The Prince’s fool! Ha, it may
+ be I go under that title because I am merry. Yea, but
+ so I am apt to do myself wrong. I am not so reputed!
+ It is the base, though bitter, disposition of Beatrice
+ that puts the world into her person and so gives me
+ out. Well, I’ll be revenged as I may.
+Enter the Prince, Hero, and  Leonato.
+  Now, signior, where’s the Count? Did you see
+ him?
+  Troth, my lord, I have played the part of
+ Lady Fame. I found him here as melancholy as a
+ lodge in a warren. I told him, and I think I told him
+ true, that your Grace had got the goodwill of this
+ young lady, and I offered him my company to a
+ willow tree, either to make him a garland, as being
+ forsaken, or to bind him up a rod, as being worthy to
+ be whipped.
+  To be whipped? What’s his fault?
+FTLN 0608
+185
+FTLN 0609
+FTLN 0610
+FTLN 0611
+FTLN 0612
+FTLN 0613
+190
+FTLN 0614
+FTLN 0615
+FTLN 0616
+FTLN 0617
+FTLN 0618
+195
+FTLN 0619
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+200
+FTLN 0624
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+205
+FTLN 0629
+FTLN 0630
+FTLN 0631
+FTLN 0632
+FTLN 0633
+210
+FTLN 0634
+FTLN 0635
+FTLN 0636
+FTLN 0637
+FTLN 0638
+215
+FTLN 0639
+FTLN 0640
+FTLN 0641
+
+--- PAGE 29 / 99 ---
+51
+Much Ado About Nothing
+ACT 2. SC. 1
+BENEDICK
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+  The flat transgression of a schoolboy who,
+ being overjoyed with finding a bird’s nest, shows it
+ his companion, and he steals it.
+  Wilt thou make a trust a transgression? The
+ transgression is in the stealer.
+  Yet it had not been amiss the rod had been
+ made, and the garland too, for the garland he
+ might have worn himself, and the rod he might
+ have bestowed on you, who, as I take it, have stolen
+ his bird’s nest.
+  I will but teach them to sing and restore them
+ to the owner.
+  If their singing answer your saying, by my
+ faith, you say honestly.
+  The Lady Beatrice hath a quarrel to you. The
+ gentleman that danced with her told her she is
+ much wronged by you.
+  O, she misused me past the endurance of a
+ block! An oak but with one green leaf on it would
+ have answered her. My very visor began to assume
+ life and scold with her. She told me, not thinking I
+ had been myself, that I was the Prince’s jester, that I
+ was duller than a great thaw, huddling jest upon jest
+ with such impossible conveyance upon me that I
+ stood like a man at a mark with a whole army
+ shooting at me. She speaks poniards, and every
+ word stabs. If her breath were as terrible as her
+ terminations, there were no living near her; she
+ would infect to the North Star. I would not marry
+ her though she were endowed with all that Adam
+ had left him before he transgressed. She would have
+ made Hercules have turned spit, yea, and have cleft
+ his club to make the fire, too. Come, talk not of her.
+ You shall find her the infernal Ate in good apparel. I
+ would to God some scholar would conjure her, for
+ certainly, while she is here, a man may live as quiet
+FTLN 0642
+FTLN 0643
+220
+FTLN 0644
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+225
+FTLN 0649
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+230
+FTLN 0654
+FTLN 0655
+FTLN 0656
+FTLN 0657
+FTLN 0658
+235
+FTLN 0659
+FTLN 0660
+FTLN 0661
+FTLN 0662
+FTLN 0663
+240
+FTLN 0664
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+245
+FTLN 0669
+FTLN 0670
+FTLN 0671
+FTLN 0672
+FTLN 0673
+250
+FTLN 0674
+FTLN 0675
+FTLN 0676
+FTLN 0677
+
+--- PAGE 30 / 99 ---
+53
+Much Ado About Nothing
+ACT 2. SC. 1
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+He exits.
+PRINCE
+BEATRICE
+PRINCE
+BEATRICE
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+BEATRICE
+ in hell as in a sanctuary, and people sin upon
+ purpose because they would go thither. So indeed
+ all disquiet, horror, and perturbation follows her.
+Enter Claudio and Beatrice.
+  Look, here she comes.
+  Will your Grace command me any service
+ to the world’s end? I will go on the slightest errand
+ now to the Antipodes that you can devise to send
+ me on. I will fetch you a toothpicker now from the
+ furthest inch of Asia, bring you the length of Prester
+ John’s foot, fetch you a hair off the great Cham’s
+ beard, do you any embassage to the Pygmies, rather
+ than hold three words’ conference with this harpy.
+ You have no employment for me?
+  None but to desire your good company.
+  O God, sir, here’s a dish I love not! I cannot
+ endure my Lady Tongue. 
+, to Beatrice
+  Come, lady, come, you have lost
+ the heart of Signior Benedick.
+  Indeed, my lord, he lent it me awhile, and I
+ gave him use for it, a double heart for his single
+ one. Marry, once before he won it of me with false
+ dice. Therefore your Grace may well say I have lost
+ it.
+  You have put him down, lady, you have put
+ him down.
+  So I would not he should do me, my lord,
+ lest I should prove the mother of fools. I have
+ brought Count Claudio, whom you sent me to seek.
+  Why, how now, count, wherefore are you sad?
+  Not sad, my lord.
+  How then, sick?
+  Neither, my lord.
+  The Count is neither sad, nor sick, nor merry,
+FTLN 0678
+255
+FTLN 0679
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+260
+FTLN 0684
+FTLN 0685
+FTLN 0686
+FTLN 0687
+FTLN 0688
+265
+FTLN 0689
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+270
+FTLN 0694
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+275
+FTLN 0699
+FTLN 0700
+FTLN 0701
+FTLN 0702
+FTLN 0703
+280
+FTLN 0704
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+285
+FTLN 0709
+FTLN 0710
+
+--- PAGE 31 / 99 ---
+55
+Much Ado About Nothing
+ACT 2. SC. 1
+PRINCE
+LEONATO
+BEATRICE
+CLAUDIO
+BEATRICE
+PRINCE
+BEATRICE
+CLAUDIO
+BEATRICE
+PRINCE
+BEATRICE
+PRINCE
+BEATRICE
+ nor well, but civil count, civil as an orange, and
+ something of that jealous complexion.
+  I’ faith, lady, I think your blazon to be true,
+ though I’ll be sworn, if he be so, his conceit is
+ false.—Here, Claudio, I have wooed in thy name,
+ and fair Hero is won. I have broke with her father
+ and his goodwill obtained. Name the day of marriage,
+ and God give thee joy.
+  Count, take of me my daughter, and with her
+ my fortunes. His Grace hath made the match, and
+ all grace say “Amen” to it.
+  Speak, count, ’tis your cue.
+  Silence is the perfectest herald of joy. I were
+ but little happy if I could say how much.—Lady, as
+ you are mine, I am yours. I give away myself for you
+ and dote upon the exchange.
+  Speak, cousin, or, if you cannot, stop his
+ mouth with a kiss and let not him speak neither.
+  In faith, lady, you have a merry heart.
+  Yea, my lord. I thank it, poor fool, it keeps on
+ the windy side of care. My cousin tells him in his ear
+ that he is in her heart.
+  And so she doth, cousin.
+  Good Lord for alliance! Thus goes everyone
+ to the world but I, and I am sunburnt. I may sit in a
+ corner and cry “Heigh-ho for a husband!”
+  Lady Beatrice, I will get you one.
+  I would rather have one of your father’s
+ getting. Hath your Grace ne’er a brother like you?
+ Your father got excellent husbands, if a maid could
+ come by them.
+  Will you have me, lady?
+  No, my lord, unless I might have another for
+ working days. Your Grace is too costly to wear
+ every day. But I beseech your Grace pardon me. I
+ was born to speak all mirth and no matter.
+FTLN 0711
+FTLN 0712
+FTLN 0713
+290
+FTLN 0714
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+295
+FTLN 0719
+FTLN 0720
+FTLN 0721
+FTLN 0722
+FTLN 0723
+300
+FTLN 0724
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+305
+FTLN 0729
+FTLN 0730
+FTLN 0731
+FTLN 0732
+FTLN 0733
+310
+FTLN 0734
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+315
+FTLN 0739
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+320
+FTLN 0744
+FTLN 0745
+FTLN 0746
+
+--- PAGE 32 / 99 ---
+57
+Much Ado About Nothing
+ACT 2. SC. 1
+PRINCE
+BEATRICE
+LEONATO
+BEATRICE
+Beatrice exits.
+PRINCE
+LEONATO
+PRINCE
+LEONATO
+PRINCE
+LEONATO
+PRINCE
+CLAUDIO
+LEONATO
+PRINCE
+  Your silence most offends me, and to be merry
+ best becomes you, for out o’ question you were
+ born in a merry hour.
+  No, sure, my lord, my mother cried, but then
+ there was a star danced, and under that was I
+ born.—Cousins, God give you joy!
+  Niece, will you look to those things I told
+ you of?
+  I cry you mercy, uncle.—By your Grace’s
+ pardon. 
+  By my troth, a pleasant-spirited lady.
+  There’s little of the melancholy element in
+ her, my lord. She is never sad but when she sleeps,
+ and not ever sad then, for I have heard my daughter
+ say she hath often dreamt of unhappiness and
+ waked herself with laughing.
+  She cannot endure to hear tell of a husband.
+  O, by no means. She mocks all her wooers
+ out of suit.
+  She were an excellent wife for Benedick.
+  O Lord, my lord, if they were but a week
+ married, they would talk themselves mad.
+  County Claudio, when mean you to go to
+ church?
+  Tomorrow, my lord. Time goes on crutches
+ till love have all his rites.
+  Not till Monday, my dear son, which is hence
+ a just sevennight, and a time too brief, too, to have
+ all things answer my mind.
+, to Claudio
+  Come, you shake the head at so
+ long a breathing, but I warrant thee, Claudio, the
+ time shall not go dully by us. I will in the interim
+ undertake one of Hercules’ labors, which is to bring
+ Signior Benedick and the Lady Beatrice into a
+ mountain of affection, th’ one with th’ other. I
+ would fain have it a match, and I doubt not but to
+FTLN 0747
+FTLN 0748
+325
+FTLN 0749
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+330
+FTLN 0754
+FTLN 0755
+FTLN 0756
+FTLN 0757
+FTLN 0758
+335
+FTLN 0759
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+340
+FTLN 0764
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+345
+FTLN 0769
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+350
+FTLN 0774
+FTLN 0775
+FTLN 0776
+FTLN 0777
+FTLN 0778
+355
+FTLN 0779
+FTLN 0780
+FTLN 0781
+FTLN 0782
+
+--- PAGE 33 / 99 ---
+59
+Much Ado About Nothing
+ACT 2. SC. 2
+LEONATO
+CLAUDIO
+PRINCE
+HERO
+PRINCE
+They  exit.
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+ fashion it, if you three will but minister such
+ assistance as I shall give you direction.
+  My lord, I am for you, though it cost me ten
+ nights’ watchings.
+  And I, my lord.
+  And you too, gentle Hero?
+  I will do any modest office, my lord, to help my
+ cousin to a good husband.
+  And Benedick is not the unhopefullest husband
+ that I know. Thus far can I praise him: he is of
+ a noble strain, of approved valor, and confirmed
+ honesty. I will teach you how to humor your
+ cousin that she shall fall in love with Benedick.—
+ And I, with your two helps, will so practice on
+ Benedick that, in despite of his quick wit and his
+ queasy stomach, he shall fall in love with Beatrice.
+ If we can do this, Cupid is no longer an archer; his
+ glory shall be ours, for we are the only love gods. Go
+ in with me, and I will tell you my drift.
+Enter Don  John and Borachio.
+  It is so. The Count Claudio shall marry the
+ daughter of Leonato.
+  Yea, my lord, but I can cross it.
+  Any bar, any cross, any impediment will be
+ med’cinable to me. I am sick in displeasure to him,
+ and whatsoever comes athwart his affection ranges
+ evenly with mine. How canst thou cross this
+ marriage?
+  Not honestly, my lord, but so covertly that
+ no dishonesty shall appear in me.
+  Show me briefly how.
+FTLN 0783
+360
+FTLN 0784
+FTLN 0785
+FTLN 0786
+FTLN 0787
+FTLN 0788
+365
+FTLN 0789
+FTLN 0790
+FTLN 0791
+FTLN 0792
+FTLN 0793
+370
+FTLN 0794
+FTLN 0795
+FTLN 0796
+FTLN 0797
+FTLN 0798
+375
+FTLN 0799
+FTLN 0800
+FTLN 0801
+Scene 2
+FTLN 0802
+FTLN 0803
+FTLN 0804
+FTLN 0805
+FTLN 0806
+5
+FTLN 0807
+FTLN 0808
+FTLN 0809
+FTLN 0810
+FTLN 0811
+10
+FTLN 0812
+
+--- PAGE 34 / 99 ---
+61
+Much Ado About Nothing
+ACT 2. SC. 2
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+DON JOHN
+BORACHIO
+  I think I told your Lordship a year since,
+ how much I am in the favor of Margaret, the
+ waiting gentlewoman to Hero.
+  I remember.
+  I can, at any unseasonable instant of the
+ night, appoint her to look out at her lady’s chamber
+ window.
+  What life is in that to be the death of this
+ marriage?
+  The poison of that lies in you to temper. Go
+ you to the Prince your brother; spare not to tell
+ him that he hath wronged his honor in marrying
+ the renowned Claudio, whose estimation do you
+ mightily hold up, to a contaminated stale, such a
+ one as Hero.
+  What proof shall I make of that?
+  Proof enough to misuse the Prince, to vex
+ Claudio, to undo Hero, and kill Leonato. Look you
+ for any other issue?
+  Only to despite them I will endeavor
+ anything.
+  Go then, find me a meet hour to draw Don
+ Pedro and the Count Claudio alone. Tell them that
+ you know that Hero loves me; intend a kind of zeal
+ both to the Prince and Claudio, as in love of your
+ brother’s honor, who hath made this match, and his
+ friend’s reputation, who is thus like to be cozened
+ with the semblance of a maid, that you have discovered
+ thus. They will scarcely believe this without
+ trial. Offer them instances, which shall bear no less
+ likelihood than to see me at her chamber window,
+ hear me call Margaret “Hero,” hear Margaret term
+ me “Claudio,” and bring them to see this the very
+ night before the intended wedding, for in the meantime
+ I will so fashion the matter that Hero shall be
+ absent, and there shall appear such seeming truth
+FTLN 0813
+FTLN 0814
+FTLN 0815
+FTLN 0816
+15
+FTLN 0817
+FTLN 0818
+FTLN 0819
+FTLN 0820
+FTLN 0821
+20
+FTLN 0822
+FTLN 0823
+FTLN 0824
+FTLN 0825
+FTLN 0826
+25
+FTLN 0827
+FTLN 0828
+FTLN 0829
+FTLN 0830
+FTLN 0831
+30
+FTLN 0832
+FTLN 0833
+FTLN 0834
+FTLN 0835
+FTLN 0836
+35
+FTLN 0837
+FTLN 0838
+FTLN 0839
+FTLN 0840
+FTLN 0841
+40
+FTLN 0842
+FTLN 0843
+FTLN 0844
+FTLN 0845
+FTLN 0846
+45
+FTLN 0847
+FTLN 0848
+
+--- PAGE 35 / 99 ---
+63
+Much Ado About Nothing
+ACT 2. SC. 3
+DON JOHN
+BORACHIO
+DON JOHN
+They  exit.
+BENEDICK
+BOY
+BENEDICK
+BOY
+BENEDICK
+Boy  exits.
+ of Hero’s disloyalty that jealousy shall be called
+ assurance and all the preparation overthrown.
+  Grow this to what adverse issue it can, I will
+ put it in practice. Be cunning in the working this,
+ and thy fee is a thousand ducats.
+  Be you constant in the accusation, and my
+ cunning shall not shame me.
+  I will presently go learn their day of
+ marriage.
+Enter Benedick alone.
+  Boy!
+Enter Boy.
+  Signior?
+  In my chamber window lies a book. Bring it
+ hither to me in the orchard.
+  I am here already, sir.
+  I know that, but I would have thee hence
+ and here again. 
+ I do much wonder that one man, seeing how much
+ another man is a fool when he dedicates his behaviors
+ to love, will, after he hath laughed at such
+ shallow follies in others, become the argument of
+ his own scorn by falling in love—and such a man is
+ Claudio. I have known when there was no music
+ with him but the drum and the fife, and now had he
+ rather hear the tabor and the pipe; I have known
+ when he would have walked ten mile afoot to see a
+ good armor, and now will he lie ten nights awake
+ carving the fashion of a new doublet. He was wont
+ to speak plain and to the purpose, like an honest
+FTLN 0849
+FTLN 0850
+FTLN 0851
+50
+FTLN 0852
+FTLN 0853
+FTLN 0854
+FTLN 0855
+FTLN 0856
+55
+FTLN 0857
+Scene 3
+FTLN 0858
+FTLN 0859
+FTLN 0860
+FTLN 0861
+FTLN 0862
+5
+FTLN 0863
+FTLN 0864
+FTLN 0865
+FTLN 0866
+FTLN 0867
+10
+FTLN 0868
+FTLN 0869
+FTLN 0870
+FTLN 0871
+FTLN 0872
+15
+FTLN 0873
+FTLN 0874
+FTLN 0875
+FTLN 0876
+
+--- PAGE 36 / 99 ---
+65
+Much Ado About Nothing
+ACT 2. SC. 3
+He hides.
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+BALTHASAR
+ man and a soldier, and now is he turned orthography;
+ his words are a very fantastical banquet, just so
+ many strange dishes. May I be so converted and see
+ with these eyes? I cannot tell; I think not. I will not
+ be sworn but love may transform me to an oyster,
+ but I’ll take my oath on it, till he have made an
+ oyster of me, he shall never make me such a fool.
+ One woman is fair, yet I am well; another is wise, yet
+ I am well; another virtuous, yet I am well; but till all
+ graces be in one woman, one woman shall not
+ come in my grace. Rich she shall be, that’s certain;
+ wise, or I’ll none; virtuous, or I’ll never cheapen
+ her; fair, or I’ll never look on her; mild, or come not
+ near me; noble, or not I for an angel; of good
+ discourse, an excellent musician, and her hair shall
+ be of what color it please God. Ha! The Prince and
+ Monsieur Love! I will hide me in the arbor.
+Enter Prince, Leonato, Claudio, and Balthasar
+with music.
+  Come, shall we hear this music?
+ 
+ Yea, my good lord. How still the evening is,
+ As hushed on purpose to grace harmony!
+, aside to Claudio
+ 
+ See you where Benedick hath hid himself?
+, aside to Prince
+ 
+ O, very well my lord. The music ended,
+ We’ll fit the kid-fox with a pennyworth.
+ 
+ Come, Balthasar, we’ll hear that song again.
+ 
+ O, good my lord, tax not so bad a voice
+ To slander music any more than once.
+FTLN 0877
+20
+FTLN 0878
+FTLN 0879
+FTLN 0880
+FTLN 0881
+FTLN 0882
+25
+FTLN 0883
+FTLN 0884
+FTLN 0885
+FTLN 0886
+FTLN 0887
+30
+FTLN 0888
+FTLN 0889
+FTLN 0890
+FTLN 0891
+FTLN 0892
+35
+FTLN 0893
+FTLN 0894
+FTLN 0895
+FTLN 0896
+FTLN 0897
+40
+FTLN 0898
+FTLN 0899
+FTLN 0900
+FTLN 0901
+FTLN 0902
+45
+
+--- PAGE 37 / 99 ---
+67
+Much Ado About Nothing
+ACT 2. SC. 3
+PRINCE
+BALTHASAR
+PRINCE
+BALTHASAR
+PRINCE
+Music plays.
+BENEDICK
+BALTHASAR
+ 
+ It is the witness still of excellency
+ To put a strange face on his own perfection.
+ I pray thee, sing, and let me woo no more.
+ 
+ Because you talk of wooing, I will sing,
+ Since many a wooer doth commence his suit
+ To her he thinks not worthy, yet he woos,
+ Yet will he swear he loves.
+  
+ Nay, pray thee, come,
+ Or if thou wilt hold longer argument,
+ Do it in notes.
+  
+ Note this before my notes:
+ There’s not a note of mine that’s worth the noting.
+ 
+ Why, these are very crotchets that he speaks!
+ Note notes, forsooth, and nothing. 
+, aside
+  Now, divine air! Now is his soul
+ ravished. Is it not strange that sheeps’ guts should
+ hale souls out of men’s bodies? Well, a horn for my
+ money, when all’s done.
+ sings
+ 
+ Sigh no more, ladies, sigh no more,
+  Men were deceivers ever,
+ One foot in sea and one on shore,
+  To one thing constant never.
+ Then sigh not so, but let them go,
+  And be you blithe and bonny,
+ Converting all your sounds of woe
+  Into Hey, nonny nonny.
+ Sing no more ditties, sing no mo,
+  Of dumps so dull and heavy.
+ The fraud of men was ever so,
+  Since summer first was leavy.
+FTLN 0903
+FTLN 0904
+FTLN 0905
+FTLN 0906
+FTLN 0907
+50
+FTLN 0908
+FTLN 0909
+FTLN 0910
+FTLN 0911
+FTLN 0912
+55
+FTLN 0913
+FTLN 0914
+FTLN 0915
+FTLN 0916
+FTLN 0917
+60
+FTLN 0918
+FTLN 0919
+FTLN 0920
+FTLN 0921
+FTLN 0922
+65
+FTLN 0923
+FTLN 0924
+FTLN 0925
+FTLN 0926
+FTLN 0927
+70
+FTLN 0928
+FTLN 0929
+FTLN 0930
+FTLN 0931
+FTLN 0932
+75
+
+--- PAGE 38 / 99 ---
+69
+Much Ado About Nothing
+ACT 2. SC. 3
+PRINCE
+BALTHASAR
+PRINCE
+BENEDICK
+PRINCE
+BALTHASAR
+PRINCE
+Balthasar exits.
+CLAUDIO
+LEONATO
+BENEDICK
+LEONATO
+PRINCE
+CLAUDIO
+ Then sigh not so, but let them go,
+  And be you blithe and bonny,
+ Converting all your sounds of woe
+  Into Hey, nonny nonny.
+  By my troth, a good song.
+  And an ill singer, my lord.
+  Ha, no, no, faith, thou sing’st well enough for a
+ shift.
+, aside
+  An he had been a dog that should
+ have howled thus, they would have hanged him. And
+ I pray God his bad voice bode no mischief. I had as
+ lief have heard the night raven, come what plague
+ could have come after it.
+  Yea, marry, dost thou hear, Balthasar? I pray
+ thee get us some excellent music, for tomorrow
+ night we would have it at the Lady Hero’s chamber
+ window.
+  The best I can, my lord.
+  Do so. Farewell. 
+ Come hither, Leonato. What was it you told me of
+ today, that your niece Beatrice was in love with
+ Signior Benedick?
+  O, ay.  Aside to Prince.  Stalk on, stalk on; the
+ fowl sits.—I did never think that lady would have
+ loved any man.
+  No, nor I neither, but most wonderful that
+ she should so dote on Signior Benedick, whom she
+ hath in all outward behaviors seemed ever to
+ abhor.
+, aside
+  Is ’t possible? Sits the wind in that
+ corner?
+  By my troth, my lord, I cannot tell what to
+ think of it, but that she loves him with an enraged
+ affection, it is past the infinite of thought.
+  Maybe she doth but counterfeit.
+  Faith, like enough.
+FTLN 0933
+FTLN 0934
+FTLN 0935
+FTLN 0936
+FTLN 0937
+80
+FTLN 0938
+FTLN 0939
+FTLN 0940
+FTLN 0941
+FTLN 0942
+85
+FTLN 0943
+FTLN 0944
+FTLN 0945
+FTLN 0946
+FTLN 0947
+90
+FTLN 0948
+FTLN 0949
+FTLN 0950
+FTLN 0951
+FTLN 0952
+95
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+FTLN 0957
+100
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+FTLN 0962
+105
+FTLN 0963
+FTLN 0964
+FTLN 0965
+FTLN 0966
+FTLN 0967
+110
+FTLN 0968
+
+--- PAGE 39 / 99 ---
+71
+Much Ado About Nothing
+ACT 2. SC. 3
+LEONATO
+PRINCE
+CLAUDIO
+LEONATO
+CLAUDIO
+PRINCE
+LEONATO
+BENEDICK
+CLAUDIO
+PRINCE
+LEONATO
+CLAUDIO
+LEONATO
+CLAUDIO
+LEONATO
+CLAUDIO
+  O God! Counterfeit? There was never counterfeit
+ of passion came so near the life of passion as
+ she discovers it.
+  Why, what effects of passion shows she?
+, aside to Leonato
+  Bait the hook well; this fish
+ will bite.
+  What effects, my lord? She will sit you—you
+ heard my daughter tell you how.
+  She did indeed.
+  How, how I pray you? You amaze me. I would
+ have thought her spirit had been invincible against
+ all assaults of affection.
+  I would have sworn it had, my lord, especially
+ against Benedick.
+, aside
+  I should think this a gull but that the
+ white-bearded fellow speaks it. Knavery cannot,
+ sure, hide himself in such reverence.
+, aside to Prince
+  He hath ta’en th’ infection.
+ Hold it up.
+  Hath she made her affection known to
+ Benedick?
+  No, and swears she never will. That’s her
+ torment.
+  ’Tis true indeed, so your daughter says. “Shall
+ I,” says she, “that have so oft encountered him with
+ scorn, write to him that I love him?”
+  This says she now when she is beginning to
+ write to him, for she’ll be up twenty times a night,
+ and there will she sit in her smock till she have writ
+ a sheet of paper. My daughter tells us all.
+  Now you talk of a sheet of paper, I remember
+ a pretty jest your daughter told us of.
+  O, when she had writ it and was reading it
+ over, she found “Benedick” and “Beatrice” between
+ the sheet?
+  That.
+FTLN 0969
+FTLN 0970
+FTLN 0971
+FTLN 0972
+115
+FTLN 0973
+FTLN 0974
+FTLN 0975
+FTLN 0976
+FTLN 0977
+120
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+FTLN 0982
+125
+FTLN 0983
+FTLN 0984
+FTLN 0985
+FTLN 0986
+FTLN 0987
+130
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+FTLN 0992
+135
+FTLN 0993
+FTLN 0994
+FTLN 0995
+FTLN 0996
+FTLN 0997
+140
+FTLN 0998
+FTLN 0999
+FTLN 1000
+FTLN 1001
+FTLN 1002
+145
+FTLN 1003
+FTLN 1004
+
+--- PAGE 40 / 99 ---
+73
+Much Ado About Nothing
+ACT 2. SC. 3
+LEONATO
+CLAUDIO
+LEONATO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+LEONATO
+PRINCE
+LEONATO
+CLAUDIO
+  O, she tore the letter into a thousand halfpence,
+ railed at herself that she should be so
+ immodest to write to one that she knew would flout
+ her. “I measure him,” says she, “by my own spirit,
+ for I should flout him if he writ to me, yea, though I
+ love him, I should.”
+  Then down upon her knees she falls, weeps,
+ sobs, beats her heart, tears her hair, prays, curses:
+ “O sweet Benedick, God give me patience!”
+  She doth indeed, my daughter says so, and
+ the ecstasy hath so much overborne her that my
+ daughter is sometimes afeared she will do a desperate
+ outrage to herself. It is very true.
+  It were good that Benedick knew of it by some
+ other, if she will not discover it.
+  To what end? He would make but a sport of it
+ and torment the poor lady worse.
+  An he should, it were an alms to hang him.
+ She’s an excellent sweet lady, and, out of all suspicion,
+ she is virtuous.
+  And she is exceeding wise.
+  In everything but in loving Benedick.
+  O, my lord, wisdom and blood combating in
+ so tender a body, we have ten proofs to one that
+ blood hath the victory. I am sorry for her, as I have
+ just cause, being her uncle and her guardian.
+  I would she had bestowed this dotage on me. I
+ would have daffed all other respects and made her
+ half myself. I pray you tell Benedick of it, and hear
+ what he will say.
+  Were it good, think you?
+  Hero thinks surely she will die, for she says
+ she will die if he love her not, and she will die ere
+ she make her love known, and she will die if he woo
+ her rather than she will bate one breath of her
+ accustomed crossness.
+FTLN 1005
+FTLN 1006
+FTLN 1007
+150
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+FTLN 1012
+155
+FTLN 1013
+FTLN 1014
+FTLN 1015
+FTLN 1016
+FTLN 1017
+160
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+FTLN 1022
+165
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+FTLN 1027
+170
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+FTLN 1032
+175
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+FTLN 1037
+180
+FTLN 1038
+FTLN 1039
+FTLN 1040
+
+--- PAGE 41 / 99 ---
+75
+Much Ado About Nothing
+ACT 2. SC. 3
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+LEONATO
+PRINCE
+CLAUDIO
+LEONATO
+PRINCE
+LEONATO
+Leonato, Prince, and Claudio begin to exit.
+CLAUDIO
+PRINCE
+  She doth well. If she should make tender of
+ her love, ’tis very possible he’ll scorn it, for the man,
+ as you know all, hath a contemptible spirit.
+  He is a very proper man.
+  He hath indeed a good outward happiness.
+  Before God, and in my mind, very wise.
+  He doth indeed show some sparks that are like
+ wit.
+  And I take him to be valiant.
+  As Hector, I assure you, and in the managing
+ of quarrels you may say he is wise, for either he
+ avoids them with great discretion or undertakes
+ them with a most Christianlike fear.
+  If he do fear God, he must necessarily keep
+ peace. If he break the peace, he ought to enter into
+ a quarrel with fear and trembling.
+  And so will he do, for the man doth fear God,
+ howsoever it seems not in him by some large jests
+ he will make. Well, I am sorry for your niece. Shall
+ we go seek Benedick and tell him of her love?
+  Never tell him, my lord, let her wear it out
+ with good counsel.
+  Nay, that’s impossible; she may wear her
+ heart out first.
+  Well, we will hear further of it by your daughter.
+ Let it cool the while. I love Benedick well, and I
+ could wish he would modestly examine himself to
+ see how much he is unworthy so good a lady.
+  My lord, will you walk? Dinner is ready.
+, aside to Prince and Leonato
+  If he do not
+ dote on her upon this, I will never trust my
+ expectation.
+, aside to Leonato
+  Let there be the same net
+ spread for her, and that must your daughter and her
+ gentlewomen carry. The sport will be when they
+FTLN 1041
+FTLN 1042
+185
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+FTLN 1047
+190
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+FTLN 1052
+195
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+FTLN 1057
+200
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+FTLN 1062
+205
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+FTLN 1067
+210
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+FTLN 1072
+215
+FTLN 1073
+FTLN 1074
+FTLN 1075
+
+--- PAGE 42 / 99 ---
+77
+Much Ado About Nothing
+ACT 2. SC. 3
+Prince, Leonato, and Claudio exit.
+BENEDICK
+BEATRICE
+BENEDICK
+ hold one an opinion of another’s dotage, and no
+ such matter. That’s the scene that I would see,
+ which will be merely a dumb show. Let us send her
+ to call him in to dinner.
+, coming forward
+  This can be no trick. The
+ conference was sadly borne; they have the truth of
+ this from Hero; they seem to pity the lady. It seems
+ her affections have their full bent. Love me? Why, it
+ must be requited! I hear how I am censured. They
+ say I will bear myself proudly if I perceive the love
+ come from her. They say, too, that she will rather
+ die than give any sign of affection. I did never think
+ to marry. I must not seem proud. Happy are they
+ that hear their detractions and can put them to
+ mending. They say the lady is fair; ’tis a truth, I can
+ bear them witness. And virtuous; ’tis so, I cannot
+ reprove it. And wise, but for loving me; by my troth,
+ it is no addition to her wit, nor no great argument of
+ her folly, for I will be horribly in love with her! I
+ may chance have some odd quirks and remnants of
+ wit broken on me because I have railed so long
+ against marriage, but doth not the appetite alter? A
+ man loves the meat in his youth that he cannot
+ endure in his age. Shall quips and sentences and
+ these paper bullets of the brain awe a man from the
+ career of his humor? No! The world must be peopled.
+ When I said I would die a bachelor, I did not
+ think I should live till I were married. Here comes
+ Beatrice. By this day, she’s a fair lady. I do spy some
+ marks of love in her.
+Enter Beatrice.
+  Against my will, I am sent to bid you come
+ in to dinner.
+  Fair Beatrice, I thank you for your pains.
+FTLN 1076
+FTLN 1077
+220
+FTLN 1078
+FTLN 1079
+FTLN 1080
+FTLN 1081
+FTLN 1082
+225
+FTLN 1083
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+230
+FTLN 1088
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+235
+FTLN 1093
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+240
+FTLN 1098
+FTLN 1099
+FTLN 1100
+FTLN 1101
+FTLN 1102
+245
+FTLN 1103
+FTLN 1104
+FTLN 1105
+FTLN 1106
+FTLN 1107
+250
+FTLN 1108
+
+--- PAGE 43 / 99 ---
+79
+Much Ado About Nothing
+ACT 2. SC. 3
+BEATRICE
+BENEDICK
+BEATRICE
+She exits.
+BENEDICK
+He exits.
+  I took no more pains for those thanks than
+ you take pains to thank me. If it had been painful, I
+ would not have come.
+  You take pleasure then in the message?
+  Yea, just so much as you may take upon a
+ knife’s point and choke a daw withal. You have no
+ stomach, signior. Fare you well. 
+  Ha! “Against my will I am sent to bid you
+ come in to dinner.” There’s a double meaning in
+ that. “I took no more pains for those thanks than
+ you took pains to thank me.” That’s as much as to
+ say “Any pains that I take for you is as easy as
+ thanks.” If I do not take pity of her, I am a villain; if I
+ do not love her, I am a Jew. I will go get her picture.
+FTLN 1109
+FTLN 1110
+FTLN 1111
+FTLN 1112
+255
+FTLN 1113
+FTLN 1114
+FTLN 1115
+FTLN 1116
+FTLN 1117
+260
+FTLN 1118
+FTLN 1119
+FTLN 1120
+FTLN 1121
+FTLN 1122
+265
+
+--- PAGE 44 / 99 ---
+HERO
+MARGARET
+She exits.
+HERO
+Enter Hero and two gentlewomen, Margaret and Ursula.
+ 
+ Good Margaret, run thee to the parlor.
+ There shalt thou find my cousin Beatrice
+ Proposing with the Prince and Claudio.
+ Whisper her ear and tell her I and Ursula
+ Walk in the orchard, and our whole discourse
+ Is all of her. Say that thou overheardst us,
+ And bid her steal into the pleachèd bower
+ Where honeysuckles ripened by the sun
+ Forbid the sun to enter, like favorites,
+ Made proud by princes, that advance their pride
+ Against that power that bred it. There will she hide
+ her
+ To listen our propose. This is thy office.
+ Bear thee well in it, and leave us alone.
+ 
+ I’ll make her come, I warrant you, presently.
+ 
+ Now, Ursula, when Beatrice doth come,
+ As we do trace this alley up and down,
+ Our talk must only be of Benedick.
+ When I do name him, let it be thy part
+ To praise him more than ever man did merit.
+83
+ACT 3
+Scene 1
+FTLN 1123
+FTLN 1124
+FTLN 1125
+FTLN 1126
+FTLN 1127
+5
+FTLN 1128
+FTLN 1129
+FTLN 1130
+FTLN 1131
+FTLN 1132
+10
+FTLN 1133
+FTLN 1134
+FTLN 1135
+FTLN 1136
+FTLN 1137
+15
+FTLN 1138
+FTLN 1139
+FTLN 1140
+FTLN 1141
+FTLN 1142
+20
+
+--- PAGE 45 / 99 ---
+85
+Much Ado About Nothing
+ACT 3. SC. 1
+URSULA
+HERO
+They walk near the bower.
+URSULA
+HERO
+URSULA
+HERO
+URSULA
+ My talk to thee must be how Benedick
+ Is sick in love with Beatrice. Of this matter
+ Is little Cupid’s crafty arrow made,
+ That only wounds by hearsay. Now begin,
+ For look where Beatrice like a lapwing runs
+ Close by the ground, to hear our conference.
+Enter Beatrice, who hides in the bower.
+, aside to Hero
+ 
+ The pleasant’st angling is to see the fish
+ Cut with her golden oars the silver stream
+ And greedily devour the treacherous bait.
+ So angle we for Beatrice, who even now
+ Is couchèd in the woodbine coverture.
+ Fear you not my part of the dialogue.
+, aside to Ursula
+ 
+ Then go we near her, that her ear lose nothing
+ Of the false sweet bait that we lay for it.—
+ No, truly, Ursula, she is too disdainful.
+ I know her spirits are as coy and wild
+ As haggards of the rock.
+  
+ But are you sure
+ That Benedick loves Beatrice so entirely?
+ 
+ So says the Prince and my new-trothèd lord.
+ 
+ And did they bid you tell her of it, madam?
+ 
+ They did entreat me to acquaint her of it,
+ But I persuaded them, if they loved Benedick,
+ To wish him wrestle with affection
+ And never to let Beatrice know of it.
+ 
+ Why did you so? Doth not the gentleman
+FTLN 1143
+FTLN 1144
+FTLN 1145
+FTLN 1146
+FTLN 1147
+25
+FTLN 1148
+FTLN 1149
+FTLN 1150
+FTLN 1151
+FTLN 1152
+30
+FTLN 1153
+FTLN 1154
+FTLN 1155
+FTLN 1156
+FTLN 1157
+35
+FTLN 1158
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+40
+FTLN 1163
+FTLN 1164
+FTLN 1165
+FTLN 1166
+FTLN 1167
+45
+FTLN 1168
+
+--- PAGE 46 / 99 ---
+87
+Much Ado About Nothing
+ACT 3. SC. 1
+HERO
+URSULA
+HERO
+URSULA
+HERO
+ Deserve as full as fortunate a bed
+ As ever Beatrice shall couch upon?
+ 
+ O god of love! I know he doth deserve
+ As much as may be yielded to a man,
+ But Nature never framed a woman’s heart
+ Of prouder stuff than that of Beatrice.
+ Disdain and scorn ride sparkling in her eyes,
+ Misprizing what they look on, and her wit
+ Values itself so highly that to her
+ All matter else seems weak. She cannot love,
+ Nor take no shape nor project of affection,
+ She is so self-endeared.
+  
+ Sure, I think so,
+ And therefore certainly it were not good
+ She knew his love, lest she’ll make sport at it.
+ 
+ Why, you speak truth. I never yet saw man,
+ How wise, how noble, young, how rarely featured,
+ But she would spell him backward. If fair-faced,
+ She would swear the gentleman should be her
+ sister;
+ If black, why, Nature, drawing of an antic,
+ Made a foul blot; if tall, a lance ill-headed;
+ If low, an agate very vilely cut;
+ If speaking, why, a vane blown with all winds;
+ If silent, why, a block moved with none.
+ So turns she every man the wrong side out,
+ And never gives to truth and virtue that
+ Which simpleness and merit purchaseth.
+ 
+ Sure, sure, such carping is not commendable.
+ 
+ No, not to be so odd and from all fashions
+ As Beatrice is cannot be commendable.
+ But who dare tell her so? If I should speak,
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+50
+FTLN 1173
+FTLN 1174
+FTLN 1175
+FTLN 1176
+FTLN 1177
+55
+FTLN 1178
+FTLN 1179
+FTLN 1180
+FTLN 1181
+FTLN 1182
+60
+FTLN 1183
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+65
+FTLN 1188
+FTLN 1189
+FTLN 1190
+FTLN 1191
+FTLN 1192
+70
+FTLN 1193
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+75
+FTLN 1198
+FTLN 1199
+FTLN 1200
+
+--- PAGE 47 / 99 ---
+89
+Much Ado About Nothing
+ACT 3. SC. 1
+URSULA
+HERO
+URSULA
+HERO
+URSULA
+HERO
+URSULA
+HERO
+ She would mock me into air. O, she would laugh
+ me
+ Out of myself, press me to death with wit.
+ Therefore let Benedick, like covered fire,
+ Consume away in sighs, waste inwardly.
+ It were a better death than die with mocks,
+ Which is as bad as die with tickling.
+ 
+ Yet tell her of it. Hear what she will say.
+ 
+ No, rather I will go to Benedick
+ And counsel him to fight against his passion;
+ And truly I’ll devise some honest slanders
+ To stain my cousin with. One doth not know
+ How much an ill word may empoison liking.
+ 
+ O, do not do your cousin such a wrong!
+ She cannot be so much without true judgment,
+ Having so swift and excellent a wit
+ As she is prized to have, as to refuse
+ So rare a gentleman as Signior Benedick.
+ 
+ He is the only man of Italy,
+ Always excepted my dear Claudio.
+ 
+ I pray you be not angry with me, madam,
+ Speaking my fancy: Signior Benedick,
+ For shape, for bearing, argument, and valor,
+ Goes foremost in report through Italy.
+ 
+ Indeed, he hath an excellent good name.
+ 
+ His excellence did earn it ere he had it.
+ When are you married, madam?
+ 
+ Why, every day, tomorrow. Come, go in.
+FTLN 1201
+FTLN 1202
+80
+FTLN 1203
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+85
+FTLN 1208
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+90
+FTLN 1213
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+95
+FTLN 1218
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+100
+FTLN 1223
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+105
+FTLN 1228
+
+--- PAGE 48 / 99 ---
+91
+Much Ado About Nothing
+ACT 3. SC. 2
+They move away from the bower.
+URSULA
+HERO
+Hero and Ursula exit.
+BEATRICE
+She exits.
+PRINCE
+CLAUDIO
+PRINCE
+ I’ll show thee some attires and have thy counsel
+ Which is the best to furnish me tomorrow.
+, aside to Hero
+ 
+ She’s limed, I warrant you. We have caught her,
+ madam.
+, aside to Ursula
+ 
+ If it prove so, then loving goes by haps;
+ Some Cupid kills with arrows, some with traps.
+, coming forward
+ 
+ What fire is in mine ears? Can this be true?
+  Stand I condemned for pride and scorn so much?
+ Contempt, farewell, and maiden pride, adieu!
+  No glory lives behind the back of such.
+ And Benedick, love on; I will requite thee,
+  Taming my wild heart to thy loving hand.
+ If thou dost love, my kindness shall incite thee
+  To bind our loves up in a holy band.
+ For others say thou dost deserve, and I
+ Believe it better than reportingly.
+Enter Prince, Claudio, Benedick, and Leonato.
+  I do but stay till your marriage be consummate,
+ and then go I toward Aragon.
+  I’ll bring you thither, my lord, if you’ll vouchsafe
+ me.
+  Nay, that would be as great a soil in the new
+ gloss of your marriage as to show a child his new
+ coat and forbid him to wear it. I will only be bold
+ with Benedick for his company, for from the crown
+ of his head to the sole of his foot he is all mirth. He
+FTLN 1229
+FTLN 1230
+FTLN 1231
+FTLN 1232
+110
+FTLN 1233
+FTLN 1234
+FTLN 1235
+FTLN 1236
+FTLN 1237
+115
+FTLN 1238
+FTLN 1239
+FTLN 1240
+FTLN 1241
+FTLN 1242
+120
+FTLN 1243
+FTLN 1244
+Scene 2
+FTLN 1245
+FTLN 1246
+FTLN 1247
+FTLN 1248
+FTLN 1249
+5
+FTLN 1250
+FTLN 1251
+FTLN 1252
+FTLN 1253
+
+--- PAGE 49 / 99 ---
+93
+Much Ado About Nothing
+ACT 3. SC. 2
+BENEDICK
+LEONATO
+CLAUDIO
+PRINCE
+BENEDICK
+PRINCE
+BENEDICK
+CLAUDIO
+PRINCE
+LEONATO
+BENEDICK
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+ hath twice or thrice cut Cupid’s bowstring, and the
+ little hangman dare not shoot at him. He hath a
+ heart as sound as a bell, and his tongue is the
+ clapper, for what his heart thinks, his tongue
+ speaks.
+  Gallants, I am not as I have been.
+  So say I. Methinks you are sadder.
+  I hope he be in love.
+  Hang him, truant! There’s no true drop of
+ blood in him to be truly touched with love. If he be
+ sad, he wants money.
+  I have the toothache.
+  Draw it.
+  Hang it!
+  You must hang it first, and draw it afterwards.
+  What, sigh for the toothache?
+  Where is but a humor or a worm.
+  Well, everyone can  master a grief but he
+ that has it.
+  Yet say I, he is in love.
+  There is no appearance of fancy in him, unless
+ it be a fancy that he hath to strange disguises, as to
+ be a Dutchman today, a Frenchman tomorrow, or
+ in the shape of two countries at once, as a German
+ from the waist downward, all slops, and a Spaniard
+ from the hip upward, no doublet. Unless he have a
+ fancy to this foolery, as it appears he hath, he is no
+ fool for fancy, as you would have it appear he is.
+  If he be not in love with some woman, there
+ is no believing old signs. He brushes his hat o’
+ mornings. What should that bode?
+  Hath any man seen him at the barber’s?
+  No, but the barber’s man hath been seen
+ with him, and the old ornament of his cheek hath
+ already stuffed tennis balls.
+FTLN 1254
+10
+FTLN 1255
+FTLN 1256
+FTLN 1257
+FTLN 1258
+FTLN 1259
+15
+FTLN 1260
+FTLN 1261
+FTLN 1262
+FTLN 1263
+FTLN 1264
+20
+FTLN 1265
+FTLN 1266
+FTLN 1267
+FTLN 1268
+FTLN 1269
+25
+FTLN 1270
+FTLN 1271
+FTLN 1272
+FTLN 1273
+FTLN 1274
+30
+FTLN 1275
+FTLN 1276
+FTLN 1277
+FTLN 1278
+FTLN 1279
+35
+FTLN 1280
+FTLN 1281
+FTLN 1282
+FTLN 1283
+FTLN 1284
+40
+FTLN 1285
+FTLN 1286
+FTLN 1287
+FTLN 1288
+
+--- PAGE 50 / 99 ---
+95
+Much Ado About Nothing
+ACT 3. SC. 2
+LEONATO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+BENEDICK
+Benedick and Leonato exit.
+PRINCE
+CLAUDIO
+DON JOHN
+PRINCE
+DON JOHN
+PRINCE
+  Indeed he looks younger than he did, by the
+ loss of a beard.
+  Nay, he rubs himself with civet. Can you smell
+ him out by that?
+  That’s as much as to say, the sweet youth’s in
+ love.
+  The greatest note of it is his melancholy.
+  And when was he wont to wash his face?
+  Yea, or to paint himself? For the which I hear
+ what they say of him.
+  Nay, but his jesting spirit, which is now crept
+ into a lute string and now governed by stops—
+  Indeed, that tells a heavy tale for him. Conclude,
+ conclude, he is in love.
+  Nay, but I know who loves him.
+  That would I know, too. I warrant, one that
+ knows him not.
+  Yes, and his ill conditions; and, in despite of
+ all, dies for him.
+  She shall be buried with her face upwards.
+  Yet is this no charm for the toothache.—
+ Old signior, walk aside with me. I have studied eight
+ or nine wise words to speak to you, which these
+ hobby-horses must not hear.
+  For my life, to break with him about Beatrice!
+  ’Tis even so. Hero and Margaret have by this
+ played their parts with Beatrice, and then the two
+ bears will not bite one another when they meet.
+Enter John the Bastard.
+  My lord and brother, God save you.
+  Good e’en, brother.
+  If your leisure served, I would speak with
+ you.
+  In private?
+FTLN 1289
+45
+FTLN 1290
+FTLN 1291
+FTLN 1292
+FTLN 1293
+FTLN 1294
+50
+FTLN 1295
+FTLN 1296
+FTLN 1297
+FTLN 1298
+FTLN 1299
+55
+FTLN 1300
+FTLN 1301
+FTLN 1302
+FTLN 1303
+FTLN 1304
+60
+FTLN 1305
+FTLN 1306
+FTLN 1307
+FTLN 1308
+FTLN 1309
+65
+FTLN 1310
+FTLN 1311
+FTLN 1312
+FTLN 1313
+FTLN 1314
+70
+FTLN 1315
+FTLN 1316
+FTLN 1317
+FTLN 1318
+FTLN 1319
+75
+FTLN 1320
+FTLN 1321
+
+--- PAGE 51 / 99 ---
+97
+Much Ado About Nothing
+ACT 3. SC. 2
+DON JOHN
+PRINCE
+DON JOHN
+PRINCE
+DON JOHN
+CLAUDIO
+DON JOHN
+PRINCE
+DON JOHN
+CLAUDIO
+DON JOHN
+CLAUDIO
+DON JOHN
+CLAUDIO
+PRINCE
+DON JOHN
+  If it please you. Yet Count Claudio may
+ hear, for what I would speak of concerns him.
+  What’s the matter?
+, to Claudio
+  Means your Lordship to be
+ married tomorrow?
+  You know he does.
+  I know not that, when he knows what I
+ know.
+  If there be any impediment, I pray you discover
+ it.
+  You may think I love you not. Let that
+ appear hereafter, and aim better at me by that I
+ now will manifest. For my brother, I think he holds
+ you well, and in dearness of heart hath holp to effect
+ your ensuing marriage—surely suit ill spent and
+ labor ill bestowed.
+  Why, what’s the matter?
+  I came hither to tell you; and, circumstances
+ shortened, for she has been too long
+ a-talking of, the lady is disloyal.
+  Who, Hero?
+  Even she: Leonato’s Hero, your Hero, every
+ man’s Hero.
+  Disloyal?
+  The word is too good to paint out her
+ wickedness. I could say she were worse. Think you
+ of a worse title, and I will fit her to it. Wonder not
+ till further warrant. Go but with me tonight, you
+ shall see her chamber window entered, even the
+ night before her wedding day. If you love her then,
+ tomorrow wed her. But it would better fit your
+ honor to change your mind.
+, to Prince
+  May this be so?
+  I will not think it.
+  If you dare not trust that you see, confess
+ not that you know. If you will follow me, I will
+FTLN 1322
+FTLN 1323
+FTLN 1324
+80
+FTLN 1325
+FTLN 1326
+FTLN 1327
+FTLN 1328
+FTLN 1329
+85
+FTLN 1330
+FTLN 1331
+FTLN 1332
+FTLN 1333
+FTLN 1334
+90
+FTLN 1335
+FTLN 1336
+FTLN 1337
+FTLN 1338
+FTLN 1339
+95
+FTLN 1340
+FTLN 1341
+FTLN 1342
+FTLN 1343
+FTLN 1344
+100
+FTLN 1345
+FTLN 1346
+FTLN 1347
+FTLN 1348
+FTLN 1349
+105
+FTLN 1350
+FTLN 1351
+FTLN 1352
+FTLN 1353
+FTLN 1354
+110
+FTLN 1355
+FTLN 1356
+FTLN 1357
+
+--- PAGE 52 / 99 ---
+99
+Much Ado About Nothing
+ACT 3. SC. 3
+CLAUDIO
+PRINCE
+DON JOHN
+PRINCE
+CLAUDIO
+DON JOHN
+They exit.
+DOGBERRY
+VERGES
+DOGBERRY
+VERGES
+DOGBERRY
+FIRST WATCHMAN
+DOGBERRY
+ show you enough, and when you have seen more
+ and heard more, proceed accordingly.
+  If I see anything tonight why I should not
+ marry her, tomorrow in the congregation, where I
+ should wed, there will I shame her.
+  And as I wooed for thee to obtain her, I will
+ join with thee to disgrace her.
+  I will disparage her no farther till you are
+ my witnesses. Bear it coldly but till midnight, and
+ let the issue show itself.
+  O day untowardly turned!
+  O mischief strangely thwarting!
+  O plague right well prevented! So will you
+ say when you have seen the sequel.
+Enter Dogberry and his compartner Verges
+with the Watch.
+  Are you good men and true?
+  Yea, or else it were pity but they should suffer
+ salvation, body and soul.
+  Nay, that were a punishment too good for
+ them if they should have any allegiance in them,
+ being chosen for the Prince’s watch.
+  Well, give them their charge, neighbor
+ Dogberry.
+  First, who think you the most desartless
+ man to be constable?
+  Hugh Oatcake, sir, or George Seacoal,
+ for they can write and read.
+  Come hither, neighbor Seacoal.  Seacoal
+ steps forward.   God hath blessed you with a good
+FTLN 1358
+FTLN 1359
+115
+FTLN 1360
+FTLN 1361
+FTLN 1362
+FTLN 1363
+FTLN 1364
+120
+FTLN 1365
+FTLN 1366
+FTLN 1367
+FTLN 1368
+FTLN 1369
+125
+FTLN 1370
+FTLN 1371
+Scene 3
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+FTLN 1376
+5
+FTLN 1377
+FTLN 1378
+FTLN 1379
+FTLN 1380
+FTLN 1381
+10
+FTLN 1382
+FTLN 1383
+FTLN 1384
+FTLN 1385
+
+--- PAGE 53 / 99 ---
+101
+Much Ado About Nothing
+ACT 3. SC. 3
+SEACOAL
+DOGBERRY
+SEACOAL
+DOGBERRY
+VERGES
+DOGBERRY
+SECOND  WATCHMAN
+DOGBERRY
+SEACOAL
+DOGBERRY
+SEACOAL
+DOGBERRY
+ name. To be a well-favored man is the gift of
+ fortune, but to write and read comes by nature.
+  Both which, master constable—
+  You have. I knew it would be your answer.
+ Well, for your favor, sir, why, give God thanks, and
+ make no boast of it, and for your writing and
+ reading, let that appear when there is no need of
+ such vanity. You are thought here to be the most
+ senseless and fit man for the constable of the watch;
+ therefore bear you the lantern. This is your charge:
+ you shall comprehend all vagrom men; you are to
+ bid any man stand, in the Prince’s name.
+  How if he will not stand?
+  Why, then, take no note of him, but let him
+ go, and presently call the rest of the watch together
+ and thank God you are rid of a knave.
+  If he will not stand when he is bidden, he is
+ none of the Prince’s subjects.
+  True, and they are to meddle with none but
+ the Prince’s subjects.—You shall also make no
+ noise in the streets; for, for the watch to babble and
+ to talk is most tolerable and not to be endured.
+  We will rather sleep than talk.
+ We know what belongs to a watch.
+  Why, you speak like an ancient and most
+ quiet watchman, for I cannot see how sleeping
+ should offend; only have a care that your bills be not
+ stolen. Well, you are to call at all the alehouses and
+ bid those that are drunk get them to bed.
+  How if they will not?
+  Why then, let them alone till they are sober.
+ If they make you not then the better answer, you
+ may say they are not the men you took them for.
+  Well, sir.
+  If you meet a thief, you may suspect him, by
+ virtue of your office, to be no true man, and for such
+FTLN 1386
+15
+FTLN 1387
+FTLN 1388
+FTLN 1389
+FTLN 1390
+FTLN 1391
+20
+FTLN 1392
+FTLN 1393
+FTLN 1394
+FTLN 1395
+FTLN 1396
+25
+FTLN 1397
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+30
+FTLN 1402
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+35
+FTLN 1407
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+40
+FTLN 1412
+FTLN 1413
+FTLN 1414
+FTLN 1415
+FTLN 1416
+45
+FTLN 1417
+FTLN 1418
+FTLN 1419
+FTLN 1420
+FTLN 1421
+50
+
+--- PAGE 54 / 99 ---
+103
+Much Ado About Nothing
+ACT 3. SC. 3
+SEACOAL
+DOGBERRY
+VERGES
+DOGBERRY
+VERGES
+SECOND  WATCHMAN
+DOGBERRY
+VERGES
+DOGBERRY
+VERGES
+DOGBERRY
+VERGES
+DOGBERRY
+Dogberry and Verges begin to exit.
+ kind of men, the less you meddle or make with
+ them, why, the more is for your honesty.
+  If we know him to be a thief, shall we not
+ lay hands on him?
+  Truly, by your office you may, but I think
+ they that touch pitch will be defiled. The most
+ peaceable way for you, if you do take a thief, is to
+ let him show himself what he is and steal out of
+ your company.
+  You have been always called a merciful man,
+ partner.
+  Truly, I would not hang a dog by my will,
+ much more a man who hath any honesty in him.
+, to the Watch
+  If you hear a child cry in the
+ night, you must call to the nurse and bid her still it.
+  How if the nurse be asleep and
+ will not hear us?
+  Why, then depart in peace, and let the
+ child wake her with crying, for the ewe that will
+ not hear her lamb when it baas will never answer a
+ calf when he bleats.
+  ’Tis very true.
+  This is the end of the charge. You, constable,
+ are to present the Prince’s own person. If you
+ meet the Prince in the night, you may stay him.
+  Nay, by ’r Lady, that I think he cannot.
+  Five shillings to one on ’t, with any man that
+ knows the statutes, he may stay him—marry, not
+ without the Prince be willing, for indeed the watch
+ ought to offend no man, and it is an offense to stay a
+ man against his will.
+  By ’r Lady, I think it be so.
+  Ha, ah ha!—Well, masters, goodnight. An
+ there be any matter of weight chances, call up me.
+ Keep your fellows’ counsels and your own, and
+ goodnight.—Come, neighbor.
+FTLN 1422
+FTLN 1423
+FTLN 1424
+FTLN 1425
+FTLN 1426
+55
+FTLN 1427
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+60
+FTLN 1432
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+65
+FTLN 1437
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+70
+FTLN 1442
+FTLN 1443
+FTLN 1444
+FTLN 1445
+FTLN 1446
+75
+FTLN 1447
+FTLN 1448
+FTLN 1449
+FTLN 1450
+FTLN 1451
+80
+FTLN 1452
+FTLN 1453
+FTLN 1454
+FTLN 1455
+FTLN 1456
+85
+FTLN 1457
+
+--- PAGE 55 / 99 ---
+105
+Much Ado About Nothing
+ACT 3. SC. 3
+SEACOAL
+DOGBERRY
+Dogberry and Verges  exit.
+BORACHIO
+SEACOAL
+BORACHIO
+CONRADE
+BORACHIO
+CONRADE
+BORACHIO
+SEACOAL
+BORACHIO
+CONRADE
+BORACHIO
+CONRADE
+BORACHIO
+  Well, masters, we hear our charge. Let us go
+ sit here upon the church bench till two, and then all
+ to bed.
+  One word more, honest neighbors. I pray
+ you watch about Signior Leonato’s door, for the
+ wedding being there tomorrow, there is a great coil
+ tonight. Adieu, be vigitant, I beseech you.
+Enter Borachio and Conrade.
+  What, Conrade!
+, aside
+  Peace, stir not.
+  Conrade, I say!
+  Here, man, I am at thy elbow.
+  Mass, and my elbow itched, I thought there
+ would a scab follow.
+  I will owe thee an answer for that. And now
+ forward with thy tale.
+  Stand thee close, then, under this penthouse,
+ for it drizzles rain, and I will, like a true
+ drunkard, utter all to thee.
+, aside
+  Some treason, masters. Yet stand
+ close.
+  Therefore know, I have earned of Don
+ John a thousand ducats.
+  Is it possible that any villainy should be so
+ dear?
+  Thou shouldst rather ask if it were possible
+ any villainy should be so rich. For when rich
+ villains have need of poor ones, poor ones may
+ make what price they will.
+  I wonder at it.
+  That shows thou art unconfirmed. Thou
+ knowest that the fashion of a doublet, or a hat, or a
+ cloak, is nothing to a man.
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+90
+FTLN 1462
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+95
+FTLN 1467
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+100
+FTLN 1472
+FTLN 1473
+FTLN 1474
+FTLN 1475
+FTLN 1476
+105
+FTLN 1477
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+110
+FTLN 1482
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+115
+FTLN 1487
+FTLN 1488
+FTLN 1489
+
+--- PAGE 56 / 99 ---
+107
+Much Ado About Nothing
+ACT 3. SC. 3
+CONRADE
+BORACHIO
+CONRADE
+BORACHIO
+FIRST  WATCHMAN
+BORACHIO
+CONRADE
+BORACHIO
+CONRADE
+BORACHIO
+CONRADE
+BORACHIO
+  Yes, it is apparel.
+  I mean the fashion.
+  Yes, the fashion is the fashion.
+  Tush, I may as well say the fool’s the fool.
+ But seest thou not what a deformed thief this
+ fashion is?
+, aside
+  I know that Deformed. He
+ has been a vile thief this seven year. He goes up and
+ down like a gentleman. I remember his name.
+  Didst thou not hear somebody?
+  No, ’twas the vane on the house.
+  Seest thou not, I say, what a deformed thief
+ this fashion is, how giddily he turns about all the
+ hot bloods between fourteen and five-and-thirty,
+ sometimes fashioning them like Pharaoh’s soldiers
+ in the reechy painting, sometimes like god Bel’s
+ priests in the old church window, sometimes like
+ the shaven Hercules in the smirched worm-eaten
+ tapestry, where his codpiece seems as massy as his
+ club?
+  All this I see, and I see that the fashion wears
+ out more apparel than the man. But art not thou
+ thyself giddy with the fashion too, that thou hast
+ shifted out of thy tale into telling me of the
+ fashion?
+  Not so, neither. But know that I have tonight
+ wooed Margaret, the Lady Hero’s gentlewoman,
+ by the name of Hero. She leans me out at
+ her mistress’ chamber window, bids me a thousand
+ times goodnight. I tell this tale vilely. I should first
+ tell thee how the Prince, Claudio, and my master,
+ planted and placed and possessed by my master
+ Don John, saw afar off in the orchard this amiable
+ amiable encounter.
+  And thought they Margaret was Hero?
+  Two of them did, the Prince and Claudio,
+FTLN 1490
+FTLN 1491
+120
+FTLN 1492
+FTLN 1493
+FTLN 1494
+FTLN 1495
+FTLN 1496
+125
+FTLN 1497
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+130
+FTLN 1502
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+135
+FTLN 1507
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+140
+FTLN 1512
+FTLN 1513
+FTLN 1514
+FTLN 1515
+FTLN 1516
+145
+FTLN 1517
+FTLN 1518
+FTLN 1519
+FTLN 1520
+FTLN 1521
+150
+FTLN 1522
+FTLN 1523
+FTLN 1524
+FTLN 1525
+
+--- PAGE 57 / 99 ---
+109
+Much Ado About Nothing
+ACT 3. SC. 3
+FIRST WATCHMAN
+SEACOAL
+FIRST WATCHMAN
+DOGBERRY
+FIRST  WATCHMAN
+DOGBERRY
+BORACHIO
+CONRADE
+They exit.
+ but the devil my master knew she was Margaret;
+ and partly by his oaths, which first possessed them,
+ partly by the dark night, which did deceive them,
+ but chiefly by my villainy, which did confirm any
+ slander that Don John had made, away went Claudio
+ enraged, swore he would meet her as he was
+ appointed next morning at the temple, and there,
+ before the whole congregation, shame her with
+ what he saw o’ernight and send her home again
+ without a husband.
+  We charge you in the Prince’s name
+ stand!
+  Call up the right Master Constable.  Second
+ Watchman exits.   We have here recovered the most
+ dangerous piece of lechery that ever was known in
+ the commonwealth.
+  And one Deformed is one of them. I
+ know him; he wears a lock.
+Enter Dogberry, Verges, and Second Watchman.
+  Masters, masters—
+, to Borachio
+  You’ll be made bring
+ Deformed forth, I warrant you.
+, to Borachio and Conrade
+  Masters, never
+ speak, we charge you, let us obey you to go with us.
+, to Conrade
+  We are like to prove a goodly
+ commodity, being taken up of these men’s bills.
+  A commodity in question, I warrant you.—
+ Come, we’ll obey you.
+FTLN 1526
+155
+FTLN 1527
+FTLN 1528
+FTLN 1529
+FTLN 1530
+FTLN 1531
+160
+FTLN 1532
+FTLN 1533
+FTLN 1534
+FTLN 1535
+FTLN 1536
+165
+FTLN 1537
+FTLN 1538
+FTLN 1539
+FTLN 1540
+FTLN 1541
+170
+FTLN 1542
+FTLN 1543
+FTLN 1544
+FTLN 1545
+FTLN 1546
+175
+FTLN 1547
+FTLN 1548
+FTLN 1549
+FTLN 1550
+FTLN 1551
+180
+FTLN 1552
+
+--- PAGE 58 / 99 ---
+111
+Much Ado About Nothing
+ACT 3. SC. 4
+HERO
+URSULA
+HERO
+URSULA
+Ursula exits.
+MARGARET
+HERO
+MARGARET
+HERO
+MARGARET
+HERO
+MARGARET
+HERO
+MARGARET
+HERO
+MARGARET
+Enter Hero, and Margaret, and Ursula.
+  Good Ursula, wake my cousin Beatrice and
+ desire her to rise.
+  I will, lady.
+  And bid her come hither.
+  Well. 
+  Troth, I think your other rebato were
+ better.
+  No, pray thee, good Meg, I’ll wear this.
+  By my troth, ’s not so good, and I warrant
+ your cousin will say so.
+  My cousin’s a fool, and thou art another. I’ll
+ wear none but this.
+  I like the new tire within excellently, if the
+ hair were a thought browner; and your gown’s a
+ most rare fashion, i’ faith. I saw the Duchess of
+ Milan’s gown that they praise so.
+  O, that exceeds, they say.
+  By my troth, ’s but a nightgown in  respect
+ of yours—cloth o’ gold, and cuts, and laced with
+ silver, set with pearls, down sleeves, side sleeves,
+ and skirts round underborne with a bluish tinsel.
+ But for a fine, quaint, graceful, and excellent fashion,
+ yours is worth ten on ’t.
+  God give me joy to wear it, for my heart is
+ exceeding heavy.
+  ’Twill be heavier soon by the weight of a
+ man.
+  Fie upon thee! Art not ashamed?
+  Of what, lady? Of speaking honorably? Is
+ not marriage honorable in a beggar? Is not your
+ lord honorable without marriage? I think you
+ would have me say “Saving your reverence, a husband.”
+ An bad thinking do not wrest true speaking,
+Scene 4
+FTLN 1553
+FTLN 1554
+FTLN 1555
+FTLN 1556
+FTLN 1557
+5
+FTLN 1558
+FTLN 1559
+FTLN 1560
+FTLN 1561
+FTLN 1562
+10
+FTLN 1563
+FTLN 1564
+FTLN 1565
+FTLN 1566
+FTLN 1567
+15
+FTLN 1568
+FTLN 1569
+FTLN 1570
+FTLN 1571
+FTLN 1572
+20
+FTLN 1573
+FTLN 1574
+FTLN 1575
+FTLN 1576
+FTLN 1577
+25
+FTLN 1578
+FTLN 1579
+FTLN 1580
+FTLN 1581
+FTLN 1582
+30
+FTLN 1583
+FTLN 1584
+FTLN 1585
+
+--- PAGE 59 / 99 ---
+113
+Much Ado About Nothing
+ACT 3. SC. 4
+HERO
+BEATRICE
+HERO
+BEATRICE
+MARGARET
+BEATRICE
+MARGARET
+BEATRICE
+MARGARET
+BEATRICE
+MARGARET
+BEATRICE
+MARGARET
+HERO
+BEATRICE
+MARGARET
+BEATRICE
+ I’ll offend nobody. Is there any harm in “the heavier
+ for a husband”? None, I think, an it be the right
+ husband and the right wife. Otherwise, ’tis light and
+ not heavy. Ask my lady Beatrice else. Here she
+ comes.
+Enter Beatrice.
+  Good morrow, coz.
+  Good morrow, sweet Hero.
+  Why, how now? Do you speak in the sick tune?
+  I am out of all other tune, methinks.
+  Clap ’s into “Light o’ love.” That goes
+ without a burden. Do you sing it, and I’ll dance it.
+  You light o’ love with your heels! Then, if
+ your husband have stables enough, you’ll see he
+ shall lack no barns.
+  O, illegitimate construction! I scorn that
+ with my heels.
+  ’Tis almost five o’clock, cousin. ’Tis time
+ you were ready. By my troth, I am exceeding ill.
+ Heigh-ho!
+  For a hawk, a horse, or a husband?
+  For the letter that begins them all, H.
+  Well, an you be not turned Turk, there’s no
+ more sailing by the star.
+  What means the fool, trow?
+  Nothing, I; but God send everyone their
+ heart’s desire.
+  These gloves the Count sent me, they are an
+ excellent perfume.
+  I am stuffed, cousin. I cannot smell.
+  A maid, and stuffed! There’s goodly catching
+ of cold.
+  O, God help me, God help me! How long
+ have you professed apprehension?
+FTLN 1586
+FTLN 1587
+35
+FTLN 1588
+FTLN 1589
+FTLN 1590
+FTLN 1591
+FTLN 1592
+40
+FTLN 1593
+FTLN 1594
+FTLN 1595
+FTLN 1596
+FTLN 1597
+45
+FTLN 1598
+FTLN 1599
+FTLN 1600
+FTLN 1601
+FTLN 1602
+50
+FTLN 1603
+FTLN 1604
+FTLN 1605
+FTLN 1606
+FTLN 1607
+55
+FTLN 1608
+FTLN 1609
+FTLN 1610
+FTLN 1611
+FTLN 1612
+60
+FTLN 1613
+FTLN 1614
+FTLN 1615
+FTLN 1616
+FTLN 1617
+65
+FTLN 1618
+
+--- PAGE 60 / 99 ---
+115
+Much Ado About Nothing
+ACT 3. SC. 4
+MARGARET
+BEATRICE
+MARGARET
+HERO
+BEATRICE
+MARGARET
+BEATRICE
+MARGARET
+URSULA
+HERO
+They exit.
+  Ever since you left it. Doth not my wit
+ become me rarely?
+  It is not seen enough; you should wear it in
+ your cap. By my troth, I am sick.
+  Get you some of this distilled carduus benedictus
+ and lay it to your heart. It is the only thing for
+ a qualm.
+  There thou prick’st her with a thistle.
+  Benedictus! Why benedictus? You have some
+ moral in this benedictus?
+  Moral? No, by my troth, I have no moral
+ meaning; I meant plain holy thistle. You may think
+ perchance that I think you are in love. Nay, by ’r
+ Lady, I am not such a fool to think what I list, nor I
+ list not to think what I can, nor indeed I cannot
+ think, if I would think my heart out of thinking, that
+ you are in love or that you will be in love or that you
+ can be in love. Yet Benedick was such another, and
+ now is he become a man. He swore he would never
+ marry, and yet now, in despite of his heart, he eats
+ his meat without grudging. And how you may be
+ converted I know not, but methinks you look with
+ your eyes as other women do.
+  What pace is this that thy tongue keeps?
+  Not a false gallop.
+Enter Ursula.
+  Madam, withdraw. The Prince, the Count,
+ Signior Benedick, Don John, and all the gallants of
+ the town are come to fetch you to church.
+  Help to dress me, good coz, good Meg, good
+ Ursula.
+FTLN 1619
+FTLN 1620
+FTLN 1621
+FTLN 1622
+70
+FTLN 1623
+FTLN 1624
+FTLN 1625
+FTLN 1626
+FTLN 1627
+75
+FTLN 1628
+FTLN 1629
+FTLN 1630
+FTLN 1631
+FTLN 1632
+80
+FTLN 1633
+FTLN 1634
+FTLN 1635
+FTLN 1636
+FTLN 1637
+85
+FTLN 1638
+FTLN 1639
+FTLN 1640
+FTLN 1641
+FTLN 1642
+90
+FTLN 1643
+FTLN 1644
+FTLN 1645
+FTLN 1646
+FTLN 1647
+95
+FTLN 1648
+
+--- PAGE 61 / 99 ---
+117
+Much Ado About Nothing
+ACT 3. SC. 5
+LEONATO
+DOGBERRY
+LEONATO
+DOGBERRY
+VERGES
+LEONATO
+DOGBERRY
+VERGES
+DOGBERRY
+LEONATO
+DOGBERRY
+LEONATO
+DOGBERRY
+VERGES
+LEONATO
+VERGES
+DOGBERRY
+Enter Leonato, and Dogberry,  the Constable, and
+Verges,  the Headborough.
+  What would you with me, honest neighbor?
+  Marry, sir, I would have some confidence
+ with you that decerns you nearly.
+  Brief, I pray you, for you see it is a busy time
+ with me.
+  Marry, this it is, sir.
+  Yes, in truth, it is, sir.
+  What is it, my good friends?
+  Goodman Verges, sir, speaks a little off the
+ matter. An old man, sir, and his wits are not so blunt
+ as, God help, I would desire they were, but, in faith,
+ honest as the skin between his brows.
+  Yes, I thank God I am as honest as any man
+ living that is an old man and no honester than I.
+  Comparisons are odorous. Palabras, neighbor
+ Verges.
+  Neighbors, you are tedious.
+  It pleases your Worship to say so, but we
+ are the poor duke’s officers. But truly, for mine
+ own part, if I were as tedious as a king, I could find
+ in my heart to bestow it all of your Worship.
+  All thy tediousness on me, ah?
+  Yea, an ’twere a thousand pound more
+ than ’tis, for I hear as good exclamation on your
+ Worship as of any man in the city, and though I be
+ but a poor man, I am glad to hear it.
+  And so am I.
+  I would fain know what you have to say.
+  Marry, sir, our watch tonight, excepting your
+ Worship’s presence, ha’ ta’en a couple of as arrant
+ knaves as any in Messina.
+  A good old man, sir. He will be talking. As
+Scene 5
+FTLN 1649
+FTLN 1650
+FTLN 1651
+FTLN 1652
+FTLN 1653
+5
+FTLN 1654
+FTLN 1655
+FTLN 1656
+FTLN 1657
+FTLN 1658
+10
+FTLN 1659
+FTLN 1660
+FTLN 1661
+FTLN 1662
+FTLN 1663
+15
+FTLN 1664
+FTLN 1665
+FTLN 1666
+FTLN 1667
+FTLN 1668
+20
+FTLN 1669
+FTLN 1670
+FTLN 1671
+FTLN 1672
+FTLN 1673
+25
+FTLN 1674
+FTLN 1675
+FTLN 1676
+FTLN 1677
+FTLN 1678
+30
+FTLN 1679
+FTLN 1680
+
+--- PAGE 62 / 99 ---
+119
+Much Ado About Nothing
+ACT 3. SC. 5
+LEONATO
+DOGBERRY
+LEONATO
+DOGBERRY
+LEONATO
+DOGBERRY
+LEONATO
+MESSENGER
+LEONATO
+He exits, with the Messenger.
+DOGBERRY
+VERGES
+DOGBERRY
+They exit.
+ they say, “When the age is in, the wit is out.” God
+ help us, it is a world to see!—Well said, i’ faith,
+ neighbor Verges.—Well, God’s a good man. An two
+ men ride of a horse, one must ride behind. An
+ honest soul, i’ faith, sir, by my troth he is, as ever
+ broke bread, but God is to be worshiped, all men
+ are not alike, alas, good neighbor.
+  Indeed, neighbor, he comes too short of you.
+  Gifts that God gives.
+  I must leave you.
+  One word, sir. Our watch, sir, have indeed
+ comprehended two aspicious persons, and we
+ would have them this morning examined before
+ your Worship.
+  Take their examination yourself and bring it
+ me. I am now in great haste, as it may appear unto
+ you.
+  It shall be suffigance.
+  Drink some wine ere you go. Fare you well.
+Enter a Messenger.
+  My lord, they stay for you to give your
+ daughter to her husband.
+  I’ll wait upon them. I am ready.
+  Go, good partner, go, get you to Francis
+ Seacoal. Bid him bring his pen and inkhorn to the
+ jail. We are now to examination these men.
+  And we must do it wisely.
+  We will spare for no wit, I warrant you.
+ Here’s that shall drive some of them to a noncome.
+ Only get the learned writer to set down our excommunication
+ and meet me at the jail.
+FTLN 1681
+FTLN 1682
+FTLN 1683
+35
+FTLN 1684
+FTLN 1685
+FTLN 1686
+FTLN 1687
+FTLN 1688
+40
+FTLN 1689
+FTLN 1690
+FTLN 1691
+FTLN 1692
+FTLN 1693
+45
+FTLN 1694
+FTLN 1695
+FTLN 1696
+FTLN 1697
+FTLN 1698
+50
+FTLN 1699
+FTLN 1700
+FTLN 1701
+FTLN 1702
+FTLN 1703
+55
+FTLN 1704
+FTLN 1705
+FTLN 1706
+FTLN 1707
+FTLN 1708
+60
+FTLN 1709
+FTLN 1710
+
+--- PAGE 63 / 99 ---
+LEONATO
+FRIAR
+CLAUDIO
+LEONATO
+FRIAR
+HERO
+FRIAR
+CLAUDIO
+HERO
+FRIAR
+LEONATO
+CLAUDIO
+BENEDICK
+Enter Prince, John the  Bastard, Leonato, Friar,
+Claudio, Benedick, Hero, and Beatrice, with
+Attendants.
+  Come, Friar Francis, be brief, only to the
+ plain form of marriage, and you shall recount their
+ particular duties afterwards.
+, to Claudio
+  You come hither, my lord, to marry
+ this lady?
+  No.
+  To be married to her.—Friar, you come to
+ marry her.
+  Lady, you come hither to be married to this
+ count?
+  I do.
+  If either of you know any inward impediment
+ why you should not be conjoined, I charge you on
+ your souls to utter it.
+  Know you any, Hero?
+  None, my lord.
+  Know you any, count?
+  I dare make his answer, none.
+  O, what men dare do! What men may do!
+ What men daily do, not knowing what they do!
+  How now, interjections? Why, then, some
+ be of laughing, as ah, ha, he!
+123
+ACT 4
+Scene 1
+FTLN 1711
+FTLN 1712
+FTLN 1713
+FTLN 1714
+FTLN 1715
+5
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+FTLN 1720
+10
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+FTLN 1725
+15
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+FTLN 1730
+20
+FTLN 1731
+FTLN 1732
+
+--- PAGE 64 / 99 ---
+125
+Much Ado About Nothing
+ACT 4. SC. 1
+CLAUDIO
+LEONATO
+CLAUDIO
+PRINCE
+CLAUDIO
+LEONATO
+CLAUDIO
+LEONATO
+CLAUDIO
+ 
+ Stand thee by, friar.—Father, by your leave,
+ Will you with free and unconstrainèd soul
+ Give me this maid, your daughter?
+ 
+ As freely, son, as God did give her me.
+ 
+ And what have I to give you back whose worth
+ May counterpoise this rich and precious gift?
+ 
+ Nothing, unless you render her again.
+ 
+ Sweet prince, you learn me noble thankfulness.—
+ There, Leonato, take her back again.
+ Give not this rotten orange to your friend.
+ She’s but the sign and semblance of her honor.
+ Behold how like a maid she blushes here!
+ O, what authority and show of truth
+ Can cunning sin cover itself withal!
+ Comes not that blood as modest evidence
+ To witness simple virtue? Would you not swear,
+ All you that see her, that she were a maid,
+ By these exterior shows? But she is none.
+ She knows the heat of a luxurious bed.
+ Her blush is guiltiness, not modesty.
+ 
+ What do you mean, my lord?
+  
+ Not to be married,
+ Not to knit my soul to an approvèd wanton.
+ 
+ Dear my lord, if you in your own proof
+ Have vanquished the resistance of her youth,
+ And made defeat of her virginity—
+ 
+ I know what you would say: if I have known her,
+ You will say she did embrace me as a husband,
+FTLN 1733
+FTLN 1734
+FTLN 1735
+25
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+FTLN 1740
+30
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+FTLN 1745
+35
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+FTLN 1750
+40
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+FTLN 1755
+45
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+FTLN 1760
+50
+
+--- PAGE 65 / 99 ---
+127
+Much Ado About Nothing
+ACT 4. SC. 1
+HERO
+CLAUDIO
+HERO
+LEONATO
+PRINCE
+LEONATO
+DON JOHN
+BENEDICK
+HERO
+CLAUDIO
+LEONATO
+CLAUDIO
+ And so extenuate the forehand sin.
+ No, Leonato,
+ I never tempted her with word too large,
+ But, as a brother to his sister, showed
+ Bashful sincerity and comely love.
+ 
+ And seemed I ever otherwise to you?
+ 
+ Out on thee, seeming! I will write against it.
+ You seem to me as Dian in her orb,
+ As chaste as is the bud ere it be blown.
+ But you are more intemperate in your blood
+ Than Venus, or those pampered animals
+ That rage in savage sensuality.
+ 
+ Is my lord well that he doth speak so wide?
+ 
+ Sweet prince, why speak not you?
+  
+ What should I
+ speak?
+ I stand dishonored that have gone about
+ To link my dear friend to a common stale.
+ 
+ Are these things spoken, or do I but dream?
+ 
+ Sir, they are spoken, and these things are true.
+  This looks not like a nuptial.
+  True! O God!
+  Leonato, stand I here?
+ Is this the Prince? Is this the Prince’s brother?
+ Is this face Hero’s? Are our eyes our own?
+ 
+ All this is so, but what of this, my lord?
+ 
+ Let me but move one question to your daughter,
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+FTLN 1765
+55
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+FTLN 1770
+60
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+FTLN 1775
+65
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+FTLN 1780
+70
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+FTLN 1785
+75
+FTLN 1786
+FTLN 1787
+
+--- PAGE 66 / 99 ---
+129
+Much Ado About Nothing
+ACT 4. SC. 1
+LEONATO
+HERO
+CLAUDIO
+HERO
+CLAUDIO
+HERO
+PRINCE
+DON JOHN
+CLAUDIO
+ And by that fatherly and kindly power
+ That you have in her, bid her answer truly.
+ 
+ I charge thee do so, as thou art my child.
+ 
+ O, God defend me, how am I beset!—
+ What kind of catechizing call you this?
+ 
+ To make you answer truly to your name.
+ 
+ Is it not Hero? Who can blot that name
+ With any just reproach?
+  
+ Marry, that can Hero!
+ Hero itself can blot out Hero’s virtue.
+ What man was he talked with you yesternight
+ Out at your window betwixt twelve and one?
+ Now, if you are a maid, answer to this.
+ 
+ I talked with no man at that hour, my lord.
+ 
+ Why, then, are you no maiden.—Leonato,
+ I am sorry you must hear. Upon mine honor,
+ Myself, my brother, and this grievèd count
+ Did see her, hear her, at that hour last night
+ Talk with a ruffian at her chamber window,
+ Who hath indeed, most like a liberal villain,
+ Confessed the vile encounters they have had
+ A thousand times in secret.
+ 
+ Fie, fie, they are not to be named, my lord,
+ Not to be spoke of!
+ There is not chastity enough in language,
+ Without offense, to utter them.—Thus, pretty lady,
+ I am sorry for thy much misgovernment.
+ 
+ O Hero, what a Hero hadst thou been
+FTLN 1788
+FTLN 1789
+FTLN 1790
+80
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+FTLN 1795
+85
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+FTLN 1800
+90
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+FTLN 1805
+95
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+FTLN 1810
+100
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+FTLN 1815
+105
+
+--- PAGE 67 / 99 ---
+131
+Much Ado About Nothing
+ACT 4. SC. 1
+LEONATO
+Hero falls.
+BEATRICE
+DON JOHN
+Claudio, Prince, and Don John exit.
+BENEDICK
+BEATRICE
+LEONATO
+BEATRICE
+Hero stirs.
+FRIAR
+LEONATO
+FRIAR
+LEONATO
+ If half thy outward graces had been placed
+ About thy thoughts and counsels of thy heart!
+ But fare thee well, most foul, most fair. Farewell,
+ Thou pure impiety and impious purity.
+ For thee I’ll lock up all the gates of love
+ And on my eyelids shall conjecture hang,
+ To turn all beauty into thoughts of harm,
+ And never shall it more be gracious.
+ 
+ Hath no man’s dagger here a point for me?
+ 
+ Why, how now, cousin, wherefore sink you down?
+ 
+ Come, let us go. These things, come thus to light,
+ Smother her spirits up.
+ 
+ How doth the lady?
+  
+ Dead, I think.—Help, uncle!—
+ Hero, why Hero! Uncle! Signior Benedick! Friar!
+ 
+ O Fate, take not away thy heavy hand!
+ Death is the fairest cover for her shame
+ That may be wished for.
+  How now, cousin Hero? 
+, to Hero
+  Have comfort, lady.
+, to Hero
+ 
+ Dost thou look up?
+  
+ Yea, wherefore should she not?
+ 
+ Wherefore? Why, doth not every earthly thing
+ Cry shame upon her? Could she here deny
+ The story that is printed in her blood?—
+ Do not live, Hero, do not ope thine eyes,
+ For, did I think thou wouldst not quickly die,
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+FTLN 1820
+110
+FTLN 1821
+FTLN 1822
+FTLN 1823
+FTLN 1824
+FTLN 1825
+115
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+FTLN 1830
+120
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+FTLN 1835
+125
+FTLN 1836
+FTLN 1837
+FTLN 1838
+FTLN 1839
+FTLN 1840
+130
+FTLN 1841
+FTLN 1842
+
+--- PAGE 68 / 99 ---
+133
+Much Ado About Nothing
+ACT 4. SC. 1
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+LEONATO
+FRIAR
+ Thought I thy spirits were stronger than thy shames,
+ Myself would, on the rearward of reproaches,
+ Strike at thy life. Grieved I I had but one?
+ Chid I for that at frugal Nature’s frame?
+ O, one too much by thee! Why had I one?
+ Why ever wast thou lovely in my eyes?
+ Why had I not with charitable hand
+ Took up a beggar’s issue at my gates,
+ Who, smirchèd thus, and mired with infamy,
+ I might have said “No part of it is mine;
+ This shame derives itself from unknown loins”?
+ But mine, and mine I loved, and mine I praised,
+ And mine that I was proud on, mine so much
+ That I myself was to myself not mine,
+ Valuing of her—why she, O she, is fall’n
+ Into a pit of ink, that the wide sea
+ Hath drops too few to wash her clean again,
+ And salt too little which may season give
+ To her foul tainted flesh!
+  
+ Sir, sir, be patient.
+ For my part, I am so attired in wonder
+ I know not what to say.
+ 
+ O, on my soul, my cousin is belied!
+ 
+ Lady, were you her bedfellow last night?
+ 
+ No, truly not, although until last night
+ I have this twelvemonth been her bedfellow.
+ 
+ Confirmed, confirmed! O, that is stronger made
+ Which was before barred up with ribs of iron!
+ Would the two princes lie and Claudio lie,
+ Who loved her so that, speaking of her foulness,
+ Washed it with tears? Hence from her. Let her die!
+  Hear me a little,
+FTLN 1843
+FTLN 1844
+FTLN 1845
+135
+FTLN 1846
+FTLN 1847
+FTLN 1848
+FTLN 1849
+FTLN 1850
+140
+FTLN 1851
+FTLN 1852
+FTLN 1853
+FTLN 1854
+FTLN 1855
+145
+FTLN 1856
+FTLN 1857
+FTLN 1858
+FTLN 1859
+FTLN 1860
+150
+FTLN 1861
+FTLN 1862
+FTLN 1863
+FTLN 1864
+FTLN 1865
+155
+FTLN 1866
+FTLN 1867
+FTLN 1868
+FTLN 1869
+FTLN 1870
+160
+FTLN 1871
+FTLN 1872
+FTLN 1873
+FTLN 1874
+
+--- PAGE 69 / 99 ---
+135
+Much Ado About Nothing
+ACT 4. SC. 1
+LEONATO
+FRIAR
+HERO
+FRIAR
+BENEDICK
+ For I have only silent been  so long,
+ And given way unto this course of fortune,
+ By noting of the lady. I have marked
+ A thousand blushing apparitions
+ To start into her face, a thousand innocent shames
+ In angel whiteness beat away those blushes,
+ And in her eye there hath appeared a fire
+ To burn the errors that these princes hold
+ Against her maiden truth. Call me a fool,
+ Trust not my reading nor my observations,
+ Which with experimental seal doth warrant
+ The tenor of my book; trust not my age,
+ My reverence, calling, nor divinity,
+ If this sweet lady lie not guiltless here
+ Under some biting error.
+  
+ Friar, it cannot be.
+ Thou seest that all the grace that she hath left
+ Is that she will not add to her damnation
+ A sin of perjury. She not denies it.
+ Why seek’st thou then to cover with excuse
+ That which appears in proper nakedness?
+ 
+ Lady, what man is he you are accused of?
+ 
+ They know that do accuse me. I know none.
+ If I know more of any man alive
+ Than that which maiden modesty doth warrant,
+ Let all my sins lack mercy!—O my father,
+ Prove you that any man with me conversed
+ At hours unmeet, or that I yesternight
+ Maintained the change of words with any creature,
+ Refuse me, hate me, torture me to death!
+ 
+ There is some strange misprision in the princes.
+ 
+ Two of them have the very bent of honor,
+FTLN 1875
+165
+FTLN 1876
+FTLN 1877
+FTLN 1878
+FTLN 1879
+FTLN 1880
+170
+FTLN 1881
+FTLN 1882
+FTLN 1883
+FTLN 1884
+FTLN 1885
+175
+FTLN 1886
+FTLN 1887
+FTLN 1888
+FTLN 1889
+FTLN 1890
+180
+FTLN 1891
+FTLN 1892
+FTLN 1893
+FTLN 1894
+FTLN 1895
+185
+FTLN 1896
+FTLN 1897
+FTLN 1898
+FTLN 1899
+FTLN 1900
+190
+FTLN 1901
+FTLN 1902
+FTLN 1903
+FTLN 1904
+FTLN 1905
+195
+FTLN 1906
+
+--- PAGE 70 / 99 ---
+137
+Much Ado About Nothing
+ACT 4. SC. 1
+LEONATO
+FRIAR
+LEONATO
+FRIAR
+ And if their wisdoms be misled in this,
+ The practice of it lives in John the Bastard,
+ Whose spirits toil in frame of villainies.
+ 
+ I know not. If they speak but truth of her,
+ These hands shall tear her. If they wrong her honor,
+ The proudest of them shall well hear of it.
+ Time hath not yet so dried this blood of mine,
+ Nor age so eat up my invention,
+ Nor fortune made such havoc of my means,
+ Nor my bad life reft me so much of friends,
+ But they shall find, awaked in such a kind,
+ Both strength of limb and policy of mind,
+ Ability in means and choice of friends,
+ To quit me of them throughly.
+  
+ Pause awhile,
+ And let my counsel sway you in this case.
+ Your daughter here the princes left for dead.
+ Let her awhile be secretly kept in,
+ And publish it that she is dead indeed.
+ Maintain a mourning ostentation,
+ And on your family’s old monument
+ Hang mournful epitaphs and do all rites
+ That appertain unto a burial.
+ 
+ What shall become of this? What will this do?
+ 
+ Marry, this well carried shall on her behalf
+ Change slander to remorse. That is some good.
+ But not for that dream I on this strange course,
+ But on this travail look for greater birth.
+ She, dying, as it must be so maintained,
+ Upon the instant that she was accused,
+ Shall be lamented, pitied, and excused
+ Of every hearer. For it so falls out
+ That what we have we prize not to the worth
+FTLN 1907
+FTLN 1908
+FTLN 1909
+FTLN 1910
+200
+FTLN 1911
+FTLN 1912
+FTLN 1913
+FTLN 1914
+FTLN 1915
+205
+FTLN 1916
+FTLN 1917
+FTLN 1918
+FTLN 1919
+FTLN 1920
+210
+FTLN 1921
+FTLN 1922
+FTLN 1923
+FTLN 1924
+FTLN 1925
+215
+FTLN 1926
+FTLN 1927
+FTLN 1928
+FTLN 1929
+FTLN 1930
+220
+FTLN 1931
+FTLN 1932
+FTLN 1933
+FTLN 1934
+FTLN 1935
+225
+FTLN 1936
+FTLN 1937
+FTLN 1938
+FTLN 1939
+
+--- PAGE 71 / 99 ---
+139
+Much Ado About Nothing
+ACT 4. SC. 1
+BENEDICK
+LEONATO
+FRIAR
+ Whiles we enjoy it, but being lacked and lost,
+ Why then we rack the value, then we find
+ The virtue that possession would not show us
+ Whiles it was ours. So will it fare with Claudio.
+ When he shall hear she died upon his words,
+ Th’ idea of her life shall sweetly creep
+ Into his study of imagination,
+ And every lovely organ of her life
+ Shall come appareled in more precious habit,
+ More moving, delicate, and full of life,
+ Into the eye and prospect of his soul,
+ Than when she lived indeed. Then shall he mourn,
+ If ever love had interest in his liver,
+ And wish he had not so accused her,
+ No, though he thought his accusation true.
+ Let this be so, and doubt not but success
+ Will fashion the event in better shape
+ Than I can lay it down in likelihood.
+ But if all aim but this be leveled false,
+ The supposition of the lady’s death
+ Will quench the wonder of her infamy.
+ And if it sort not well, you may conceal her,
+ As best befits her wounded reputation,
+ In some reclusive and religious life,
+ Out of all eyes, tongues, minds, and injuries.
+ 
+ Signior Leonato, let the Friar advise you.
+ And though you know my inwardness and love
+ Is very much unto the Prince and Claudio,
+ Yet, by mine honor, I will deal in this
+ As secretly and justly as your soul
+ Should with your body.
+  
+ Being that I flow in grief,
+ The smallest twine may lead me.
+ 
+ ’Tis well consented. Presently away,
+FTLN 1940
+230
+FTLN 1941
+FTLN 1942
+FTLN 1943
+FTLN 1944
+FTLN 1945
+235
+FTLN 1946
+FTLN 1947
+FTLN 1948
+FTLN 1949
+FTLN 1950
+240
+FTLN 1951
+FTLN 1952
+FTLN 1953
+FTLN 1954
+FTLN 1955
+245
+FTLN 1956
+FTLN 1957
+FTLN 1958
+FTLN 1959
+FTLN 1960
+250
+FTLN 1961
+FTLN 1962
+FTLN 1963
+FTLN 1964
+FTLN 1965
+255
+FTLN 1966
+FTLN 1967
+FTLN 1968
+FTLN 1969
+FTLN 1970
+260
+FTLN 1971
+FTLN 1972
+FTLN 1973
+
+--- PAGE 72 / 99 ---
+141
+Much Ado About Nothing
+ACT 4. SC. 1
+All but Beatrice and Benedick  exit.
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+  For to strange sores strangely they strain the
+  cure.—
+ Come, lady, die to live. This wedding day
+  Perhaps is but prolonged. Have patience and
+  endure.
+  Lady Beatrice, have you wept all this while?
+  Yea, and I will weep a while longer.
+  I will not desire that.
+  You have no reason. I do it freely.
+  Surely I do believe your fair cousin is
+ wronged.
+  Ah, how much might the man deserve of me
+ that would right her!
+  Is there any way to show such friendship?
+  A very even way, but no such friend.
+  May a man do it?
+  It is a man’s office, but not yours.
+  I do love nothing in the world so well as
+ you. Is not that strange?
+  As strange as the thing I know not. It were as
+ possible for me to say I loved nothing so well as you,
+ but believe me not, and yet I lie not; I confess
+ nothing, nor I deny nothing. I am sorry for my
+ cousin.
+  By my sword, Beatrice, thou lovest me!
+  Do not swear and eat it.
+  I will swear by it that you love me, and I will
+ make him eat it that says I love not you.
+  Will you not eat your word?
+  With no sauce that can be devised to it. I
+ protest I love thee.
+  Why then, God forgive me.
+  What offense, sweet Beatrice?
+  You have stayed me in a happy hour. I was
+ about to protest I loved you.
+FTLN 1974
+FTLN 1975
+265
+FTLN 1976
+FTLN 1977
+FTLN 1978
+FTLN 1979
+FTLN 1980
+270
+FTLN 1981
+FTLN 1982
+FTLN 1983
+FTLN 1984
+FTLN 1985
+275
+FTLN 1986
+FTLN 1987
+FTLN 1988
+FTLN 1989
+FTLN 1990
+280
+FTLN 1991
+FTLN 1992
+FTLN 1993
+FTLN 1994
+FTLN 1995
+285
+FTLN 1996
+FTLN 1997
+FTLN 1998
+FTLN 1999
+FTLN 2000
+290
+FTLN 2001
+FTLN 2002
+FTLN 2003
+FTLN 2004
+FTLN 2005
+295
+FTLN 2006
+FTLN 2007
+FTLN 2008
+
+--- PAGE 73 / 99 ---
+143
+Much Ado About Nothing
+ACT 4. SC. 1
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+She begins to exit.
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+  And do it with all thy heart.
+  I love you with so much of my heart that
+ none is left to protest.
+  Come, bid me do anything for thee.
+  Kill Claudio.
+  Ha! Not for the wide world.
+  You kill me to deny it. Farewell.
+  Tarry, sweet Beatrice.
+  I am gone, though I am here. There is no
+ love in you. Nay, I pray you let me go.
+  Beatrice—
+  In faith, I will go.
+  We’ll be friends first.
+  You dare easier be friends with me than
+ fight with mine enemy.
+  Is Claudio thine enemy?
+  Is he not approved in the height a villain
+ that hath slandered, scorned, dishonored my kinswoman?
+ O, that I were a man! What, bear her in
+ hand until they come to take hands, and then, with
+ public accusation, uncovered slander, unmitigated
+ rancor—O God, that I were a man! I would eat his
+ heart in the marketplace.
+  Hear me, Beatrice—
+  Talk with a man out at a window! A proper
+ saying.
+  Nay, but Beatrice—
+  Sweet Hero, she is wronged, she is slandered,
+ she is undone.
+  Beat—
+  Princes and counties! Surely a princely testimony,
+ a goodly count, Count Comfect, a sweet
+ gallant, surely! O, that I were a man for his sake! Or
+ that I had any friend would be a man for my sake!
+ But manhood is melted into curtsies, valor into
+FTLN 2009
+FTLN 2010
+300
+FTLN 2011
+FTLN 2012
+FTLN 2013
+FTLN 2014
+FTLN 2015
+305
+FTLN 2016
+FTLN 2017
+FTLN 2018
+FTLN 2019
+FTLN 2020
+310
+FTLN 2021
+FTLN 2022
+FTLN 2023
+FTLN 2024
+FTLN 2025
+315
+FTLN 2026
+FTLN 2027
+FTLN 2028
+FTLN 2029
+FTLN 2030
+320
+FTLN 2031
+FTLN 2032
+FTLN 2033
+FTLN 2034
+FTLN 2035
+325
+FTLN 2036
+FTLN 2037
+FTLN 2038
+FTLN 2039
+FTLN 2040
+330
+FTLN 2041
+FTLN 2042
+FTLN 2043
+
+--- PAGE 74 / 99 ---
+145
+Much Ado About Nothing
+ACT 4. SC. 2
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+They exit.
+DOGBERRY
+VERGES
+A stool is brought in; the Sexton sits.
+SEXTON
+DOGBERRY
+VERGES
+SEXTON
+ compliment, and men are only turned into tongue,
+ and trim ones, too. He is now as valiant as Hercules
+ that only tells a lie and swears it. I cannot be a man
+ with wishing; therefore I will die a woman with
+ grieving.
+  Tarry, good Beatrice. By this hand, I love
+ thee.
+  Use it for my love some other way than
+ swearing by it.
+  Think you in your soul the Count Claudio
+ hath wronged Hero?
+  Yea, as sure as I have a thought or a soul.
+  Enough, I am engaged. I will challenge
+ him. I will kiss your hand, and so I leave you. By
+ this hand, Claudio shall render me a dear account.
+ As you hear of me, so think of me. Go comfort your
+ cousin. I must say she is dead, and so farewell.
+Enter the Constables Dogberry and Verges,  and the
+Town Clerk, or Sexton,  in gowns, with the Watch,
+Conrade, and  Borachio.
+  Is our whole dissembly appeared?
+  O, a stool and a cushion for the Sexton.
+  Which be the malefactors?
+  Marry, that am I, and my partner.
+  Nay, that’s certain, we have the exhibition to
+ examine.
+  But which are the offenders that are to be
+ examined? Let them come before Master
+ Constable.
+FTLN 2044
+FTLN 2045
+335
+FTLN 2046
+FTLN 2047
+FTLN 2048
+FTLN 2049
+FTLN 2050
+340
+FTLN 2051
+FTLN 2052
+FTLN 2053
+FTLN 2054
+FTLN 2055
+345
+FTLN 2056
+FTLN 2057
+FTLN 2058
+FTLN 2059
+FTLN 2060
+350
+Scene 2
+FTLN 2061
+FTLN 2062
+FTLN 2063
+FTLN 2064
+FTLN 2065
+5
+FTLN 2066
+FTLN 2067
+FTLN 2068
+FTLN 2069
+
+--- PAGE 75 / 99 ---
+147
+Much Ado About Nothing
+ACT 4. SC. 2
+DOGBERRY
+Conrade and Borachio are brought forward.
+BORACHIO
+DOGBERRY
+CONRADE
+DOGBERRY
+BORACHIO/CONRADE
+DOGBERRY
+CONRADE
+DOGBERRY
+BORACHIO
+DOGBERRY
+SEXTON
+DOGBERRY
+FIRST WATCHMAN
+DOGBERRY
+  Yea, marry, let them come before me.
+ What is your name, friend?
+  Borachio.
+  Pray, write down “Borachio.”—Yours,
+ sirrah?
+  I am a gentleman, sir, and my name is
+ Conrade.
+  Write down “Master Gentleman Conrade.”—
+ Masters, do you serve God?
+  Yea, sir, we hope.
+  Write down that they hope they serve
+ God; and write God first, for God defend but God
+ should go before such villains!—Masters, it is
+ proved already that you are little better than false
+ knaves, and it will go near to be thought so shortly.
+ How answer you for yourselves?
+  Marry, sir, we say we are none.
+  A marvelous witty fellow, I assure you,
+ but I will go about with him.—Come you hither,
+ sirrah, a word in your ear. Sir, I say to you it is
+ thought you are false knaves.
+  Sir, I say to you we are none.
+  Well, stand aside.—’Fore God, they are
+ both in a tale. Have you writ down that they are
+ none?
+  Master constable, you go not the way to
+ examine. You must call forth the watch that are
+ their accusers.
+  Yea, marry, that’s the eftest way.—Let
+ the watch come forth. Masters, I charge you in the
+ Prince’s name, accuse these men.
+  This man said, sir, that Don John, the
+ Prince’s brother, was a villain.
+  Write down Prince John a villain. Why,
+ this is flat perjury, to call a prince’s brother villain!
+FTLN 2070
+10
+FTLN 2071
+FTLN 2072
+FTLN 2073
+FTLN 2074
+FTLN 2075
+15
+FTLN 2076
+FTLN 2077
+FTLN 2078
+FTLN 2079
+FTLN 2080
+20
+FTLN 2081
+FTLN 2082
+FTLN 2083
+FTLN 2084
+FTLN 2085
+25
+FTLN 2086
+FTLN 2087
+FTLN 2088
+FTLN 2089
+FTLN 2090
+30
+FTLN 2091
+FTLN 2092
+FTLN 2093
+FTLN 2094
+FTLN 2095
+35
+FTLN 2096
+FTLN 2097
+FTLN 2098
+FTLN 2099
+FTLN 2100
+40
+FTLN 2101
+FTLN 2102
+FTLN 2103
+FTLN 2104
+
+--- PAGE 76 / 99 ---
+149
+Much Ado About Nothing
+ACT 4. SC. 2
+BORACHIO
+DOGBERRY
+SEXTON
+SEACOAL
+DOGBERRY
+VERGES
+SEXTON
+FIRST WATCHMAN
+DOGBERRY
+SEXTON
+SEACOAL
+SEXTON
+He exits.
+DOGBERRY
+VERGES
+CONRADE
+DOGBERRY
+CONRADE
+DOGBERRY
+  Master constable—
+  Pray thee, fellow, peace. I do not like thy
+ look, I promise thee.
+, to Watch
+  What heard you him say else?
+  Marry, that he had received a thousand
+ ducats of Don John for accusing the Lady Hero
+ wrongfully.
+  Flat burglary as ever was committed.
+  Yea, by Mass, that it is.
+  What else, fellow?
+  And that Count Claudio did mean,
+ upon his words, to disgrace Hero before the whole
+ assembly, and not marry her.
+, to Borachio
+  O, villain! Thou wilt be condemned
+ into everlasting redemption for this!
+  What else?
+  This is all.
+  And this is more, masters, than you can deny.
+ Prince John is this morning secretly stolen away.
+ Hero was in this manner accused, in this very
+ manner refused, and upon the grief of this suddenly
+ died.—Master constable, let these men be bound
+ and brought to Leonato’s. I will go before and show
+ him their examination. 
+  Come, let them be opinioned.
+  Let them be in the hands—
+  Off, coxcomb!
+  God’s my life, where’s the Sexton? Let
+ him write down the Prince’s officer “coxcomb.”
+ Come, bind them.—Thou naughty varlet!
+  Away! You are an ass, you are an ass!
+  Dost thou not suspect my place? Dost
+ thou not suspect my years? O, that he were here to
+ write me down an ass! But masters, remember that
+ I am an ass, though it be not written down, yet
+ forget not that I am an ass.—No, thou villain, thou
+FTLN 2105
+45
+FTLN 2106
+FTLN 2107
+FTLN 2108
+FTLN 2109
+FTLN 2110
+50
+FTLN 2111
+FTLN 2112
+FTLN 2113
+FTLN 2114
+FTLN 2115
+55
+FTLN 2116
+FTLN 2117
+FTLN 2118
+FTLN 2119
+FTLN 2120
+60
+FTLN 2121
+FTLN 2122
+FTLN 2123
+FTLN 2124
+FTLN 2125
+65
+FTLN 2126
+FTLN 2127
+FTLN 2128
+FTLN 2129
+FTLN 2130
+70
+FTLN 2131
+FTLN 2132
+FTLN 2133
+FTLN 2134
+FTLN 2135
+75
+FTLN 2136
+FTLN 2137
+FTLN 2138
+FTLN 2139
+FTLN 2140
+80
+
+--- PAGE 77 / 99 ---
+151
+Much Ado About Nothing
+ACT 4. SC. 2
+They  exit.
+ art full of piety, as shall be proved upon thee by
+ good witness. I am a wise fellow and, which is more,
+ an officer and, which is more, a householder and,
+ which is more, as pretty a piece of flesh as any is in
+ Messina, and one that knows the law, go to, and a
+ rich fellow enough, go to, and a fellow that hath had
+ losses, and one that hath two gowns and everything
+ handsome about him.—Bring him away.—O, that I
+ had been writ down an ass!
+FTLN 2141
+FTLN 2142
+FTLN 2143
+FTLN 2144
+FTLN 2145
+85
+FTLN 2146
+FTLN 2147
+FTLN 2148
+FTLN 2149
+
+--- PAGE 78 / 99 ---
+LEONATO’S BROTHER
+LEONATO
+Enter Leonato and his brother.
+ 
+ If you go on thus, you will kill yourself,
+ And ’tis not wisdom thus to second grief
+ Against yourself.
+  
+ I pray thee, cease thy counsel,
+ Which falls into mine ears as profitless
+ As water in a sieve. Give not me counsel,
+ Nor let no comforter delight mine ear
+ But such a one whose wrongs do suit with mine.
+ Bring me a father that so loved his child,
+ Whose joy of her is overwhelmed like mine,
+ And bid him speak of patience.
+ Measure his woe the length and breadth of mine,
+ And let it answer every strain for strain,
+ As thus for thus, and such a grief for such,
+ In every lineament, branch, shape, and form.
+ If such a one will smile and stroke his beard,
+ Bid  sorrow wag, cry “hem” when he should
+ groan,
+ Patch grief with proverbs, make misfortune drunk
+ With candle-wasters, bring him yet to me,
+ And I of him will gather patience.
+ But there is no such man. For, brother, men
+155
+ACT 5
+Scene 1
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+FTLN 2154
+5
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+FTLN 2159
+10
+FTLN 2160
+FTLN 2161
+FTLN 2162
+FTLN 2163
+FTLN 2164
+15
+FTLN 2165
+FTLN 2166
+FTLN 2167
+FTLN 2168
+FTLN 2169
+20
+FTLN 2170
+FTLN 2171
+
+--- PAGE 79 / 99 ---
+157
+Much Ado About Nothing
+ACT 5. SC. 1
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+PRINCE
+CLAUDIO
+ Can counsel and speak comfort to that grief
+ Which they themselves not feel, but tasting it,
+ Their counsel turns to passion, which before
+ Would give preceptial med’cine to rage,
+ Fetter strong madness in a silken thread,
+ Charm ache with air and agony with words.
+ No, no, ’tis all men’s office to speak patience
+ To those that wring under the load of sorrow,
+ But no man’s virtue nor sufficiency
+ To be so moral when he shall endure
+ The like himself. Therefore give me no counsel.
+ My griefs cry louder than advertisement.
+ 
+ Therein do men from children nothing differ.
+ 
+ I pray thee, peace. I will be flesh and blood,
+ For there was never yet philosopher
+ That could endure the toothache patiently,
+ However they have writ the style of gods
+ And made a push at chance and sufferance.
+ 
+ Yet bend not all the harm upon yourself.
+ Make those that do offend you suffer too.
+ 
+ There thou speak’st reason. Nay, I will do so.
+ My soul doth tell me Hero is belied,
+ And that shall Claudio know; so shall the Prince
+ And all of them that thus dishonor her.
+Enter Prince and Claudio.
+ 
+ Here comes the Prince and Claudio hastily.
+ 
+ Good e’en, good e’en.
+  
+ Good day to both of you.
+FTLN 2172
+FTLN 2173
+FTLN 2174
+25
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+FTLN 2179
+30
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+FTLN 2184
+35
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+FTLN 2189
+40
+FTLN 2190
+FTLN 2191
+FTLN 2192
+FTLN 2193
+FTLN 2194
+45
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+
+--- PAGE 80 / 99 ---
+159
+Much Ado About Nothing
+ACT 5. SC. 1
+LEONATO
+PRINCE
+LEONATO
+PRINCE
+LEONATO’S BROTHER
+CLAUDIO
+LEONATO
+CLAUDIO
+LEONATO
+ 
+ Hear you, my lords—
+  
+ We have some haste,
+ Leonato.
+ 
+ Some haste, my lord! Well, fare you well, my lord.
+ Are you so hasty now? Well, all is one.
+ 
+ Nay, do not quarrel with us, good old man.
+ 
+ If he could right himself with quarrelling,
+ Some of us would lie low.
+  
+ Who wrongs him?
+ 
+ Marry, thou dost wrong me, thou dissembler, thou.
+ Nay, never lay thy hand upon thy sword.
+ I fear thee not.
+  
+ Marry, beshrew my hand
+ If it should give your age such cause of fear.
+ In faith, my hand meant nothing to my sword.
+ 
+ Tush, tush, man, never fleer and jest at me.
+ I speak not like a dotard nor a fool,
+ As under privilege of age to brag
+ What I have done being young, or what would do
+ Were I not old. Know, Claudio, to thy head,
+ Thou hast so wronged mine innocent child and me
+ That I am forced to lay my reverence by,
+ And with gray hairs and bruise of many days
+ Do challenge thee to trial of a man.
+ I say thou hast belied mine innocent child.
+ Thy slander hath gone through and through her
+ heart,
+ And she lies buried with her ancestors,
+ O, in a tomb where never scandal slept,
+ Save this of hers, framed by thy villainy.
+FTLN 2199
+50
+FTLN 2200
+FTLN 2201
+FTLN 2202
+FTLN 2203
+FTLN 2204
+55
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+FTLN 2209
+60
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+65
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+70
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+75
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+
+--- PAGE 81 / 99 ---
+161
+Much Ado About Nothing
+ACT 5. SC. 1
+CLAUDIO
+LEONATO
+PRINCE
+LEONATO
+CLAUDIO
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+LEONATO
+LEONATO’S BROTHER
+ 
+ My villainy?
+  
+ Thine, Claudio, thine, I say.
+ 
+ You say not right, old man.
+  
+ My lord, my lord,
+ I’ll prove it on his body if he dare,
+ Despite his nice fence and his active practice,
+ His May of youth and bloom of lustihood.
+ 
+ Away! I will not have to do with you.
+ 
+ Canst thou so daff me? Thou hast killed my child.
+ If thou kill’st me, boy, thou shalt kill a man.
+ 
+ He shall kill two of us, and men indeed,
+ But that’s no matter. Let him kill one first.
+ Win me and wear me! Let him answer me.—
+ Come, follow me, boy. Come, sir boy, come, follow
+ me.
+ Sir boy, I’ll whip you from your foining fence,
+ Nay, as I am a gentleman, I will.
+  Brother—
+ 
+ Content yourself. God knows I loved my niece,
+ And she is dead, slandered to death by villains
+ That dare as well answer a man indeed
+ As I dare take a serpent by the tongue.—
+ Boys, apes, braggarts, jacks, milksops!
+  Brother Anthony—
+ 
+ Hold you content. What, man! I know them, yea,
+ And what they weigh, even to the utmost scruple—
+ Scambling, outfacing, fashionmonging boys,
+ That lie and cog and flout, deprave and slander,
+ Go anticly and show outward hideousness,
+FTLN 2229
+80
+FTLN 2230
+FTLN 2231
+FTLN 2232
+FTLN 2233
+FTLN 2234
+85
+FTLN 2235
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+90
+FTLN 2240
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+95
+FTLN 2245
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+100
+FTLN 2250
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+105
+FTLN 2255
+FTLN 2256
+FTLN 2257
+
+--- PAGE 82 / 99 ---
+163
+Much Ado About Nothing
+ACT 5. SC. 1
+LEONATO
+LEONATO’S BROTHER
+PRINCE
+LEONATO
+PRINCE
+LEONATO
+LEONATO’S BROTHER
+Leonato and his brother  exit.
+PRINCE
+CLAUDIO
+BENEDICK
+PRINCE
+CLAUDIO
+PRINCE
+BENEDICK
+CLAUDIO
+ And speak off half a dozen dang’rous words
+ How they might hurt their enemies, if they durst,
+ And this is all.
+  But brother Anthony—
+  Come, ’tis no matter.
+ Do not you meddle. Let me deal in this.
+ 
+ Gentlemen both, we will not wake your patience.
+ My heart is sorry for your daughter’s death,
+ But, on my honor, she was charged with nothing
+ But what was true and very full of proof.
+  My lord, my lord—
+  I will not hear you.
+ 
+ No? Come, brother, away. I will be heard.
+ 
+ And shall, or some of us will smart for it.
+Enter Benedick.
+ 
+ See, see, here comes the man we went to seek.
+  Now, signior, what news?
+, to Prince
+  Good day, my lord.
+  Welcome, signior. You are almost come to
+ part almost a fray.
+  We had like  to have had our two noses
+ snapped off with two old men without teeth.
+  Leonato and his brother. What think’st thou?
+ Had we fought, I doubt we should have been too
+ young for them.
+  In a false quarrel there is no true valor. I
+ came to seek you both.
+  We have been up and down to seek thee, for
+ we are high-proof melancholy and would fain have
+ it beaten away. Wilt thou use thy wit?
+FTLN 2258
+FTLN 2259
+110
+FTLN 2260
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+115
+FTLN 2265
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+120
+FTLN 2270
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+125
+FTLN 2275
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+130
+FTLN 2280
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+135
+FTLN 2285
+FTLN 2286
+
+--- PAGE 83 / 99 ---
+165
+Much Ado About Nothing
+ACT 5. SC. 1
+BENEDICK
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+BENEDICK
+CLAUDIO
+PRINCE
+CLAUDIO
+BENEDICK
+CLAUDIO
+BENEDICK
+CLAUDIO
+PRINCE
+CLAUDIO
+BENEDICK
+PRINCE
+  It is in my scabbard. Shall I draw it?
+  Dost thou wear thy wit by thy side?
+  Never any did so, though very many have
+ been beside their wit. I will bid thee draw, as we do
+ the minstrels: draw to pleasure us.
+  As I am an honest man, he looks pale.—Art
+ thou sick, or angry?
+, to Benedick
+  What, courage, man! What
+ though care killed a cat? Thou hast mettle enough
+ in thee to kill care.
+  Sir, I shall meet your wit in the career, an
+ you charge it against me. I pray you, choose another
+ subject.
+, to Prince
+  Nay, then, give him another staff.
+ This last was broke ’cross.
+  By this light, he changes more and more. I
+ think he be angry indeed.
+  If he be, he knows how to turn his girdle.
+  Shall I speak a word in your ear?
+  God bless me from a challenge!
+, aside to Claudio
+  You are a villain. I jest
+ not. I will make it good how you dare, with what you
+ dare, and when you dare. Do me right, or I will
+ protest your cowardice. You have killed a sweet
+ lady, and her death shall fall heavy on you. Let me
+ hear from you.
+  Well, I will meet you, so I may have good
+ cheer.
+  What, a feast, a feast?
+  I’ faith, I thank him. He hath bid me to a
+ calf’s head and a capon, the which if I do not carve
+ most curiously, say my knife’s naught. Shall I not
+ find a woodcock too?
+  Sir, your wit ambles well; it goes easily.
+  I’ll tell thee how Beatrice praised thy wit the
+ other day. I said thou hadst a fine wit. “True,” said
+FTLN 2287
+FTLN 2288
+FTLN 2289
+140
+FTLN 2290
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+145
+FTLN 2295
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+150
+FTLN 2300
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+155
+FTLN 2305
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+160
+FTLN 2310
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+165
+FTLN 2315
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+170
+FTLN 2320
+FTLN 2321
+FTLN 2322
+
+--- PAGE 84 / 99 ---
+167
+Much Ado About Nothing
+ACT 5. SC. 1
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+BENEDICK
+Benedick exits.
+PRINCE
+CLAUDIO
+ she, “a fine little one.” “No,” said I, “a great wit.”
+ “Right,” says she, “a great gross one.” “Nay,” said I,
+ “a good wit.” “Just,” said she, “it hurts nobody.”
+ “Nay,” said I, “the gentleman is wise.” “Certain,”
+ said she, “a wise gentleman.” “Nay,” said I, “he
+ hath the tongues.” “That I believe,” said she, “for he
+ swore a thing to me on Monday night which he
+ forswore on Tuesday morning; there’s a double
+ tongue, there’s two tongues.” Thus did she an hour
+ together transshape thy particular virtues. Yet at
+ last she concluded with a sigh, thou wast the
+ proper’st man in Italy.
+  For the which she wept heartily and said she
+ cared not.
+  Yea, that she did. But yet for all that, an if she
+ did not hate him deadly, she would love him
+ dearly. The old man’s daughter told us all.
+  All, all. And, moreover, God saw him when
+ he was hid in the garden.
+  But when shall we set the savage bull’s horns
+ on the sensible Benedick’s head?
+  Yea, and text underneath: “Here dwells Benedick,
+ the married man”?
+  Fare you well, boy. You know my mind. I
+ will leave you now to your gossip-like humor. You
+ break jests as braggarts do their blades, which, God
+ be thanked, hurt not.—My lord, for your many
+ courtesies I thank you. I must discontinue your
+ company. Your brother the Bastard is fled from
+ Messina. You have among you killed a sweet and
+ innocent lady. For my Lord Lackbeard there, he and
+ I shall meet, and till then peace be with him.
+  He is in earnest.
+  In most profound earnest, and, I’ll warrant
+ you, for the love of Beatrice.
+FTLN 2323
+FTLN 2324
+175
+FTLN 2325
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+180
+FTLN 2330
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+185
+FTLN 2335
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+190
+FTLN 2340
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+195
+FTLN 2345
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+200
+FTLN 2350
+FTLN 2351
+FTLN 2352
+FTLN 2353
+FTLN 2354
+205
+FTLN 2355
+FTLN 2356
+FTLN 2357
+
+--- PAGE 85 / 99 ---
+169
+Much Ado About Nothing
+ACT 5. SC. 1
+PRINCE
+CLAUDIO
+PRINCE
+CLAUDIO
+PRINCE
+DOGBERRY
+PRINCE
+CLAUDIO
+PRINCE
+DOGBERRY
+PRINCE
+CLAUDIO
+PRINCE
+BORACHIO
+  And hath challenged thee?
+  Most sincerely.
+  What a pretty thing man is when he goes in his
+ doublet and hose and leaves off his wit!
+  He is then a giant to an ape; but then is an ape
+ a doctor to such a man.
+  But soft you, let me be. Pluck up, my heart,
+ and be sad. Did he not say my brother was fled?
+Enter Constables Dogberry and Verges, and the Watch,
+with  Conrade and Borachio.
+  Come you, sir. If justice cannot tame you,
+ she shall ne’er weigh more reasons in her balance.
+ Nay, an you be a cursing hypocrite once, you must
+ be looked to.
+  How now, two of my brother’s men bound?
+ Borachio one!
+  Hearken after their offense, my lord.
+  Officers, what offense have these men done?
+  Marry, sir, they have committed false
+ report; moreover, they have spoken untruths;
+ secondarily, they are slanders; sixth and lastly, they
+ have belied a lady; thirdly, they have verified unjust
+ things; and, to conclude, they are lying knaves.
+  First, I ask thee what they have done; thirdly, I
+ ask thee what’s their offense; sixth and lastly, why
+ they are committed; and, to conclude, what you lay
+ to their charge.
+  Rightly reasoned, and in his own division;
+ and, by my troth, there’s one meaning well suited.
+, to Borachio and Conrade
+  Who have you offended,
+ masters, that you are thus bound to your
+ answer? This learned constable is too cunning to be
+ understood. What’s your offense?
+  Sweet prince, let me go no farther to mine
+ answer. Do you hear me, and let this count kill me.
+FTLN 2358
+FTLN 2359
+210
+FTLN 2360
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+215
+FTLN 2365
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+220
+FTLN 2370
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+225
+FTLN 2375
+FTLN 2376
+FTLN 2377
+FTLN 2378
+FTLN 2379
+230
+FTLN 2380
+FTLN 2381
+FTLN 2382
+FTLN 2383
+FTLN 2384
+235
+FTLN 2385
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+240
+FTLN 2390
+
+--- PAGE 86 / 99 ---
+171
+Much Ado About Nothing
+ACT 5. SC. 1
+PRINCE
+CLAUDIO
+PRINCE
+BORACHIO
+PRINCE
+CLAUDIO
+DOGBERRY
+VERGES
+ I have deceived even your very eyes. What your
+ wisdoms could not discover, these shallow fools
+ have brought to light, who in the night overheard
+ me confessing to this man how Don John your
+ brother incensed me to slander the Lady Hero, how
+ you were brought into the orchard and saw me
+ court Margaret in Hero’s garments, how you disgraced
+ her when you should marry her. My villainy
+ they have upon record, which I had rather seal with
+ my death than repeat over to my shame. The lady is
+ dead upon mine and my master’s false accusation.
+ And, briefly, I desire nothing but the reward of a
+ villain.
+, to Claudio
+ 
+ Runs not this speech like iron through your blood?
+ 
+ I have drunk poison whiles he uttered it.
+, to Borachio
+ 
+ But did my brother set thee on to this?
+  Yea, and paid me richly for the practice of
+ it.
+ 
+ He is composed and framed of treachery,
+ And fled he is upon this villainy.
+ 
+ Sweet Hero, now thy image doth appear
+ In the rare semblance that I loved it first.
+  Come, bring away the plaintiffs. By this
+ time our sexton hath reformed Signior Leonato of
+ the matter. And, masters, do not forget to specify,
+ when time and place shall serve, that I am an ass.
+  Here, here comes Master Signior Leonato,
+ and the Sexton too.
+Enter Leonato, his brother, and the Sexton.
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+245
+FTLN 2395
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+250
+FTLN 2400
+FTLN 2401
+FTLN 2402
+FTLN 2403
+FTLN 2404
+255
+FTLN 2405
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+260
+FTLN 2410
+FTLN 2411
+FTLN 2412
+FTLN 2413
+FTLN 2414
+265
+FTLN 2415
+FTLN 2416
+FTLN 2417
+FTLN 2418
+
+--- PAGE 87 / 99 ---
+173
+Much Ado About Nothing
+ACT 5. SC. 1
+LEONATO
+BORACHIO
+LEONATO
+BORACHIO
+LEONATO
+CLAUDIO
+PRINCE
+LEONATO
+ 
+ Which is the villain? Let me see his eyes,
+ That, when I note another man like him,
+ I may avoid him. Which of these is he?
+ 
+ If you would know your wronger, look on me.
+ 
+ Art thou the slave that with thy breath hast killed
+ Mine innocent child?
+  
+ Yea, even I alone.
+ 
+ No, not so, villain, thou beliest thyself.
+ Here stand a pair of honorable men—
+ A third is fled—that had a hand in it.—
+ I thank you, princes, for my daughter’s death.
+ Record it with your high and worthy deeds.
+ ’Twas bravely done, if you bethink you of it.
+ 
+ I know not how to pray your patience,
+ Yet I must speak. Choose your revenge yourself.
+ Impose me to what penance your invention
+ Can lay upon my sin. Yet sinned I not
+ But in mistaking.
+  
+ By my soul, nor I,
+ And yet to satisfy this good old man
+ I would bend under any heavy weight
+ That he’ll enjoin me to.
+ 
+ I cannot bid you bid my daughter live—
+ That were impossible—but, I pray you both,
+ Possess the people in Messina here
+ How innocent she died. And if your love
+ Can labor aught in sad invention,
+ Hang her an epitaph upon her tomb
+ And sing it to her bones. Sing it tonight.
+ Tomorrow morning come you to my house,
+FTLN 2419
+270
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+275
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+FTLN 2429
+280
+FTLN 2430
+FTLN 2431
+FTLN 2432
+FTLN 2433
+FTLN 2434
+285
+FTLN 2435
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+290
+FTLN 2440
+FTLN 2441
+FTLN 2442
+FTLN 2443
+FTLN 2444
+295
+FTLN 2445
+FTLN 2446
+FTLN 2447
+FTLN 2448
+
+--- PAGE 88 / 99 ---
+175
+Much Ado About Nothing
+ACT 5. SC. 1
+CLAUDIO
+LEONATO
+BORACHIO
+DOGBERRY
+LEONATO
+DOGBERRY
+LEONATO
+DOGBERRY
+ And since you could not be my son-in-law,
+ Be yet my nephew. My brother hath a daughter,
+ Almost the copy of my child that’s dead,
+ And she alone is heir to both of us.
+ Give her the right you should have giv’n her cousin,
+ And so dies my revenge.
+  
+ O, noble sir!
+ Your overkindness doth wring tears from me.
+ I do embrace your offer and dispose
+ For henceforth of poor Claudio.
+ 
+ Tomorrow then I will expect your coming.
+ Tonight I take my leave. This naughty man
+ Shall face to face be brought to Margaret,
+ Who I believe was packed in all this wrong,
+ Hired to it by your brother.
+  No, by my soul, she was not,
+ Nor knew not what she did when she spoke to me,
+ But always hath been just and virtuous
+ In anything that I do know by her.
+, to Leonato
+  Moreover, sir, which indeed is
+ not under white and black, this plaintiff here, the
+ offender, did call me ass. I beseech you, let it be
+ remembered in his punishment. And also the watch
+ heard them talk of one Deformed. They say he
+ wears a key in his ear and a lock hanging by it and
+ borrows money in God’s name, the which he hath
+ used so long and never paid that now men grow
+ hardhearted and will lend nothing for God’s sake.
+ Pray you, examine him upon that point.
+  I thank thee for thy care and honest pains.
+  Your Worship speaks like a most thankful
+ and reverent youth, and I praise God for you.
+, giving him money
+  There’s for thy pains.
+  God save the foundation.
+FTLN 2449
+300
+FTLN 2450
+FTLN 2451
+FTLN 2452
+FTLN 2453
+FTLN 2454
+305
+FTLN 2455
+FTLN 2456
+FTLN 2457
+FTLN 2458
+FTLN 2459
+310
+FTLN 2460
+FTLN 2461
+FTLN 2462
+FTLN 2463
+FTLN 2464
+315
+FTLN 2465
+FTLN 2466
+FTLN 2467
+FTLN 2468
+FTLN 2469
+320
+FTLN 2470
+FTLN 2471
+FTLN 2472
+FTLN 2473
+FTLN 2474
+325
+FTLN 2475
+FTLN 2476
+FTLN 2477
+FTLN 2478
+FTLN 2479
+330
+FTLN 2480
+FTLN 2481
+FTLN 2482
+
+--- PAGE 89 / 99 ---
+177
+Much Ado About Nothing
+ACT 5. SC. 2
+LEONATO
+DOGBERRY
+Dogberry and Verges exit.
+LEONATO
+LEONATO’S BROTHER
+PRINCE
+CLAUDIO
+LEONATO
+They exit.
+BENEDICK
+MARGARET
+BENEDICK
+MARGARET
+  Go, I discharge thee of thy prisoner, and I
+ thank thee.
+  I leave an arrant knave with your Worship,
+ which I beseech your Worship to correct
+ yourself, for the example of others. God keep your
+ Worship! I wish your Worship well. God restore you
+ to health. I humbly give you leave to depart, and if a
+ merry meeting may be wished, God prohibit it.—
+ Come, neighbor. 
+ 
+ Until tomorrow morning, lords, farewell.
+ 
+ Farewell, my lords. We look for you tomorrow.
+ 
+ We will not fail.
+  
+ Tonight I’ll mourn with Hero.
+, to Watch
+ 
+ Bring you these fellows on.—We’ll talk with
+ Margaret,
+ How her acquaintance grew with this lewd fellow.
+Enter Benedick and Margaret.
+  Pray thee, sweet Mistress Margaret, deserve
+ well at my hands by helping me to the speech of
+ Beatrice.
+  Will you then write me a sonnet in praise
+ of my beauty?
+  In so high a style, Margaret, that no man
+ living shall come over it, for in most comely truth
+ thou deservest it.
+  To have no man come over me? Why, shall I
+ always keep below stairs?
+FTLN 2483
+FTLN 2484
+335
+FTLN 2485
+FTLN 2486
+FTLN 2487
+FTLN 2488
+FTLN 2489
+340
+FTLN 2490
+FTLN 2491
+FTLN 2492
+FTLN 2493
+FTLN 2494
+345
+FTLN 2495
+FTLN 2496
+FTLN 2497
+FTLN 2498
+Scene 2
+FTLN 2499
+FTLN 2500
+FTLN 2501
+FTLN 2502
+FTLN 2503
+5
+FTLN 2504
+FTLN 2505
+FTLN 2506
+FTLN 2507
+FTLN 2508
+10
+
+--- PAGE 90 / 99 ---
+179
+Much Ado About Nothing
+ACT 5. SC. 2
+BENEDICK
+MARGARET
+BENEDICK
+MARGARET
+BENEDICK
+MARGARET
+BENEDICK
+Margaret exits.
+  Thy wit is as quick as the greyhound’s
+ mouth; it catches.
+  And yours as blunt as the fencer’s foils,
+ which hit but hurt not.
+  A most manly wit, Margaret; it will not hurt
+ a woman. And so, I pray thee, call Beatrice. I give
+ thee the bucklers.
+  Give us the swords; we have bucklers of our
+ own.
+  If you use them, Margaret, you must put in
+ the pikes with a vice, and they are dangerous
+ weapons for maids.
+  Well, I will call Beatrice to you, who I
+ think hath legs.
+  And therefore will come.
+Sings    The god of love
+  That sits above,
+ And knows me, and knows me,
+  How pitiful I deserve—
+ I mean in singing. But in loving, Leander the good
+ swimmer, Troilus the first employer of panders, and
+ a whole book full of these quondam carpetmongers,
+ whose names yet run smoothly in the even
+ road of a blank verse, why, they were never so truly
+ turned over and over as my poor self in love. Marry,
+ I cannot show it in rhyme. I have tried. I can find out
+ no rhyme to “lady” but “baby”—an innocent
+ rhyme; for “scorn,” “horn”—a hard rhyme; for
+ “school,” “fool”—a babbling rhyme; very ominous
+ endings. No, I was not born under a rhyming
+ planet, nor I cannot woo in festival terms.
+Enter Beatrice.
+ Sweet Beatrice, wouldst thou come when I called
+ thee?
+FTLN 2509
+FTLN 2510
+FTLN 2511
+FTLN 2512
+FTLN 2513
+15
+FTLN 2514
+FTLN 2515
+FTLN 2516
+FTLN 2517
+FTLN 2518
+20
+FTLN 2519
+FTLN 2520
+FTLN 2521
+FTLN 2522
+FTLN 2523
+25
+FTLN 2524
+FTLN 2525
+FTLN 2526
+FTLN 2527
+FTLN 2528
+30
+FTLN 2529
+FTLN 2530
+FTLN 2531
+FTLN 2532
+FTLN 2533
+35
+FTLN 2534
+FTLN 2535
+FTLN 2536
+FTLN 2537
+FTLN 2538
+40
+FTLN 2539
+FTLN 2540
+FTLN 2541
+
+--- PAGE 91 / 99 ---
+181
+Much Ado About Nothing
+ACT 5. SC. 2
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+  Yea, signior, and depart when you bid me.
+  O, stay but till then!
+  “Then” is spoken. Fare you well now. And
+ yet, ere I go, let me go with that I came, which is,
+ with knowing what hath passed between you and
+ Claudio.
+  Only foul words, and thereupon I will kiss
+ thee.
+  Foul words is but foul wind, and foul wind is
+ but foul breath, and foul breath is noisome. Therefore
+ I will depart unkissed.
+  Thou hast frighted the word out of his right
+ sense, so forcible is thy wit. But I must tell thee
+ plainly, Claudio undergoes my challenge, and either
+ I must shortly hear from him, or I will subscribe
+ him a coward. And I pray thee now tell me, for
+ which of my bad parts didst thou first fall in love
+ with me?
+  For them all together, which maintained so
+ politic a state of evil that they will not admit any
+ good part to intermingle with them. But for which
+ of my good parts did you first suffer love for me?
+  Suffer love! A good epithet. I do suffer love
+ indeed, for I love thee against my will.
+  In spite of your heart, I think. Alas, poor
+ heart, if you spite it for my sake, I will spite it for
+ yours, for I will never love that which my friend
+ hates.
+  Thou and I are too wise to woo peaceably.
+  It appears not in this confession. There’s not
+ one wise man among twenty that will praise
+ himself.
+  An old, an old instance, Beatrice, that lived
+ in the time of good neighbors. If a man do not erect
+ in this age his own tomb ere he dies, he shall live no
+ longer in monument than the bell rings and the
+ widow weeps.
+FTLN 2542
+FTLN 2543
+45
+FTLN 2544
+FTLN 2545
+FTLN 2546
+FTLN 2547
+FTLN 2548
+50
+FTLN 2549
+FTLN 2550
+FTLN 2551
+FTLN 2552
+FTLN 2553
+55
+FTLN 2554
+FTLN 2555
+FTLN 2556
+FTLN 2557
+FTLN 2558
+60
+FTLN 2559
+FTLN 2560
+FTLN 2561
+FTLN 2562
+FTLN 2563
+65
+FTLN 2564
+FTLN 2565
+FTLN 2566
+FTLN 2567
+FTLN 2568
+70
+FTLN 2569
+FTLN 2570
+FTLN 2571
+FTLN 2572
+FTLN 2573
+75
+FTLN 2574
+FTLN 2575
+FTLN 2576
+FTLN 2577
+FTLN 2578
+80
+
+--- PAGE 92 / 99 ---
+183
+Much Ado About Nothing
+ACT 5. SC. 3
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+URSULA
+Ursula exits.
+BEATRICE
+BENEDICK
+They  exit.
+CLAUDIO
+FIRST  LORD
+  And how long is that, think you?
+  Question: why, an hour in clamor and a
+ quarter in rheum. Therefore is it most expedient for
+ the wise, if Don Worm, his conscience, find no
+ impediment to the contrary, to be the trumpet of
+ his own virtues, as I am to myself. So much for
+ praising myself, who, I myself will bear witness, is
+ praiseworthy. And now tell me, how doth your
+ cousin?
+  Very ill.
+  And how do you?
+  Very ill, too.
+  Serve God, love me, and mend. There will I
+ leave you too, for here comes one in haste.
+Enter Ursula.
+  Madam, you must come to your uncle. Yonder’s
+ old coil at home. It is proved my Lady Hero
+ hath been falsely accused, the Prince and Claudio
+ mightily abused, and Don John is the author of all,
+ who is fled and gone. Will you come presently?
+  Will you go hear this news, signior?
+  I will live in thy heart, die in thy lap, and be
+ buried in thy eyes—and, moreover, I will go with
+ thee to thy uncle’s.
+Enter Claudio, Prince, and three or four Lords  with
+tapers, and Musicians.
+  Is this the monument of Leonato?
+  It is, my lord.
+FTLN 2579
+FTLN 2580
+FTLN 2581
+FTLN 2582
+FTLN 2583
+85
+FTLN 2584
+FTLN 2585
+FTLN 2586
+FTLN 2587
+FTLN 2588
+90
+FTLN 2589
+FTLN 2590
+FTLN 2591
+FTLN 2592
+FTLN 2593
+95
+FTLN 2594
+FTLN 2595
+FTLN 2596
+FTLN 2597
+FTLN 2598
+100
+FTLN 2599
+FTLN 2600
+FTLN 2601
+Scene 3
+FTLN 2602
+FTLN 2603
+
+--- PAGE 93 / 99 ---
+185
+Much Ado About Nothing
+ACT 5. SC. 3
+CLAUDIO
+He hangs up the scroll.
+CLAUDIO
+PRINCE
+CLAUDIO
+Lords and Musicians exit.
+, reading an  Epitaph.  
+ Done to death by slanderous tongues
+  Was the Hero that here lies.
+ Death, in guerdon of her wrongs,
+  Gives her fame which never dies.
+ So the life that died with shame
+ Lives in death with glorious fame.
+ Hang thou there upon the tomb,
+ Praising her when I am dumb.
+ Now music, sound, and sing your solemn hymn.
+Song  
+ Pardon, goddess of the night,
+ Those that slew thy virgin knight,
+ For the which with songs of woe,
+ Round about her tomb they go.
+  Midnight, assist our moan.
+  Help us to sigh and groan
+ 
+ Heavily, heavily.
+  Graves, yawn and yield your dead,
+  Till death be utterèd,
+ 
+ Heavily, heavily.
+ 
+ Now, unto thy bones, goodnight.
+ Yearly will I do this rite.
+ 
+ Good morrow, masters. Put your torches out.
+ The wolves have preyed, and look, the gentle day
+ Before the wheels of Phoebus, round about
+ Dapples the drowsy east with spots of gray.
+ Thanks to you all, and leave us. Fare you well.
+ 
+ Good morrow, masters. Each his several way.
+FTLN 2604
+FTLN 2605
+FTLN 2606
+5
+FTLN 2607
+FTLN 2608
+FTLN 2609
+FTLN 2610
+FTLN 2611
+10
+FTLN 2612
+FTLN 2613
+FTLN 2614
+FTLN 2615
+FTLN 2616
+15
+FTLN 2617
+FTLN 2618
+FTLN 2619
+FTLN 2620
+FTLN 2621
+20
+FTLN 2622
+FTLN 2623
+FTLN 2624
+FTLN 2625
+FTLN 2626
+25
+FTLN 2627
+FTLN 2628
+FTLN 2629
+FTLN 2630
+
+--- PAGE 94 / 99 ---
+187
+Much Ado About Nothing
+ACT 5. SC. 4
+PRINCE
+CLAUDIO
+They exit.
+FRIAR
+LEONATO
+LEONATO’S BROTHER
+BENEDICK
+LEONATO
+The ladies exit.
+ 
+ Come, let us hence, and put on other weeds,
+ And then to Leonato’s we will go.
+ 
+ And Hymen now with luckier issue speed ’s,
+ Than this for whom we rendered up this woe.
+Enter Leonato, Benedick, Beatrice,  Margaret, Ursula,
+Leonato’s brother,  Friar, Hero.
+ 
+ Did I not tell you she was innocent?
+ 
+ So are the Prince and Claudio, who accused her
+ Upon the error that you heard debated.
+ But Margaret was in some fault for this,
+ Although against her will, as it appears
+ In the true course of all the question.
+ 
+ Well, I am glad that all things sorts so well.
+ 
+ And so am I, being else by faith enforced
+ To call young Claudio to a reckoning for it.
+ 
+ Well, daughter, and you gentlewomen all,
+ Withdraw into a chamber by yourselves,
+ And when I send for you, come hither masked.
+ The Prince and Claudio promised by this hour
+ To visit me.—You know your office, brother.
+ You must be father to your brother’s daughter,
+ And give her to young Claudio. 
+FTLN 2631
+30
+FTLN 2632
+FTLN 2633
+FTLN 2634
+Scene 4
+FTLN 2635
+FTLN 2636
+FTLN 2637
+FTLN 2638
+FTLN 2639
+5
+FTLN 2640
+FTLN 2641
+FTLN 2642
+FTLN 2643
+FTLN 2644
+10
+FTLN 2645
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+15
+FTLN 2650
+
+--- PAGE 95 / 99 ---
+189
+Much Ado About Nothing
+ACT 5. SC. 4
+LEONATO’S BROTHER
+BENEDICK
+FRIAR
+BENEDICK
+LEONATO
+BENEDICK
+LEONATO
+BENEDICK
+LEONATO
+FRIAR
+PRINCE
+LEONATO
+CLAUDIO
+ 
+ Which I will do with confirmed countenance.
+ 
+ Friar, I must entreat your pains, I think.
+  To do what, signior?
+ 
+ To bind me, or undo me, one of them.—
+ Signior Leonato, truth it is, good signior,
+ Your niece regards me with an eye of favor.
+ 
+ That eye my daughter lent her; ’tis most true.
+ 
+ And I do with an eye of love requite her.
+ 
+ The sight whereof I think you had from me,
+ From Claudio, and the Prince. But what’s your will?
+ 
+ Your answer, sir, is enigmatical.
+ But for my will, my will is your goodwill
+ May stand with ours, this day to be conjoined
+ In the state of honorable marriage—
+ In which, good friar, I shall desire your help.
+ 
+ My heart is with your liking.
+  
+ And my help.
+ Here comes the Prince and Claudio.
+Enter Prince, and Claudio, and two or three other.
+  Good morrow to this fair assembly.
+ 
+ Good morrow, prince; good morrow, Claudio.
+ We here attend you. Are you yet determined
+ Today to marry with my brother’s daughter?
+ 
+ I’ll hold my mind were she an Ethiope.
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+20
+FTLN 2655
+FTLN 2656
+FTLN 2657
+FTLN 2658
+FTLN 2659
+25
+FTLN 2660
+FTLN 2661
+FTLN 2662
+FTLN 2663
+FTLN 2664
+30
+FTLN 2665
+FTLN 2666
+FTLN 2667
+FTLN 2668
+FTLN 2669
+35
+FTLN 2670
+FTLN 2671
+FTLN 2672
+FTLN 2673
+
+--- PAGE 96 / 99 ---
+191
+Much Ado About Nothing
+ACT 5. SC. 4
+LEONATO
+Leonato’s brother exits.
+PRINCE
+CLAUDIO
+BENEDICK
+CLAUDIO
+LEONATO
+CLAUDIO
+LEONATO
+CLAUDIO
+They take hands.
+ 
+ Call her forth, brother. Here’s the Friar ready.
+ 
+ Good morrow, Benedick. Why, what’s the matter
+ That you have such a February face,
+ So full of frost, of storm, and cloudiness?
+ 
+ I think he thinks upon the savage bull.
+ Tush, fear not, man. We’ll tip thy horns with gold,
+ And all Europa shall rejoice at thee,
+ As once Europa did at lusty Jove
+ When he would play the noble beast in love.
+ 
+ Bull Jove, sir, had an amiable low,
+ And some such strange bull leapt your father’s cow
+ And got a calf in that same noble feat
+ Much like to you, for you have just his bleat.
+ 
+ For this I owe you. Here comes other reck’nings.
+Enter Leonato’s  brother, Hero, Beatrice, Margaret,
+Ursula, the ladies masked.
+ Which is the lady I must seize upon?
+ 
+ This same is she, and I do give you her.
+ 
+ Why, then, she’s mine.—Sweet, let me see your face.
+ 
+ No, that you shall not till you take her hand
+ Before this friar and swear to marry her.
+, to Hero
+ 
+ Give me your hand before this holy friar.
+ I am your husband, if you like of me.
+FTLN 2674
+40
+FTLN 2675
+FTLN 2676
+FTLN 2677
+FTLN 2678
+FTLN 2679
+45
+FTLN 2680
+FTLN 2681
+FTLN 2682
+FTLN 2683
+FTLN 2684
+50
+FTLN 2685
+FTLN 2686
+FTLN 2687
+FTLN 2688
+FTLN 2689
+55
+FTLN 2690
+FTLN 2691
+FTLN 2692
+FTLN 2693
+FTLN 2694
+60
+
+--- PAGE 97 / 99 ---
+193
+Much Ado About Nothing
+ACT 5. SC. 4
+HERO
+She unmasks.
+CLAUDIO
+HERO
+PRINCE
+LEONATO
+FRIAR
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+ 
+ And when I lived, I was your other wife,
+ And when you loved, you were my other husband.
+ 
+ Another Hero!
+  
+ Nothing certainer.
+ One Hero died defiled, but I do live,
+ And surely as I live, I am a maid.
+ 
+ The former Hero! Hero that is dead!
+ 
+ She died, my lord, but whiles her slander lived.
+ 
+ All this amazement can I qualify,
+ When after that the holy rites are ended,
+ I’ll tell you largely of fair Hero’s death.
+ Meantime let wonder seem familiar,
+ And to the chapel let us presently.
+ 
+ Soft and fair, friar.—Which is Beatrice?
+, unmasking
+ 
+ I answer to that name. What is your will?
+ 
+ Do not you love me?
+  
+ Why no, no more than reason.
+ 
+ Why then, your uncle and the Prince and Claudio
+ Have been deceived. They swore you did.
+ 
+ Do not you love me?
+  
+ Troth, no, no more than reason.
+ 
+ Why then, my cousin, Margaret, and Ursula
+ Are much deceived, for they did swear you did.
+FTLN 2695
+FTLN 2696
+FTLN 2697
+FTLN 2698
+FTLN 2699
+65
+FTLN 2700
+FTLN 2701
+FTLN 2702
+FTLN 2703
+FTLN 2704
+70
+FTLN 2705
+FTLN 2706
+FTLN 2707
+FTLN 2708
+FTLN 2709
+75
+FTLN 2710
+FTLN 2711
+FTLN 2712
+FTLN 2713
+FTLN 2714
+80
+FTLN 2715
+FTLN 2716
+FTLN 2717
+
+--- PAGE 98 / 99 ---
+195
+Much Ado About Nothing
+ACT 5. SC. 4
+BENEDICK
+BEATRICE
+BENEDICK
+BEATRICE
+LEONATO
+CLAUDIO
+He shows a paper.
+HERO
+She shows a paper.
+BENEDICK
+BEATRICE
+BENEDICK
+They kiss.
+PRINCE
+BENEDICK
+ 
+ They swore that you were almost sick for me.
+ 
+ They swore that you were well-nigh dead for me.
+ 
+ ’Tis no such matter. Then you do not love me?
+ 
+ No, truly, but in friendly recompense.
+ 
+ Come, cousin, I am sure you love the gentleman.
+ 
+ And I’ll be sworn upon ’t that he loves her,
+ For here’s a paper written in his hand,
+ A halting sonnet of his own pure brain,
+ Fashioned to Beatrice. 
+  
+ And here’s another,
+ Writ in my cousin’s hand, stol’n from her pocket,
+ Containing her affection unto Benedick.
+  A miracle! Here’s our own hands against
+ our hearts. Come, I will have thee, but by this light
+ I take thee for pity.
+  I would not deny you, but by this good day, I
+ yield upon great persuasion, and partly to save your
+ life, for I was told you were in a consumption.
+  Peace! I will stop your mouth.
+ 
+ How dost thou, Benedick, the married man?
+  I’ll tell thee what, prince: a college of
+ wit-crackers cannot flout me out of my humor.
+ Dost thou think I care for a satire or an epigram?
+ No. If a man will be beaten with brains, he shall
+ wear nothing handsome about him. In brief, since I
+ do purpose to marry, I will think nothing to any
+ purpose that the world can say against it, and
+FTLN 2718
+FTLN 2719
+85
+FTLN 2720
+FTLN 2721
+FTLN 2722
+FTLN 2723
+FTLN 2724
+90
+FTLN 2725
+FTLN 2726
+FTLN 2727
+FTLN 2728
+FTLN 2729
+95
+FTLN 2730
+FTLN 2731
+FTLN 2732
+FTLN 2733
+FTLN 2734
+100
+FTLN 2735
+FTLN 2736
+FTLN 2737
+FTLN 2738
+FTLN 2739
+105
+FTLN 2740
+FTLN 2741
+FTLN 2742
+FTLN 2743
+FTLN 2744
+110
+
+--- PAGE 99 / 99 ---
+197
+Much Ado About Nothing
+ACT 5. SC. 4
+CLAUDIO
+BENEDICK
+LEONATO
+BENEDICK
+MESSENGER
+BENEDICK
+Music plays. They  dance.
+They exit.
+ therefore never flout at me for what I have said
+ against it. For man is a giddy thing, and this is my
+ conclusion.—For thy part, Claudio, I did think to
+ have beaten thee, but in that thou art like to be my
+ kinsman, live unbruised, and love my cousin.
+  I had well hoped thou wouldst have denied
+ Beatrice, that I might have cudgeled thee out of thy
+ single life, to make thee a double-dealer, which out
+ of question thou wilt be, if my cousin do not look
+ exceeding narrowly to thee.
+  Come, come, we are friends. Let’s have a
+ dance ere we are married, that we may lighten our
+ own hearts and our wives’ heels.
+  We’ll have dancing afterward.
+  First, of my word! Therefore play, music.—
+ Prince, thou art sad. Get thee a wife, get thee a wife.
+ There is no staff more reverend than one tipped
+ with horn.
+Enter Messenger.
+, to Prince
+ 
+ My lord, your brother John is ta’en in flight,
+ And brought with armed men back to Messina.
+, to Prince
+  Think not on him till tomorrow.
+ I’ll devise thee brave punishments for him.—Strike
+ up, pipers! 
+FTLN 2745
+FTLN 2746
+FTLN 2747
+FTLN 2748
+FTLN 2749
+115
+FTLN 2750
+FTLN 2751
+FTLN 2752
+FTLN 2753
+FTLN 2754
+120
+FTLN 2755
+FTLN 2756
+FTLN 2757
+FTLN 2758
+FTLN 2759
+125
+FTLN 2760
+FTLN 2761
+FTLN 2762
+FTLN 2763
+FTLN 2764
+130
+FTLN 2765
+FTLN 2766
+FTLN 2767
+

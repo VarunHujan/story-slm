@@ -1,0 +1,9036 @@
+=== BOOK TITLE: alls-well-that-ends-well_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 110 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 110 ---
+Front
+Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+Synopsis
+Characters in the Play
+ACT 1
+Scene 1
+Scene 2
+Scene 3
+ACT 2
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+ACT 3
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+Scene 6
+Scene 7
+ACT 4
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
+ACT 5
+Scene 1
+Scene 2
+Scene 3
+Epilogue
+Contents
+
+--- PAGE 3 / 110 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition four hundred years ago, Shakespeare’s plays and poems
+have traveled the globe, inviting those who see and read his works to
+make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 110 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays had to be content primarily with using the
+Moby™ Text, which reproduces a late-nineteenth century version of
+the plays. What is the difference? Many ordinary readers assume that
+there is a single text for the plays: what Shakespeare wrote. But
+Shakespeare’s plays were not published the way modern novels or
+plays are published today: as a single, authoritative text. In some
+cases, the plays have come down to us in multiple published
+versions, represented by various Quartos (Qq) and by the great
+collection put together by his colleagues in 1623, called the First
+Folio (F). There are, for example, three very different versions of
+Hamlet, two of King Lear, Henry V, Romeo and Juliet, and others.
+Editors choose which version to use as their base text, and then
+amend that text with words, lines or speech prefixes from the other
+versions that, in their judgment, make for a better or more accurate
+text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 110 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 110 ---
+In All’s Well That Ends Well, a woman is given in marriage to the
+man she longs for, but, because she is of lower rank, he refuses to
+accept the marriage. It becomes her challenge to win his acceptance.
+Helen, the daughter of a dead physician, secretly loves Bertram, the
+Count of Rosillion’s son. When the count dies, Bertram becomes a
+ward of the French king, who is dying of a fistula. Helen heals the
+ailing king, and he grants her wish to marry his ward. Bertram
+refuses to consummate the marriage and goes off to war, sending
+Helen a list of seemingly impossible conditions to be met before he
+will consider her his wife.
+To meet his conditions, Helen substitutes herself for a woman whom
+Bertram desires, and sleeps with him. When false news comes that
+Helen is dead, Bertram faces the charge that he has killed her. Helen,
+now pregnant, reappears, saving Bertram and demonstrating that she
+has met his conditions. Bertram then acknowledges her.
+Synopsis
+
+--- PAGE 7 / 110 ---
+HELEN, a gentlewoman of Rossillion
+BERTRAM, Count of Rossillion
+COUNTESS of Rossillion, Bertram’s mother
+PAROLLES, companion to Bertram
+KING of France
+LAFEW, a French lord
+Other LORDS in the court of the King of France
+FIRST SOLDIER, interpreter
+The DUKE of Florence
+A WIDOW of Florence
+DIANA, the Widow’s daughter
+MARIANA, the Widow’s neighbor
+Attendants, Soldiers, Citizens of Florence, Servants
+Characters in the Play
+in the Countess’s household
+STEWARD
+FOOL
+PAGE
+later Captains in the
+army of the Duke of Florence
+FIRST LORD
+SECOND LORD
+from the court of
+the King of France
+FIRST GENTLEMAN
+SECOND GENTLEMAN
+GENTLEMAN, a “gentle Astringer”
+
+--- PAGE 8 / 110 ---
+COUNTESS
+BERTRAM
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+Enter young Bertram Count of Rossillion, his mother
+the Countess,  and Helen, Lord Lafew, all in black.
+  In delivering my son from me, I bury a second
+ husband.
+  And I in going, madam, weep o’er my
+ father’s death anew; but I must attend his Majesty’s
+ command, to whom I am now in ward, evermore
+ in subjection.
+  You shall find of the King a husband, madam;
+ you, sir, a father. He that so generally is at all times
+ good must of necessity hold his virtue to you,
+ whose worthiness would stir it up where it wanted
+ rather than lack it where there is such abundance.
+  What hope is there of his Majesty’s
+ amendment?
+  He hath abandoned his physicians, madam,
+ under whose practices he hath persecuted time
+ with hope, and finds no other advantage in the
+ process but only the losing of hope by time.
+  This young gentlewoman had a father—O,
+ that “had,” how sad a passage ’tis!—whose skill
+ was almost as great as his honesty; had it stretched
+ so far, would have made nature immortal, and
+ death should have play for lack of work. Would for
+7
+ACT 1
+Scene 1
+FTLN 0001
+FTLN 0002
+FTLN 0003
+FTLN 0004
+FTLN 0005
+5
+FTLN 0006
+FTLN 0007
+FTLN 0008
+FTLN 0009
+FTLN 0010
+10
+FTLN 0011
+FTLN 0012
+FTLN 0013
+FTLN 0014
+FTLN 0015
+15
+FTLN 0016
+FTLN 0017
+FTLN 0018
+FTLN 0019
+FTLN 0020
+20
+FTLN 0021
+FTLN 0022
+
+--- PAGE 9 / 110 ---
+9
+All’s Well That Ends Well
+ACT 1. SC. 1
+LAFEW
+COUNTESS
+LAFEW
+BERTRAM
+LAFEW
+BERTRAM
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+HELEN
+LAFEW
+ the King’s sake he were living! I think it would be
+ the death of the King’s disease.
+  How called you the man you speak of,
+ madam?
+  He was famous, sir, in his profession, and it
+ was his great right to be so: Gerard de Narbon.
+  He was excellent indeed, madam. The King
+ very lately spoke of him admiringly, and mourningly.
+ He was skillful enough to have lived still, if
+ knowledge could be set up against mortality.
+  What is it, my good lord, the King languishes
+ of?
+  A fistula, my lord.
+  I heard not of it before.
+  I would it were not notorious.—Was this gentlewoman
+ the daughter of Gerard de Narbon?
+  His sole child, my lord, and bequeathed to
+ my overlooking. I have those hopes of her good
+ that her education promises. Her dispositions she
+ inherits, which makes fair gifts fairer; for where an
+ unclean mind carries virtuous qualities, there
+ commendations go with pity—they are virtues and
+ traitors too. In her they are the better for their simpleness.
+ She derives her honesty and achieves her
+ goodness.
+  Your commendations, madam, get from her
+ tears.
+  ’Tis the best brine a maiden can season her
+ praise in. The remembrance of her father never
+ approaches her heart but the tyranny of her sorrows
+ takes all livelihood from her cheek.—No
+ more of this, Helena. Go to. No more, lest it be
+ rather thought you affect a sorrow than to have—
+  I do affect a sorrow indeed, but I have it too.
+  Moderate lamentation is the right of the dead,
+ excessive grief the enemy to the living.
+FTLN 0023
+FTLN 0024
+FTLN 0025
+25
+FTLN 0026
+FTLN 0027
+FTLN 0028
+FTLN 0029
+FTLN 0030
+30
+FTLN 0031
+FTLN 0032
+FTLN 0033
+FTLN 0034
+FTLN 0035
+35
+FTLN 0036
+FTLN 0037
+FTLN 0038
+FTLN 0039
+FTLN 0040
+40
+FTLN 0041
+FTLN 0042
+FTLN 0043
+FTLN 0044
+FTLN 0045
+45
+FTLN 0046
+FTLN 0047
+FTLN 0048
+FTLN 0049
+FTLN 0050
+50
+FTLN 0051
+FTLN 0052
+FTLN 0053
+FTLN 0054
+FTLN 0055
+55
+FTLN 0056
+FTLN 0057
+FTLN 0058
+
+--- PAGE 10 / 110 ---
+11
+All’s Well That Ends Well
+ACT 1. SC. 1
+COUNTESS
+BERTRAM
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+BERTRAM
+Countess exits.
+LAFEW
+Bertram and Lafew exit.
+HELEN
+  If the living be enemy to the grief, the
+ excess makes it soon mortal.
+  Madam, I desire your holy wishes.
+  How understand we that?
+ 
+ Be thou blessed, Bertram, and succeed thy father
+ In manners as in shape. Thy blood and virtue
+ Contend for empire in thee, and thy goodness
+ Share with thy birthright. Love all, trust a few,
+ Do wrong to none. Be able for thine enemy
+ Rather in power than use, and keep thy friend
+ Under thy own life’s key Be checked for silence,
+ But never taxed for speech. What heaven more will,
+ That thee may furnish and my prayers pluck down,
+ Fall on thy head.  To Lafew.  Farewell, my lord.
+ ’Tis an unseasoned courtier. Good my lord,
+ Advise him.
+  
+ He cannot want the best that shall
+ Attend his love.
+  Heaven bless him.—Farewell, Bertram.
+  The best wishes that can be forged in your
+ thoughts be servants to you. 
+  To Helen.  Be comfortable to my mother, your
+ mistress, and make much of her.
+  Farewell, pretty lady. You must hold the credit
+ of your father. 
+ 
+ O, were that all! I think not on my father,
+ And these great tears grace his remembrance more
+ Than those I shed for him. What was he like?
+ I have forgot him. My imagination
+ Carries no favor in ’t but Bertram’s.
+ I am undone. There is no living, none,
+ If Bertram be away. ’Twere all one
+ That I should love a bright particular star
+ And think to wed it, he is so above me.
+FTLN 0059
+FTLN 0060
+60
+FTLN 0061
+FTLN 0062
+FTLN 0063
+FTLN 0064
+FTLN 0065
+65
+FTLN 0066
+FTLN 0067
+FTLN 0068
+FTLN 0069
+FTLN 0070
+70
+FTLN 0071
+FTLN 0072
+FTLN 0073
+FTLN 0074
+FTLN 0075
+75
+FTLN 0076
+FTLN 0077
+FTLN 0078
+FTLN 0079
+FTLN 0080
+80
+FTLN 0081
+FTLN 0082
+FTLN 0083
+FTLN 0084
+FTLN 0085
+85
+FTLN 0086
+FTLN 0087
+FTLN 0088
+FTLN 0089
+FTLN 0090
+90
+FTLN 0091
+FTLN 0092
+
+--- PAGE 11 / 110 ---
+13
+All’s Well That Ends Well
+ACT 1. SC. 1
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+ In his bright radiance and collateral light
+ Must I be comforted, not in his sphere.
+ Th’ ambition in my love thus plagues itself:
+ The hind that would be mated by the lion
+ Must die for love. ’Twas pretty, though a plague,
+ To see him every hour, to sit and draw
+ His archèd brows, his hawking eye, his curls
+ In our heart’s table—heart too capable
+ Of every line and trick of his sweet favor.
+ But now he’s gone, and my idolatrous fancy
+ Must sanctify his relics. Who comes here?
+Enter Parolles.
+ One that goes with him. I love him for his sake,
+ And yet I know him a notorious liar,
+ Think him a great way fool, solely a coward.
+ Yet these fixed evils sit so fit in him
+ That they take place when virtue’s steely bones
+ Looks bleak i’ th’ cold wind. Withal, full oft we see
+ Cold wisdom waiting on superfluous folly.
+  Save you, fair queen.
+  And you, monarch.
+  No.
+  And no.
+  Are you meditating on virginity?
+  Ay. You have some stain of soldier in you; let
+ me ask you a question. Man is enemy to virginity.
+ How may we barricado it against him?
+  Keep him out.
+  But he assails, and our virginity, though
+ valiant in the defense, yet is weak. Unfold to us
+ some warlike resistance.
+  There is none. Man setting down before you
+ will undermine you and blow you up.
+  Bless our poor virginity from underminers and
+ blowers-up! Is there no military policy how virgins
+ might blow up men?
+FTLN 0093
+FTLN 0094
+FTLN 0095
+95
+FTLN 0096
+FTLN 0097
+FTLN 0098
+FTLN 0099
+FTLN 0100
+100
+FTLN 0101
+FTLN 0102
+FTLN 0103
+FTLN 0104
+FTLN 0105
+105
+FTLN 0106
+FTLN 0107
+FTLN 0108
+FTLN 0109
+FTLN 0110
+110
+FTLN 0111
+FTLN 0112
+FTLN 0113
+FTLN 0114
+FTLN 0115
+115
+FTLN 0116
+FTLN 0117
+FTLN 0118
+FTLN 0119
+FTLN 0120
+120
+FTLN 0121
+FTLN 0122
+FTLN 0123
+FTLN 0124
+FTLN 0125
+125
+FTLN 0126
+FTLN 0127
+
+--- PAGE 12 / 110 ---
+15
+All’s Well That Ends Well
+ACT 1. SC. 1
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+  Virginity being blown down, man will
+ quicklier be blown up. Marry, in blowing him
+ down again, with the breach yourselves made you
+ lose your city. It is not politic in the commonwealth
+ of nature to preserve virginity. Loss of virginity
+ is rational increase, and there was never
+ virgin got  till virginity was first lost. That you
+ were made of is metal to make virgins. Virginity by
+ being once lost may be ten times found; by being
+ ever kept, it is ever lost. ’Tis too cold a companion.
+ Away with ’t.
+  I will stand for ’t a little, though therefore I
+ die a virgin.
+  There’s little can be said in ’t. ’Tis against the
+ rule of nature. To speak on the part of virginity is
+ to accuse your mothers, which is most infallible
+ disobedience. He that hangs himself is a virgin;
+ virginity murders itself and should be buried in
+ highways out of all sanctified limit as a desperate
+ offendress against nature. Virginity breeds mites,
+ much like a cheese, consumes itself to the very
+ paring, and so dies with feeding his own stomach.
+ Besides, virginity is peevish, proud, idle, made of
+ self-love, which is the most inhibited sin in the
+ canon. Keep it not; you cannot choose but lose by
+ ’t. Out with ’t! Within ten year it will make itself
+ two, which is a goodly increase, and the principal
+ itself not much the worse. Away with ’t!
+  How might one do, sir, to lose it to her own
+ liking?
+  Let me see. Marry, ill, to like him that ne’er
+ it likes. ’Tis a commodity will lose the gloss with
+ lying; the longer kept, the less worth. Off with ’t
+ while ’tis vendible; answer the time of request. Virginity,
+ like an old courtier, wears her cap out of
+ fashion, richly suited but unsuitable, just like the
+FTLN 0128
+FTLN 0129
+FTLN 0130
+130
+FTLN 0131
+FTLN 0132
+FTLN 0133
+FTLN 0134
+FTLN 0135
+135
+FTLN 0136
+FTLN 0137
+FTLN 0138
+FTLN 0139
+FTLN 0140
+140
+FTLN 0141
+FTLN 0142
+FTLN 0143
+FTLN 0144
+FTLN 0145
+145
+FTLN 0146
+FTLN 0147
+FTLN 0148
+FTLN 0149
+FTLN 0150
+150
+FTLN 0151
+FTLN 0152
+FTLN 0153
+FTLN 0154
+FTLN 0155
+155
+FTLN 0156
+FTLN 0157
+FTLN 0158
+FTLN 0159
+FTLN 0160
+160
+FTLN 0161
+FTLN 0162
+FTLN 0163
+
+--- PAGE 13 / 110 ---
+17
+All’s Well That Ends Well
+ACT 1. SC. 1
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAGE
+PAROLLES
+HELEN
+ brooch and the toothpick, which wear not now.
+ Your date is better in your pie and your porridge
+ than in your cheek. And your virginity, your old
+ virginity, is like one of our French withered pears:
+ it looks ill, it eats dryly; marry, ’tis a withered pear.
+ It was formerly better, marry, yet ’tis a withered
+ pear. Will you anything with it?
+  Not my virginity, yet—
+ There shall your master have a thousand loves,
+ A mother, and a mistress, and a friend,
+ A phoenix, captain, and an enemy,
+ A guide, a goddess, and a sovereign,
+ A counselor, a traitress, and a dear;
+ His humble ambition, proud humility,
+ His jarring concord, and his discord dulcet,
+ His faith, his sweet disaster, with a world
+ Of pretty, fond adoptious christendoms
+ That blinking Cupid gossips. Now shall he—
+ I know not what he shall. God send him well.
+ The court’s a learning place, and he is one—
+  What one, i’ faith?
+  That I wish well. ’Tis pity—
+  What’s pity?
+ 
+ That wishing well had not a body in ’t
+ Which might be felt, that we, the poorer born,
+ Whose baser stars do shut us up in wishes,
+ Might with effects of them follow our friends
+ And show what we alone must think, which never
+ Returns us thanks.
+Enter Page.
+  Monsieur Parolles, my lord calls for you.
+  Little Helen, farewell. If I can remember
+ thee, I will think of thee at court.
+  Monsieur Parolles, you were born under a
+ charitable star.
+FTLN 0164
+FTLN 0165
+165
+FTLN 0166
+FTLN 0167
+FTLN 0168
+FTLN 0169
+FTLN 0170
+170
+FTLN 0171
+FTLN 0172
+FTLN 0173
+FTLN 0174
+FTLN 0175
+175
+FTLN 0176
+FTLN 0177
+FTLN 0178
+FTLN 0179
+FTLN 0180
+180
+FTLN 0181
+FTLN 0182
+FTLN 0183
+FTLN 0184
+FTLN 0185
+185
+FTLN 0186
+FTLN 0187
+FTLN 0188
+FTLN 0189
+FTLN 0190
+190
+FTLN 0191
+FTLN 0192
+FTLN 0193
+FTLN 0194
+FTLN 0195
+195
+FTLN 0196
+FTLN 0197
+
+--- PAGE 14 / 110 ---
+19
+All’s Well That Ends Well
+ACT 1. SC. 1
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+Parolles and Page exit.
+HELEN
+  Under Mars, I.
+  I especially think under Mars.
+  Why under Mars?
+  The wars hath so kept you under that you
+ must needs be born under Mars.
+  When he was predominant.
+  When he was retrograde, I think rather.
+  Why think you so?
+  You go so much backward when you fight.
+  That’s for advantage.
+  So is running away, when fear proposes the
+ safety. But the composition that your valor and
+ fear makes in you is a virtue of a good wing, and I
+ like the wear well.
+  I am so full of businesses I cannot answer
+ thee acutely. I will return perfect courtier, in the
+ which my instruction shall serve to naturalize
+ thee, so thou wilt be capable of a courtier’s counsel
+ and understand what advice shall thrust upon
+ thee, else thou diest in thine unthankfulness, and
+ thine ignorance makes thee away. Farewell. When
+ thou hast leisure, say thy prayers; when thou hast
+ none, remember thy friends. Get thee a good husband,
+ and use him as he uses thee. So, farewell.
+ 
+ Our remedies oft in ourselves do lie
+ Which we ascribe to heaven. The fated sky
+ Gives us free scope, only doth backward pull
+ Our slow designs when we ourselves are dull.
+ What power is it which mounts my love so high,
+ That makes me see, and cannot feed mine eye?
+ The mightiest space in fortune nature brings
+ To join like likes and kiss like native things.
+ Impossible be strange attempts to those
+ That weigh their pains in sense and do suppose
+FTLN 0198
+FTLN 0199
+FTLN 0200
+200
+FTLN 0201
+FTLN 0202
+FTLN 0203
+FTLN 0204
+FTLN 0205
+205
+FTLN 0206
+FTLN 0207
+FTLN 0208
+FTLN 0209
+FTLN 0210
+210
+FTLN 0211
+FTLN 0212
+FTLN 0213
+FTLN 0214
+FTLN 0215
+215
+FTLN 0216
+FTLN 0217
+FTLN 0218
+FTLN 0219
+FTLN 0220
+220
+FTLN 0221
+FTLN 0222
+FTLN 0223
+FTLN 0224
+FTLN 0225
+225
+FTLN 0226
+FTLN 0227
+FTLN 0228
+FTLN 0229
+FTLN 0230
+230
+FTLN 0231
+
+--- PAGE 15 / 110 ---
+21
+All’s Well That Ends Well
+ACT 1. SC. 2
+She exits.
+KING
+FIRST LORD
+KING
+FIRST LORD
+KING
+SECOND LORD
+KING
+ What hath been cannot be. Who ever strove
+ To show her merit that did miss her love?
+ The King’s disease—my project may deceive me,
+ But my intents are fixed and will not leave me.
+Flourish cornets. Enter the King of France with letters,
+two Lords,  and divers Attendants.
+ 
+ The Florentines and Senoys are by th’ ears,
+ Have fought with equal fortune, and continue
+ A braving war.
+  
+ So ’tis reported, sir.
+ 
+ Nay, ’tis most credible. We here receive it
+ A certainty vouched from our cousin Austria,
+ With caution that the Florentine will move us
+ For speedy aid, wherein our dearest friend
+ Prejudicates the business and would seem
+ To have us make denial.
+  
+ His love and wisdom,
+ Approved so to your Majesty, may plead
+ For amplest credence.
+  
+ He hath armed our answer,
+ And Florence is denied before he comes.
+ Yet for our gentlemen that mean to see
+ The Tuscan service, freely have they leave
+ To stand on either part.
+  
+ It well may serve
+ A nursery to our gentry, who are sick
+ For breathing and exploit.
+Enter Bertram, Lafew, and Parolles.
+  
+ What’s he comes here?
+FTLN 0232
+FTLN 0233
+FTLN 0234
+FTLN 0235
+235
+Scene 2
+FTLN 0236
+FTLN 0237
+FTLN 0238
+FTLN 0239
+FTLN 0240
+5
+FTLN 0241
+FTLN 0242
+FTLN 0243
+FTLN 0244
+FTLN 0245
+10
+FTLN 0246
+FTLN 0247
+FTLN 0248
+FTLN 0249
+FTLN 0250
+15
+FTLN 0251
+FTLN 0252
+FTLN 0253
+FTLN 0254
+FTLN 0255
+20
+FTLN 0256
+FTLN 0257
+
+--- PAGE 16 / 110 ---
+23
+All’s Well That Ends Well
+ACT 1. SC. 2
+FIRST LORD
+KING
+BERTRAM
+KING
+BERTRAM
+ 
+ It is the Count Rossillion, my good lord,
+ Young Bertram.
+  
+ Youth, thou bear’st thy father’s face.
+ Frank nature, rather curious than in haste,
+ Hath well composed thee. Thy father’s moral parts
+ Mayst thou inherit too. Welcome to Paris.
+ 
+ My thanks and duty are your Majesty’s.
+ 
+ I would I had that corporal soundness now
+ As when thy father and myself in friendship
+ First tried our soldiership. He did look far
+ Into the service of the time and was
+ Discipled of the bravest. He lasted long,
+ But on us both did haggish age steal on
+ And wore us out of act. It much repairs me
+ To talk of your good father. In his youth
+ He had the wit which I can well observe
+ Today in our young lords; but they may jest
+ Till their own scorn return to them unnoted
+ Ere they can hide their levity in honor.
+ So like a courtier, contempt nor bitterness
+ Were in his pride or sharpness; if they were,
+ His equal had awaked them, and his honor,
+ Clock to itself, knew the true minute when
+ Exception bid him speak, and at this time
+ His tongue obeyed his hand. Who were below him
+ He used as creatures of another place
+ And bowed his eminent top to their low ranks,
+ Making them proud of his humility,
+ In their poor praise he humbled. Such a man
+ Might be a copy to these younger times,
+ Which, followed well, would demonstrate them now
+ But goers backward.
+  
+ His good remembrance, sir,
+FTLN 0258
+FTLN 0259
+FTLN 0260
+25
+FTLN 0261
+FTLN 0262
+FTLN 0263
+FTLN 0264
+FTLN 0265
+30
+FTLN 0266
+FTLN 0267
+FTLN 0268
+FTLN 0269
+FTLN 0270
+35
+FTLN 0271
+FTLN 0272
+FTLN 0273
+FTLN 0274
+FTLN 0275
+40
+FTLN 0276
+FTLN 0277
+FTLN 0278
+FTLN 0279
+FTLN 0280
+45
+FTLN 0281
+FTLN 0282
+FTLN 0283
+FTLN 0284
+FTLN 0285
+50
+FTLN 0286
+FTLN 0287
+FTLN 0288
+FTLN 0289
+FTLN 0290
+55
+
+--- PAGE 17 / 110 ---
+25
+All’s Well That Ends Well
+ACT 1. SC. 2
+KING
+SECOND LORD
+KING
+BERTRAM
+KING
+BERTRAM
+They  exit. Flourish.
+ Lies richer in your thoughts than on his tomb.
+ So in approof lives not his epitaph
+ As in your royal speech.
+ 
+ Would I were with him! He would always say—
+ Methinks I hear him now; his plausive words
+ He scattered not in ears, but grafted them
+ To grow there and to bear. “Let me not live”—
+ This his good melancholy oft began
+ On the catastrophe and heel of pastime,
+ When it was out—“Let me not live,” quoth he,
+ “After my flame lacks oil, to be the snuff
+ Of younger spirits, whose apprehensive senses
+ All but new things disdain, whose judgments are
+ Mere fathers of their garments, whose constancies
+ Expire before their fashions.” This he wished.
+ I, after him, do after him wish too,
+ Since I nor wax nor honey can bring home,
+ I quickly were dissolvèd from my hive
+ To give some laborers room.
+  
+ You’re lovèd, sir.
+ They that least lend it you shall lack you first.
+ 
+ I fill a place, I know ’t.—How long is ’t, count,
+ Since the physician at your father’s died?
+ He was much famed.
+  
+ Some six months since, my lord.
+ 
+ If he were living, I would try him yet.—
+ Lend me an arm.—The rest have worn me out
+ With several applications. Nature and sickness
+ Debate it at their leisure. Welcome, count.
+ My son’s no dearer.
+  
+ Thank your Majesty.
+FTLN 0291
+FTLN 0292
+FTLN 0293
+FTLN 0294
+FTLN 0295
+60
+FTLN 0296
+FTLN 0297
+FTLN 0298
+FTLN 0299
+FTLN 0300
+65
+FTLN 0301
+FTLN 0302
+FTLN 0303
+FTLN 0304
+FTLN 0305
+70
+FTLN 0306
+FTLN 0307
+FTLN 0308
+FTLN 0309
+FTLN 0310
+75
+FTLN 0311
+FTLN 0312
+FTLN 0313
+FTLN 0314
+FTLN 0315
+80
+FTLN 0316
+FTLN 0317
+FTLN 0318
+FTLN 0319
+FTLN 0320
+85
+FTLN 0321
+
+--- PAGE 18 / 110 ---
+27
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+STEWARD
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+Enter Countess, Steward, and Fool.
+  I will now hear. What say you of this
+ gentlewoman?
+  Madam, the care I have had to even your
+ content I wish might be found in the calendar of
+ my past endeavors, for then we wound our modesty
+ and make foul the clearness of our deservings
+ when of ourselves we publish them.
+  What does this knave here?  To Fool.  Get
+ you gone, sirrah. The complaints I have heard of
+ you I do not all believe. ’Tis my slowness that I do
+ not, for I know you lack not folly to commit them
+ and have ability enough to make such knaveries
+ yours.
+  ’Tis not unknown to you, madam, I am a poor
+ fellow.
+  Well, sir.
+  No, madam, ’tis not so well that I am poor,
+ though many of the rich are damned. But if I may
+ have your Ladyship’s good will to go to the world,
+ Isbel the woman and I will do as we may.
+  Wilt thou needs be a beggar?
+  I do beg your good will in this case.
+  In what case?
+  In Isbel’s case and mine own. Service is no heritage,
+ and I think I shall never have the blessing of
+ God till I have issue o’ my body, for they say bairns
+ are blessings.
+  Tell me thy reason why thou wilt marry.
+  My poor body, madam, requires it. I am driven
+ on by the flesh, and he must needs go that the devil
+ drives.
+  Is this all your Worship’s reason?
+  Faith, madam, I have other holy reasons, such
+ as they are.
+Scene 3
+FTLN 0322
+FTLN 0323
+FTLN 0324
+FTLN 0325
+FTLN 0326
+5
+FTLN 0327
+FTLN 0328
+FTLN 0329
+FTLN 0330
+FTLN 0331
+10
+FTLN 0332
+FTLN 0333
+FTLN 0334
+FTLN 0335
+FTLN 0336
+15
+FTLN 0337
+FTLN 0338
+FTLN 0339
+FTLN 0340
+FTLN 0341
+20
+FTLN 0342
+FTLN 0343
+FTLN 0344
+FTLN 0345
+FTLN 0346
+25
+FTLN 0347
+FTLN 0348
+FTLN 0349
+FTLN 0350
+FTLN 0351
+30
+FTLN 0352
+FTLN 0353
+FTLN 0354
+FTLN 0355
+
+--- PAGE 19 / 110 ---
+29
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+STEWARD
+COUNTESS
+  May the world know them?
+  I have been, madam, a wicked creature, as you
+ and all flesh and blood are, and indeed I do marry
+ that I may repent.
+  Thy marriage sooner than thy wickedness.
+  I am out o’ friends, madam, and I hope to have
+ friends for my wife’s sake.
+  Such friends are thine enemies, knave.
+  You’re shallow, madam, in great friends, for the
+ knaves come to do that for me which I am aweary
+ of. He that ears my land spares my team and gives
+ me leave to in the crop; if I be his cuckold, he’s my
+ drudge. He that comforts my wife is the cherisher
+ of my flesh and blood; he that cherishes my flesh
+ and blood loves my flesh and blood; he that loves
+ my flesh and blood is my friend. Ergo, he that
+ kisses my wife is my friend. If men could be contented
+ to be what they are, there were no fear in
+ marriage, for young Charbon the Puritan and old
+ Poysam the Papist, howsome’er their hearts are
+ severed in religion, their heads are both one; they
+ may jowl horns together like any deer i’ th’ herd.
+  Wilt thou ever be a foul-mouthed and
+ calumnious knave?
+  A prophet I, madam, and I speak the truth the
+ next way:
+Sings.   For I the ballad will repeat
+  Which men full true shall find:
+ Your marriage comes by destiny;
+  Your cuckoo sings by kind.
+  Get you gone, sir. I’ll talk with you more
+ anon.
+  May it please you, madam, that he bid Helen
+ come to you. Of her I am to speak.
+  Sirrah, tell my gentlewoman I would speak
+ with her—Helen, I mean.
+FTLN 0356
+35
+FTLN 0357
+FTLN 0358
+FTLN 0359
+FTLN 0360
+FTLN 0361
+40
+FTLN 0362
+FTLN 0363
+FTLN 0364
+FTLN 0365
+FTLN 0366
+45
+FTLN 0367
+FTLN 0368
+FTLN 0369
+FTLN 0370
+FTLN 0371
+50
+FTLN 0372
+FTLN 0373
+FTLN 0374
+FTLN 0375
+FTLN 0376
+55
+FTLN 0377
+FTLN 0378
+FTLN 0379
+FTLN 0380
+FTLN 0381
+60
+FTLN 0382
+FTLN 0383
+FTLN 0384
+FTLN 0385
+FTLN 0386
+65
+FTLN 0387
+FTLN 0388
+FTLN 0389
+FTLN 0390
+FTLN 0391
+70
+
+--- PAGE 20 / 110 ---
+31
+All’s Well That Ends Well
+ACT 1. SC. 3
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+He exits.
+COUNTESS
+STEWARD
+COUNTESS
+ sings
+ 
+ “Was this fair face the cause,” quoth she,
+  “Why the Grecians sackèd Troy?
+ Fond done, done fond.
+  Was this King Priam’s joy?”
+ With that she sighèd as she stood,
+ With that she sighèd as she stood,
+  And gave this sentence then:
+ “Among nine bad if one be good,
+ Among nine bad if one be good,
+  There’s yet one good in ten.”
+  What, one good in ten? You corrupt the
+ song, sirrah.
+  One good woman in ten, madam, which is a
+ purifying o’ th’ song. Would God would serve the
+ world so all the year! We’d find no fault with the
+ tithe-woman if I were the parson. One in ten,
+ quoth he? An we might have a good woman born
+ but or  every blazing star or at an earthquake,
+ ’twould mend the lottery well. A man may draw his
+ heart out ere he pluck one.
+  You’ll be gone, sir knave, and do as I command
+ you!
+  That man should be at woman’s command, and
+ yet no hurt done! Though honesty be no Puritan,
+ yet it will do no hurt; it will wear the surplice of
+ humility over the black gown of a big heart. I am
+ going, forsooth. The business is for Helen to come
+ hither. 
+  Well, now.
+  I know, madam, you love your gentlewoman
+ entirely.
+  Faith, I do. Her father bequeathed her to
+ me, and she herself, without other advantage, may
+ lawfully make title to as much love as she finds.
+ There is more owing her than is paid, and more
+ shall be paid her than she’ll demand.
+FTLN 0392
+FTLN 0393
+FTLN 0394
+FTLN 0395
+FTLN 0396
+75
+FTLN 0397
+FTLN 0398
+FTLN 0399
+FTLN 0400
+FTLN 0401
+80
+FTLN 0402
+FTLN 0403
+FTLN 0404
+FTLN 0405
+FTLN 0406
+85
+FTLN 0407
+FTLN 0408
+FTLN 0409
+FTLN 0410
+FTLN 0411
+90
+FTLN 0412
+FTLN 0413
+FTLN 0414
+FTLN 0415
+FTLN 0416
+95
+FTLN 0417
+FTLN 0418
+FTLN 0419
+FTLN 0420
+FTLN 0421
+100
+FTLN 0422
+FTLN 0423
+FTLN 0424
+FTLN 0425
+FTLN 0426
+105
+FTLN 0427
+
+--- PAGE 21 / 110 ---
+33
+All’s Well That Ends Well
+ACT 1. SC. 3
+STEWARD
+COUNTESS
+Steward exits.
+HELEN
+  Madam, I was very late more near her than I
+ think she wished me. Alone she was and did communicate
+ to herself her own words to her own
+ ears; she thought, I dare vow for her, they touched
+ not any stranger sense. Her matter was she loved
+ your son. Fortune, she said, was no goddess, that
+ had put such difference betwixt their two estates;
+ Love no god, that would not extend his might only
+ where qualities were level; Dian no  queen of virgins,
+ that would suffer her poor knight surprised
+ without rescue in the first assault or ransom afterward.
+ This she delivered in the most bitter touch
+ of sorrow that e’er I heard virgin exclaim in, which
+ I held my duty speedily to acquaint you withal,
+ sithence in the loss that may happen it concerns
+ you something to know it.
+  You have discharged this honestly. Keep it
+ to yourself. Many likelihoods informed me of this
+ before, which hung so tott’ring in the balance that
+ I could neither believe nor misdoubt. Pray you
+ leave me. Stall this in your bosom, and I thank you
+ for your honest care. I will speak with you further
+ anon. 
+Enter Helen.
+Aside.
+ Even so it was with me when I was young.
+  If ever we are nature’s, these are ours. This thorn
+ Doth to our rose of youth rightly belong.
+  Our blood to us, this to our blood is born.
+ It is the show and seal of nature’s truth,
+ Where love’s strong passion is impressed in youth.
+ By our remembrances of days foregone,
+ Such were our faults, or then we thought them none.
+ Her eye is sick on ’t, I observe her now.
+  What is your pleasure, madam?
+FTLN 0428
+FTLN 0429
+FTLN 0430
+FTLN 0431
+110
+FTLN 0432
+FTLN 0433
+FTLN 0434
+FTLN 0435
+FTLN 0436
+115
+FTLN 0437
+FTLN 0438
+FTLN 0439
+FTLN 0440
+FTLN 0441
+120
+FTLN 0442
+FTLN 0443
+FTLN 0444
+FTLN 0445
+FTLN 0446
+125
+FTLN 0447
+FTLN 0448
+FTLN 0449
+FTLN 0450
+FTLN 0451
+130
+FTLN 0452
+FTLN 0453
+FTLN 0454
+FTLN 0455
+FTLN 0456
+135
+FTLN 0457
+FTLN 0458
+FTLN 0459
+FTLN 0460
+
+--- PAGE 22 / 110 ---
+35
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+ 
+ You know, Helen, I am a mother to you.
+ 
+ Mine honorable mistress.
+  
+ Nay, a mother.
+ Why not a mother? When I said “a mother,”
+ Methought you saw a serpent. What’s in “mother”
+ That you start at it? I say I am your mother
+ And put you in the catalogue of those
+ That were enwombèd mine. ’Tis often seen
+ Adoption strives with nature, and choice breeds
+ A native slip to us from foreign seeds.
+ You ne’er oppressed me with a mother’s groan,
+ Yet I express to you a mother’s care.
+ God’s mercy, maiden, does it curd thy blood
+ To say I am thy mother? What’s the matter,
+ That this distempered messenger of wet,
+ The many-colored Iris, rounds thine eye?
+ Why? That you are my daughter?
+  
+ That I am not.
+ 
+ I say I am your mother.
+  
+ Pardon, madam.
+ The Count Rossillion cannot be my brother.
+ I am from humble, he from honored name;
+ No note upon my parents, his all noble.
+ My master, my dear lord he is, and I
+ His servant live and will his vassal die.
+ He must not be my brother.
+  
+ Nor I your mother?
+ 
+ You are my mother, madam. Would you were—
+ So that my lord your son were not my brother—
+ Indeed my mother! Or were you both our mothers,
+ I care no more for than I do for heaven,
+ So I were not his sister. Can ’t no other
+FTLN 0461
+140
+FTLN 0462
+FTLN 0463
+FTLN 0464
+FTLN 0465
+FTLN 0466
+145
+FTLN 0467
+FTLN 0468
+FTLN 0469
+FTLN 0470
+FTLN 0471
+150
+FTLN 0472
+FTLN 0473
+FTLN 0474
+FTLN 0475
+FTLN 0476
+155
+FTLN 0477
+FTLN 0478
+FTLN 0479
+FTLN 0480
+FTLN 0481
+160
+FTLN 0482
+FTLN 0483
+FTLN 0484
+FTLN 0485
+FTLN 0486
+165
+FTLN 0487
+FTLN 0488
+FTLN 0489
+FTLN 0490
+FTLN 0491
+170
+FTLN 0492
+
+--- PAGE 23 / 110 ---
+37
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+ But, I your daughter, he must be my brother?
+ 
+ Yes, Helen, you might be my daughter-in-law.
+ God shield you mean it not! “Daughter” and “mother”
+ So strive upon your pulse. What, pale again?
+ My fear hath catched your fondness! Now I see
+ The mystery of your loneliness  and find
+ Your salt tears’ head. Now to all sense ’tis gross:
+ You love my son. Invention is ashamed
+ Against the proclamation of thy passion
+ To say thou dost not. Therefore tell me true,
+ But tell me then ’tis so, for, look, thy cheeks
+ Confess it th’ one to th’ other, and thine eyes
+ See it so grossly shown in thy behaviors
+ That in their kind they speak it. Only sin
+ And hellish obstinacy tie thy tongue
+ That truth should be suspected. Speak. Is ’t so?
+ If it be so, you have wound a goodly clew;
+ If it be not, forswear ’t; howe’er, I charge thee,
+ As heaven shall work in me for thine avail,
+ To tell me truly.
+  
+ Good madam, pardon me.
+ 
+ Do you love my son?
+  
+ Your pardon, noble mistress.
+ 
+ Love you my son?
+  
+ Do not you love him, madam?
+ 
+ Go not about. My love hath in ’t a bond
+ Whereof the world takes note. Come, come, disclose
+ The state of your affection, for your passions
+ Have to the full appeached.
+, kneeling
+  
+ Then I confess
+ Here on my knee before high heaven and you
+ That before you and next unto high heaven
+FTLN 0493
+FTLN 0494
+FTLN 0495
+FTLN 0496
+175
+FTLN 0497
+FTLN 0498
+FTLN 0499
+FTLN 0500
+FTLN 0501
+180
+FTLN 0502
+FTLN 0503
+FTLN 0504
+FTLN 0505
+FTLN 0506
+185
+FTLN 0507
+FTLN 0508
+FTLN 0509
+FTLN 0510
+FTLN 0511
+190
+FTLN 0512
+FTLN 0513
+FTLN 0514
+FTLN 0515
+FTLN 0516
+195
+FTLN 0517
+FTLN 0518
+FTLN 0519
+FTLN 0520
+FTLN 0521
+200
+FTLN 0522
+FTLN 0523
+FTLN 0524
+
+--- PAGE 24 / 110 ---
+39
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+ I love your son.
+ My friends were poor but honest; so ’s my love.
+ Be not offended, for it hurts not him
+ That he is loved of me. I follow him not
+ By any token of presumptuous suit,
+ Nor would I have him till I do deserve him,
+ Yet never know how that desert should be.
+ I know I love in vain, strive against hope,
+ Yet in this captious and intenible sieve
+ I still pour in the waters of my love
+ And lack not to lose still. Thus, Indian-like,
+ Religious in mine error, I adore
+ The sun that looks upon his worshipper
+ But knows of him no more. My dearest madam,
+ Let not your hate encounter with my love
+ For loving where you do; but if yourself,
+ Whose agèd honor cites a virtuous youth,
+ Did ever in so true a flame of liking
+ Wish chastely and love dearly, that your Dian
+ Was both herself and Love, O then give pity
+ To her whose state is such that cannot choose
+ But lend and give where she is sure to lose;
+ That seeks not to find that her search implies,
+ But riddle-like lives sweetly where she dies.
+ 
+ Had you not lately an intent—speak truly—
+ To go to Paris?
+  
+ Madam, I had.
+  
+ Wherefore?
+ Tell true.
+, standing
+ 
+ I will tell truth, by grace itself I swear.
+ You know my father left me some prescriptions
+ Of rare and proved effects, such as his reading
+ And manifest experience had collected
+ For general sovereignty; and that he willed me
+FTLN 0525
+FTLN 0526
+205
+FTLN 0527
+FTLN 0528
+FTLN 0529
+FTLN 0530
+FTLN 0531
+210
+FTLN 0532
+FTLN 0533
+FTLN 0534
+FTLN 0535
+FTLN 0536
+215
+FTLN 0537
+FTLN 0538
+FTLN 0539
+FTLN 0540
+FTLN 0541
+220
+FTLN 0542
+FTLN 0543
+FTLN 0544
+FTLN 0545
+FTLN 0546
+225
+FTLN 0547
+FTLN 0548
+FTLN 0549
+FTLN 0550
+FTLN 0551
+230
+FTLN 0552
+FTLN 0553
+FTLN 0554
+FTLN 0555
+FTLN 0556
+235
+FTLN 0557
+FTLN 0558
+
+--- PAGE 25 / 110 ---
+41
+All’s Well That Ends Well
+ACT 1. SC. 3
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+HELEN
+COUNTESS
+ In heedfull’st reservation to bestow them
+ As notes whose faculties inclusive were
+ More than they were in note. Amongst the rest
+ There is a remedy, approved, set down,
+ To cure the desperate languishings whereof
+ The King is rendered lost.
+ 
+ This was your motive for Paris, was it? Speak.
+ 
+ My lord your son made me to think of this;
+ Else Paris, and the medicine, and the King
+ Had from the conversation of my thoughts
+ Haply been absent then.
+  
+ But think you, Helen,
+ If you should tender your supposèd aid,
+ He would receive it? He and his physicians
+ Are of a mind: he that they cannot help him,
+ They that they cannot help. How shall they credit
+ A poor unlearnèd virgin, when the schools
+ Emboweled of their doctrine have left off
+ The danger to itself?
+  
+ There’s something in ’t
+ More than my father’s skill, which was the great’st
+ Of his profession, that his good receipt
+ Shall for my legacy be sanctified
+ By th’ luckiest stars in heaven; and would your
+ Honor
+ But give me leave to try success, I’d venture
+ The well-lost life of mine on his Grace’s cure
+ By such a day, an hour.
+  
+ Dost thou believe ’t?
+  Ay, madam, knowingly.
+ 
+ Why, Helen, thou shalt have my leave and love,
+ Means and attendants, and my loving greetings
+ To those of mine in court. I’ll stay at home
+FTLN 0559
+FTLN 0560
+FTLN 0561
+240
+FTLN 0562
+FTLN 0563
+FTLN 0564
+FTLN 0565
+FTLN 0566
+245
+FTLN 0567
+FTLN 0568
+FTLN 0569
+FTLN 0570
+FTLN 0571
+250
+FTLN 0572
+FTLN 0573
+FTLN 0574
+FTLN 0575
+FTLN 0576
+255
+FTLN 0577
+FTLN 0578
+FTLN 0579
+FTLN 0580
+FTLN 0581
+260
+FTLN 0582
+FTLN 0583
+FTLN 0584
+FTLN 0585
+FTLN 0586
+265
+FTLN 0587
+FTLN 0588
+FTLN 0589
+FTLN 0590
+FTLN 0591
+270
+
+--- PAGE 26 / 110 ---
+43
+All’s Well That Ends Well
+ACT 1. SC. 3
+They exit.
+ And pray God’s blessing into thy attempt.
+ Be gone tomorrow, and be sure of this:
+ What I can help thee to thou shalt not miss.
+FTLN 0592
+FTLN 0593
+FTLN 0594
+
+--- PAGE 27 / 110 ---
+KING
+FIRST LORD
+KING
+Flourish cornets. Enter the King, attended,  with divers
+young Lords, taking leave for the Florentine war;
+Bertram  Count Rossillion, and Parolles.
+ 
+ Farewell, young lords. These warlike principles
+ Do not throw from you.—And you, my lords,
+ farewell.
+ Share the advice betwixt you. If both gain all,
+ The gift doth stretch itself as ’tis received
+ And is enough for both.
+  
+ ’Tis our hope, sir,
+ After well-entered soldiers, to return
+ And find your Grace in health.
+ 
+ No, no, it cannot be. And yet my heart
+ Will not confess he owes the malady
+ That doth my life besiege. Farewell, young lords.
+ Whether I live or die, be you the sons
+ Of worthy Frenchmen. Let higher Italy—
+ Those bated that inherit but the fall
+ Of the last monarchy—see that you come
+ Not to woo honor but to wed it. When
+ The bravest questant shrinks, find what you seek,
+ That fame may cry you loud. I say farewell.
+47
+ACT 2
+Scene 1
+FTLN 0595
+FTLN 0596
+FTLN 0597
+FTLN 0598
+FTLN 0599
+5
+FTLN 0600
+FTLN 0601
+FTLN 0602
+FTLN 0603
+FTLN 0604
+10
+FTLN 0605
+FTLN 0606
+FTLN 0607
+FTLN 0608
+FTLN 0609
+15
+FTLN 0610
+FTLN 0611
+FTLN 0612
+FTLN 0613
+
+--- PAGE 28 / 110 ---
+49
+All’s Well That Ends Well
+ACT 2. SC. 1
+FIRST LORD
+KING
+LORDS
+KING
+The King speaks to Attendants, while Bertram,
+Parolles, and other Lords come forward.
+FIRST LORD
+PAROLLES
+SECOND LORD
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+FIRST LORD
+PAROLLES
+SECOND LORD
+BERTRAM
+ 
+ Health at your bidding serve your Majesty!
+ 
+ Those girls of Italy, take heed of them.
+ They say our French lack language to deny
+ If they demand. Beware of being captives
+ Before you serve.
+  
+ Our hearts receive your warnings.
+  Farewell.—Come hither to me.
+, to Bertram
+ 
+ O my sweet lord, that you will stay behind us!
+ 
+ ’Tis not his fault, the spark.
+  
+ O, ’tis brave wars.
+ 
+ Most admirable. I have seen those wars.
+ 
+ I am commanded here and kept a coil
+ With “Too young,” and “The next year,” and “’Tis
+ too early.”
+ 
+ An thy mind stand to ’t, boy, steal away bravely.
+ 
+ I shall stay here the forehorse to a smock,
+ Creaking my shoes on the plain masonry
+ Till honor be bought up, and no sword worn
+ But one to dance with. By heaven, I’ll steal away!
+ 
+ There’s honor in the theft.
+  
+ Commit it, count.
+ 
+ I am your accessory. And so, farewell.
+  I grow to you, and our parting is a tortured
+ body.
+FTLN 0614
+20
+FTLN 0615
+FTLN 0616
+FTLN 0617
+FTLN 0618
+FTLN 0619
+25
+FTLN 0620
+FTLN 0621
+FTLN 0622
+FTLN 0623
+FTLN 0624
+30
+FTLN 0625
+FTLN 0626
+FTLN 0627
+FTLN 0628
+FTLN 0629
+35
+FTLN 0630
+FTLN 0631
+FTLN 0632
+FTLN 0633
+FTLN 0634
+40
+FTLN 0635
+FTLN 0636
+FTLN 0637
+
+--- PAGE 29 / 110 ---
+51
+All’s Well That Ends Well
+ACT 2. SC. 1
+FIRST LORD
+SECOND LORD
+PAROLLES
+FIRST LORD
+PAROLLES
+Lords exit.
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+Bertram and Parolles  exit.
+LAFEW
+KING
+LAFEW
+  Farewell, captain.
+  Sweet Monsieur Parolles.
+  Noble heroes, my sword and yours are kin.
+ Good sparks and lustrous, a word, good metals.
+ You shall find in the regiment of the Spinii one
+ Captain Spurio with  his cicatrice, an emblem of
+ war, here on his sinister cheek. It was this very
+ sword entrenched it. Say to him I live, and observe
+ his reports for me.
+  We shall, noble captain.
+  Mars dote on you for his novices.
+  To Bertram.  What will you do?
+  Stay the King.
+  Use a more spacious ceremony to the noble
+ lords. You have restrained yourself within the list
+ of too cold an adieu. Be more expressive to them,
+ for they wear themselves in the cap of the time;
+ there do muster true gait; eat, speak, and move
+ under the influence of the most received star, and,
+ though the devil lead the measure, such are to be
+ followed. After them, and take a more dilated
+ farewell.
+  And I will do so.
+  Worthy fellows, and like to prove most
+ sinewy swordmen. 
+Enter Lafew, to the King.
+, kneeling
+ 
+ Pardon, my lord, for me and for my tidings.
+  I’ll fee  thee to stand up.
+, standing
+ 
+ Then here’s a man stands that has brought his
+ pardon.
+ I would you had kneeled, my lord, to ask me mercy,
+ And that at my bidding you could so stand up.
+FTLN 0638
+FTLN 0639
+45
+FTLN 0640
+FTLN 0641
+FTLN 0642
+FTLN 0643
+FTLN 0644
+50
+FTLN 0645
+FTLN 0646
+FTLN 0647
+FTLN 0648
+FTLN 0649
+55
+FTLN 0650
+FTLN 0651
+FTLN 0652
+FTLN 0653
+FTLN 0654
+60
+FTLN 0655
+FTLN 0656
+FTLN 0657
+FTLN 0658
+FTLN 0659
+65
+FTLN 0660
+FTLN 0661
+FTLN 0662
+FTLN 0663
+FTLN 0664
+70
+FTLN 0665
+FTLN 0666
+FTLN 0667
+FTLN 0668
+
+--- PAGE 30 / 110 ---
+53
+All’s Well That Ends Well
+ACT 2. SC. 1
+KING
+LAFEW
+KING
+LAFEW
+KING
+LAFEW
+KING
+LAFEW
+He goes to bring in Helen.
+KING
+ 
+ I would I had, so I had broke thy pate
+ And asked thee mercy for ’t.
+  
+ Good faith, across.
+ But, my good lord, ’tis thus: will you be cured
+ Of your infirmity?
+  
+ No.
+  
+ O, will you eat
+ No grapes, my royal fox? Yes, but you will
+ My noble grapes, an if my royal fox
+ Could reach them. I have seen a medicine
+ That’s able to breathe life into a stone,
+ Quicken a rock, and make you dance canary
+ With sprightly fire and motion, whose simple touch
+ Is powerful to araise King Pippen, nay,
+ To give great Charlemagne a pen in ’s hand
+ And write to her a love line.
+  
+ What “her” is this?
+ 
+ Why, Doctor She. My lord, there’s one arrived,
+ If you will see her. Now, by my faith and honor,
+ If seriously I may convey my thoughts
+ In this my light deliverance, I have spoke
+ With one that in her sex, her years, profession,
+ Wisdom, and constancy hath amazed me more
+ Than I dare blame my weakness. Will you see her—
+ For that is her demand—and know her business?
+ That done, laugh well at me.
+  
+ Now, good Lafew,
+ Bring in the admiration, that we with thee
+ May spend our wonder too, or take off thine
+ By wond’ring how thou took’st it.
+  
+ Nay, I’ll fit you,
+ And not be all day neither.
+ 
+ Thus he his special nothing ever prologues.
+FTLN 0669
+75
+FTLN 0670
+FTLN 0671
+FTLN 0672
+FTLN 0673
+FTLN 0674
+80
+FTLN 0675
+FTLN 0676
+FTLN 0677
+FTLN 0678
+FTLN 0679
+85
+FTLN 0680
+FTLN 0681
+FTLN 0682
+FTLN 0683
+FTLN 0684
+90
+FTLN 0685
+FTLN 0686
+FTLN 0687
+FTLN 0688
+FTLN 0689
+95
+FTLN 0690
+FTLN 0691
+FTLN 0692
+FTLN 0693
+FTLN 0694
+100
+FTLN 0695
+FTLN 0696
+FTLN 0697
+FTLN 0698
+FTLN 0699
+105
+FTLN 0700
+FTLN 0701
+
+--- PAGE 31 / 110 ---
+55
+All’s Well That Ends Well
+ACT 2. SC. 1
+LAFEW
+KING
+LAFEW
+He exits.
+KING
+HELEN
+KING
+HELEN
+KING
+Enter Helen.
+, to Helen
+  Nay, come your ways.
+  This haste hath wings indeed.
+  Nay, come your ways.
+ This is his Majesty. Say your mind to him.
+ A traitor you do look like, but such traitors
+ His Majesty seldom fears. I am Cressid’s uncle
+ That dare leave two together. Fare you well.
+ 
+ Now, fair one, does your business follow us?
+  Ay, my good lord,
+ Gerard de Narbon was my father,
+ In what he did profess well found.
+  
+ I knew him.
+ 
+ The rather will I spare my praises towards him.
+ Knowing him is enough. On ’s bed of death
+ Many receipts he gave me, chiefly one
+ Which, as the dearest issue of his practice,
+ And of his old experience th’ only darling,
+ He bade me store up as a triple eye,
+ Safer than mine own two, more dear. I have so,
+ And hearing your high Majesty is touched
+ With that malignant cause wherein the honor
+ Of my dear father’s gift stands chief in power,
+ I come to tender it and my appliance
+ With all bound humbleness.
+  
+ We thank you, maiden,
+ But may not be so credulous of cure,
+ When our most learnèd doctors leave us and
+ The congregated college have concluded
+ That laboring art can never ransom nature
+ From her inaidible estate. I say we must not
+ So stain our judgment or corrupt our hope
+FTLN 0702
+FTLN 0703
+FTLN 0704
+110
+FTLN 0705
+FTLN 0706
+FTLN 0707
+FTLN 0708
+FTLN 0709
+115
+FTLN 0710
+FTLN 0711
+FTLN 0712
+FTLN 0713
+FTLN 0714
+120
+FTLN 0715
+FTLN 0716
+FTLN 0717
+FTLN 0718
+FTLN 0719
+125
+FTLN 0720
+FTLN 0721
+FTLN 0722
+FTLN 0723
+FTLN 0724
+130
+FTLN 0725
+FTLN 0726
+FTLN 0727
+FTLN 0728
+FTLN 0729
+135
+FTLN 0730
+FTLN 0731
+FTLN 0732
+
+--- PAGE 32 / 110 ---
+57
+All’s Well That Ends Well
+ACT 2. SC. 1
+HELEN
+KING
+HELEN
+KING
+HELEN
+ To prostitute our past-cure malady
+ To empirics, or to dissever so
+ Our great self and our credit to esteem
+ A senseless help when help past sense we deem.
+ 
+ My duty, then, shall pay me for my pains.
+ I will no more enforce mine office on you,
+ Humbly entreating from your royal thoughts
+ A modest one to bear me back again.
+ 
+ I cannot give thee less, to be called grateful.
+ Thou thought’st to help me, and such thanks I give
+ As one near death to those that wish him live.
+ But what at full I know, thou know’st no part,
+ I knowing all my peril, thou no art.
+ 
+ What I can do can do no hurt to try
+ Since you set up your rest ’gainst remedy.
+ He that of greatest works is finisher
+ Oft does them by the weakest minister.
+ So holy writ in babes hath judgment shown
+ When judges have been babes. Great floods have flown
+ From simple sources, and great seas have dried
+ When miracles have by the great’st been denied.
+ Oft expectation fails, and most oft there
+ Where most it promises, and oft it hits
+ Where hope is coldest and despair most shifts.
+ 
+ I must not hear thee. Fare thee well, kind maid.
+ Thy pains, not used, must by thyself be paid.
+ Proffers not took reap thanks for their reward.
+ 
+ Inspirèd merit so by breath is barred.
+ It is not so with Him that all things knows
+ As ’tis with us that square our guess by shows;
+ But most it is presumption in us when
+FTLN 0733
+FTLN 0734
+140
+FTLN 0735
+FTLN 0736
+FTLN 0737
+FTLN 0738
+FTLN 0739
+145
+FTLN 0740
+FTLN 0741
+FTLN 0742
+FTLN 0743
+FTLN 0744
+150
+FTLN 0745
+FTLN 0746
+FTLN 0747
+FTLN 0748
+FTLN 0749
+155
+FTLN 0750
+FTLN 0751
+FTLN 0752
+FTLN 0753
+FTLN 0754
+160
+FTLN 0755
+FTLN 0756
+FTLN 0757
+FTLN 0758
+FTLN 0759
+165
+FTLN 0760
+FTLN 0761
+FTLN 0762
+FTLN 0763
+
+--- PAGE 33 / 110 ---
+59
+All’s Well That Ends Well
+ACT 2. SC. 1
+KING
+HELEN
+KING
+HELEN
+KING
+ The help of heaven we count the act of men.
+ Dear sir, to my endeavors give consent.
+ Of heaven, not me, make an experiment.
+ I am not an impostor that proclaim
+ Myself against the level of mine aim,
+ But know I think and think I know most sure
+ My art is not past power nor you past cure.
+ 
+ Art thou so confident? Within what space
+ Hop’st thou my cure?
+  
+ The greatest grace lending grace,
+ Ere twice the horses of the sun shall bring
+ Their fiery torcher his diurnal ring;
+ Ere twice in murk and occidental damp
+ Moist Hesperus hath quenched her sleepy lamp;
+ Or four and twenty times the pilot’s glass
+ Hath told the thievish minutes, how they pass,
+ What is infirm from your sound parts shall fly,
+ Health shall live free, and sickness freely die.
+ 
+ Upon thy certainty and confidence
+ What dar’st thou venture?
+  
+ Tax of impudence,
+ A strumpet’s boldness, a divulgèd shame;
+ Traduced by odious ballads, my maiden’s name
+ Seared otherwise; nay, worse of worst, extended
+ With vilest torture let my life be ended.
+ 
+ Methinks in thee some blessèd spirit doth speak
+ His powerful sound within an organ weak,
+ And what impossibility would slay
+ In common sense, sense saves another way.
+ Thy life is dear, for all that life can rate
+ Worth name of life in thee hath estimate:
+ Youth, beauty, wisdom, courage, all
+ That happiness and prime can happy call.
+FTLN 0764
+170
+FTLN 0765
+FTLN 0766
+FTLN 0767
+FTLN 0768
+FTLN 0769
+175
+FTLN 0770
+FTLN 0771
+FTLN 0772
+FTLN 0773
+FTLN 0774
+180
+FTLN 0775
+FTLN 0776
+FTLN 0777
+FTLN 0778
+FTLN 0779
+185
+FTLN 0780
+FTLN 0781
+FTLN 0782
+FTLN 0783
+FTLN 0784
+190
+FTLN 0785
+FTLN 0786
+FTLN 0787
+FTLN 0788
+FTLN 0789
+195
+FTLN 0790
+FTLN 0791
+FTLN 0792
+FTLN 0793
+FTLN 0794
+200
+FTLN 0795
+FTLN 0796
+
+--- PAGE 34 / 110 ---
+61
+All’s Well That Ends Well
+ACT 2. SC. 1
+HELEN
+KING
+HELEN
+KING
+HELEN
+KING
+Flourish. They  exit, the King assisted.
+ Thou this to hazard needs must intimate
+ Skill infinite or monstrous desperate.
+ Sweet practicer, thy physic I will try,
+ That ministers thine own death if I die.
+ 
+ If I break time or flinch in property
+ Of what I spoke, unpitied let me die,
+ And well deserved. Not helping, death’s my fee.
+ But if I help, what do you promise me?
+ 
+ Make thy demand.
+  
+ But will you make it even?
+ 
+ Ay, by my scepter and my hopes of heaven.
+ 
+ Then shalt thou give me with thy kingly hand
+ What husband in thy power I will command.
+ Exempted be from me the arrogance
+ To choose from forth the royal blood of France,
+ My low and humble name to propagate
+ With any branch or image of thy state;
+ But such a one, thy vassal, whom I know
+ Is free for me to ask, thee to bestow.
+ 
+ Here is my hand. The premises observed,
+ Thy will by my performance shall be served.
+ So make the choice of thy own time, for I,
+ Thy resolved patient, on thee still rely.
+ More should I question thee, and more I must,
+ Though more to know could not be more to trust:
+ From whence thou cam’st, how tended on; but rest
+ Unquestioned welcome and undoubted blessed.—
+ Give me some help here, ho!—If thou proceed
+ As high as word, my deed shall match thy deed.
+FTLN 0797
+FTLN 0798
+FTLN 0799
+205
+FTLN 0800
+FTLN 0801
+FTLN 0802
+FTLN 0803
+FTLN 0804
+210
+FTLN 0805
+FTLN 0806
+FTLN 0807
+FTLN 0808
+FTLN 0809
+215
+FTLN 0810
+FTLN 0811
+FTLN 0812
+FTLN 0813
+FTLN 0814
+220
+FTLN 0815
+FTLN 0816
+FTLN 0817
+FTLN 0818
+FTLN 0819
+225
+FTLN 0820
+FTLN 0821
+FTLN 0822
+FTLN 0823
+FTLN 0824
+230
+FTLN 0825
+
+--- PAGE 35 / 110 ---
+63
+All’s Well That Ends Well
+ACT 2. SC. 2
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+Enter Countess and Fool.
+  Come on, sir. I shall now put you to the
+ height of your breeding.
+  I will show myself highly fed and lowly taught. I
+ know my business is but to the court.
+  “To the court”? Why, what place make you
+ special when you put off that with such contempt?
+ “But to the court”?
+  Truly, madam, if God have lent a man any manners,
+ he may easily put it off at court. He that cannot
+ make a leg, put off ’s cap, kiss his hand, and
+ say nothing, has neither leg, hands, lip, nor cap;
+ and indeed such a fellow, to say precisely, were
+ not for the court. But, for me, I have an answer
+ will serve all men.
+  Marry, that’s a bountiful answer that fits all
+ questions.
+  It is like a barber’s chair that fits all buttocks:
+ the pin-buttock, the quatch-buttock, the brawn-buttock,
+ or any buttock.
+  Will your answer serve fit to all questions?
+  As fit as ten groats is for the hand of an attorney,
+ as your French crown for your taffety punk, as
+ Tib’s rush for Tom’s forefinger, as a pancake for
+ Shrove Tuesday, a morris for May Day, as the nail
+ to his hole, the cuckold to his horn, as a scolding
+ quean to a wrangling knave, as the nun’s lip to the
+ friar’s mouth, nay, as the pudding to his skin.
+  Have you, I say, an answer of such fitness
+ for all questions?
+  From below your duke to beneath your constable,
+ it will fit any question.
+  It must be an answer of most monstrous
+ size that must fit all demands.
+Scene 2
+FTLN 0826
+FTLN 0827
+FTLN 0828
+FTLN 0829
+FTLN 0830
+5
+FTLN 0831
+FTLN 0832
+FTLN 0833
+FTLN 0834
+FTLN 0835
+10
+FTLN 0836
+FTLN 0837
+FTLN 0838
+FTLN 0839
+FTLN 0840
+15
+FTLN 0841
+FTLN 0842
+FTLN 0843
+FTLN 0844
+FTLN 0845
+20
+FTLN 0846
+FTLN 0847
+FTLN 0848
+FTLN 0849
+FTLN 0850
+25
+FTLN 0851
+FTLN 0852
+FTLN 0853
+FTLN 0854
+FTLN 0855
+30
+FTLN 0856
+FTLN 0857
+FTLN 0858
+
+--- PAGE 36 / 110 ---
+65
+All’s Well That Ends Well
+ACT 2. SC. 2
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+They exit.
+  But a trifle neither, in good faith, if the learned
+ should speak truth of it. Here it is, and all that
+ belongs to ’t. Ask me if I am a courtier; it shall do
+ you no harm to learn.
+  To be young again, if we could! I will be a
+ fool in question, hoping to be the wiser by your
+ answer. I pray you, sir, are you a courtier?
+  O Lord, sir!—There’s a simple putting off. More,
+ more, a hundred of them.
+  Sir, I am a poor friend of yours that loves
+ you.
+  O Lord, sir!—Thick, thick. Spare not me.
+  I think, sir, you can eat none of this homely
+ meat.
+  O Lord, sir!—Nay, put me to ’t, I warrant you.
+  You were lately whipped, sir, as I think.
+  O Lord, sir!—Spare not me.
+  Do you cry “O Lord, sir!” at your whipping,
+ and “spare not me”? Indeed your “O Lord, sir!” is
+ very sequent to your whipping. You would answer
+ very well to a whipping if you were but bound to ’t.
+  I ne’er had worse luck in my life in my “O Lord,
+ sir!” I see things may serve long but not serve ever.
+  I play the noble huswife with the time to
+ entertain it so merrily with a fool.
+  O Lord, sir!—Why, there ’t serves well again.
+, giving him a paper
+ 
+ An  end, sir. To your business. Give Helen this,
+ And urge her to a present answer back.
+ Commend me to my kinsmen and my son.
+ This is not much.
+  Not much commendation to them?
+ 
+ Not much employment for you. You understand me.
+  Most fruitfully. I am there before my legs.
+  Haste you again.
+FTLN 0859
+FTLN 0860
+35
+FTLN 0861
+FTLN 0862
+FTLN 0863
+FTLN 0864
+FTLN 0865
+40
+FTLN 0866
+FTLN 0867
+FTLN 0868
+FTLN 0869
+FTLN 0870
+45
+FTLN 0871
+FTLN 0872
+FTLN 0873
+FTLN 0874
+FTLN 0875
+50
+FTLN 0876
+FTLN 0877
+FTLN 0878
+FTLN 0879
+FTLN 0880
+55
+FTLN 0881
+FTLN 0882
+FTLN 0883
+FTLN 0884
+FTLN 0885
+60
+FTLN 0886
+FTLN 0887
+FTLN 0888
+FTLN 0889
+FTLN 0890
+65
+FTLN 0891
+FTLN 0892
+
+--- PAGE 37 / 110 ---
+67
+All’s Well That Ends Well
+ACT 2. SC. 3
+LAFEW
+PAROLLES
+BERTRAM
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+He points to a paper in Lafew’s hand.
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+Enter Count Bertram,  Lafew, and Parolles.
+  They say miracles are past, and we have our
+ philosophical persons to make modern and familiar
+ things supernatural and causeless. Hence is it
+ that we make trifles of terrors, ensconcing ourselves
+ into seeming knowledge when we should
+ submit ourselves to an unknown fear.
+  Why, ’tis the rarest argument of wonder that
+ hath shot out in our latter times.
+  And so ’tis.
+  To be relinquished of the artists—
+  So I say, both of Galen and Paracelsus.
+  Of all the learned and authentic fellows—
+  Right, so I say.
+  That gave him out incurable—
+  Why, there ’tis. So say I too.
+  Not to be helped.
+  Right, as ’twere a man assured of a—
+  Uncertain life and sure death.
+  Just. You say well. So would I have said.
+  I may truly say it is a novelty to the world.
+  It is indeed. If you will have it in showing,
+ you shall read it in what-do-you-call there.
+ reads
+  A showing of a heavenly effect in an earthly
+ actor.
+  That’s it. I would have said the very same.
+  Why, your dolphin is not lustier. ’Fore me, I
+ speak in respect—
+  Nay, ’tis strange, ’tis very strange; that is the
+ brief and the tedious of it; and he’s of a most facinorous
+ spirit that will not acknowledge it to be
+ the—
+  Very hand of heaven.
+Scene 3
+FTLN 0893
+FTLN 0894
+FTLN 0895
+FTLN 0896
+FTLN 0897
+5
+FTLN 0898
+FTLN 0899
+FTLN 0900
+FTLN 0901
+FTLN 0902
+10
+FTLN 0903
+FTLN 0904
+FTLN 0905
+FTLN 0906
+FTLN 0907
+15
+FTLN 0908
+FTLN 0909
+FTLN 0910
+FTLN 0911
+FTLN 0912
+20
+FTLN 0913
+FTLN 0914
+FTLN 0915
+FTLN 0916
+FTLN 0917
+25
+FTLN 0918
+FTLN 0919
+FTLN 0920
+FTLN 0921
+FTLN 0922
+30
+FTLN 0923
+FTLN 0924
+
+--- PAGE 38 / 110 ---
+69
+All’s Well That Ends Well
+ACT 2. SC. 3
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+KING
+An Attendant exits.
+HELEN
+LAFEW
+  Ay, so I say.
+  In a most weak—
+  And debile minister. Great power, great
+ transcendence, which should indeed give us a further
+ use to be made than alone the recov’ry of the
+ King, as to be—
+  Generally thankful.
+Enter King, Helen, and Attendants.
+  I would have said it. You say well. Here
+ comes the King.
+  Lustig, as the Dutchman says. I’ll like a maid
+ the better whilst I have a tooth in my head. Why,
+ he’s able to lead her a coranto.
+  Mort du vinaigre! Is not this Helen?
+  ’Fore God, I think so.
+ 
+ Go, call before me all the lords in court.
+ Sit, my preserver, by thy patient’s side,
+ And with this healthful hand, whose banished sense
+ Thou hast repealed, a second time receive
+ The confirmation of my promised gift,
+ Which but attends thy naming.
+Enter three or four Court  Lords.
+ Fair maid, send forth thine eye. This youthful parcel
+ Of noble bachelors stand at my bestowing,
+ O’er whom both sovereign power and father’s voice
+ I have to use. Thy frank election make.
+ Thou hast power to choose, and they none to forsake.
+ 
+ To each of you one fair and virtuous mistress
+ Fall when Love please! Marry, to each but one.
+, aside
+ 
+ I’d give bay Curtal and his furniture
+FTLN 0925
+FTLN 0926
+FTLN 0927
+35
+FTLN 0928
+FTLN 0929
+FTLN 0930
+FTLN 0931
+FTLN 0932
+40
+FTLN 0933
+FTLN 0934
+FTLN 0935
+FTLN 0936
+FTLN 0937
+45
+FTLN 0938
+FTLN 0939
+FTLN 0940
+FTLN 0941
+FTLN 0942
+50
+FTLN 0943
+FTLN 0944
+FTLN 0945
+FTLN 0946
+FTLN 0947
+55
+FTLN 0948
+FTLN 0949
+FTLN 0950
+FTLN 0951
+FTLN 0952
+60
+
+--- PAGE 39 / 110 ---
+71
+All’s Well That Ends Well
+ACT 2. SC. 3
+KING
+HELEN
+ALL
+HELEN
+KING
+HELEN
+She addresses her to a Lord.
+FIRST COURT  LORD
+HELEN
+LAFEW
+HELEN
+SECOND COURT  LORD
+HELEN
+ My mouth no more were broken than these boys’
+ And writ as little beard.
+  
+ Peruse them well.
+ Not one of those but had a noble father.
+  Gentlemen,
+ Heaven hath through me restored the King to health.
+ 
+ We understand it and thank heaven for you.
+ 
+ I am a simple maid, and therein wealthiest
+ That I protest I simply am a maid.—
+ Please it your Majesty, I have done already.
+ The blushes in my cheeks thus whisper me:
+ “We blush that thou shouldst choose; but, be
+ refused,
+ Let the white death sit on thy cheek forever;
+ We’ll ne’er come there again.”
+  
+ Make choice and see.
+ Who shuns thy love shuns all his love in me.
+ 
+ Now, Dian, from thy altar do I fly,
+ And to imperial Love, that god most high,
+ Do my sighs stream. 
+ Sir, will you hear my suit?
+ 
+ And grant it.
+  
+ Thanks, sir. All the
+ rest is mute.
+, aside
+  I had rather be in this choice than
+ throw ambs-ace for my life.
+, to another Lord
+ 
+ The honor, sir, that flames in your fair eyes
+ Before I speak too threat’ningly replies.
+ Love make your fortunes twenty times above
+ Her that so wishes, and her humble love.
+ 
+ No better, if you please.
+  
+ My wish receive,
+FTLN 0953
+FTLN 0954
+FTLN 0955
+FTLN 0956
+FTLN 0957
+65
+FTLN 0958
+FTLN 0959
+FTLN 0960
+FTLN 0961
+FTLN 0962
+70
+FTLN 0963
+FTLN 0964
+FTLN 0965
+FTLN 0966
+FTLN 0967
+75
+FTLN 0968
+FTLN 0969
+FTLN 0970
+FTLN 0971
+FTLN 0972
+80
+FTLN 0973
+FTLN 0974
+FTLN 0975
+FTLN 0976
+FTLN 0977
+85
+FTLN 0978
+FTLN 0979
+FTLN 0980
+FTLN 0981
+FTLN 0982
+90
+FTLN 0983
+FTLN 0984
+
+--- PAGE 40 / 110 ---
+73
+All’s Well That Ends Well
+ACT 2. SC. 3
+LAFEW
+HELEN
+LAFEW
+HELEN
+FOURTH COURT  LORD
+LAFEW
+HELEN
+KING
+BERTRAM
+KING
+BERTRAM
+KING
+ Which great Love grant, and so I take my leave.
+, aside
+  Do all they deny her? An they were sons
+ of mine, I’d have them whipped, or I would send
+ them to th’ Turk to make eunuchs of.
+, to another Lord
+ 
+ Be not afraid that I your hand should take.
+ I’ll never do you wrong, for your own sake.
+ Blessing upon your vows, and in your bed
+ Find fairer fortune if you ever wed.
+, aside
+  These boys are boys of ice; they’ll none
+ have her.  Sure they are bastards to the English;
+ the French ne’er got ’em.
+, to another Lord
+ 
+ You are too young, too happy, and too good
+ To make yourself a son out of my blood.
+  Fair one, I think not so.
+, aside
+  There’s one grape yet. I am sure thy
+ father drunk wine. But if thou be’st not an ass, I
+ am a youth of fourteen; I have known thee already.
+, to Bertram
+ 
+ I dare not say I take you, but I give
+ Me and my service ever whilst I live
+ Into your guiding power.—This is the man.
+ 
+ Why then, young Bertram, take her. She’s thy wife.
+ 
+ My wife, my liege? I shall beseech your Highness
+ In such a business give me leave to use
+ The help of mine own eyes.
+  
+ Know’st thou not,
+ Bertram,
+ What she has done for me?
+  
+ Yes, my good lord,
+ But never hope to know why I should marry her.
+ 
+ Thou know’st she has raised me from my sickly bed.
+FTLN 0985
+FTLN 0986
+FTLN 0987
+95
+FTLN 0988
+FTLN 0989
+FTLN 0990
+FTLN 0991
+FTLN 0992
+100
+FTLN 0993
+FTLN 0994
+FTLN 0995
+FTLN 0996
+FTLN 0997
+105
+FTLN 0998
+FTLN 0999
+FTLN 1000
+FTLN 1001
+FTLN 1002
+110
+FTLN 1003
+FTLN 1004
+FTLN 1005
+FTLN 1006
+FTLN 1007
+115
+FTLN 1008
+FTLN 1009
+FTLN 1010
+FTLN 1011
+FTLN 1012
+120
+FTLN 1013
+FTLN 1014
+
+--- PAGE 41 / 110 ---
+75
+All’s Well That Ends Well
+ACT 2. SC. 3
+BERTRAM
+KING
+ 
+ But follows it, my lord, to bring me down
+ Must answer for your raising? I know her well;
+ She had her breeding at my father’s charge.
+ A poor physician’s daughter my wife? Disdain
+ Rather corrupt me ever!
+ 
+ ’Tis only title thou disdain’st in her, the which
+ I can build up. Strange is it that our bloods,
+ Of color, weight, and heat, poured all together,
+ Would quite confound distinction, yet stands off
+ In differences so mighty. If she be
+ All that is virtuous, save what thou dislik’st—
+ “A poor physician’s daughter”—thou dislik’st
+ Of virtue for the name. But do not so.
+ From lowest place whence virtuous things proceed,
+ The place is dignified by th’ doer’s deed.
+ Where great additions swell ’s, and virtue none,
+ It is a dropsied honor. Good alone
+ Is good, without a name; vileness is so;
+ The property by what it  is should go,
+ Not by the title. She is young, wise, fair;
+ In these to nature she’s immediate heir,
+ And these breed honor. That is honor’s scorn
+ Which challenges itself as honor’s born
+ And is not like the sire. Honors thrive
+ When rather from our acts we them derive
+ Than our foregoers. The mere word’s a slave
+ Debauched on every tomb, on every grave
+ A lying trophy, and as oft is dumb
+ Where dust and damned oblivion is the tomb
+ Of honored bones indeed. What should be said?
+ If thou canst like this creature as a maid,
+ I can create the rest. Virtue and she
+ Is her own dower, honor and wealth from me.
+FTLN 1015
+FTLN 1016
+FTLN 1017
+125
+FTLN 1018
+FTLN 1019
+FTLN 1020
+FTLN 1021
+FTLN 1022
+130
+FTLN 1023
+FTLN 1024
+FTLN 1025
+FTLN 1026
+FTLN 1027
+135
+FTLN 1028
+FTLN 1029
+FTLN 1030
+FTLN 1031
+FTLN 1032
+140
+FTLN 1033
+FTLN 1034
+FTLN 1035
+FTLN 1036
+FTLN 1037
+145
+FTLN 1038
+FTLN 1039
+FTLN 1040
+FTLN 1041
+FTLN 1042
+150
+FTLN 1043
+FTLN 1044
+FTLN 1045
+FTLN 1046
+FTLN 1047
+155
+
+--- PAGE 42 / 110 ---
+77
+All’s Well That Ends Well
+ACT 2. SC. 3
+BERTRAM
+KING
+HELEN
+KING
+BERTRAM
+KING
+ 
+ I cannot love her, nor will strive to do ’t.
+ 
+ Thou wrong’st thyself if thou shouldst strive to
+ choose.
+ 
+ That you are well restored, my lord, I’m glad.
+ Let the rest go.
+ 
+ My honor’s at the stake, which to defeat
+ I must produce my power.—Here, take her hand,
+ Proud, scornful boy, unworthy this good gift,
+ That dost in vile misprision shackle up
+ My love and her desert; that canst not dream
+ We, poising us in her defective scale,
+ Shall weigh thee to the beam; that wilt not know
+ It is in us to plant thine honor where
+ We please to have it grow. Check thy contempt;
+ Obey our will, which travails in thy good.
+ Believe not thy disdain, but presently
+ Do thine own fortunes that obedient right
+ Which both thy duty owes and our power claims,
+ Or I will throw thee from my care forever
+ Into the staggers and the careless lapse
+ Of youth and ignorance, both my revenge and hate
+ Loosing upon thee in the name of justice
+ Without all terms of pity. Speak. Thine answer.
+ 
+ Pardon, my gracious lord, for I submit
+ My fancy to your eyes. When I consider
+ What great creation and what dole of honor
+ Flies where you bid it, I find that she which late
+ Was in my nobler thoughts most base is now
+ The praisèd of the King, who, so ennobled,
+ Is as ’twere born so.
+  
+ Take her by the hand,
+FTLN 1048
+FTLN 1049
+FTLN 1050
+FTLN 1051
+FTLN 1052
+160
+FTLN 1053
+FTLN 1054
+FTLN 1055
+FTLN 1056
+FTLN 1057
+165
+FTLN 1058
+FTLN 1059
+FTLN 1060
+FTLN 1061
+FTLN 1062
+170
+FTLN 1063
+FTLN 1064
+FTLN 1065
+FTLN 1066
+FTLN 1067
+175
+FTLN 1068
+FTLN 1069
+FTLN 1070
+FTLN 1071
+FTLN 1072
+180
+FTLN 1073
+FTLN 1074
+FTLN 1075
+FTLN 1076
+FTLN 1077
+185
+FTLN 1078
+
+--- PAGE 43 / 110 ---
+79
+All’s Well That Ends Well
+ACT 2. SC. 3
+BERTRAM
+KING
+They exit. Parolles and Lafew stay behind,
+commenting of this wedding.
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+ And tell her she is thine, to whom I promise
+ A counterpoise, if not to thy estate,
+ A balance more replete.
+  
+ I take her hand.
+ 
+ Good fortune and the favor of the King
+ Smile upon this contract, whose ceremony
+ Shall seem expedient on the now-born brief
+ And be performed tonight. The solemn feast
+ Shall more attend upon the coming space,
+ Expecting absent friends. As thou lov’st her
+ Thy love’s to me religious; else, does err.
+  Do you hear, monsieur? A word with you.
+  Your pleasure, sir.
+  Your lord and master did well to make his
+ recantation.
+  “Recantation”? My “lord”? My “master”?
+  Ay. Is it not a language I speak?
+  A most harsh one, and not to be understood
+ without bloody succeeding. My “master”?
+  Are you companion to the Count Rossillion?
+  To any count, to all counts, to what is man.
+  To what is count’s man. Count’s master is of
+ another style.
+  You are too old, sir; let it satisfy you, you are
+ too old.
+  I must tell thee, sirrah, I write man, to which
+ title age cannot bring thee.
+  What I dare too well do, I dare not do.
+  I did think thee, for two ordinaries, to be a
+ pretty wise fellow; thou didst make tolerable vent
+ of thy travel; it might pass. Yet the scarves and the
+ bannerets about thee did manifoldly dissuade me
+ from believing thee a vessel of too great a burden.
+FTLN 1079
+FTLN 1080
+FTLN 1081
+FTLN 1082
+190
+FTLN 1083
+FTLN 1084
+FTLN 1085
+FTLN 1086
+FTLN 1087
+195
+FTLN 1088
+FTLN 1089
+FTLN 1090
+FTLN 1091
+FTLN 1092
+200
+FTLN 1093
+FTLN 1094
+FTLN 1095
+FTLN 1096
+FTLN 1097
+205
+FTLN 1098
+FTLN 1099
+FTLN 1100
+FTLN 1101
+FTLN 1102
+210
+FTLN 1103
+FTLN 1104
+FTLN 1105
+FTLN 1106
+FTLN 1107
+215
+FTLN 1108
+FTLN 1109
+FTLN 1110
+FTLN 1111
+
+--- PAGE 44 / 110 ---
+81
+All’s Well That Ends Well
+ACT 2. SC. 3
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+He exits.
+PAROLLES
+ I have now found thee. When I lose thee again, I
+ care not. Yet art thou good for nothing but taking
+ up, and that thou ’rt scarce worth.
+  Hadst thou not the privilege of antiquity
+ upon thee—
+  Do not plunge thyself too far in anger lest thou
+ hasten thy trial, which if—Lord have mercy on
+ thee for a hen! So, my good window of lattice, fare
+ thee well; thy casement I need not open, for I look
+ through thee. Give me thy hand.
+  My lord, you give me most egregious
+ indignity.
+  Ay, with all my heart, and thou art worthy of it.
+  I have not, my lord, deserved it.
+  Yes, good faith, ev’ry dram of it, and I will not
+ bate thee a scruple.
+  Well, I shall be wiser.
+  Ev’n as soon as thou canst, for thou hast to
+ pull at a smack o’ th’ contrary. If ever thou be’st
+ bound in thy scarf and beaten, thou shalt  find
+ what it is to be proud of thy bondage. I have a
+ desire to hold my acquaintance with thee, or
+ rather my knowledge, that I may say in the default
+ “He is a man I know.”
+  My lord, you do me most insupportable
+ vexation.
+  I would it were hell pains for thy sake, and my
+ poor doing eternal; for doing I am past, as I will by
+ thee in what motion age will give me leave.
+  Well, thou hast a son shall take this disgrace
+ off me. Scurvy, old, filthy, scurvy lord! Well, I must
+ be patient; there is no fettering of authority. I’ll
+ beat him, by my life, if I can meet him with any
+ convenience, an he were double and double a lord.
+ I’ll have no more pity of his age than I would have
+ of—I’ll beat him, an if I could but meet him again.
+FTLN 1112
+220
+FTLN 1113
+FTLN 1114
+FTLN 1115
+FTLN 1116
+FTLN 1117
+225
+FTLN 1118
+FTLN 1119
+FTLN 1120
+FTLN 1121
+FTLN 1122
+230
+FTLN 1123
+FTLN 1124
+FTLN 1125
+FTLN 1126
+FTLN 1127
+235
+FTLN 1128
+FTLN 1129
+FTLN 1130
+FTLN 1131
+FTLN 1132
+240
+FTLN 1133
+FTLN 1134
+FTLN 1135
+FTLN 1136
+FTLN 1137
+245
+FTLN 1138
+FTLN 1139
+FTLN 1140
+FTLN 1141
+FTLN 1142
+250
+FTLN 1143
+FTLN 1144
+FTLN 1145
+FTLN 1146
+FTLN 1147
+255
+
+--- PAGE 45 / 110 ---
+83
+All’s Well That Ends Well
+ACT 2. SC. 3
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+He exits.
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+Enter Lafew.
+  Sirrah, your lord and master’s married. There’s
+ news for you: you have a new mistress.
+  I most unfeignedly beseech your Lordship
+ to make some reservation of your wrongs. He is
+ my good lord; whom I serve above is my master.
+  Who? God?
+  Ay, sir.
+  The devil it is that’s thy master. Why dost thou
+ garter up thy arms o’ this fashion? Dost make hose
+ of thy sleeves? Do other servants so? Thou wert
+ best set thy lower part where thy nose stands. By
+ mine honor, if I were but two hours younger, I’d
+ beat thee. Methink’st thou art a general offense,
+ and every man should beat thee. I think thou wast
+ created for men to breathe themselves upon thee.
+  This is hard and undeserved measure, my
+ lord.
+  Go to, sir. You were beaten in Italy for picking a
+ kernel out of a pomegranate. You are a vagabond,
+ and no true traveler. You are more saucy with
+ lords and honorable personages than the commission
+ of your birth and virtue gives you heraldry.
+ You are not worth another word; else I’d call you
+ knave. I leave you. 
+  Good, very good! It is so, then. Good, very
+ good. Let it be concealed awhile.
+Enter Bertram  Count Rossillion.
+ 
+ Undone, and forfeited to cares forever!
+  What’s the matter, sweetheart?
+ 
+ Although before the solemn priest I have sworn,
+ I will not bed her.
+FTLN 1148
+FTLN 1149
+FTLN 1150
+FTLN 1151
+FTLN 1152
+260
+FTLN 1153
+FTLN 1154
+FTLN 1155
+FTLN 1156
+FTLN 1157
+265
+FTLN 1158
+FTLN 1159
+FTLN 1160
+FTLN 1161
+FTLN 1162
+270
+FTLN 1163
+FTLN 1164
+FTLN 1165
+FTLN 1166
+FTLN 1167
+275
+FTLN 1168
+FTLN 1169
+FTLN 1170
+FTLN 1171
+FTLN 1172
+280
+FTLN 1173
+FTLN 1174
+FTLN 1175
+FTLN 1176
+FTLN 1177
+285
+
+--- PAGE 46 / 110 ---
+85
+All’s Well That Ends Well
+ACT 2. SC. 3
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+They  exit.
+  What, what, sweetheart?
+ 
+ O my Parolles, they have married me!
+ I’ll to the Tuscan wars and never bed her.
+  France is a dog-hole, and it no more merits
+ the tread of a man’s foot. To th’ wars!
+  There’s letters from my mother. What th’
+ import is I know not yet.
+  Ay, that would be known. To th’ wars, my
+ boy, to th’ wars!
+ He wears his honor in a box unseen
+ That hugs his kicky-wicky here at home,
+ Spending his manly marrow in her arms
+ Which should sustain the bound and high curvet
+ Of Mars’s fiery steed. To other regions!
+ France is a stable, we that dwell in ’t jades.
+ Therefore, to th’ war!
+ 
+ It shall be so. I’ll send her to my house,
+ Acquaint my mother with my hate to her
+ And wherefore I am fled, write to the King
+ That which I durst not speak. His present gift
+ Shall furnish me to those Italian fields
+ Where noble fellows strike. Wars is no strife
+ To the dark house and the detested  wife.
+ 
+ Will this capriccio hold in thee? Art sure?
+ 
+ Go with me to my chamber, and advise me.
+ I’ll send her straight away. Tomorrow
+ I’ll to the wars, she to her single sorrow.
+ 
+ Why, these balls bound; there’s noise in it. ’Tis hard.
+ A young man married is a man that’s marred.
+ Therefore away, and leave her bravely. Go.
+ The King has done you wrong, but hush, ’tis so.
+FTLN 1178
+FTLN 1179
+FTLN 1180
+FTLN 1181
+FTLN 1182
+290
+FTLN 1183
+FTLN 1184
+FTLN 1185
+FTLN 1186
+FTLN 1187
+295
+FTLN 1188
+FTLN 1189
+FTLN 1190
+FTLN 1191
+FTLN 1192
+300
+FTLN 1193
+FTLN 1194
+FTLN 1195
+FTLN 1196
+FTLN 1197
+305
+FTLN 1198
+FTLN 1199
+FTLN 1200
+FTLN 1201
+FTLN 1202
+310
+FTLN 1203
+FTLN 1204
+FTLN 1205
+FTLN 1206
+FTLN 1207
+315
+FTLN 1208
+
+--- PAGE 47 / 110 ---
+87
+All’s Well That Ends Well
+ACT 2. SC. 4
+HELEN
+FOOL
+HELEN
+FOOL
+HELEN
+FOOL
+PAROLLES
+HELEN
+PAROLLES
+FOOL
+PAROLLES
+FOOL
+PAROLLES
+FOOL
+PAROLLES
+Enter Helen with a paper,  and Fool.
+  My mother greets me kindly. Is she well?
+  She is not well, but yet she has her health. She’s
+ very merry, but yet she is not well. But, thanks be
+ given, she’s very well and wants nothing i’ th’ world,
+ but yet she is not well.
+  If she be very well, what does she ail that she’s
+ not very well?
+  Truly, she’s very well indeed, but for two things.
+  What two things?
+  One, that she’s not in heaven, whither God send
+ her quickly; the other, that she’s in Earth, from
+ whence God send her quickly.
+Enter Parolles.
+  Bless you, my fortunate lady.
+  I hope, sir, I have your good will to have mine
+ own good fortunes.
+  You had my prayers to lead them on, and to
+ keep them on have them still.—O my knave, how
+ does my old lady?
+  So that you had her wrinkles and I her money, I
+ would she did as you say.
+  Why, I say nothing.
+  Marry, you are the wiser man, for many a man’s
+ tongue shakes out his master’s undoing. To say
+ nothing, to do nothing, to know nothing, and to
+ have nothing is to be a great part of your title,
+ which is within a very little of nothing.
+  Away. Thou ’rt a knave.
+  You should have said, sir, “Before a knave,
+ thou ’rt a knave”; that’s “Before me, thou ’rt a
+ knave.” This had been truth, sir.
+  Go to. Thou art a witty fool. I have found
+ thee.
+Scene 4
+FTLN 1209
+FTLN 1210
+FTLN 1211
+FTLN 1212
+FTLN 1213
+5
+FTLN 1214
+FTLN 1215
+FTLN 1216
+FTLN 1217
+FTLN 1218
+10
+FTLN 1219
+FTLN 1220
+FTLN 1221
+FTLN 1222
+FTLN 1223
+15
+FTLN 1224
+FTLN 1225
+FTLN 1226
+FTLN 1227
+FTLN 1228
+20
+FTLN 1229
+FTLN 1230
+FTLN 1231
+FTLN 1232
+FTLN 1233
+25
+FTLN 1234
+FTLN 1235
+FTLN 1236
+FTLN 1237
+FTLN 1238
+30
+FTLN 1239
+FTLN 1240
+
+--- PAGE 48 / 110 ---
+89
+All’s Well That Ends Well
+ACT 2. SC. 4
+FOOL
+PAROLLES
+FOOL
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+HELEN
+PAROLLES
+Parolles exits.
+HELEN
+They  exit.
+  Did you find me in yourself, sir, or were you
+ taught to find me?
+  …
+  The search, sir, was profitable, and much fool
+ may you find in you, even to the world’s pleasure
+ and the increase of laughter.
+  A good knave, i’ faith, and well fed.
+ Madam, my lord will go away tonight;
+ A very serious business calls on him.
+ The great prerogative and rite of love,
+ Which as your due time claims, he does acknowledge
+ But puts it off to a compelled restraint,
+ Whose want and whose delay is strewed with sweets,
+ Which they distill now in the curbèd time
+ To make the coming hour o’erflow with joy
+ And pleasure drown the brim.
+  
+ What’s his will else?
+ 
+ That you will take your instant leave o’ th’ King
+ And make this haste as your own good proceeding,
+ Strengthened with what apology you think
+ May make it probable need.
+  
+ What more commands he?
+ 
+ That, having this obtained, you presently
+ Attend his further pleasure.
+ 
+ In everything I wait upon his will.
+  I shall report it so. 
+, to Fool
+  I pray you, come, sirrah.
+FTLN 1241
+FTLN 1242
+FTLN 1243
+FTLN 1244
+35
+FTLN 1245
+FTLN 1246
+FTLN 1247
+FTLN 1248
+FTLN 1249
+40
+FTLN 1250
+FTLN 1251
+FTLN 1252
+FTLN 1253
+FTLN 1254
+45
+FTLN 1255
+FTLN 1256
+FTLN 1257
+FTLN 1258
+FTLN 1259
+50
+FTLN 1260
+FTLN 1261
+FTLN 1262
+FTLN 1263
+FTLN 1264
+55
+FTLN 1265
+FTLN 1266
+FTLN 1267
+
+--- PAGE 49 / 110 ---
+91
+All’s Well That Ends Well
+ACT 2. SC. 5
+LAFEW
+BERTRAM
+LAFEW
+BERTRAM
+LAFEW
+BERTRAM
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+LAFEW
+Enter Lafew and Bertram.
+  But I hope your Lordship thinks not him a
+ soldier.
+  Yes, my lord, and of very valiant approof.
+  You have it from his own deliverance.
+  And by other warranted testimony.
+  Then my dial goes not true. I took this lark for
+ a bunting.
+  I do assure you, my lord, he is very great in
+ knowledge and accordingly valiant.
+  I have then sinned against his experience and
+ transgressed against his valor, and my state that
+ way is dangerous since I cannot yet find in my
+ heart to repent. Here he comes. I pray you make us
+ friends. I will pursue the amity.
+Enter Parolles.
+, to Bertram
+  These things shall be done, sir.
+, to Bertram
+  Pray you, sir, who’s his tailor?
+  Sir?
+  O, I know him well. Ay, sir, he, sir, ’s a good
+ workman, a very good tailor.
+, aside to Parolles
+  Is she gone to the King?
+  She is.
+  Will she away tonight?
+  As you’ll have her.
+ 
+ I have writ my letters, casketed my treasure,
+ Given order for our horses, and tonight,
+ When I should take possession of the bride,
+ End  ere I do begin.
+, aside
+  A good traveler is something at the latter
+ end of a dinner, but one that lies three thirds,
+ and uses a known truth to pass a thousand nothings
+Scene 5
+FTLN 1268
+FTLN 1269
+FTLN 1270
+FTLN 1271
+FTLN 1272
+5
+FTLN 1273
+FTLN 1274
+FTLN 1275
+FTLN 1276
+FTLN 1277
+10
+FTLN 1278
+FTLN 1279
+FTLN 1280
+FTLN 1281
+FTLN 1282
+15
+FTLN 1283
+FTLN 1284
+FTLN 1285
+FTLN 1286
+FTLN 1287
+20
+FTLN 1288
+FTLN 1289
+FTLN 1290
+FTLN 1291
+FTLN 1292
+25
+FTLN 1293
+FTLN 1294
+FTLN 1295
+FTLN 1296
+FTLN 1297
+30
+
+--- PAGE 50 / 110 ---
+93
+All’s Well That Ends Well
+ACT 2. SC. 5
+BERTRAM
+PAROLLES
+LAFEW
+BERTRAM
+LAFEW
+He exits.
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+HELEN
+BERTRAM
+ with, should be once heard and thrice beaten.—
+ God save you, captain.
+, to Parolles
+  Is there any unkindness
+ between my lord and you, monsieur?
+  I know not how I have deserved to run into
+ my lord’s displeasure.
+  You have made shift to run into ’t, boots and
+ spurs and all, like him that leapt into the custard;
+ and out of it you’ll run again rather than suffer
+ question for your residence.
+  It may be you have mistaken him, my lord.
+  And shall do so ever, though I took him at ’s
+ prayers. Fare you well, my lord, and believe this of
+ me: there can be no kernel in this light nut. The
+ soul of this man is his clothes. Trust him not in
+ matter of heavy consequence. I have kept of them
+ tame and know their natures.—Farewell, monsieur.
+ I have spoken better of you than you have or
+ will to deserve at my hand, but we must do good
+ against evil. 
+  An idle lord, I swear.
+  I think not  so.
+  Why, do you not know him?
+ 
+ Yes, I do know him well, and common speech
+ Gives him a worthy pass.
+Enter Helen.
+ Here comes my clog.
+ 
+ I have, sir, as I was commanded from you,
+ Spoke with the King and have procured his leave
+ For present parting. Only he desires
+ Some private speech with you.
+  I shall obey his will.
+ You must not marvel, Helen, at my course,
+FTLN 1298
+FTLN 1299
+FTLN 1300
+FTLN 1301
+FTLN 1302
+35
+FTLN 1303
+FTLN 1304
+FTLN 1305
+FTLN 1306
+FTLN 1307
+40
+FTLN 1308
+FTLN 1309
+FTLN 1310
+FTLN 1311
+FTLN 1312
+45
+FTLN 1313
+FTLN 1314
+FTLN 1315
+FTLN 1316
+FTLN 1317
+50
+FTLN 1318
+FTLN 1319
+FTLN 1320
+FTLN 1321
+FTLN 1322
+55
+FTLN 1323
+FTLN 1324
+FTLN 1325
+FTLN 1326
+FTLN 1327
+60
+FTLN 1328
+FTLN 1329
+
+--- PAGE 51 / 110 ---
+95
+All’s Well That Ends Well
+ACT 2. SC. 5
+Giving her a paper.
+HELEN
+BERTRAM
+HELEN
+BERTRAM
+HELEN
+BERTRAM
+HELEN
+BERTRAM
+HELEN
+ Which holds not color with the time, nor does
+ The ministration and requirèd office
+ On my particular. Prepared I was not
+ For such a business; therefore am I found
+ So much unsettled. This drives me to entreat you
+ That presently you take your way for home,
+ And rather muse than ask why I entreat you;
+ For my respects are better than they seem,
+ And my appointments have in them a need
+ Greater than shows itself at the first view
+ To you that know them not. 
+ This to my mother.
+ ’Twill be two days ere I shall see you, so
+ I leave you to your wisdom.
+  Sir, I can nothing say
+ But that I am your most obedient servant—
+ 
+ Come, come, no more of that.
+  
+ And ever shall
+ With true observance seek to eke out that
+ Wherein toward me my homely stars have failed
+ To equal my great fortune.
+  
+ Let that go.
+ My haste is very great. Farewell. Hie home.
+ 
+ Pray, sir, your pardon.
+  
+ Well, what would you say?
+ 
+ I am not worthy of the wealth I owe,
+ Nor dare I say ’tis mine—and yet it is—
+ But, like a timorous thief, most fain would steal
+ What law does vouch mine own.
+  
+ What would you have?
+ 
+ Something, and scarce so much; nothing, indeed.
+FTLN 1330
+FTLN 1331
+FTLN 1332
+65
+FTLN 1333
+FTLN 1334
+FTLN 1335
+FTLN 1336
+FTLN 1337
+70
+FTLN 1338
+FTLN 1339
+FTLN 1340
+FTLN 1341
+FTLN 1342
+75
+FTLN 1343
+FTLN 1344
+FTLN 1345
+FTLN 1346
+FTLN 1347
+80
+FTLN 1348
+FTLN 1349
+FTLN 1350
+FTLN 1351
+FTLN 1352
+85
+FTLN 1353
+FTLN 1354
+FTLN 1355
+FTLN 1356
+FTLN 1357
+90
+FTLN 1358
+FTLN 1359
+FTLN 1360
+
+--- PAGE 52 / 110 ---
+97
+All’s Well That Ends Well
+ACT 2. SC. 5
+BERTRAM
+HELEN
+She exits.
+BERTRAM
+PAROLLES
+They exit.
+ I would not tell you what I would, my lord. Faith,
+ yes:
+ Strangers and foes do sunder and not kiss.
+ 
+ I pray you stay not, but in haste to horse.
+ 
+ I shall not break your bidding, good my lord.—
+ Where are my other men?—Monsieur, farewell.
+ 
+ Go thou toward home, where I will never come
+ Whilst I can shake my sword or hear the drum.—
+ Away, and for our flight.
+  
+ Bravely, coraggio!
+FTLN 1361
+FTLN 1362
+95
+FTLN 1363
+FTLN 1364
+FTLN 1365
+FTLN 1366
+FTLN 1367
+100
+FTLN 1368
+FTLN 1369
+FTLN 1370
+
+--- PAGE 53 / 110 ---
+DUKE
+FIRST LORD
+DUKE
+SECOND LORD
+DUKE
+Flourish. Enter the Duke of Florence, the two French
+Lords,  with a troop of Soldiers.
+ 
+ So that from point to point now have you heard
+ The fundamental reasons of this war,
+ Whose great decision hath much blood let forth
+ And more thirsts after.
+  
+ Holy seems the quarrel
+ Upon your Grace’s part, black and fearful
+ On the opposer.
+ 
+ Therefore we marvel much our cousin France
+ Would in so just a business shut his bosom
+ Against our borrowing prayers.
+  
+ Good my lord,
+ The reasons of our state I cannot yield
+ But like a common and an outward man
+ That the great figure of a council frames
+ By self-unable motion; therefore dare not
+ Say what I think of it, since I have found
+ Myself in my incertain grounds to fail
+ As often as I guessed.
+  
+ Be it his pleasure.
+101
+ACT 3
+Scene 1
+FTLN 1371
+FTLN 1372
+FTLN 1373
+FTLN 1374
+FTLN 1375
+5
+FTLN 1376
+FTLN 1377
+FTLN 1378
+FTLN 1379
+FTLN 1380
+10
+FTLN 1381
+FTLN 1382
+FTLN 1383
+FTLN 1384
+FTLN 1385
+15
+FTLN 1386
+FTLN 1387
+FTLN 1388
+FTLN 1389
+
+--- PAGE 54 / 110 ---
+103
+All’s Well That Ends Well
+ACT 3. SC. 2
+FIRST LORD
+DUKE
+Flourish. They exit.
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+She opens the letter.
+FOOL
+COUNTESS
+FOOL
+He exits.
+COUNTESS
+ 
+ But I am sure the younger of our nation,
+ That surfeit on their ease, will day by day
+ Come here for physic.
+  
+ Welcome shall they be,
+ And all the honors that can fly from us
+ Shall on them settle. You know your places well.
+ When better fall, for your avails they fell.
+ Tomorrow to th’ field.
+Enter Countess, with a paper,  and Fool.
+  It hath happened all as I would have had it,
+ save that he comes not along with her.
+  By my troth, I take my young lord to be a very
+ melancholy man.
+  By what observance, I pray you?
+  Why, he will look upon his boot and sing, mend
+ the ruff and sing, ask questions and sing, pick his
+ teeth and sing. I know a man that had this trick of
+ melancholy sold  a goodly manor for a song.
+  Let me see what he writes and when he
+ means to come. 
+  I have no mind to Isbel since I was at court. Our
+ old lings and our Isbels o’ th’ country are nothing
+ like your old ling and your Isbels o’ th’ court. The
+ brains of my Cupid’s knocked out, and I begin to
+ love as an old man loves money, with no stomach.
+  What have we here?
+  E’en that you have there. 
+ reads.
+  I have sent you a daughter-in-law.
+ She hath recovered the King and undone me. I have
+ wedded her, not bedded her, and sworn to make the
+FTLN 1390
+20
+FTLN 1391
+FTLN 1392
+FTLN 1393
+FTLN 1394
+FTLN 1395
+25
+FTLN 1396
+FTLN 1397
+Scene 2
+FTLN 1398
+FTLN 1399
+FTLN 1400
+FTLN 1401
+FTLN 1402
+5
+FTLN 1403
+FTLN 1404
+FTLN 1405
+FTLN 1406
+FTLN 1407
+10
+FTLN 1408
+FTLN 1409
+FTLN 1410
+FTLN 1411
+FTLN 1412
+15
+FTLN 1413
+FTLN 1414
+FTLN 1415
+FTLN 1416
+FTLN 1417
+20
+FTLN 1418
+
+--- PAGE 55 / 110 ---
+105
+All’s Well That Ends Well
+ACT 3. SC. 2
+ Bertram.
+FOOL
+COUNTESS
+FOOL
+COUNTESS
+FOOL
+He exits.
+FIRST GENTLEMAN
+HELEN
+SECOND GENTLEMAN
+COUNTESS
+ “not” eternal. You shall hear I am run away. Know it
+ before the report come. If there be breadth enough in
+ the world, I will hold a long distance. My duty to
+ you.
+ Your unfortunate son,
+ This is not well, rash and unbridled boy:
+ To fly the favors of so good a king,
+ To pluck his indignation on thy head
+ By the misprizing of a maid too virtuous
+ For the contempt of empire.
+Enter Fool.
+  O madam, yonder is heavy news within, between
+ two soldiers and my young lady.
+  What is the matter?
+  Nay, there is some comfort in the news, some
+ comfort. Your son will not be killed so soon as I
+ thought he would.
+  Why should he be killed?
+  So say I, madam, if he run away, as I hear he
+ does. The danger is in standing to ’t; that’s the loss
+ of men, though it be the getting of children. Here
+ they come will tell you more. For my part, I only
+ hear your son was run away. 
+Enter Helen, with a paper,  and two Gentlemen.
+, to Countess
+  Save you, good
+ madam.
+ 
+ Madam, my lord is gone, forever gone.
+  Do not say so.
+ 
+ Think upon patience, pray you.—Gentlemen,
+ I have felt so many quirks of joy and grief
+ That the first face of neither on the start
+ Can woman me unto ’t. Where is my son, I pray you?
+FTLN 1419
+FTLN 1420
+FTLN 1421
+FTLN 1422
+25
+FTLN 1423
+FTLN 1424
+FTLN 1425
+FTLN 1426
+FTLN 1427
+30
+FTLN 1428
+FTLN 1429
+FTLN 1430
+FTLN 1431
+FTLN 1432
+35
+FTLN 1433
+FTLN 1434
+FTLN 1435
+FTLN 1436
+FTLN 1437
+40
+FTLN 1438
+FTLN 1439
+FTLN 1440
+FTLN 1441
+FTLN 1442
+45
+FTLN 1443
+FTLN 1444
+FTLN 1445
+FTLN 1446
+FTLN 1447
+50
+FTLN 1448
+FTLN 1449
+
+--- PAGE 56 / 110 ---
+107
+All’s Well That Ends Well
+ACT 3. SC. 2
+SECOND GENTLEMAN
+HELEN
+COUNTESS
+SECOND GENTLEMAN
+COUNTESS
+SECOND GENTLEMAN
+COUNTESS
+SECOND GENTLEMAN
+COUNTESS
+FIRST GENTLEMAN
+HELEN
+ 
+ Madam, he’s gone to serve the Duke of Florence.
+ We met him thitherward, for thence we came,
+ And, after some dispatch in hand at court,
+ Thither we bend again.
+ 
+ Look on his letter, madam; here’s my passport.
+  She reads.  When thou canst get the ring upon
+ my finger, which never shall come off, and show me
+ a child begotten of thy body that I am father to, then
+ call me husband. But in such a “then” I write a
+ “never.”
+ This is a dreadful sentence.
+ 
+ Brought you this letter, gentlemen?
+  
+ Ay, madam,
+ And for the contents’ sake are sorry for our pains.
+ 
+ I prithee, lady, have a better cheer.
+ If thou engrossest all the griefs are thine,
+ Thou robb’st me of a moiety. He was my son,
+ But I do wash his name out of my blood,
+ And thou art all my child.—Towards Florence is he?
+  Ay, madam.
+  And to be a soldier?
+ 
+ Such is his noble purpose, and, believe ’t,
+ The Duke will lay upon him all the honor
+ That good convenience claims.
+  
+ Return you thither?
+ 
+ Ay, madam, with the swiftest wing of speed.
+ reads
+ 
+ Till I have no wife I have nothing in France.
+ ’Tis bitter.
+FTLN 1450
+FTLN 1451
+FTLN 1452
+55
+FTLN 1453
+FTLN 1454
+FTLN 1455
+FTLN 1456
+FTLN 1457
+60
+FTLN 1458
+FTLN 1459
+FTLN 1460
+FTLN 1461
+FTLN 1462
+65
+FTLN 1463
+FTLN 1464
+FTLN 1465
+FTLN 1466
+FTLN 1467
+70
+FTLN 1468
+FTLN 1469
+FTLN 1470
+FTLN 1471
+FTLN 1472
+75
+FTLN 1473
+FTLN 1474
+FTLN 1475
+FTLN 1476
+FTLN 1477
+80
+
+--- PAGE 57 / 110 ---
+109
+All’s Well That Ends Well
+ACT 3. SC. 2
+COUNTESS
+HELEN
+FIRST GENTLEMAN
+COUNTESS
+FIRST GENTLEMAN
+COUNTESS
+FIRST GENTLEMAN
+COUNTESS
+FIRST GENTLEMAN
+COUNTESS
+SECOND GENTLEMAN
+COUNTESS
+She exits with the Gentlemen.
+  
+ Find you that there?
+  
+ Ay, madam.
+ 
+ ’Tis but the boldness of his hand, haply,
+ Which his heart was not consenting to.
+ 
+ Nothing in France until he have no wife!
+ There’s nothing here that is too good for him
+ But only she, and she deserves a lord
+ That twenty such rude boys might tend upon
+ And call her hourly mistress. Who was with him?
+ 
+ A servant only, and a gentleman
+ Which I have sometime known.
+  Parolles was it not?
+  Ay, my good lady, he.
+ 
+ A very tainted fellow, and full of wickedness.
+ My son corrupts a well-derivèd nature
+ With his inducement.
+  
+ Indeed, good lady,
+ The fellow has a deal of that too much
+ Which holds him much to have.
+  
+ You’re welcome,
+ gentlemen.
+ I will entreat you when you see my son
+ To tell him that his sword can never win
+ The honor that he loses. More I’ll entreat you
+ Written to bear along.
+  
+ We serve you, madam,
+ In that and all your worthiest affairs.
+ 
+ Not so, but as we change our courtesies.
+ Will you draw near?
+FTLN 1478
+FTLN 1479
+FTLN 1480
+FTLN 1481
+FTLN 1482
+85
+FTLN 1483
+FTLN 1484
+FTLN 1485
+FTLN 1486
+FTLN 1487
+90
+FTLN 1488
+FTLN 1489
+FTLN 1490
+FTLN 1491
+FTLN 1492
+95
+FTLN 1493
+FTLN 1494
+FTLN 1495
+FTLN 1496
+FTLN 1497
+100
+FTLN 1498
+FTLN 1499
+FTLN 1500
+FTLN 1501
+FTLN 1502
+105
+FTLN 1503
+FTLN 1504
+FTLN 1505
+FTLN 1506
+
+--- PAGE 58 / 110 ---
+111
+All’s Well That Ends Well
+ACT 3. SC. 2
+HELEN
+She exits.
+ 
+ “Till I have no wife I have nothing in France.”
+ Nothing in France until he has no wife.
+ Thou shalt have none, Rossillion, none in France.
+ Then hast thou all again. Poor lord, is ’t I
+ That chase thee from thy country and expose
+ Those tender limbs of thine to the event
+ Of the none-sparing war? And is it I
+ That drive thee from the sportive court, where thou
+ Wast shot at with fair eyes, to be the mark
+ Of smoky muskets? O you leaden messengers
+ That ride upon the violent speed of fire,
+ Fly with false aim; move the still-’pearing air
+ That sings with piercing; do not touch my lord.
+ Whoever shoots at him, I set him there;
+ Whoever charges on his forward breast,
+ I am the caitiff that do hold him to ’t;
+ And though I kill him not, I am the cause
+ His death was so effected. Better ’twere
+ I met the ravin lion when he roared
+ With sharp constraint of hunger; better ’twere
+ That all the miseries which nature owes
+ Were mine at once. No, come thou home, Rossillion,
+ Whence honor but of danger wins a scar,
+ As oft it loses all. I will be gone.
+ My being here it is that holds thee hence.
+ Shall I stay here to do ’t? No, no, although
+ The air of paradise did fan the house
+ And angels officed all. I will be gone,
+ That pitiful rumor may report my flight
+ To consolate thine ear. Come, night; end, day;
+ For with the dark, poor thief, I’ll steal away.
+FTLN 1507
+110
+FTLN 1508
+FTLN 1509
+FTLN 1510
+FTLN 1511
+FTLN 1512
+115
+FTLN 1513
+FTLN 1514
+FTLN 1515
+FTLN 1516
+FTLN 1517
+120
+FTLN 1518
+FTLN 1519
+FTLN 1520
+FTLN 1521
+FTLN 1522
+125
+FTLN 1523
+FTLN 1524
+FTLN 1525
+FTLN 1526
+FTLN 1527
+130
+FTLN 1528
+FTLN 1529
+FTLN 1530
+FTLN 1531
+FTLN 1532
+135
+FTLN 1533
+FTLN 1534
+FTLN 1535
+FTLN 1536
+FTLN 1537
+140
+
+--- PAGE 59 / 110 ---
+113
+All’s Well That Ends Well
+ACT 3. SC. 4
+DUKE
+BERTRAM
+DUKE
+BERTRAM
+All exit.
+COUNTESS
+STEWARD
+Flourish. Enter the Duke of Florence, Bertram Count
+Rossillion, Drum and Trumpets, Soldiers, Parolles.
+, to Bertram
+ 
+ The general of our horse thou art, and we,
+ Great in our hope, lay our best love and credence
+ Upon thy promising fortune.
+  
+ Sir, it is
+ A charge too heavy for my strength, but yet
+ We’ll strive to bear it for your worthy sake
+ To th’ extreme edge of hazard.
+  
+ Then go thou forth,
+ And Fortune play upon thy prosperous helm
+ As thy auspicious mistress.
+  
+ This very day,
+ Great Mars, I put myself into thy file.
+ Make me but like my thoughts, and I shall prove
+ A lover of thy drum, hater of love.
+Enter Countess and Steward, with a paper.
+ 
+ Alas! And would you take the letter of her?
+ Might you not know she would do as she has done
+ By sending me a letter? Read it again.
+ reads the  letter  
+ I am Saint Jaques’ pilgrim, thither gone.
+  Ambitious love hath so in me offended
+ That barefoot plod I the cold ground upon,
+  With sainted vow my faults to have amended.
+ Write, write, that from the bloody course of war
+  My dearest master, your dear son, may hie.
+Scene 3
+FTLN 1538
+FTLN 1539
+FTLN 1540
+FTLN 1541
+FTLN 1542
+5
+FTLN 1543
+FTLN 1544
+FTLN 1545
+FTLN 1546
+FTLN 1547
+10
+FTLN 1548
+FTLN 1549
+FTLN 1550
+FTLN 1551
+Scene 4
+FTLN 1552
+FTLN 1553
+FTLN 1554
+FTLN 1555
+FTLN 1556
+5
+FTLN 1557
+FTLN 1558
+FTLN 1559
+FTLN 1560
+
+--- PAGE 60 / 110 ---
+115
+All’s Well That Ends Well
+ACT 3. SC. 4
+COUNTESS
+STEWARD
+COUNTESS
+They exit.
+ Bless him at home in peace, whilst I from far
+  His name with zealous fervor sanctify.
+ His taken labors bid him me forgive;
+  I, his despiteful Juno, sent him forth
+ From courtly friends, with camping foes to live
+  Where death and danger dogs the heels of worth.
+ He is too good and fair for death and me,
+ Whom I myself embrace to set him free.
+ 
+ Ah, what sharp stings are in her mildest words!
+ Rinaldo, you did never lack advice so much
+ As letting her pass so. Had I spoke with her,
+ I could have well diverted her intents,
+ Which thus she hath prevented.
+  
+ Pardon me, madam.
+ If I had given you this at overnight,
+ She might have been o’erta’en. And yet she writes
+ Pursuit would be but vain.
+  
+ What angel shall
+ Bless this unworthy husband? He cannot thrive
+ Unless her prayers, whom heaven delights to hear
+ And loves to grant, reprieve him from the wrath
+ Of greatest justice. Write, write, Rinaldo,
+ To this unworthy husband of his wife.
+ Let every word weigh heavy of her worth
+ That he does weigh too light. My greatest grief,
+ Though little he do feel it, set down sharply.
+ Dispatch the most convenient messenger.
+ When haply he shall hear that she is gone,
+ He will return; and hope I may that she,
+ Hearing so much, will speed her foot again,
+ Led hither by pure love. Which of them both
+ Is dearest to me, I have no skill in sense
+ To make distinction. Provide this messenger.
+ My heart is heavy, and mine age is weak.
+ Grief would have tears, and sorrow bids me speak.
+FTLN 1561
+10
+FTLN 1562
+FTLN 1563
+FTLN 1564
+FTLN 1565
+FTLN 1566
+15
+FTLN 1567
+FTLN 1568
+FTLN 1569
+FTLN 1570
+FTLN 1571
+20
+FTLN 1572
+FTLN 1573
+FTLN 1574
+FTLN 1575
+FTLN 1576
+25
+FTLN 1577
+FTLN 1578
+FTLN 1579
+FTLN 1580
+FTLN 1581
+30
+FTLN 1582
+FTLN 1583
+FTLN 1584
+FTLN 1585
+FTLN 1586
+35
+FTLN 1587
+FTLN 1588
+FTLN 1589
+FTLN 1590
+FTLN 1591
+40
+FTLN 1592
+FTLN 1593
+FTLN 1594
+FTLN 1595
+
+--- PAGE 61 / 110 ---
+117
+All’s Well That Ends Well
+ACT 3. SC. 5
+WIDOW
+DIANA
+WIDOW
+MARIANA
+WIDOW
+MARIANA
+DIANA
+WIDOW
+A tucket afar off. Enter old Widow of Florence, her
+daughter Diana,  and Mariana, with other Citizens.
+  Nay, come, for if they do approach the city, we
+ shall lose all the sight.
+  They say the French count has done most honorable
+ service.
+  It is reported that he has taken their great’st
+ commander, and that with his own hand he slew
+ the Duke’s brother.  A trumpet sounds.  We have
+ lost our labor. They are gone a contrary way. Hark,
+ you may know by their trumpets.
+  Come, let’s return again and suffice ourselves
+ with the report of it.—Well, Diana, take heed of
+ this French earl. The honor of a maid is her name,
+ and no legacy is so rich as honesty.
+, to Diana
+  I have told my neighbor how you
+ have been solicited by a gentleman, his
+ companion.
+  I know that knave, hang him! One Parolles, a
+ filthy officer he is in those suggestions for the
+ young earl.—Beware of them, Diana. Their promises,
+ enticements, oaths, tokens, and all these
+ engines of lust are not the things they go under.
+ Many a maid hath been seduced by them; and
+ the misery is example that so terrible shows in the
+ wrack of maidenhood cannot for all that dissuade
+ succession, but that they are limed with the twigs
+ that threatens them. I hope I need not to advise
+ you further, but I hope your own grace will keep
+ you where you are, though there were no further
+ danger known but the modesty which is so lost.
+  You shall not need to fear me.
+  I hope so.
+Scene 5
+FTLN 1596
+FTLN 1597
+FTLN 1598
+FTLN 1599
+FTLN 1600
+5
+FTLN 1601
+FTLN 1602
+FTLN 1603
+FTLN 1604
+FTLN 1605
+10
+FTLN 1606
+FTLN 1607
+FTLN 1608
+FTLN 1609
+FTLN 1610
+15
+FTLN 1611
+FTLN 1612
+FTLN 1613
+FTLN 1614
+FTLN 1615
+20
+FTLN 1616
+FTLN 1617
+FTLN 1618
+FTLN 1619
+FTLN 1620
+25
+FTLN 1621
+FTLN 1622
+FTLN 1623
+FTLN 1624
+FTLN 1625
+30
+FTLN 1626
+
+--- PAGE 62 / 110 ---
+119
+All’s Well That Ends Well
+ACT 3. SC. 5
+HELEN
+WIDOW
+HELEN
+A march afar.
+WIDOW
+HELEN
+WIDOW
+HELEN
+WIDOW
+HELEN
+WIDOW
+HELEN
+DIANA
+HELEN
+DIANA
+Enter Helen as a pilgrim.
+ Look, here comes a pilgrim. I know she will lie at
+ my house; thither they send one another. I’ll question
+ her.—God save you, pilgrim. Whither are
+ bound?
+, as pilgrim
+  To Saint Jaques le Grand.
+ Where do the palmers lodge, I do beseech you?
+ 
+ At the Saint Francis here beside the port.
+, as pilgrim
+  Is this the way? 
+ 
+ Ay, marry, is ’t.—Hark you, they come this way.—
+ If you will tarry, holy pilgrim,
+ But till the troops come by,
+ I will conduct you where you shall be lodged,
+ The rather for I think I know your hostess
+ As ample as myself.
+, as pilgrim
+  Is it yourself?
+  If you shall please so, pilgrim.
+, as pilgrim
+ 
+ I thank you, and will stay upon your leisure.
+ 
+ You came I think from France?
+, as pilgrim
+  
+ I did so.
+ 
+ Here you shall see a countryman of yours
+ That has done worthy service.
+, as pilgrim
+  
+ His name, I pray you?
+ 
+ The Count Rossillion. Know you such a one?
+, as pilgrim
+ 
+ But by the ear, that hears most nobly of him.
+ His face I know not.
+  
+ Whatsome’er he is,
+ He’s bravely taken here. He stole from France,
+FTLN 1627
+FTLN 1628
+FTLN 1629
+FTLN 1630
+35
+FTLN 1631
+FTLN 1632
+FTLN 1633
+FTLN 1634
+FTLN 1635
+40
+FTLN 1636
+FTLN 1637
+FTLN 1638
+FTLN 1639
+FTLN 1640
+45
+FTLN 1641
+FTLN 1642
+FTLN 1643
+FTLN 1644
+FTLN 1645
+50
+FTLN 1646
+FTLN 1647
+FTLN 1648
+FTLN 1649
+FTLN 1650
+55
+FTLN 1651
+FTLN 1652
+FTLN 1653
+
+--- PAGE 63 / 110 ---
+121
+All’s Well That Ends Well
+ACT 3. SC. 5
+HELEN
+DIANA
+HELEN
+DIANA
+HELEN
+DIANA
+WIDOW
+HELEN
+WIDOW
+MARIANA
+ As ’tis reported, for the King had married him
+ Against his liking. Think you it is so?
+, as pilgrim
+ 
+ Ay, surely, mere the truth. I know his lady.
+ 
+ There is a gentleman that serves the Count
+ Reports but coarsely of her.
+, as pilgrim
+  
+ What’s his name?
+ 
+ Monsieur Parolles.
+, as pilgrim
+   O, I believe with him.
+ In argument of praise, or to the worth
+ Of the great count himself, she is too mean
+ To have her name repeated. All her deserving
+ Is a reservèd honesty, and that
+ I have not heard examined.
+  
+ Alas, poor lady,
+ ’Tis a hard bondage to become the wife
+ Of a detesting lord.
+ 
+ I warrant,  good creature, wheresoe’er she is,
+ Her heart weighs sadly. This young maid might do
+ her
+ A shrewd turn if she pleased.
+, as pilgrim
+  
+ How do you mean?
+ Maybe the amorous count solicits her
+ In the unlawful purpose?
+  
+ He does indeed,
+ And brokes with all that can in such a suit
+ Corrupt the tender honor of a maid,
+ But she is armed for him and keeps her guard
+ In honestest defense.
+ 
+ The gods forbid else!
+FTLN 1654
+FTLN 1655
+60
+FTLN 1656
+FTLN 1657
+FTLN 1658
+FTLN 1659
+FTLN 1660
+65
+FTLN 1661
+FTLN 1662
+FTLN 1663
+FTLN 1664
+FTLN 1665
+70
+FTLN 1666
+FTLN 1667
+FTLN 1668
+FTLN 1669
+FTLN 1670
+75
+FTLN 1671
+FTLN 1672
+FTLN 1673
+FTLN 1674
+FTLN 1675
+80
+FTLN 1676
+FTLN 1677
+FTLN 1678
+FTLN 1679
+FTLN 1680
+85
+FTLN 1681
+FTLN 1682
+
+--- PAGE 64 / 110 ---
+123
+All’s Well That Ends Well
+ACT 3. SC. 5
+WIDOW
+HELEN
+DIANA
+HELEN
+DIANA
+HELEN
+DIANA
+HELEN
+PAROLLES
+MARIANA
+WIDOW
+MARIANA
+Bertram, Parolles, and the army  exit.
+WIDOW
+HELEN
+Drum and Colors. Enter Bertram  Count Rossillion,
+Parolles, and the whole Army.
+  
+ So, now they come.
+ That is Antonio, the Duke’s eldest son;
+ That, Escalus.
+, as pilgrim
+   Which is the Frenchman?
+  
+ He,
+ That with the plume. ’Tis a most gallant fellow.
+ I would he loved his wife. If he were honester,
+ He were much goodlier. Is ’t not a handsome
+ gentleman?
+, as pilgrim
+  I like him well.
+ 
+ ’Tis pity he is not honest. Yond’s that same knave
+ That leads him to these places. Were I his lady,
+ I would poison that vile rascal.
+, as pilgrim
+  
+ Which is he?
+ 
+ That jackanapes with scarves. Why is he melancholy?
+, as pilgrim
+  Perchance he’s hurt i’ th’ battle.
+  Lose our drum? Well.
+  He’s shrewdly vexed at something. Look, he
+ has spied us.
+, to Parolles
+  Marry, hang you.
+, to Parolles
+  And your courtesy, for a
+ ring-carrier.
+ 
+ The troop is passed. Come, pilgrim, I will bring you
+ Where you shall host. Of enjoined penitents
+ There’s four or five, to Great Saint Jaques bound,
+ Already at my house.
+, as pilgrim
+  
+ I humbly thank you.
+ Please it this matron and this gentle maid
+ To eat with us tonight, the charge and thanking
+FTLN 1683
+FTLN 1684
+FTLN 1685
+90
+FTLN 1686
+FTLN 1687
+FTLN 1688
+FTLN 1689
+FTLN 1690
+95
+FTLN 1691
+FTLN 1692
+FTLN 1693
+FTLN 1694
+FTLN 1695
+100
+FTLN 1696
+FTLN 1697
+FTLN 1698
+FTLN 1699
+FTLN 1700
+105
+FTLN 1701
+FTLN 1702
+FTLN 1703
+FTLN 1704
+FTLN 1705
+110
+FTLN 1706
+FTLN 1707
+FTLN 1708
+FTLN 1709
+FTLN 1710
+115
+FTLN 1711
+
+--- PAGE 65 / 110 ---
+125
+All’s Well That Ends Well
+ACT 3. SC. 6
+BOTH
+They exit.
+FIRST LORD
+SECOND LORD
+FIRST LORD
+BERTRAM
+FIRST LORD
+SECOND LORD
+BERTRAM
+SECOND LORD
+FIRST LORD
+ Shall be for me. And to requite you further,
+ I will bestow some precepts of this virgin
+ Worthy the note.
+  
+ We’ll take your offer kindly.
+Enter Bertram  Count Rossillion and the French
+Lords,  as at first.
+  Nay, good my lord, put him to ’t. Let him
+ have his way.
+  If your Lordship find him not a hilding,
+ hold me no more in your respect.
+  On my life, my lord, a bubble.
+  Do you think I am so far deceived in him?
+  Believe it, my lord. In mine own direct
+ knowledge, without any malice, but to speak of
+ him as my kinsman, he’s a most notable coward,
+ an infinite and endless liar, an hourly promise-breaker,
+ the owner of no one good quality worthy
+ your Lordship’s entertainment.
+  It were fit you knew him, lest, reposing
+ too far in his virtue, which he hath not, he might
+ at some great and trusty business in a main danger
+ fail you.
+  I would I knew in what particular action to
+ try him.
+  None better than to let him fetch off his
+ drum, which you hear him so confidently undertake
+ to do.
+  I, with a troop of Florentines, will suddenly
+ surprise him. Such I will have whom I am sure
+ he knows not from the enemy. We will bind and
+ hoodwink him so, that he shall suppose no other
+FTLN 1712
+FTLN 1713
+FTLN 1714
+FTLN 1715
+120
+Scene 6
+FTLN 1716
+FTLN 1717
+FTLN 1718
+FTLN 1719
+FTLN 1720
+5
+FTLN 1721
+FTLN 1722
+FTLN 1723
+FTLN 1724
+FTLN 1725
+10
+FTLN 1726
+FTLN 1727
+FTLN 1728
+FTLN 1729
+FTLN 1730
+15
+FTLN 1731
+FTLN 1732
+FTLN 1733
+FTLN 1734
+FTLN 1735
+20
+FTLN 1736
+FTLN 1737
+FTLN 1738
+FTLN 1739
+FTLN 1740
+25
+
+--- PAGE 66 / 110 ---
+127
+All’s Well That Ends Well
+ACT 3. SC. 6
+SECOND LORD
+FIRST LORD
+BERTRAM
+SECOND LORD
+PAROLLES
+SECOND LORD
+BERTRAM
+PAROLLES
+BERTRAM
+ but that he is carried into the leaguer of the adversary’s
+ when we bring him to our own tents. Be but
+ your Lordship present at his examination. If he do
+ not for the promise of his life, and in the highest
+ compulsion of base fear, offer to betray you and
+ deliver all the intelligence in his power against
+ you, and that with the divine forfeit of his soul
+ upon oath, never trust my judgment in anything.
+  O, for the love of laughter, let him fetch
+ his drum. He says he has a stratagem for ’t. When
+ your Lordship sees the bottom of his  success in
+ ’t, and to what metal this counterfeit lump of ore
+ will be melted, if you give him not John Drum’s
+ entertainment, your inclining cannot be removed.
+ Here he comes.
+Enter Parolles.
+, aside to Bertram
+  O, for the love of laughter,
+ hinder not the honor of his design. Let him
+ fetch off his drum in any hand.
+, to Parolles
+  How now, monsieur? This
+ drum sticks sorely in your disposition.
+  A pox on ’t! Let it go. ’Tis but a drum.
+  But a drum! Is ’t but a drum? A drum so
+ lost! There was excellent command, to charge in
+ with our horse upon our own wings and to rend
+ our own soldiers!
+  That was not to be blamed in the command
+ of the service. It was a disaster of war that
+ Caesar himself could not have prevented if he had
+ been there to command.
+  Well, we cannot greatly condemn our success.
+ Some dishonor we had in the loss of that
+ drum, but it is not to be recovered.
+  It might have been recovered.
+  It might, but it is not now.
+FTLN 1741
+FTLN 1742
+FTLN 1743
+FTLN 1744
+FTLN 1745
+30
+FTLN 1746
+FTLN 1747
+FTLN 1748
+FTLN 1749
+FTLN 1750
+35
+FTLN 1751
+FTLN 1752
+FTLN 1753
+FTLN 1754
+FTLN 1755
+40
+FTLN 1756
+FTLN 1757
+FTLN 1758
+FTLN 1759
+FTLN 1760
+45
+FTLN 1761
+FTLN 1762
+FTLN 1763
+FTLN 1764
+FTLN 1765
+50
+FTLN 1766
+FTLN 1767
+FTLN 1768
+FTLN 1769
+FTLN 1770
+55
+FTLN 1771
+FTLN 1772
+FTLN 1773
+FTLN 1774
+
+--- PAGE 67 / 110 ---
+129
+All’s Well That Ends Well
+ACT 3. SC. 6
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+BERTRAM
+PAROLLES
+He exits.
+FIRST LORD
+SECOND LORD
+  It is to be recovered. But that the merit of
+ service is seldom attributed to the true and exact
+ performer, I would have that drum or another, or
+ hic jacet.
+  Why, if you have a stomach, to ’t, monsieur!
+ If you think your mystery in stratagem can bring
+ this instrument of honor again into his native
+ quarter, be magnanimous in the enterprise and go
+ on. I will grace the attempt for a worthy exploit. If
+ you speed well in it, the Duke shall both speak of it
+ and extend to you what further becomes his greatness,
+ even to the utmost syllable of your
+ worthiness.
+  By the hand of a soldier, I will undertake it.
+  But you must not now slumber in it.
+  I’ll about it this evening, and I will presently
+ pen down my dilemmas, encourage myself in my
+ certainty, put myself into my mortal preparation;
+ and by midnight look to hear further from me.
+  May I be bold to acquaint his Grace you are
+ gone about it?
+  I know not what the success will be, my
+ lord, but the attempt I vow.
+  I know thou ’rt valiant, and to the possibility
+ of thy soldiership will subscribe for thee. Farewell.
+  I love not many words. 
+  No more than a fish loves water. Is not this
+ a strange fellow, my lord, that so confidently seems
+ to undertake this business which he knows is not
+ to be done, damns himself to do, and dares better
+ be damned than to do ’t?
+  You do not know him, my lord, as we do.
+ Certain it is that he will steal himself into a man’s
+ favor and for a week escape a great deal of discoveries,
+ but when you find him out, you have him
+ ever after.
+FTLN 1775
+60
+FTLN 1776
+FTLN 1777
+FTLN 1778
+FTLN 1779
+FTLN 1780
+65
+FTLN 1781
+FTLN 1782
+FTLN 1783
+FTLN 1784
+FTLN 1785
+70
+FTLN 1786
+FTLN 1787
+FTLN 1788
+FTLN 1789
+FTLN 1790
+75
+FTLN 1791
+FTLN 1792
+FTLN 1793
+FTLN 1794
+FTLN 1795
+80
+FTLN 1796
+FTLN 1797
+FTLN 1798
+FTLN 1799
+FTLN 1800
+85
+FTLN 1801
+FTLN 1802
+FTLN 1803
+FTLN 1804
+FTLN 1805
+90
+FTLN 1806
+FTLN 1807
+FTLN 1808
+FTLN 1809
+FTLN 1810
+95
+
+--- PAGE 68 / 110 ---
+131
+All’s Well That Ends Well
+ACT 3. SC. 6
+BERTRAM
+FIRST LORD
+SECOND LORD
+FIRST LORD
+BERTRAM
+FIRST  LORD
+He exits.
+BERTRAM
+SECOND  LORD
+BERTRAM
+SECOND  LORD
+They exit.
+  Why, do you think he will make no deed at
+ all of this that so seriously he does address himself
+ unto?
+  None in the world, but return with an
+ invention and clap upon you two or three probable
+ lies. But we have almost embossed him. You shall
+ see his fall tonight; for indeed he is not for your
+ Lordship’s respect.
+  We’ll make you some sport with the fox
+ ere we case him. He was first smoked by the old
+ Lord Lafew. When his disguise and he is parted,
+ tell me what a sprat you shall find him, which you
+ shall see this very night.
+  I must go look my twigs. He shall be
+ caught.
+  Your brother he shall go along with me.
+  As ’t please your Lordship. I’ll leave you.
+ 
+ Now will I lead you to the house and show you
+ The lass I spoke of.
+  
+ But you say she’s honest.
+ 
+ That’s all the fault. I spoke with her but once
+ And found her wondrous cold. But I sent to her,
+ By this same coxcomb that we have i’ th’ wind,
+ Tokens and letters, which she did re-send.
+ And this is all I have done. She’s a fair creature.
+ Will you go see her?
+  
+ With all my heart, my lord.
+FTLN 1811
+FTLN 1812
+FTLN 1813
+FTLN 1814
+FTLN 1815
+100
+FTLN 1816
+FTLN 1817
+FTLN 1818
+FTLN 1819
+FTLN 1820
+105
+FTLN 1821
+FTLN 1822
+FTLN 1823
+FTLN 1824
+FTLN 1825
+110
+FTLN 1826
+FTLN 1827
+FTLN 1828
+FTLN 1829
+FTLN 1830
+115
+FTLN 1831
+FTLN 1832
+FTLN 1833
+FTLN 1834
+FTLN 1835
+120
+FTLN 1836
+FTLN 1837
+
+--- PAGE 69 / 110 ---
+133
+All’s Well That Ends Well
+ACT 3. SC. 7
+HELEN
+WIDOW
+HELEN
+WIDOW
+HELEN
+Enter Helen and Widow.
+ 
+ If you misdoubt me that I am not she,
+ I know not how I shall assure you further
+ But I shall lose the grounds I work upon.
+ 
+ Though my estate be fall’n, I was well born,
+ Nothing acquainted with these businesses,
+ And would not put my reputation now
+ In any staining act.
+  
+ Nor would I wish you.
+ First give me trust the Count he is my husband,
+ And what to your sworn counsel I have spoken
+ Is so from word to word; and then you cannot,
+ By the good aid that I of you shall borrow,
+ Err in bestowing it.
+  
+ I should believe you,
+ For you have showed me that which well approves
+ You’re great in fortune.
+  
+ Take this purse of gold,
+ And let me buy your friendly help thus far,
+ Which I will overpay and pay again
+ When I have found it. The Count he woos your
+ daughter,
+ Lays down his wanton siege before her beauty,
+ Resolved  to carry her. Let her in fine consent
+ As we’ll direct her how ’tis best to bear it.
+ Now his important blood will naught deny
+ That she’ll demand. A ring the County wears
+ That downward hath succeeded in his house
+ From son to son some four or five descents
+ Since the first father wore it. This ring he holds
+ In most rich choice. Yet, in his idle fire,
+ To buy his will it would not seem too dear,
+ Howe’er repented after.
+Scene 7
+FTLN 1838
+FTLN 1839
+FTLN 1840
+FTLN 1841
+FTLN 1842
+5
+FTLN 1843
+FTLN 1844
+FTLN 1845
+FTLN 1846
+FTLN 1847
+10
+FTLN 1848
+FTLN 1849
+FTLN 1850
+FTLN 1851
+FTLN 1852
+15
+FTLN 1853
+FTLN 1854
+FTLN 1855
+FTLN 1856
+FTLN 1857
+20
+FTLN 1858
+FTLN 1859
+FTLN 1860
+FTLN 1861
+FTLN 1862
+25
+FTLN 1863
+FTLN 1864
+FTLN 1865
+FTLN 1866
+FTLN 1867
+30
+FTLN 1868
+FTLN 1869
+
+--- PAGE 70 / 110 ---
+135
+All’s Well That Ends Well
+ACT 3. SC. 7
+WIDOW
+HELEN
+WIDOW
+HELEN
+They exit.
+ 
+ Now I see the bottom of your purpose.
+ 
+ You see it lawful, then. It is no more
+ But that your daughter, ere she seems as won,
+ Desires this ring, appoints him an encounter,
+ In fine, delivers me to fill the time,
+ Herself most chastely absent. After,
+ To marry her, I’ll add three thousand crowns
+ To what is passed already.
+  
+ I have yielded.
+ Instruct my daughter how she shall persever
+ That time and place with this deceit so lawful
+ May prove coherent. Every night he comes
+ With musics of all sorts and songs composed
+ To her unworthiness. It nothing steads us
+ To chide him from our eaves, for he persists
+ As if his life lay on ’t.
+  
+ Why then tonight
+ Let us assay our plot, which, if it speed,
+ Is wicked meaning in a lawful deed,
+ And lawful meaning in a lawful act,
+ Where both not sin, and yet a sinful fact.
+ But let’s about it.
+FTLN 1870
+FTLN 1871
+FTLN 1872
+35
+FTLN 1873
+FTLN 1874
+FTLN 1875
+FTLN 1876
+FTLN 1877
+40
+FTLN 1878
+FTLN 1879
+FTLN 1880
+FTLN 1881
+FTLN 1882
+45
+FTLN 1883
+FTLN 1884
+FTLN 1885
+FTLN 1886
+FTLN 1887
+50
+FTLN 1888
+FTLN 1889
+FTLN 1890
+FTLN 1891
+
+--- PAGE 71 / 110 ---
+LORD
+FIRST SOLDIER
+LORD
+FIRST SOLDIER
+LORD
+FIRST SOLDIER
+LORD
+Enter one of the French Lords,  with five or six other
+Soldiers in ambush.
+  He can come no other way but by this hedge
+ corner. When you sally upon him, speak what terrible
+ language you will. Though you understand it
+ not yourselves, no matter. For we must not seem to
+ understand him, unless some one among us whom
+ we must produce for an interpreter.
+  Good captain, let me be th’ interpreter.
+  Art not acquainted with him? Knows he not thy
+ voice?
+  No, sir, I warrant you.
+  But what linsey-woolsey hast thou to speak to
+ us again?
+  E’en such as you speak to me.
+  He must think us some band of strangers i’ th’
+ adversary’s entertainment. Now, he hath a smack
+ of all neighboring languages. Therefore we must
+ every one be a man of his own fancy, not to know
+ what we speak one to another. So we seem to know
+ is to know straight our purpose: choughs’ language,
+ gabble enough and good enough. As for
+ you, interpreter, you must seem very politic. But
+ couch, ho! Here he comes to beguile two hours in
+139
+ACT 4
+Scene 1
+FTLN 1892
+FTLN 1893
+FTLN 1894
+FTLN 1895
+FTLN 1896
+5
+FTLN 1897
+FTLN 1898
+FTLN 1899
+FTLN 1900
+FTLN 1901
+10
+FTLN 1902
+FTLN 1903
+FTLN 1904
+FTLN 1905
+FTLN 1906
+15
+FTLN 1907
+FTLN 1908
+FTLN 1909
+FTLN 1910
+FTLN 1911
+20
+FTLN 1912
+FTLN 1913
+
+--- PAGE 72 / 110 ---
+141
+All’s Well That Ends Well
+ACT 4. SC. 1
+They move aside.
+PAROLLES
+LORD
+PAROLLES
+LORD
+PAROLLES
+LORD
+PAROLLES
+LORD
+PAROLLES
+LORD
+ a sleep and then to return and swear the lies he
+ forges. 
+Enter Parolles.
+  Ten o’clock. Within these three hours ’twill
+ be time enough to go home. What shall I say I have
+ done? It must be a very plausive invention that
+ carries it. They begin to smoke me, and disgraces
+ have of late knocked too often at my door. I find
+ my tongue is too foolhardy, but my heart hath the
+ fear of Mars before it, and of his creatures, not
+ daring the reports of my tongue.
+, aside
+  This is the first truth that e’er thine own
+ tongue was guilty of.
+  What the devil should move me to undertake
+ the recovery of this drum, being not ignorant
+ of the impossibility and knowing I had no such
+ purpose? I must give myself some hurts and say I
+ got them in exploit. Yet slight ones will not carry it.
+ They will say “Came you off with so little?” And
+ great ones I dare not give. Wherefore? What’s the
+ instance? Tongue, I must put you into a butter-woman’s
+ mouth and buy myself another of
+ Bajazeth’s mule if you prattle me into these perils.
+, aside
+  Is it possible he should know what he is,
+ and be that he is?
+  I would the cutting of my garments would
+ serve the turn, or the breaking of my Spanish
+ sword.
+, aside
+  We cannot afford you so.
+  Or the baring of my beard, and to say it was
+ in stratagem.
+, aside
+  ’Twould not do.
+  Or to drown my clothes and say I was
+ stripped.
+, aside
+  Hardly serve.
+FTLN 1914
+FTLN 1915
+FTLN 1916
+25
+FTLN 1917
+FTLN 1918
+FTLN 1919
+FTLN 1920
+FTLN 1921
+30
+FTLN 1922
+FTLN 1923
+FTLN 1924
+FTLN 1925
+FTLN 1926
+35
+FTLN 1927
+FTLN 1928
+FTLN 1929
+FTLN 1930
+FTLN 1931
+40
+FTLN 1932
+FTLN 1933
+FTLN 1934
+FTLN 1935
+FTLN 1936
+45
+FTLN 1937
+FTLN 1938
+FTLN 1939
+FTLN 1940
+FTLN 1941
+50
+FTLN 1942
+FTLN 1943
+FTLN 1944
+FTLN 1945
+FTLN 1946
+55
+FTLN 1947
+
+--- PAGE 73 / 110 ---
+143
+All’s Well That Ends Well
+ACT 4. SC. 1
+PAROLLES
+LORD
+PAROLLES
+LORD
+PAROLLES
+LORD
+PAROLLES
+Alarum within.
+LORD
+ALL
+They seize him.
+PAROLLES
+They blindfold him.
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+LORD
+FIRST SOLDIER
+  Though I swore I leapt from the window of
+ the citadel—
+, aside
+  How deep?
+  Thirty fathom.
+, aside
+  Three great oaths would scarce make
+ that be believed.
+  I would I had any drum of the enemy’s. I
+ would swear I recovered it.
+, aside
+  You shall hear one anon.
+  A drum, now, of the enemy’s—
+, advancing
+  Throca movousus, cargo, cargo,
+ cargo.
+  Cargo, cargo, cargo, villianda par corbo, cargo.
+  O ransom, ransom! Do not hide mine eyes.
+  Boskos thromuldo boskos.
+ 
+ I know you are the Muskos’ regiment,
+ And I shall lose my life for want of language.
+ If there be here German or Dane, Low Dutch,
+ Italian, or French, let him speak to me.
+ I’ll discover that which shall undo the Florentine.
+  Boskos vauvado, I understand thee and
+ can speak thy tongue. Kerelybonto, sir, betake thee
+ to thy faith, for seventeen poniards are at thy
+ bosom.
+  O!
+  O, pray, pray, pray! Manka reuania
+ dulche.
+  Oscorbidulchos voliuorco.
+ 
+ The General is content to spare thee yet
+ And, hoodwinked as thou art, will lead thee on
+ To gather from thee. Haply thou mayst inform
+ Something to save thy life.
+FTLN 1948
+FTLN 1949
+FTLN 1950
+FTLN 1951
+60
+FTLN 1952
+FTLN 1953
+FTLN 1954
+FTLN 1955
+FTLN 1956
+65
+FTLN 1957
+FTLN 1958
+FTLN 1959
+FTLN 1960
+FTLN 1961
+70
+FTLN 1962
+FTLN 1963
+FTLN 1964
+FTLN 1965
+FTLN 1966
+75
+FTLN 1967
+FTLN 1968
+FTLN 1969
+FTLN 1970
+FTLN 1971
+80
+FTLN 1972
+FTLN 1973
+FTLN 1974
+FTLN 1975
+FTLN 1976
+85
+FTLN 1977
+FTLN 1978
+FTLN 1979
+
+--- PAGE 74 / 110 ---
+145
+All’s Well That Ends Well
+ACT 4. SC. 2
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+He exits with Parolles under guard.
+A short alarum within.
+LORD
+SECOND  SOLDIER
+LORD
+SECOND  SOLDIER
+LORD
+They  exit.
+BERTRAM
+DIANA
+BERTRAM
+  
+ O, let me live,
+ And all the secrets of our camp I’ll show,
+ Their force, their purposes. Nay, I’ll speak that
+ Which you will wonder at.
+  But wilt thou faithfully?
+  If I do not, damn me.
+  Acordo linta. Come on, thou art
+ granted space.
+ 
+ Go tell the Count Rossillion and my brother
+ We have caught the woodcock and will keep him
+ muffled
+ Till we do hear from them.
+  
+ Captain, I will.
+ 
+ He will betray us all unto ourselves.
+ Inform on that.
+  So I will, sir.
+ 
+ Till then I’ll keep him dark and safely locked.
+Enter Bertram and the maid called Diana.
+ 
+ They told me that your name was Fontibell.
+ 
+ No, my good lord, Diana.
+  
+ Titled goddess,
+ And worth it, with addition. But, fair soul,
+ In your fine frame hath love no quality?
+ If the quick fire of youth light not your mind,
+FTLN 1980
+FTLN 1981
+90
+FTLN 1982
+FTLN 1983
+FTLN 1984
+FTLN 1985
+FTLN 1986
+95
+FTLN 1987
+FTLN 1988
+FTLN 1989
+FTLN 1990
+FTLN 1991
+100
+FTLN 1992
+FTLN 1993
+FTLN 1994
+FTLN 1995
+FTLN 1996
+105
+Scene 2
+FTLN 1997
+FTLN 1998
+FTLN 1999
+FTLN 2000
+FTLN 2001
+5
+FTLN 2002
+
+--- PAGE 75 / 110 ---
+147
+All’s Well That Ends Well
+ACT 4. SC. 2
+DIANA
+BERTRAM
+DIANA
+BERTRAM
+DIANA
+BERTRAM
+DIANA
+BERTRAM
+ You are no maiden but a monument.
+ When you are dead, you should be such a one
+ As you are now, for you are cold and stern,
+ And now you should be as your mother was
+ When your sweet self was got.
+ 
+ She then was honest.
+  
+ So should you be.
+  
+ No.
+ My mother did but duty—such, my lord,
+ As you owe to your wife.
+  
+ No more o’ that.
+ I prithee do not strive against my vows.
+ I was compelled to her, but I love thee
+ By love’s own sweet constraint, and will forever
+ Do thee all rights of service.
+  
+ Ay, so you serve us
+ Till we serve you. But when you have our roses,
+ You barely leave our thorns to prick ourselves
+ And mock us with our bareness.
+  
+ How have I sworn!
+ 
+ ’Tis not the many oaths that makes the truth,
+ But the plain single vow that is vowed true.
+ What is not holy, that we swear not by,
+ But take the high’st to witness. Then pray you, tell
+ me,
+ If I should swear by Jove’s great attributes
+ I loved you dearly, would you believe my oaths
+ When I did love you ill? This has no holding
+ To swear by him whom I protest to love
+ That I will work against him. Therefore your oaths
+ Are words, and poor conditions but unsealed,
+ At least in my opinion.
+  
+ Change it, change it.
+ Be not so holy-cruel. Love is holy,
+FTLN 2003
+FTLN 2004
+FTLN 2005
+FTLN 2006
+10
+FTLN 2007
+FTLN 2008
+FTLN 2009
+FTLN 2010
+FTLN 2011
+15
+FTLN 2012
+FTLN 2013
+FTLN 2014
+FTLN 2015
+FTLN 2016
+20
+FTLN 2017
+FTLN 2018
+FTLN 2019
+FTLN 2020
+FTLN 2021
+25
+FTLN 2022
+FTLN 2023
+FTLN 2024
+FTLN 2025
+FTLN 2026
+30
+FTLN 2027
+FTLN 2028
+FTLN 2029
+FTLN 2030
+FTLN 2031
+35
+FTLN 2032
+FTLN 2033
+FTLN 2034
+FTLN 2035
+FTLN 2036
+40
+
+--- PAGE 76 / 110 ---
+149
+All’s Well That Ends Well
+ACT 4. SC. 2
+DIANA
+BERTRAM
+DIANA
+BERTRAM
+DIANA
+BERTRAM
+DIANA
+ And my integrity ne’er knew the crafts
+ That you do charge men with. Stand no more off,
+ But give thyself unto my sick desires,
+ Who then recovers. Say thou art mine, and ever
+ My love as it begins shall so persever.
+ 
+ I see that men may  rope ’s in such a snare
+ That we’ll forsake ourselves. Give me that ring.
+ 
+ I’ll lend it thee, my dear, but have no power
+ To give it from me.
+  
+ Will you not, my lord?
+ 
+ It is an honor ’longing to our house,
+ Bequeathèd down from many ancestors,
+ Which were the greatest obloquy i’ th’ world
+ In me to lose.
+  
+ Mine honor’s such a ring.
+ My chastity’s the jewel of our house,
+ Bequeathèd down from many ancestors,
+ Which were the greatest obloquy i’ th’ world
+ In me to lose. Thus your own proper wisdom
+ Brings in the champion Honor on my part
+ Against your vain assault.
+  
+ Here, take my ring.
+ My house, mine honor, yea, my life be thine,
+ And I’ll be bid by thee.
+ 
+ When midnight comes, knock at my chamber
+ window.
+ I’ll order take my mother shall not hear.
+ Now will I charge you in the band of truth,
+ When you have conquered my yet maiden bed,
+ Remain there but an hour, nor speak to me.
+ My reasons are most strong, and you shall know them
+ When back again this ring shall be delivered.
+FTLN 2037
+FTLN 2038
+FTLN 2039
+FTLN 2040
+FTLN 2041
+45
+FTLN 2042
+FTLN 2043
+FTLN 2044
+FTLN 2045
+FTLN 2046
+50
+FTLN 2047
+FTLN 2048
+FTLN 2049
+FTLN 2050
+FTLN 2051
+55
+FTLN 2052
+FTLN 2053
+FTLN 2054
+FTLN 2055
+FTLN 2056
+60
+FTLN 2057
+FTLN 2058
+FTLN 2059
+FTLN 2060
+FTLN 2061
+65
+FTLN 2062
+FTLN 2063
+FTLN 2064
+FTLN 2065
+FTLN 2066
+70
+FTLN 2067
+FTLN 2068
+
+--- PAGE 77 / 110 ---
+151
+All’s Well That Ends Well
+ACT 4. SC. 3
+BERTRAM
+DIANA
+He exits.
+She exits.
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+ And on your finger in the night I’ll put
+ Another ring, that what in time proceeds
+ May token to the future our past deeds.
+ Adieu till then; then, fail not. You have won
+ A wife of me, though there my hope be done.
+ 
+ A heaven on Earth I have won by wooing thee.
+ 
+ For which live long to thank both heaven and me!
+ You may so in the end. 
+ My mother told me just how he would woo
+ As if she sat in ’s heart. She says all men
+ Have the like oaths. He had sworn to marry me
+ When his wife’s dead. Therefore I’ll lie with him
+ When I am buried. Since Frenchmen are so braid,
+ Marry that will, I live and die a maid.
+ Only, in this disguise I think ’t no sin
+ To cozen him that would unjustly win.
+Enter the two French Lords  and some two
+or three Soldiers.
+  You have not given him his mother’s
+ letter?
+  I have delivered it an hour since. There
+ is something in ’t that stings his nature, for on the
+ reading it he changed almost into another man.
+  He has much worthy blame laid upon him
+ for shaking off so good a wife and so sweet a lady.
+  Especially he hath incurred the everlasting
+ displeasure of the King, who had even tuned
+ his bounty to sing happiness to him. I will tell you
+ a thing, but you shall let it dwell darkly with you.
+FTLN 2069
+FTLN 2070
+FTLN 2071
+75
+FTLN 2072
+FTLN 2073
+FTLN 2074
+FTLN 2075
+FTLN 2076
+80
+FTLN 2077
+FTLN 2078
+FTLN 2079
+FTLN 2080
+FTLN 2081
+85
+FTLN 2082
+FTLN 2083
+FTLN 2084
+Scene 3
+FTLN 2085
+FTLN 2086
+FTLN 2087
+FTLN 2088
+FTLN 2089
+5
+FTLN 2090
+FTLN 2091
+FTLN 2092
+FTLN 2093
+FTLN 2094
+10
+FTLN 2095
+
+--- PAGE 78 / 110 ---
+153
+All’s Well That Ends Well
+ACT 4. SC. 3
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+  When you have spoken it, ’tis dead, and I
+ am the grave of it.
+  He hath perverted a young gentlewoman
+ here in Florence of a most chaste renown,
+ and this night he fleshes his will in the spoil of her
+ honor. He hath given her his monumental ring and
+ thinks himself made in the unchaste composition.
+  Now God delay our rebellion! As we are
+ ourselves, what things are we!
+  Merely our own traitors. And, as in the
+ common course of all treasons we still see them
+ reveal themselves till they attain to their abhorred
+ ends, so he that in this action contrives against his
+ own nobility, in his proper stream o’erflows
+ himself.
+  Is it not meant damnable in us to be trumpeters
+ of our unlawful intents? We shall not, then,
+ have his company tonight?
+  Not till after midnight, for he is dieted to
+ his hour.
+  That approaches apace. I would gladly
+ have him see his company anatomized, that he
+ might take a measure of his own judgments
+ wherein so curiously he had set this counterfeit.
+  We will not meddle with him till he
+ come, for his presence must be the whip of the
+ other.
+  In the meantime, what hear you of these
+ wars?
+  I hear there is an overture of peace.
+  Nay, I assure you, a peace concluded.
+  What will Count Rossillion do then?
+ Will he travel higher or return again into France?
+  I perceive by this demand you are not altogether
+ of his counsel.
+  Let it be forbid, sir! So should I be a
+ great deal of his act.
+FTLN 2096
+FTLN 2097
+FTLN 2098
+FTLN 2099
+15
+FTLN 2100
+FTLN 2101
+FTLN 2102
+FTLN 2103
+FTLN 2104
+20
+FTLN 2105
+FTLN 2106
+FTLN 2107
+FTLN 2108
+FTLN 2109
+25
+FTLN 2110
+FTLN 2111
+FTLN 2112
+FTLN 2113
+FTLN 2114
+30
+FTLN 2115
+FTLN 2116
+FTLN 2117
+FTLN 2118
+FTLN 2119
+35
+FTLN 2120
+FTLN 2121
+FTLN 2122
+FTLN 2123
+FTLN 2124
+40
+FTLN 2125
+FTLN 2126
+FTLN 2127
+FTLN 2128
+FTLN 2129
+45
+FTLN 2130
+FTLN 2131
+FTLN 2132
+
+--- PAGE 79 / 110 ---
+155
+All’s Well That Ends Well
+ACT 4. SC. 3
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+SERVANT
+  Sir, his wife some two months since fled
+ from his house. Her pretense is a pilgrimage to
+ Saint Jaques le Grand, which holy undertaking
+ with most austere sanctimony she accomplished.
+ And, there residing, the tenderness of her nature
+ became as a prey to her grief; in fine, made a groan
+ of her last breath, and now she sings in heaven.
+  How is this justified?
+  The stronger part of it by her own letters,
+ which makes her story true even to the point of her
+ death. Her death itself, which could not be her
+ office to say is come, was faithfully confirmed by
+ the rector of the place.
+  Hath the Count all this intelligence?
+  Ay, and the particular confirmations, point
+ from point, to the full arming of the verity.
+  I am heartily sorry that he’ll be glad of
+ this.
+  How mightily sometimes we make us
+ comforts of our losses.
+  And how mightily some other times we
+ drown our gain in tears. The great dignity that his
+ valor hath here acquired for him shall at home be
+ encountered with a shame as ample.
+  The web of our life is of a mingled yarn,
+ good and ill together. Our virtues would be proud
+ if our faults whipped them not, and our crimes
+ would despair if they were not cherished by our
+ virtues.
+Enter a Servant.
+ How now? Where’s your master?
+  He met the Duke in the street, sir, of whom
+ he hath taken a solemn leave. His Lordship will
+ next morning for France. The Duke hath offered
+ him letters of commendations to the King.
+FTLN 2133
+FTLN 2134
+50
+FTLN 2135
+FTLN 2136
+FTLN 2137
+FTLN 2138
+FTLN 2139
+55
+FTLN 2140
+FTLN 2141
+FTLN 2142
+FTLN 2143
+FTLN 2144
+60
+FTLN 2145
+FTLN 2146
+FTLN 2147
+FTLN 2148
+FTLN 2149
+65
+FTLN 2150
+FTLN 2151
+FTLN 2152
+FTLN 2153
+FTLN 2154
+70
+FTLN 2155
+FTLN 2156
+FTLN 2157
+FTLN 2158
+FTLN 2159
+75
+FTLN 2160
+FTLN 2161
+FTLN 2162
+FTLN 2163
+FTLN 2164
+80
+FTLN 2165
+FTLN 2166
+
+--- PAGE 80 / 110 ---
+157
+All’s Well That Ends Well
+ACT 4. SC. 3
+SECOND LORD
+BERTRAM
+SECOND LORD
+BERTRAM
+SECOND LORD
+Soldiers exit.
+BERTRAM
+SECOND LORD
+  They shall be no more than needful
+ there, if they were more than they can commend.
+ They cannot be too sweet for the King’s tartness.
+Enter Bertram  Count Rossillion.
+ Here’s his Lordship now.—How now, my lord? Is ’t
+ not after midnight?
+  I have tonight dispatched sixteen businesses,
+ a month’s length apiece. By an abstract of
+ success: I have congeed with the Duke, done my
+ adieu with his nearest, buried a wife, mourned for
+ her, writ to my lady mother I am returning, entertained
+ my convoy, and between these main parcels
+ of dispatch effected many nicer needs. The last
+ was the greatest, but that I have not ended yet.
+  If the business be of any difficulty, and
+ this morning your departure hence, it requires
+ haste of your Lordship.
+  I mean the business is not ended as fearing
+ to hear of it hereafter. But shall we have this dialogue
+ between the Fool and the Soldier? Come,
+ bring forth this counterfeit module; has deceived
+ me like a double-meaning prophesier.
+  Bring him forth. Has sat i’ th’ stocks all
+ night, poor gallant knave. 
+  No matter. His heels have deserved it in
+ usurping his spurs so long. How does he carry
+ himself?
+  I have told your Lordship already: the
+ stocks carry him. But to answer you as you would
+ be understood: he weeps like a wench that had
+ shed her milk. He hath confessed himself to Morgan,
+ whom he supposes to be a friar, from the time
+ of his remembrance to this very instant disaster of
+ his setting i’ th’ stocks. And what think you he hath
+ confessed?
+FTLN 2167
+FTLN 2168
+FTLN 2169
+85
+FTLN 2170
+FTLN 2171
+FTLN 2172
+FTLN 2173
+FTLN 2174
+90
+FTLN 2175
+FTLN 2176
+FTLN 2177
+FTLN 2178
+FTLN 2179
+95
+FTLN 2180
+FTLN 2181
+FTLN 2182
+FTLN 2183
+FTLN 2184
+100
+FTLN 2185
+FTLN 2186
+FTLN 2187
+FTLN 2188
+FTLN 2189
+105
+FTLN 2190
+FTLN 2191
+FTLN 2192
+FTLN 2193
+FTLN 2194
+110
+FTLN 2195
+FTLN 2196
+FTLN 2197
+FTLN 2198
+FTLN 2199
+115
+FTLN 2200
+
+--- PAGE 81 / 110 ---
+159
+All’s Well That Ends Well
+ACT 4. SC. 3
+BERTRAM
+SECOND LORD
+BERTRAM
+FIRST LORD
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+FIRST  LORD
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+BERTRAM
+FIRST LORD
+  Nothing of me, has he?
+  His confession is taken, and it shall be
+ read to his face. If your Lordship be in ’t, as I
+ believe you are, you must have the patience to
+ hear it.
+Enter Parolles, blindfolded,  with his Interpreter,
+the First Soldier.
+  A plague upon him! Muffled! He can say
+ nothing of me.
+, aside to Bertram
+  Hush, hush. Hoodman
+ comes.—Portotartarossa.
+, to Parolles
+  He calls for the tortures.
+ What will you say without ’em?
+  I will confess what I know without constraint.
+ If you pinch me like a pasty, I can say no
+ more.
+  Bosko Chimurcho.
+  Boblibindo chicurmurco.
+  You are a merciful general.—Our general
+ bids you answer to what I shall ask you out of a
+ note.
+  And truly, as I hope to live.
+, as if reading a note
+  First, demand of
+ him how many horse the Duke is strong.—What say
+ you to that?
+  Five or six thousand, but very weak and
+ unserviceable. The troops are all scattered, and the
+ commanders very poor rogues, upon my reputation
+ and credit, and as I hope to live.
+  Shall I set down your answer so?
+  Do. I’ll take the Sacrament on ’t, how and
+ which way you will.
+, aside
+  All’s one to him. What a past-saving
+ slave is this!
+, aside to Bertram
+  You’re deceived, my
+FTLN 2201
+FTLN 2202
+FTLN 2203
+FTLN 2204
+120
+FTLN 2205
+FTLN 2206
+FTLN 2207
+FTLN 2208
+FTLN 2209
+125
+FTLN 2210
+FTLN 2211
+FTLN 2212
+FTLN 2213
+FTLN 2214
+130
+FTLN 2215
+FTLN 2216
+FTLN 2217
+FTLN 2218
+FTLN 2219
+135
+FTLN 2220
+FTLN 2221
+FTLN 2222
+FTLN 2223
+FTLN 2224
+140
+FTLN 2225
+FTLN 2226
+FTLN 2227
+FTLN 2228
+FTLN 2229
+145
+FTLN 2230
+FTLN 2231
+FTLN 2232
+FTLN 2233
+
+--- PAGE 82 / 110 ---
+161
+All’s Well That Ends Well
+ACT 4. SC. 3
+SECOND LORD
+FIRST SOLDIER
+PAROLLES
+FIRST LORD
+BERTRAM
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+BERTRAM
+FIRST LORD
+ lord. This is Monsieur Parolles, the gallant
+ militarist—that was his own phrase—that had the
+ whole theoric of war in the knot of his scarf, and
+ the practice in the chape of his dagger.
+, aside
+  I will never trust a man again for
+ keeping his sword clean, nor believe he can have
+ everything in him by wearing his apparel neatly.
+, to Parolles
+  Well, that’s set down.
+  “Five or six thousand horse,” I said—I will
+ say true—“or thereabouts” set down, for I’ll speak
+ truth.
+, aside
+  He’s very near the truth in this.
+, aside
+  But I con him no thanks for ’t, in the
+ nature he delivers it.
+  “Poor rogues,” I pray you say.
+  Well, that’s set down.
+  I humbly thank you, sir. A truth’s a truth.
+ The rogues are marvelous poor.
+, as if reading a note
+  Demand of him of
+ what strength they are o’ foot.—What say you to
+ that?
+  By my troth, sir, if I were to live but  this
+ present hour, I will tell true. Let me see: Spurio a
+ hundred and fifty, Sebastian so many, Corambus
+ so many, Jaques so many; Guiltian, Cosmo,
+ Lodowick and Gratii, two hundred fifty each; mine
+ own company, Chitopher, Vaumond, Bentii, two
+ hundred fifty each; so that the muster-file, rotten
+ and sound, upon my life amounts not to fifteen
+ thousand poll, half of the which dare not shake the
+ snow from off their cassocks lest they shake themselves
+ to pieces.
+, aside
+  What shall be done to him?
+, aside
+  Nothing but let him have thanks.
+  ( Aside to First Soldier. ) Demand of him my condition
+ and what credit I have with the Duke.
+FTLN 2234
+150
+FTLN 2235
+FTLN 2236
+FTLN 2237
+FTLN 2238
+FTLN 2239
+155
+FTLN 2240
+FTLN 2241
+FTLN 2242
+FTLN 2243
+FTLN 2244
+160
+FTLN 2245
+FTLN 2246
+FTLN 2247
+FTLN 2248
+FTLN 2249
+165
+FTLN 2250
+FTLN 2251
+FTLN 2252
+FTLN 2253
+FTLN 2254
+170
+FTLN 2255
+FTLN 2256
+FTLN 2257
+FTLN 2258
+FTLN 2259
+175
+FTLN 2260
+FTLN 2261
+FTLN 2262
+FTLN 2263
+FTLN 2264
+180
+FTLN 2265
+FTLN 2266
+FTLN 2267
+FTLN 2268
+FTLN 2269
+185
+
+--- PAGE 83 / 110 ---
+163
+All’s Well That Ends Well
+ACT 4. SC. 3
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+BERTRAM
+FIRST SOLDIER
+PAROLLES
+FIRST LORD
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+They search Parolles’ pockets.
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+, to Parolles
+  Well, that’s set down.  Pretending
+ to read:   You shall demand of him whether
+ one Captain Dumaine be i’ th’ camp, a Frenchman;
+ what his reputation is with the Duke, what his valor,
+ honesty, and expertness in wars; or whether he
+ thinks it were not possible with well-weighing sums
+ of gold to corrupt him to a revolt.—What say you to
+ this? What do you know of it?
+  I beseech you let me answer to the particular
+ of the inter’gatories. Demand them singly.
+  Do you know this Captain Dumaine?
+  I know him. He was a botcher’s prentice in
+ Paris, from whence he was whipped for getting the
+ shrieve’s fool with child, a dumb innocent that
+ could not say him nay.
+, aside to First Lord
+  Nay, by your leave, hold
+ your hands, though I know his brains are forfeit to
+ the next tile that falls.
+  Well, is this captain in the Duke of
+ Florence’s camp?
+  Upon my knowledge he is, and lousy.
+, aside to Bertram
+  Nay, look not so upon
+ me. We shall hear of your Lordship  anon.
+  What is his reputation with the Duke?
+  The Duke knows him for no other but a
+ poor officer of mine, and writ to me this other day
+ to turn him out o’ th’ band. I think I have his letter
+ in my pocket.
+  Marry, we’ll search.
+  In good sadness, I do not know. Either it is
+ there, or it is upon a file with the Duke’s other letters
+ in my tent.
+  Here ’tis; here’s a paper. Shall I read it to
+ you?
+  I do not know if it be it or no.
+FTLN 2270
+FTLN 2271
+FTLN 2272
+FTLN 2273
+FTLN 2274
+190
+FTLN 2275
+FTLN 2276
+FTLN 2277
+FTLN 2278
+FTLN 2279
+195
+FTLN 2280
+FTLN 2281
+FTLN 2282
+FTLN 2283
+FTLN 2284
+200
+FTLN 2285
+FTLN 2286
+FTLN 2287
+FTLN 2288
+FTLN 2289
+205
+FTLN 2290
+FTLN 2291
+FTLN 2292
+FTLN 2293
+FTLN 2294
+210
+FTLN 2295
+FTLN 2296
+FTLN 2297
+FTLN 2298
+FTLN 2299
+215
+FTLN 2300
+FTLN 2301
+FTLN 2302
+FTLN 2303
+FTLN 2304
+220
+
+--- PAGE 84 / 110 ---
+165
+All’s Well That Ends Well
+ACT 4. SC. 3
+BERTRAM
+FIRST LORD
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+BERTRAM
+FIRST SOLDIER
+ Parolles.
+ Thine, as he vowed to thee in thine ear,
+BERTRAM
+SECOND LORD
+BERTRAM
+FIRST SOLDIER
+, aside
+  Our interpreter does it well.
+, aside
+  Excellently.
+ reads
+  Dian, the Count’s a fool and full
+ of gold—
+  That is not the Duke’s letter, sir. That is an
+ advertisement to a proper maid in Florence, one
+ Diana, to take heed of the allurement of one Count
+ Rossillion, a foolish idle boy, but for all that very
+ ruttish. I pray you, sir, put it up again.
+  Nay, I’ll read it first, by your favor.
+  My meaning in ’t, I protest, was very honest
+ in the behalf of the maid, for I knew the young
+ count to be a dangerous and lascivious boy, who is
+ a whale to virginity and devours up all the fry it
+ finds.
+, aside
+  Damnable both-sides rogue!
+ reads
+ 
+ When he swears oaths, bid him drop gold, and
+ 
+ take it.
+  After he scores, he never pays the score.
+ Half won is match well made. Match, and well
+ 
+ make it.
+  He ne’er pays after-debts. Take it before.
+ And say a soldier, Dian, told thee this:
+ Men are to mell with; boys are not to kiss.
+ For count of this: the Count’s a fool, I know it,
+ Who pays before, but not when he does owe it.
+, aside
+  He shall be whipped through the
+ army with this rhyme in ’s forehead.
+, aside
+  This is your devoted friend, sir,
+ the manifold linguist and the armipotent soldier.
+, aside
+  I could endure anything before but a
+ cat, and now he’s a cat to me.
+, to Parolles
+  I perceive, sir, by our
+ general’s looks we shall be fain to hang you.
+FTLN 2305
+FTLN 2306
+FTLN 2307
+FTLN 2308
+FTLN 2309
+225
+FTLN 2310
+FTLN 2311
+FTLN 2312
+FTLN 2313
+FTLN 2314
+230
+FTLN 2315
+FTLN 2316
+FTLN 2317
+FTLN 2318
+FTLN 2319
+235
+FTLN 2320
+FTLN 2321
+FTLN 2322
+FTLN 2323
+FTLN 2324
+240
+FTLN 2325
+FTLN 2326
+FTLN 2327
+FTLN 2328
+FTLN 2329
+245
+FTLN 2330
+FTLN 2331
+FTLN 2332
+FTLN 2333
+FTLN 2334
+250
+FTLN 2335
+FTLN 2336
+FTLN 2337
+FTLN 2338
+FTLN 2339
+255
+FTLN 2340
+
+--- PAGE 85 / 110 ---
+167
+All’s Well That Ends Well
+ACT 4. SC. 3
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST LORD
+BERTRAM
+FIRST SOLDIER
+PAROLLES
+FIRST LORD
+  My life, sir, in any case! Not that I am afraid
+ to die, but that, my offenses being many, I would
+ repent out the remainder of nature. Let me live,
+ sir, in a dungeon, i’ th’ stocks, or anywhere, so I
+ may live.
+  We’ll see what may be done, so you confess
+ freely. Therefore once more to this Captain
+ Dumaine: you have answered to his reputation
+ with the Duke, and to his valor. What is his
+ honesty?
+  He will steal, sir, an egg out of a cloister. For
+ rapes and ravishments, he parallels Nessus. He
+ professes not keeping of oaths. In breaking ’em he
+ is stronger than Hercules. He will lie, sir, with such
+ volubility that you would think truth were a fool.
+ Drunkenness is his best virtue, for he will be
+ swine-drunk, and in his sleep he does little harm,
+ save to his bedclothes about him; but they know
+ his conditions and lay him in straw. I have but
+ little more to say, sir, of his honesty; he has everything
+ that an honest man should not have; what an
+ honest man should have, he has nothing.
+, aside
+  I begin to love him for this.
+, aside
+  For this description of thine honesty?
+ A pox upon him! For me, he’s more and more
+ a cat.
+  What say you to his expertness in war?
+  Faith, sir, has led the drum before the English
+ tragedians. To belie him I will not, and more
+ of his soldiership I know not, except in that country
+ he had the honor to be the officer at a place
+ there called Mile End, to instruct for the doubling
+ of files. I would do the man what honor I can, but
+ of this I am not certain.
+, aside
+  He hath out-villained villainy so
+ far that the rarity redeems him.
+FTLN 2341
+FTLN 2342
+FTLN 2343
+FTLN 2344
+260
+FTLN 2345
+FTLN 2346
+FTLN 2347
+FTLN 2348
+FTLN 2349
+265
+FTLN 2350
+FTLN 2351
+FTLN 2352
+FTLN 2353
+FTLN 2354
+270
+FTLN 2355
+FTLN 2356
+FTLN 2357
+FTLN 2358
+FTLN 2359
+275
+FTLN 2360
+FTLN 2361
+FTLN 2362
+FTLN 2363
+FTLN 2364
+280
+FTLN 2365
+FTLN 2366
+FTLN 2367
+FTLN 2368
+FTLN 2369
+285
+FTLN 2370
+FTLN 2371
+FTLN 2372
+FTLN 2373
+FTLN 2374
+290
+FTLN 2375
+FTLN 2376
+
+--- PAGE 86 / 110 ---
+169
+All’s Well That Ends Well
+ACT 4. SC. 3
+BERTRAM
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+SECOND LORD
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+, aside
+  A pox on him! He’s a cat still.
+  His qualities being at this poor price,
+ I need not to ask you if gold will corrupt him to
+ revolt.
+  Sir, for a cardecu he will sell the fee-simple
+ of his salvation, the inheritance of it, and cut th’
+ entail from all remainders, and a perpetual succession
+ for it perpetually.
+  What’s his brother, the other Captain
+ Dumaine?
+, aside
+  Why does he ask him of me?
+  What’s he?
+  E’en a crow o’ th’ same nest: not altogether
+ so great as the first in goodness, but greater a great
+ deal in evil. He excels his brother for a coward, yet
+ his brother is reputed one of the best that is. In a
+ retreat he outruns any lackey. Marry, in coming on
+ he has the cramp.
+  If your life be saved, will you undertake
+ to betray the Florentine?
+  Ay, and the captain of his horse, Count
+ Rossillion.
+  I’ll whisper with the General and know
+ his pleasure.
+, aside
+  I’ll no more drumming. A plague of
+ all drums! Only to seem to deserve well, and to
+ beguile the supposition of that lascivious young
+ boy the Count, have I run into this danger. Yet who
+ would have suspected an ambush where I was
+ taken?
+  There is no remedy, sir, but you must
+ die. The General says you that have so traitorously
+ discovered the secrets of your army and made
+ such pestiferous reports of men very nobly held
+ can serve the world for no honest use. Therefore
+ you must die.—Come, headsman, off with his
+ head.
+FTLN 2377
+FTLN 2378
+FTLN 2379
+295
+FTLN 2380
+FTLN 2381
+FTLN 2382
+FTLN 2383
+FTLN 2384
+300
+FTLN 2385
+FTLN 2386
+FTLN 2387
+FTLN 2388
+FTLN 2389
+305
+FTLN 2390
+FTLN 2391
+FTLN 2392
+FTLN 2393
+FTLN 2394
+310
+FTLN 2395
+FTLN 2396
+FTLN 2397
+FTLN 2398
+FTLN 2399
+315
+FTLN 2400
+FTLN 2401
+FTLN 2402
+FTLN 2403
+FTLN 2404
+320
+FTLN 2405
+FTLN 2406
+FTLN 2407
+FTLN 2408
+FTLN 2409
+325
+FTLN 2410
+FTLN 2411
+FTLN 2412
+FTLN 2413
+
+--- PAGE 87 / 110 ---
+171
+All’s Well That Ends Well
+ACT 4. SC. 3
+PAROLLES
+FIRST SOLDIER
+BERTRAM
+SECOND LORD
+FIRST LORD
+SECOND LORD
+FIRST LORD
+Bertram and Lords  exit.
+FIRST SOLDIER
+PAROLLES
+FIRST SOLDIER
+He exits.
+PAROLLES
+He exits.
+  O Lord, sir, let me live, or let me see my
+ death!
+  That shall you, and take your leave of
+ all your friends.  He removes the blindfold.  So,
+ look about you. Know you any here?
+  Good morrow, noble captain.
+  God bless you, Captain Parolles.
+  God save you, noble captain.
+  Captain, what greeting will you to my
+ Lord Lafew? I am for France.
+  Good captain, will you give me a copy of
+ the sonnet you writ to Diana in behalf of the Count
+ Rossillion? An I were not a very coward, I’d compel
+ it of you. But fare you well.
+  You are undone, captain—all but your
+ scarf; that has a knot on ’t yet.
+  Who cannot be crushed with a plot?
+  If you could find out a country where
+ but women were that had received so much
+ shame, you might begin an impudent nation. Fare
+ you well, sir. I am for France too. We shall speak of
+ you there. 
+ 
+ Yet am I thankful. If my heart were great,
+ ’Twould burst at this. Captain I’ll be no more,
+ But I will eat and drink, and sleep as soft
+ As captain shall. Simply the thing I am
+ Shall make me live. Who knows himself a braggart,
+ Let him fear this, for it will come to pass
+ That every braggart shall be found an ass.
+ Rust, sword; cool, blushes; and Parolles live
+ Safest in shame. Being fooled, by fool’ry thrive.
+ There’s place and means for every man alive.
+ I’ll after them. 
+FTLN 2414
+330
+FTLN 2415
+FTLN 2416
+FTLN 2417
+FTLN 2418
+FTLN 2419
+335
+FTLN 2420
+FTLN 2421
+FTLN 2422
+FTLN 2423
+FTLN 2424
+340
+FTLN 2425
+FTLN 2426
+FTLN 2427
+FTLN 2428
+FTLN 2429
+345
+FTLN 2430
+FTLN 2431
+FTLN 2432
+FTLN 2433
+FTLN 2434
+350
+FTLN 2435
+FTLN 2436
+FTLN 2437
+FTLN 2438
+FTLN 2439
+355
+FTLN 2440
+FTLN 2441
+FTLN 2442
+FTLN 2443
+FTLN 2444
+360
+FTLN 2445
+FTLN 2446
+
+--- PAGE 88 / 110 ---
+173
+All’s Well That Ends Well
+ACT 4. SC. 4
+HELEN
+WIDOW
+HELEN
+DIANA
+Enter Helen, Widow, and Diana.
+ 
+ That you may well perceive I have not wronged you,
+ One of the greatest in the Christian world
+ Shall be my surety, ’fore whose throne ’tis needful,
+ Ere I can perfect mine intents, to kneel.
+ Time was, I did him a desirèd office
+ Dear almost as his life, which gratitude
+ Through flinty Tartar’s bosom would peep forth
+ And answer thanks. I duly am informed
+ His Grace is at Marseilles, to which place
+ We have convenient convoy. You must know
+ I am supposèd dead. The army breaking,
+ My husband hies him home, where, heaven aiding
+ And by the leave of my good lord the King,
+ We’ll be before our welcome.
+  
+ Gentle madam,
+ You never had a servant to whose trust
+ Your business was more welcome.
+  
+ Nor you,  mistress,
+ Ever a friend whose thoughts more truly labor
+ To recompense your love. Doubt not but heaven
+ Hath brought me up to be your daughter’s dower,
+ As it hath fated her to be my motive
+ And helper to a husband. But O, strange men,
+ That can such sweet use make of what they hate
+ When saucy trusting of the cozened thoughts
+ Defiles the pitchy night! So lust doth play
+ With what it loathes for that which is away.
+ But more of this hereafter.—You, Diana,
+ Under my poor instructions yet must suffer
+ Something in my behalf.
+  
+ Let death and honesty
+ Go with your impositions, I am yours
+ Upon your will to suffer.
+Scene 4
+FTLN 2447
+FTLN 2448
+FTLN 2449
+FTLN 2450
+FTLN 2451
+5
+FTLN 2452
+FTLN 2453
+FTLN 2454
+FTLN 2455
+FTLN 2456
+10
+FTLN 2457
+FTLN 2458
+FTLN 2459
+FTLN 2460
+FTLN 2461
+15
+FTLN 2462
+FTLN 2463
+FTLN 2464
+FTLN 2465
+FTLN 2466
+20
+FTLN 2467
+FTLN 2468
+FTLN 2469
+FTLN 2470
+FTLN 2471
+25
+FTLN 2472
+FTLN 2473
+FTLN 2474
+FTLN 2475
+FTLN 2476
+30
+FTLN 2477
+FTLN 2478
+FTLN 2479
+
+--- PAGE 89 / 110 ---
+175
+All’s Well That Ends Well
+ACT 4. SC. 5
+HELEN
+They exit.
+LAFEW
+COUNTESS
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+  
+ Yet, I pray you—
+ But with the word “The time will bring on summer,”
+ When briers shall have leaves as well as thorns
+ And be as sweet as sharp. We must away.
+ Our wagon is prepared, and time revives us.
+ All’s well that ends well. Still the fine’s the crown.
+ Whate’er the course, the end is the renown.
+Enter Fool, Countess,  and Lafew.
+  No, no, no, your son was misled with a
+ snipped-taffeta fellow there, whose villainous saffron
+ would have made all the unbaked and doughy
+ youth of a nation in his color. Your daughter-in-law
+ had been alive at this hour, and your son here
+ at home, more advanced by the King than by that
+ red-tailed humble-bee I speak of.
+  I would I had not known him. It was the
+ death of the most virtuous gentlewoman that ever
+ nature had praise for creating. If she had partaken
+ of my flesh and cost me the dearest groans of a
+ mother, I could not have owed her a more rooted
+ love.
+  ’Twas a good lady, ’twas a good lady. We may
+ pick a thousand salads ere we light on such another
+ herb.
+  Indeed, sir, she was the sweet marjoram of the
+ salad, or rather the herb of grace.
+  They are not herbs, you knave. They are
+ nose-herbs.
+  I am no great Nebuchadnezzar, sir. I have not
+ much skill in grass.
+  Whether dost thou profess thyself, a knave or a
+ fool?
+FTLN 2480
+FTLN 2481
+35
+FTLN 2482
+FTLN 2483
+FTLN 2484
+FTLN 2485
+FTLN 2486
+40
+Scene 5
+FTLN 2487
+FTLN 2488
+FTLN 2489
+FTLN 2490
+FTLN 2491
+5
+FTLN 2492
+FTLN 2493
+FTLN 2494
+FTLN 2495
+FTLN 2496
+10
+FTLN 2497
+FTLN 2498
+FTLN 2499
+FTLN 2500
+FTLN 2501
+15
+FTLN 2502
+FTLN 2503
+FTLN 2504
+FTLN 2505
+FTLN 2506
+20
+FTLN 2507
+FTLN 2508
+FTLN 2509
+FTLN 2510
+
+--- PAGE 90 / 110 ---
+177
+All’s Well That Ends Well
+ACT 4. SC. 5
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+LAFEW
+  A fool, sir, at a woman’s service, and a knave at a
+ man’s.
+  Your distinction?
+  I would cozen the man of his wife and do his
+ service.
+  So you were a knave at his service indeed.
+  And I would give his wife my bauble, sir, to do
+ her service.
+  I will subscribe for thee, thou art both knave
+ and fool.
+  At your service.
+  No, no, no.
+  Why, sir, if I cannot serve you, I can serve as
+ great a prince as you are.
+  Who’s that, a Frenchman?
+  Faith, sir, he has an English name,  but his
+ phys’nomy is more hotter in France than there.
+  What prince is that?
+  The black prince, sir, alias the prince of darkness,
+ alias the devil.
+, giving him money
+  Hold thee, there’s my
+ purse. I give thee not this to suggest thee from thy
+ master thou talk’st of. Serve him still.
+  I am a woodland fellow, sir, that always loved a
+ great fire, and the master I speak of ever keeps a
+ good fire. But sure he is the prince of the world; let
+ his Nobility remain in ’s court. I am for the house
+ with the narrow gate, which I take to be too little
+ for pomp to enter. Some that humble themselves
+ may, but the many will be too chill and tender, and
+ they’ll be for the flow’ry way that leads to the
+ broad gate and the great fire.
+  Go thy ways. I begin to be aweary of thee. And
+ I tell thee so before because I would not fall out
+ with thee. Go thy ways. Let my horses be well
+ looked to, without any tricks.
+FTLN 2511
+25
+FTLN 2512
+FTLN 2513
+FTLN 2514
+FTLN 2515
+FTLN 2516
+30
+FTLN 2517
+FTLN 2518
+FTLN 2519
+FTLN 2520
+FTLN 2521
+35
+FTLN 2522
+FTLN 2523
+FTLN 2524
+FTLN 2525
+FTLN 2526
+40
+FTLN 2527
+FTLN 2528
+FTLN 2529
+FTLN 2530
+FTLN 2531
+45
+FTLN 2532
+FTLN 2533
+FTLN 2534
+FTLN 2535
+FTLN 2536
+50
+FTLN 2537
+FTLN 2538
+FTLN 2539
+FTLN 2540
+FTLN 2541
+55
+FTLN 2542
+FTLN 2543
+FTLN 2544
+FTLN 2545
+FTLN 2546
+60
+
+--- PAGE 91 / 110 ---
+179
+All’s Well That Ends Well
+ACT 4. SC. 5
+FOOL
+He exits.
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+LAFEW
+COUNTESS
+LAFEW
+  If I put any tricks upon ’em, sir, they shall be
+ jades’ tricks, which are their own right by the law
+ of nature. 
+  A shrewd knave and an unhappy.
+  So he is. My lord that’s gone made himself
+ much sport out of him. By his authority he
+ remains here, which he thinks is a patent for his
+ sauciness, and indeed he has no pace, but runs
+ where he will.
+  I like him well. ’Tis not amiss. And I was about
+ to tell you, since I heard of the good lady’s death
+ and that my lord your son was upon his return
+ home, I moved the King my master to speak in the
+ behalf of my daughter, which in the minority of
+ them both his Majesty out of a self-gracious
+ remembrance did first propose. His Highness hath
+ promised me to do it, and to stop up the displeasure
+ he hath conceived against your son there is
+ no fitter matter. How does your Ladyship like it?
+  With very much content, my lord, and I
+ wish it happily effected.
+  His Highness comes post from Marseilles, of
+ as able body as when he numbered thirty. He will
+ be here tomorrow, or I am deceived by him that in
+ such intelligence hath seldom failed.
+  It rejoices me that, I hope, I shall see him
+ ere I die. I have letters that my son will be here
+ tonight. I shall beseech your Lordship to remain
+ with me till they meet together.
+  Madam, I was thinking with what manners I
+ might safely be admitted.
+  You need but plead your honorable
+ privilege.
+  Lady, of that I have made a bold charter. But I
+ thank my God it holds yet.
+FTLN 2547
+FTLN 2548
+FTLN 2549
+FTLN 2550
+FTLN 2551
+65
+FTLN 2552
+FTLN 2553
+FTLN 2554
+FTLN 2555
+FTLN 2556
+70
+FTLN 2557
+FTLN 2558
+FTLN 2559
+FTLN 2560
+FTLN 2561
+75
+FTLN 2562
+FTLN 2563
+FTLN 2564
+FTLN 2565
+FTLN 2566
+80
+FTLN 2567
+FTLN 2568
+FTLN 2569
+FTLN 2570
+FTLN 2571
+85
+FTLN 2572
+FTLN 2573
+FTLN 2574
+FTLN 2575
+FTLN 2576
+90
+FTLN 2577
+FTLN 2578
+FTLN 2579
+FTLN 2580
+FTLN 2581
+95
+
+--- PAGE 92 / 110 ---
+181
+All’s Well That Ends Well
+ACT 4. SC. 5
+FOOL
+LAFEW
+FOOL
+LAFEW
+FOOL
+They exit.
+Enter Fool.
+  O madam, yonder’s my lord your son with a
+ patch of velvet on ’s face. Whether there be a scar
+ under ’t or no, the velvet knows, but ’tis a goodly
+ patch of velvet. His left cheek is a cheek of two pile
+ and a half, but his right cheek is worn bare.
+  A scar nobly got, or a noble scar, is a good liv’ry
+ of honor. So belike is that.
+  But it is your carbonadoed face.
+  Let us go see your son, I pray you. I long to talk
+ with the young noble soldier.
+  ’Faith, there’s a dozen of ’em, with delicate fine
+ hats, and most courteous feathers which bow the
+ head and nod at every man.
+FTLN 2582
+FTLN 2583
+FTLN 2584
+FTLN 2585
+FTLN 2586
+100
+FTLN 2587
+FTLN 2588
+FTLN 2589
+FTLN 2590
+FTLN 2591
+105
+FTLN 2592
+FTLN 2593
+FTLN 2594
+
+--- PAGE 93 / 110 ---
+HELEN
+GENTLEMAN
+HELEN
+GENTLEMAN
+HELEN
+Enter Helen, Widow, and Diana, with two Attendants.
+ 
+ But this exceeding posting day and night
+ Must wear your spirits low. We cannot help it.
+ But since you have made the days and nights as one
+ To wear your gentle limbs in my affairs,
+ Be bold you do so grow in my requital
+ As nothing can unroot you.
+Enter a Gentleman,  a gentle Astringer.
+ In happy time!
+ This man may help me to his Majesty’s ear,
+ If he would spend his power.—God save you, sir.
+  And you.
+ 
+ Sir, I have seen you in the court of France.
+  I have been sometimes there.
+ 
+ I do presume, sir, that you are not fall’n
+ From the report that goes upon your goodness,
+ And therefore, goaded with most sharp occasions
+ Which lay nice manners by, I put you to
+ The use of your own virtues, for the which
+ I shall continue thankful.
+185
+ACT 5
+Scene 1
+FTLN 2595
+FTLN 2596
+FTLN 2597
+FTLN 2598
+FTLN 2599
+5
+FTLN 2600
+FTLN 2601
+FTLN 2602
+FTLN 2603
+FTLN 2604
+10
+FTLN 2605
+FTLN 2606
+FTLN 2607
+FTLN 2608
+FTLN 2609
+15
+FTLN 2610
+FTLN 2611
+FTLN 2612
+
+--- PAGE 94 / 110 ---
+187
+All’s Well That Ends Well
+ACT 5. SC. 1
+GENTLEMAN
+HELEN
+GENTLEMAN
+HELEN
+GENTLEMAN
+WIDOW
+HELEN
+GENTLEMAN
+HELEN
+GENTLEMAN
+HELEN
+They exit.
+  
+ What’s your will?
+, taking out a paper
+  That it will please you
+ To give this poor petition to the King
+ And aid me with that store of power you have
+ To come into his presence.
+ 
+ The King’s not here.
+  
+ Not here, sir?
+  
+ Not indeed.
+ He hence removed last night, and with more haste
+ Than is his use.
+  
+ Lord, how we lose our pains!
+  All’s well that ends well yet,
+ Though time seem so adverse and means unfit.—
+ I do beseech you, whither is he gone?
+ 
+ Marry, as I take it, to Rossillion,
+ Whither I am going.
+, giving him the paper
+   I do beseech you, sir,
+ Since you are like to see the King before me,
+ Commend the paper to his gracious hand,
+ Which I presume shall render you no blame
+ But rather make you thank your pains for it.
+ I will come after you with what good speed
+ Our means will make us means.
+  This I’ll do for you.
+ 
+ And you shall find yourself to be well thanked
+ Whate’er falls more. We must to horse again.—
+ Go, go, provide.
+FTLN 2613
+FTLN 2614
+20
+FTLN 2615
+FTLN 2616
+FTLN 2617
+FTLN 2618
+FTLN 2619
+25
+FTLN 2620
+FTLN 2621
+FTLN 2622
+FTLN 2623
+FTLN 2624
+30
+FTLN 2625
+FTLN 2626
+FTLN 2627
+FTLN 2628
+FTLN 2629
+35
+FTLN 2630
+FTLN 2631
+FTLN 2632
+FTLN 2633
+FTLN 2634
+40
+FTLN 2635
+FTLN 2636
+FTLN 2637
+FTLN 2638
+FTLN 2639
+45
+
+--- PAGE 95 / 110 ---
+189
+All’s Well That Ends Well
+ACT 5. SC. 2
+PAROLLES
+FOOL
+PAROLLES
+FOOL
+PAROLLES
+FOOL
+He exits.
+PAROLLES
+LAFEW
+Enter Fool  and Parolles.
+, holding out a paper
+  Good Monsieur
+ Lavatch, give my lord Lafew this letter. I have ere
+ now, sir, been better known to you, when I have
+ held familiarity with fresher clothes. But I am
+ now, sir, muddied in Fortune’s mood, and smell
+ somewhat strong of her strong displeasure.
+  Truly, Fortune’s displeasure is but sluttish if it
+ smell so strongly as thou speak’st of. I will henceforth
+ eat no fish of Fortune’s butt’ring. Prithee,
+ allow the wind.
+  Nay, you need not to stop your nose, sir. I
+ spake but by a metaphor.
+  Indeed, sir, if your metaphor stink I will stop my
+ nose, or against any man’s metaphor. Prithee, get
+ thee further.
+  Pray you, sir, deliver me this paper.
+  Foh! Prithee, stand away. A paper from Fortune’s
+ close-stool, to give to a nobleman!
+Enter Lafew.
+ Look, here he comes himself.—Here is a purr of
+ Fortune’s, sir, or of Fortune’s cat—but not a
+ musk-cat—that has fall’n into the unclean fishpond
+ of her displeasure and, as he says, is muddied
+ withal. Pray you, sir, use the carp as you may,
+ for he looks like a poor, decayed, ingenious, foolish,
+ rascally knave. I do pity his distress in my
+ smiles of comfort, and leave him to your Lordship.
+  My lord, I am a man whom Fortune hath
+ cruelly scratched.
+  And what would you have me to do? ’Tis too
+ late to pare her nails now. Wherein have you
+Scene 2
+FTLN 2640
+FTLN 2641
+FTLN 2642
+FTLN 2643
+FTLN 2644
+5
+FTLN 2645
+FTLN 2646
+FTLN 2647
+FTLN 2648
+FTLN 2649
+10
+FTLN 2650
+FTLN 2651
+FTLN 2652
+FTLN 2653
+FTLN 2654
+15
+FTLN 2655
+FTLN 2656
+FTLN 2657
+FTLN 2658
+FTLN 2659
+20
+FTLN 2660
+FTLN 2661
+FTLN 2662
+FTLN 2663
+FTLN 2664
+25
+FTLN 2665
+FTLN 2666
+FTLN 2667
+FTLN 2668
+FTLN 2669
+30
+
+--- PAGE 96 / 110 ---
+191
+All’s Well That Ends Well
+ACT 5. SC. 3
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+LAFEW
+PAROLLES
+They exit.
+KING
+ played the knave with Fortune that she should
+ scratch you, who of herself is a good lady and
+ would not have knaves thrive long under her?
+ There’s a cardecu for you. Let the justices make
+ you and Fortune friends. I am for other business.
+  I beseech your Honor to hear me one single
+ word.
+  You beg a single penny more. Come, you shall
+ ha ’t. Save your word.
+  My name, my good lord, is Parolles.
+  You beg more than a  word, then. Cock’s my
+ passion; give me your hand. How does your drum?
+  O my good lord, you were the first that
+ found me.
+  Was I, in sooth? And I was the first that lost
+ thee.
+  It lies in you, my lord, to bring me in some
+ grace, for you did bring me out.
+  Out upon thee, knave! Dost thou put upon me
+ at once both the office of God and the devil? One
+ brings thee in grace, and the other brings thee out.
+  Trumpets sound.  The King’s coming. I know by
+ his trumpets. Sirrah, inquire further after me. I
+ had talk of you last night. Though you are a fool
+ and a knave, you shall eat. Go to, follow.
+  I praise God for you.
+Flourish. Enter King, Countess,  Lafew, the two French
+Lords, with Attendants.
+ 
+ We lost a jewel of her, and our esteem
+ Was made much poorer by it. But your son,
+FTLN 2670
+FTLN 2671
+FTLN 2672
+FTLN 2673
+FTLN 2674
+35
+FTLN 2675
+FTLN 2676
+FTLN 2677
+FTLN 2678
+FTLN 2679
+40
+FTLN 2680
+FTLN 2681
+FTLN 2682
+FTLN 2683
+FTLN 2684
+45
+FTLN 2685
+FTLN 2686
+FTLN 2687
+FTLN 2688
+FTLN 2689
+50
+FTLN 2690
+FTLN 2691
+FTLN 2692
+FTLN 2693
+FTLN 2694
+55
+FTLN 2695
+Scene 3
+FTLN 2696
+FTLN 2697
+
+--- PAGE 97 / 110 ---
+193
+All’s Well That Ends Well
+ACT 5. SC. 3
+COUNTESS
+KING
+LAFEW
+KING
+GENTLEMAN
+He exits.
+KING
+LAFEW
+KING
+ As mad in folly, lacked the sense to know
+ Her estimation home.
+  
+ ’Tis past, my liege,
+ And I beseech your Majesty to make it
+ Natural rebellion done i’ th’ blade of youth,
+ When oil and fire, too strong for reason’s force,
+ O’erbears it and burns on.
+  
+ My honored lady,
+ I have forgiven and forgotten all,
+ Though my revenges were high bent upon him
+ And watched the time to shoot.
+  
+ This I must say—
+ But first I beg my pardon: the young lord
+ Did to his Majesty, his mother, and his lady
+ Offense of mighty note, but to himself
+ The greatest wrong of all. He lost a wife
+ Whose beauty did astonish the survey
+ Of richest eyes, whose words all ears took captive,
+ Whose dear perfection hearts that scorned to serve
+ Humbly called mistress.
+  
+ Praising what is lost
+ Makes the remembrance dear. Well, call him hither.
+ We are reconciled, and the first view shall kill
+ All repetition. Let him not ask our pardon.
+ The nature of his great offense is dead,
+ And deeper than oblivion we do bury
+ Th’ incensing relics of it. Let him approach
+ A stranger, no offender, and inform him
+ So ’tis our will he should.
+  
+ I shall, my liege. 
+ 
+ What says he to your daughter? Have you spoke?
+ 
+ All that he is hath reference to your Highness.
+ 
+ Then shall we have a match. I have letters sent me
+ That sets him high in fame.
+FTLN 2698
+FTLN 2699
+FTLN 2700
+5
+FTLN 2701
+FTLN 2702
+FTLN 2703
+FTLN 2704
+FTLN 2705
+10
+FTLN 2706
+FTLN 2707
+FTLN 2708
+FTLN 2709
+FTLN 2710
+15
+FTLN 2711
+FTLN 2712
+FTLN 2713
+FTLN 2714
+FTLN 2715
+20
+FTLN 2716
+FTLN 2717
+FTLN 2718
+FTLN 2719
+FTLN 2720
+25
+FTLN 2721
+FTLN 2722
+FTLN 2723
+FTLN 2724
+FTLN 2725
+30
+FTLN 2726
+FTLN 2727
+FTLN 2728
+FTLN 2729
+FTLN 2730
+35
+FTLN 2731
+
+--- PAGE 98 / 110 ---
+195
+All’s Well That Ends Well
+ACT 5. SC. 3
+LAFEW
+KING
+BERTRAM
+KING
+BERTRAM
+KING
+Enter Count Bertram.
+  He looks well on ’t.
+  I am not a day of season,
+ For thou mayst see a sunshine and a hail
+ In me at once. But to the brightest beams
+ Distracted clouds give way. So stand thou forth.
+ The time is fair again.
+  My high-repented blames,
+ Dear sovereign, pardon to me.
+  
+ All is whole.
+ Not one word more of the consumèd time.
+ Let’s take the instant by the forward top,
+ For we are old, and on our quick’st decrees
+ Th’ inaudible and noiseless foot of time
+ Steals ere we can effect them. You remember
+ The daughter of this lord?
+  Admiringly, my liege. At first
+ I stuck my choice upon her, ere my heart
+ Durst make too bold a herald of my tongue;
+ Where the impression of mine eye infixing,
+ Contempt his scornful perspective did lend me,
+ Which warped the line of every other favor,
+ Scorned a fair color or expressed it stol’n,
+ Extended or contracted all proportions
+ To a most hideous object. Thence it came
+ That she whom all men praised and whom myself,
+ Since I have lost, have loved, was in mine eye
+ The dust that did offend it.
+  
+ Well excused.
+ That thou didst love her strikes some scores away
+ From the great compt. But love that comes too late,
+ Like a remorseful pardon slowly carried,
+ To the great sender turns a sour offense,
+ Crying “That’s good that’s gone!” Our rash faults
+ Make trivial price of serious things we have,
+FTLN 2732
+FTLN 2733
+FTLN 2734
+FTLN 2735
+40
+FTLN 2736
+FTLN 2737
+FTLN 2738
+FTLN 2739
+FTLN 2740
+45
+FTLN 2741
+FTLN 2742
+FTLN 2743
+FTLN 2744
+FTLN 2745
+50
+FTLN 2746
+FTLN 2747
+FTLN 2748
+FTLN 2749
+FTLN 2750
+55
+FTLN 2751
+FTLN 2752
+FTLN 2753
+FTLN 2754
+FTLN 2755
+60
+FTLN 2756
+FTLN 2757
+FTLN 2758
+FTLN 2759
+FTLN 2760
+65
+FTLN 2761
+FTLN 2762
+FTLN 2763
+FTLN 2764
+FTLN 2765
+70
+
+--- PAGE 99 / 110 ---
+197
+All’s Well That Ends Well
+ACT 5. SC. 3
+COUNTESS
+LAFEW
+Bertram gives him a ring.
+BERTRAM
+KING
+Lafew passes the ring to the King.
+BERTRAM
+ Not knowing them until we know their grave.
+ Oft our displeasures, to ourselves unjust,
+ Destroy our friends and after weep their dust.
+ Our own love, waking, cries to see what’s done,
+ While shameful hate sleeps out the afternoon.
+ Be this sweet Helen’s knell, and now forget her.
+ Send forth your amorous token for fair Maudlin.
+ The main consents are had, and here we’ll stay
+ To see our widower’s second marriage day.
+ 
+ Which better than the first, O dear heaven, bless,
+ Or, ere they meet, in me, O nature, cesse!
+ 
+ Come on, my son, in whom my house’s name
+ Must be digested, give a favor from you
+ To sparkle in the spirits of my daughter,
+ That she may quickly come.
+ By my old beard
+ And ev’ry hair that’s on ’t, Helen that’s dead
+ Was a sweet creature. Such a ring as this,
+ The last that e’er I took her leave at court,
+ I saw upon her finger.
+  
+ Hers it was not.
+ 
+ Now, pray you, let me see it, for mine eye,
+ While I was speaking, oft was fastened to ’t.
+ This ring was mine, and when I gave it Helen,
+ I bade her if her fortunes ever stood
+ Necessitied to help, that by this token
+ I would relieve her.  To Bertram.  Had you that craft to
+ reave her
+ Of what should stead her most?
+  
+ My gracious
+ sovereign,
+FTLN 2766
+FTLN 2767
+FTLN 2768
+FTLN 2769
+FTLN 2770
+75
+FTLN 2771
+FTLN 2772
+FTLN 2773
+FTLN 2774
+FTLN 2775
+80
+FTLN 2776
+FTLN 2777
+FTLN 2778
+FTLN 2779
+FTLN 2780
+85
+FTLN 2781
+FTLN 2782
+FTLN 2783
+FTLN 2784
+FTLN 2785
+90
+FTLN 2786
+FTLN 2787
+FTLN 2788
+FTLN 2789
+FTLN 2790
+95
+FTLN 2791
+FTLN 2792
+FTLN 2793
+FTLN 2794
+FTLN 2795
+100
+FTLN 2796
+
+--- PAGE 100 / 110 ---
+199
+All’s Well That Ends Well
+ACT 5. SC. 3
+COUNTESS
+LAFEW
+BERTRAM
+KING
+BERTRAM
+KING
+ Howe’er it pleases you to take it so,
+ The ring was never hers.
+  
+ Son, on my life,
+ I have seen her wear it, and she reckoned it
+ At her life’s rate.
+  
+ I am sure I saw her wear it.
+ 
+ You are deceived, my lord. She never saw it.
+ In Florence was it from a casement thrown me,
+ Wrapped in a paper which contained the name
+ Of her that threw it. Noble she was, and thought
+ I stood ungaged,  but when I had subscribed
+ To mine own fortune and informed her fully
+ I could not answer in that course of honor
+ As she had made the overture, she ceased
+ In heavy satisfaction and would never
+ Receive the ring again.
+  
+ Plutus himself,
+ That knows the tinct and multiplying med’cine,
+ Hath not in nature’s mystery more science
+ Than I have in this ring. ’Twas mine, ’twas Helen’s,
+ Whoever gave it you. Then if you know
+ That you are well acquainted with yourself,
+ Confess ’twas hers and by what rough enforcement
+ You got it from her. She called the saints to surety
+ That she would never put it from her finger
+ Unless she gave it to yourself in bed,
+ Where you have never come, or sent it us
+ Upon her great disaster.
+  
+ She never saw it.
+ 
+ Thou speak’st it falsely, as I love mine honor,
+ And mak’st conjectural fears to come into me
+ Which I would fain shut out. If it should prove
+ That thou art so inhuman—’twill not prove so,
+ And yet I know not. Thou didst hate her deadly,
+FTLN 2797
+FTLN 2798
+FTLN 2799
+FTLN 2800
+105
+FTLN 2801
+FTLN 2802
+FTLN 2803
+FTLN 2804
+FTLN 2805
+110
+FTLN 2806
+FTLN 2807
+FTLN 2808
+FTLN 2809
+FTLN 2810
+115
+FTLN 2811
+FTLN 2812
+FTLN 2813
+FTLN 2814
+FTLN 2815
+120
+FTLN 2816
+FTLN 2817
+FTLN 2818
+FTLN 2819
+FTLN 2820
+125
+FTLN 2821
+FTLN 2822
+FTLN 2823
+FTLN 2824
+FTLN 2825
+130
+FTLN 2826
+FTLN 2827
+FTLN 2828
+FTLN 2829
+FTLN 2830
+135
+
+--- PAGE 101 / 110 ---
+201
+All’s Well That Ends Well
+ACT 5. SC. 3
+BERTRAM
+He exits, under guard.
+KING
+GENTLEMAN
+He gives the King a paper.
+KING
+ Diana Capilet.
+ And she is dead, which nothing but to close
+ Her eyes myself could win me to believe
+ More than to see this ring.—Take him away.
+ My forepast proofs, howe’er the matter fall,
+ Shall tax my fears of little vanity,
+ Having vainly feared too little. Away with him.
+ We’ll sift this matter further.
+  
+ If you shall prove
+ This ring was ever hers, you shall as easy
+ Prove that I husbanded her bed in Florence,
+ Where yet she never was. 
+ 
+ I am wrapped in dismal thinkings.
+Enter a Gentleman.
+  
+ Gracious sovereign,
+ Whether I have been to blame or no, I know not.
+ Here’s a petition from a Florentine
+ Who hath for four or five removes come short
+ To tender it herself. I undertook it,
+ Vanquished thereto by the fair grace and speech
+ Of the poor suppliant, who, by this, I know
+ Is here attending. Her business looks in her
+ With an importing visage, and she told me,
+ In a sweet verbal brief, it did concern
+ Your Highness with herself.
+ reads
+  Upon his many protestations to marry me
+ when his wife was dead, I blush to say it, he won
+ me. Now is the Count Rossillion a widower, his
+ vows are forfeited to me and my honor’s paid to him.
+ He stole from Florence, taking no leave, and I follow
+ him to his country for justice. Grant it me, O king.
+ In you it best lies. Otherwise a seducer flourishes,
+ and a poor maid is undone.
+FTLN 2831
+FTLN 2832
+FTLN 2833
+FTLN 2834
+FTLN 2835
+140
+FTLN 2836
+FTLN 2837
+FTLN 2838
+FTLN 2839
+FTLN 2840
+145
+FTLN 2841
+FTLN 2842
+FTLN 2843
+FTLN 2844
+FTLN 2845
+150
+FTLN 2846
+FTLN 2847
+FTLN 2848
+FTLN 2849
+FTLN 2850
+155
+FTLN 2851
+FTLN 2852
+FTLN 2853
+FTLN 2854
+FTLN 2855
+160
+FTLN 2856
+FTLN 2857
+FTLN 2858
+FTLN 2859
+FTLN 2860
+165
+FTLN 2861
+FTLN 2862
+
+--- PAGE 102 / 110 ---
+203
+All’s Well That Ends Well
+ACT 5. SC. 3
+LAFEW
+KING
+Gentleman and Attendants exit.
+COUNTESS
+KING
+DIANA
+WIDOW
+KING
+BERTRAM
+DIANA
+  I will buy me a son-in-law in a fair, and toll for
+ this. I’ll none of him.
+ 
+ The heavens have thought well on thee, Lafew,
+ To bring forth this discov’ry.—Seek these suitors.
+ Go speedily, and bring again the Count.
+ I am afeard the life of Helen, lady,
+ Was foully snatched.
+  
+ Now justice on the doers!
+Enter Bertram under guard.
+ 
+ I wonder, sir, since  wives are monsters to you
+ And that you fly them as you swear them lordship,
+ Yet you desire to marry.
+Enter Widow and  Diana.
+ What woman’s that?
+ 
+ I am, my lord, a wretched Florentine,
+ Derivèd from the ancient Capilet.
+ My suit, as I do understand, you know
+ And therefore know how far I may be pitied.
+ 
+ I am her mother, sir, whose age and honor
+ Both suffer under this complaint we bring,
+ And both shall cease without your remedy.
+ 
+ Come hither, count. Do you know these women?
+ 
+ My lord, I neither can nor will deny
+ But that I know them. Do they charge me further?
+ 
+ Why do you look so strange upon your wife?
+FTLN 2863
+FTLN 2864
+FTLN 2865
+170
+FTLN 2866
+FTLN 2867
+FTLN 2868
+FTLN 2869
+FTLN 2870
+175
+FTLN 2871
+FTLN 2872
+FTLN 2873
+FTLN 2874
+FTLN 2875
+180
+FTLN 2876
+FTLN 2877
+FTLN 2878
+FTLN 2879
+FTLN 2880
+185
+FTLN 2881
+FTLN 2882
+FTLN 2883
+FTLN 2884
+FTLN 2885
+190
+
+--- PAGE 103 / 110 ---
+205
+All’s Well That Ends Well
+ACT 5. SC. 3
+BERTRAM
+DIANA
+LAFEW
+BERTRAM
+KING
+DIANA
+KING
+BERTRAM
+DIANA
+ 
+ She’s none of mine, my lord.
+  
+ If you shall marry,
+ You give away this hand, and that is mine;
+ You give away heaven’s vows, and those are mine;
+ You give away myself, which is known mine,
+ For I by vow am so embodied yours
+ That she which marries you must marry me,
+ Either both or none.
+, to Bertram
+  Your reputation comes too short
+ for my daughter. You are no husband for her.
+, to the King
+ 
+ My lord, this is a fond and desp’rate creature
+ Whom sometime I have laughed with. Let your
+ Highness
+ Lay a more noble thought upon mine honor
+ Than for to think that I would sink it here.
+ 
+ Sir, for my thoughts, you have them ill to friend
+ Till your deeds gain them. Fairer prove your honor
+ Than in my thought it lies.
+  
+ Good my lord,
+ Ask him upon his oath if he does think
+ He had not my virginity.
+ 
+ What sayst thou to her?
+  
+ She’s impudent, my lord,
+ And was a common gamester to the camp.
+ 
+ He does me wrong, my lord. If I were so,
+ He might have bought me at a common price.
+ Do not believe him. O, behold this ring,
+ Whose high respect and rich validity
+ Did lack a parallel. Yet for all that
+ He gave it to a commoner o’ th’ camp,
+ If I be one.
+FTLN 2886
+FTLN 2887
+FTLN 2888
+FTLN 2889
+FTLN 2890
+195
+FTLN 2891
+FTLN 2892
+FTLN 2893
+FTLN 2894
+FTLN 2895
+200
+FTLN 2896
+FTLN 2897
+FTLN 2898
+FTLN 2899
+FTLN 2900
+205
+FTLN 2901
+FTLN 2902
+FTLN 2903
+FTLN 2904
+FTLN 2905
+210
+FTLN 2906
+FTLN 2907
+FTLN 2908
+FTLN 2909
+FTLN 2910
+215
+FTLN 2911
+FTLN 2912
+FTLN 2913
+FTLN 2914
+FTLN 2915
+220
+FTLN 2916
+
+--- PAGE 104 / 110 ---
+207
+All’s Well That Ends Well
+ACT 5. SC. 3
+COUNTESS
+KING
+DIANA
+LAFEW
+KING
+Attendant exits.
+BERTRAM
+KING
+BERTRAM
+DIANA
+  
+ He blushes, and ’tis hit.
+ Of six preceding ancestors that gem,
+ Conferred by testament to th’ sequent issue,
+ Hath it been owed and worn. This is his wife.
+ That ring’s a thousand proofs.
+, to Diana
+  
+ Methought you said
+ You saw one here in court could witness it.
+ 
+ I did, my lord, but loath am to produce
+ So bad an instrument. His name’s Parolles.
+ 
+ I saw the man today, if man he be.
+ 
+ Find him, and bring him hither. 
+  
+ What of him?
+ He’s quoted for a most perfidious slave,
+ With all the spots o’ th’ world taxed and debauched,
+ Whose nature sickens but to speak a truth.
+ Am I or that or this for what he’ll utter,
+ That will speak anything?
+  She hath that ring of yours.
+ 
+ I think she has. Certain it is I liked her
+ And boarded her i’ th’ wanton way of youth.
+ She knew her distance and did angle for me,
+ Madding my eagerness with her restraint,
+ As all impediments in fancy’s course
+ Are motives of more fancy; and in fine
+ Her infinite cunning  with her modern grace
+ Subdued me to her rate. She got the ring,
+ And I had that which any inferior might
+ At market price have bought.
+  
+ I must be patient.
+ You that have turned off a first so noble wife
+ May justly diet me. I pray you yet—
+ Since you lack virtue, I will lose a husband—
+FTLN 2917
+FTLN 2918
+FTLN 2919
+FTLN 2920
+225
+FTLN 2921
+FTLN 2922
+FTLN 2923
+FTLN 2924
+FTLN 2925
+230
+FTLN 2926
+FTLN 2927
+FTLN 2928
+FTLN 2929
+FTLN 2930
+235
+FTLN 2931
+FTLN 2932
+FTLN 2933
+FTLN 2934
+FTLN 2935
+240
+FTLN 2936
+FTLN 2937
+FTLN 2938
+FTLN 2939
+FTLN 2940
+245
+FTLN 2941
+FTLN 2942
+FTLN 2943
+FTLN 2944
+FTLN 2945
+250
+FTLN 2946
+FTLN 2947
+FTLN 2948
+
+--- PAGE 105 / 110 ---
+209
+All’s Well That Ends Well
+ACT 5. SC. 3
+BERTRAM
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+BERTRAM
+KING
+DIANA
+KING
+PAROLLES
+KING
+PAROLLES
+KING
+PAROLLES
+ Send for your ring. I will return it home,
+ And give me mine again.
+  I have it not.
+, to Diana
+  What ring was yours, I pray you?
+ 
+ Sir, much like the same upon your finger.
+ 
+ Know you this ring? This ring was his of late.
+ 
+ And this was it I gave him, being abed.
+ 
+ The story, then, goes false you threw it him
+ Out of a casement?
+  
+ I have spoke the truth.
+Enter Parolles.
+ 
+ My lord, I do confess the ring was hers.
+ 
+ You boggle shrewdly. Every feather starts you.—
+ Is this the man you speak of?
+  
+ Ay, my lord.
+ 
+ Tell me, sirrah—but tell me true, I charge you,
+ Not fearing the displeasure of your master,
+ Which, on your just proceeding, I’ll keep off—
+ By him and by this woman here what know you?
+  So please your Majesty, my master hath
+ been an honorable gentleman. Tricks he hath had
+ in him which gentlemen have.
+  Come, come, to th’ purpose. Did he love this
+ woman?
+  Faith, sir, he did love her, but how?
+  How, I pray you?
+  He did love her, sir, as a gentleman loves a
+ woman.
+FTLN 2949
+FTLN 2950
+255
+FTLN 2951
+FTLN 2952
+FTLN 2953
+FTLN 2954
+FTLN 2955
+260
+FTLN 2956
+FTLN 2957
+FTLN 2958
+FTLN 2959
+FTLN 2960
+265
+FTLN 2961
+FTLN 2962
+FTLN 2963
+FTLN 2964
+FTLN 2965
+270
+FTLN 2966
+FTLN 2967
+FTLN 2968
+FTLN 2969
+FTLN 2970
+275
+FTLN 2971
+FTLN 2972
+FTLN 2973
+FTLN 2974
+FTLN 2975
+280
+
+--- PAGE 106 / 110 ---
+211
+All’s Well That Ends Well
+ACT 5. SC. 3
+KING
+PAROLLES
+KING
+PAROLLES
+LAFEW
+DIANA
+PAROLLES
+KING
+PAROLLES
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+  How is that?
+  He loved her, sir, and loved her not.
+  As thou art a knave and no knave. What an
+ equivocal companion is this!
+  I am a poor man, and at your Majesty’s
+ command.
+  He’s a good drum, my lord, but a naughty
+ orator.
+  Do you know he promised me marriage?
+  Faith, I know more than I’ll speak.
+  But wilt thou not speak all thou know’st?
+  Yes, so please your Majesty. I did go
+ between them, as I said; but more than that he
+ loved her, for indeed he was mad for her, and
+ talked of Satan and of limbo and of furies and I
+ know not what. Yet I was in that credit with them
+ at that time, that I knew of their going to bed and
+ of other motions, as promising her marriage, and
+ things which would derive me ill will to speak of.
+ Therefore I will not speak what I know.
+  Thou hast spoken all already, unless thou canst
+ say they are married. But thou art too fine in thy
+ evidence. Therefore stand aside.
+To Diana.
+ This ring you say was yours?
+  
+ Ay, my good lord.
+ 
+ Where did you buy it? Or who gave it you?
+ 
+ It was not given me, nor I did not buy it.
+ 
+ Who lent it you?
+  
+ It was not lent me neither.
+ 
+ Where did you find it then?
+  
+ I found it not.
+FTLN 2976
+FTLN 2977
+FTLN 2978
+FTLN 2979
+FTLN 2980
+285
+FTLN 2981
+FTLN 2982
+FTLN 2983
+FTLN 2984
+FTLN 2985
+290
+FTLN 2986
+FTLN 2987
+FTLN 2988
+FTLN 2989
+FTLN 2990
+295
+FTLN 2991
+FTLN 2992
+FTLN 2993
+FTLN 2994
+FTLN 2995
+300
+FTLN 2996
+FTLN 2997
+FTLN 2998
+FTLN 2999
+FTLN 3000
+305
+FTLN 3001
+FTLN 3002
+FTLN 3003
+FTLN 3004
+FTLN 3005
+310
+FTLN 3006
+
+--- PAGE 107 / 110 ---
+213
+All’s Well That Ends Well
+ACT 5. SC. 3
+KING
+DIANA
+LAFEW
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+KING
+DIANA
+ 
+ If it were yours by none of all these ways,
+ How could you give it him?
+  
+ I never gave it him.
+  This woman’s an easy glove, my lord; she goes
+ off and on at pleasure.
+ 
+ This ring was mine. I gave it his first wife.
+ 
+ It might be yours or hers for aught I know.
+, to Attendants
+ 
+ Take her away. I do not like her now.
+ To prison with her, and away with him.—
+ Unless thou tell’st me where thou hadst this ring,
+ Thou diest within this hour.
+  
+ I’ll never tell you.
+ 
+ Take her away.
+  
+ I’ll put in bail, my liege.
+ 
+ I think thee now some common customer.
+, to Bertram
+ 
+ By Jove, if ever I knew man, ’twas you.
+ 
+ Wherefore hast thou accused him all this while?
+ 
+ Because he’s guilty and he is not guilty.
+ He knows I am no maid, and he’ll swear to ’t.
+ I’ll swear I am a maid, and he knows not.
+ Great king, I am no strumpet. By my life,
+ I am either maid or else this old man’s wife.
+ 
+ She does abuse our ears. To prison with her.
+ 
+ Good mother, fetch my bail.  Widow exits.  Stay,
+ royal sir.
+FTLN 3007
+FTLN 3008
+FTLN 3009
+FTLN 3010
+315
+FTLN 3011
+FTLN 3012
+FTLN 3013
+FTLN 3014
+FTLN 3015
+320
+FTLN 3016
+FTLN 3017
+FTLN 3018
+FTLN 3019
+FTLN 3020
+325
+FTLN 3021
+FTLN 3022
+FTLN 3023
+FTLN 3024
+FTLN 3025
+330
+FTLN 3026
+FTLN 3027
+FTLN 3028
+FTLN 3029
+FTLN 3030
+335
+FTLN 3031
+
+--- PAGE 108 / 110 ---
+215
+All’s Well That Ends Well
+ACT 5. SC. 3
+KING
+HELEN
+BERTRAM
+HELEN
+BERTRAM
+HELEN
+LAFEW
+ The jeweler that owes the ring is sent for,
+ And he shall surety me. But for this lord
+ Who hath abused me as he knows himself,
+ Though yet he never harmed me, here I quit him.
+ He knows himself my bed he hath defiled,
+ And at that time he got his wife with child.
+ Dead though she be, she feels her young one kick.
+ So there’s my riddle: one that’s dead is quick.
+ And now behold the meaning.
+Enter Helen and Widow.
+  Is there no exorcist
+ Beguiles the truer office of mine eyes?
+ Is ’t real that I see?
+  No, my good lord,
+ ’Tis but the shadow of a wife you see,
+ The name and not the thing.
+  
+ Both, both. O, pardon!
+ 
+ O, my good lord, when I was like this maid,
+ I found you wondrous kind. There is your ring,
+ And, look you, here’s your letter.  She takes out a
+ paper.   This it says:
+ When from my finger you can get this ring
+ And are  by me with child, etc. This is done.
+ Will you be mine now you are doubly won?
+ 
+ If she, my liege, can make me know this clearly,
+ I’ll love her dearly, ever, ever dearly.
+ 
+ If it appear not plain and prove untrue,
+ Deadly divorce step between me and you.—
+ O my dear mother, do I see you living?
+ 
+ Mine eyes smell onions. I shall weep anon.—
+  To Parolles.  Good Tom Drum, lend me a handkercher.
+FTLN 3032
+FTLN 3033
+FTLN 3034
+FTLN 3035
+340
+FTLN 3036
+FTLN 3037
+FTLN 3038
+FTLN 3039
+FTLN 3040
+345
+FTLN 3041
+FTLN 3042
+FTLN 3043
+FTLN 3044
+FTLN 3045
+350
+FTLN 3046
+FTLN 3047
+FTLN 3048
+FTLN 3049
+FTLN 3050
+355
+FTLN 3051
+FTLN 3052
+FTLN 3053
+FTLN 3054
+FTLN 3055
+360
+FTLN 3056
+FTLN 3057
+FTLN 3058
+FTLN 3059
+FTLN 3060
+365
+FTLN 3061
+
+--- PAGE 109 / 110 ---
+217
+All’s Well That Ends Well
+ACT 5. SC. 3
+KING
+Flourish.
+ So, I thank thee. Wait on me home.
+ I’ll make sport with thee. Let thy courtesies alone.
+ They are scurvy ones.
+ 
+ Let us from point to point this story know,
+ To make the even truth in pleasure flow.
+  To Diana.  If thou be’st yet a fresh uncroppèd flower,
+ Choose thou thy husband, and I’ll pay thy dower.
+ For I can guess that by thy honest aid
+ Thou kept’st a wife herself, thyself a maid.
+ Of that and all the progress more and less,
+ Resolvedly more leisure shall express.
+ All yet seems well, and if it end so meet,
+ The bitter past, more welcome is the sweet.
+FTLN 3062
+FTLN 3063
+FTLN 3064
+FTLN 3065
+370
+FTLN 3066
+FTLN 3067
+FTLN 3068
+FTLN 3069
+FTLN 3070
+375
+FTLN 3071
+FTLN 3072
+FTLN 3073
+FTLN 3074
+
+--- PAGE 110 / 110 ---
+219
+All’s Well That Ends Well
+EPILOGUE
+All exit.
+ 
+ The King’s a beggar, now the play is done.
+ All is well ended if this suit be won,
+ That you express content, which we will pay,
+ With strift to please you, day exceeding day.
+ Ours be your patience, then, and yours our parts.
+ Your gentle hands lend us, and take our hearts.
+EPILOGUE
+FTLN 3075
+FTLN 3076
+FTLN 3077
+FTLN 3078
+FTLN 3079
+5
+FTLN 3080
+

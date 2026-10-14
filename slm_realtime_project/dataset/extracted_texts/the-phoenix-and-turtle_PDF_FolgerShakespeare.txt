@@ -1,0 +1,202 @@
+=== BOOK TITLE: the-phoenix-and-turtle_PDF_FolgerShakespeare ===
+
+--- PAGE 1 / 7 ---
+Get even more from the Folger
+You can get your own copy of this text to keep. Purchase a full copy
+to get the text, plus explanatory notes, illustrations, and more.
+ Buy a copy
+Folger Shakespeare Library
+https://shakespeare.folger.edu/
+
+--- PAGE 2 / 7 ---
+Front Matter
+From the Director of the Folger Shakespeare
+Library
+Textual Introduction
+The Phoenix and
+Turtle
+The Phoenix and Turtle
+Contents
+
+--- PAGE 3 / 7 ---
+Michael Witmore
+Director, Folger Shakespeare Library
+It is hard to imagine a world without Shakespeare. Since their
+composition more than four hundred years ago, Shakespeare’s plays
+and poems have traveled the globe, inviting those who see and read
+his works to make them their own.
+Readers of the New Folger Editions are part of this ongoing process
+of “taking up Shakespeare,” finding our own thoughts and feelings
+in language that strikes us as old or unusual and, for that very reason,
+new. We still struggle to keep up with a writer who could think a
+mile a minute, whose words paint pictures that shift like clouds.
+These expertly edited texts are presented to the public as a resource
+for study, artistic adaptation, and enjoyment. By making the classic
+texts of the New Folger Editions available in electronic form as The
+Folger Shakespeare (formerly Folger Digital Texts), we place a
+trusted resource in the hands of anyone who wants them.
+The New Folger Editions of Shakespeare’s plays, which are the basis
+for the texts realized here in digital form, are special because of their
+origin. The Folger Shakespeare Library in Washington, DC, is the
+single greatest documentary source of Shakespeare’s works. An
+unparalleled collection of early modern books, manuscripts, and
+artwork connected to Shakespeare, the Folger’s holdings have been
+consulted extensively in the preparation of these texts. The Editions
+also reflect the expertise gained through the regular performance of
+Shakespeare’s works in the Folger’s Elizabethan Theatre.
+I want to express my deep thanks to editors Barbara Mowat and Paul
+Werstine for creating these indispensable editions of Shakespeare’s
+works, which incorporate the best of textual scholarship with a
+richness of commentary that is both inspired and engaging. Readers
+who want to know more about Shakespeare and his plays can follow
+the paths these distinguished scholars have tread by visiting the
+Folger either in-person or online, where a range of physical and
+digital resources exists to supplement the material in these texts. I
+commend to you these words, and hope that they inspire.
+From the Director of the Folger Shakespeare
+Library
+
+--- PAGE 4 / 7 ---
+Until now, with the release of The Folger Shakespeare (formerly
+Folger Digital Texts), readers in search of a free online text of
+Shakespeare’s plays and poems had to be content primarily with
+using the Moby™ Text, which reproduces a late-nineteenth century
+version of the plays and poems. What is the difference? Many
+ordinary readers assume that there is a single text of all these works:
+what Shakespeare wrote. But Shakespeare’s plays were not
+published the way modern novels or plays are published today: as a
+single, authoritative text. In some cases, the plays have come down
+to us in multiple published versions, represented by various Quartos
+(Qq) and by the great collection put together by his colleagues in
+1623, called the First Folio (F). There are, for example, three very
+different versions of Hamlet, two of King Lear, Henry V, Romeo and
+Juliet, and others. Editors choose which version to use as their base
+text, and then amend that text with words, lines or speech prefixes
+from the other versions that, in their judgment, make for a better or
+more accurate text.
+Other editorial decisions involve choices about whether an
+unfamiliar word could be understood in light of other writings of the
+period or whether it should be changed; decisions about words that
+made it into Shakespeare’s text by accident through four hundred
+years of printings and misprinting; and even decisions based on
+cultural preference and taste. When the Moby™ Text was created,
+for example, it was deemed “improper” and “indecent” for Miranda
+to chastise Caliban for having attempted to rape her. (See The
+Tempest, 1.2: “Abhorred slave,/Which any print of goodness wilt not
+take,/Being capable of all ill! I pitied thee…”). All Shakespeare
+editors at the time took the speech away from her and gave it to her
+father, Prospero.
+The editors of the Moby™ Shakespeare produced their text long
+before scholars fully understood the proper grounds on which to
+make the thousands of decisions that Shakespeare editors face. The
+Folger Library Shakespeare Editions, on which the Folger
+Shakespeare texts depend, make this editorial process as nearly
+transparent as is possible, in contrast to older texts, like the Moby™,
+which hide editorial interventions. The reader of the Folger
+Shakespeare knows where the text has been altered because editorial
+interventions are signaled by square brackets (for example, from
+Othello: “ If she in chains of magic were not bound, ”), half-square
+brackets (for example, from Henry V: “With blood  and sword and
+fire to win your right,”), or angle brackets (for example, from
+Textual Introduction
+By Barbara Mowat and Paul Werstine
+
+--- PAGE 5 / 7 ---
+Hamlet: “O farewell, honest soldier.  Who hath relieved/you?”). At
+any point in the text, you can hover your cursor over a bracket for
+more information.
+Because the Folger Shakespeare texts are edited in accord with
+twenty-first century knowledge about Shakespeare’s texts, the Folger
+here provides them to readers, scholars, teachers, actors, directors,
+and students, free of charge, confident of their quality as texts of the
+plays and pleased to be able to make this contribution to the study
+and enjoyment of Shakespeare.
+
+--- PAGE 6 / 7 ---
+Let the bird of loudest lay
+On the sole Arabian tree
+Herald sad and trumpet be,
+To whose sound chaste wings obey.
+But thou shrieking harbinger,
+Foul precurrer of the fiend,
+Augur of the fever’s end,
+To this troop come thou not near.
+From this session interdict
+Every fowl of tyrant wing,
+Save the eagle, feathered king;
+Keep the obsequy so strict.
+Let the priest in surplice white,
+That defunctive music can,
+Be the death-divining swan,
+Lest the requiem lack his right.
+And thou treble-dated crow,
+That thy sable gender mak’st
+With the breath thou giv’st and tak’st,
+’Mongst our mourners shalt thou go.
+Here the anthem doth commence:
+Love and constancy is dead,
+Phoenix and the turtle fled
+In a mutual flame from hence.
+So they loved, as love in twain
+Had the essence but in one,
+Two distincts, division none;
+Number there in love was slain.
+Hearts remote yet not asunder,
+Distance and no space was seen
+’Twixt this turtle and his queen;
+But in them it were a wonder.
+So between them love did shine
+That the turtle saw his right
+Flaming in the phoenix’ sight;
+“The Phoenix and Turtle”
+5
+10
+15
+20
+25
+30
+35
+
+--- PAGE 7 / 7 ---
+Either was the other’s mine.
+Property was thus appalled
+That the self was not the same;
+Single nature’s double name
+Neither two nor one was called.
+Reason, in itself confounded,
+Saw division grow together,
+To themselves yet either neither,
+Simple were so well compounded
+That it cried, “How true a twain
+Seemeth this concordant one!
+Love hath reason, Reason none,
+If what parts can so remain,”
+Whereupon it made this threne
+To the phoenix and the dove,
+Co-supremes and stars of love,
+As chorus to their tragic scene.
+Threnos
+ 
+Beauty, truth, and rarity,
+Grace in all simplicity,
+Here enclosed, in cinders lie.
+Death is now the phoenix’ nest,
+And the turtle’s loyal breast
+To eternity doth rest,
+Leaving no posterity;
+’Twas not their infirmity,
+It was married chastity.
+Truth may seem, but cannot be;
+Beauty brag, but ’tis not she;
+Truth and beauty buried be.
+To this urn let those repair
+That are either true or fair;
+For these dead birds sigh a prayer.
+William Shakespeare
+40
+45
+50
+55
+60
+65
+

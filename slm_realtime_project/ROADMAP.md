@@ -1,8 +1,44 @@
-# 👑 The Complete 20-Pillar Master Roadmap: Enterprise Small Language Model (SLM) Ecosystem
+# 👑 The Complete 20-Pillar Master Roadmap: Story-SLM 50M Ecosystem
 
-Welcome to the Masterclass Blueprint for building, training, aligning, evaluating, optimizing, and deploying a production-grade Small Language Model (SLM) from absolute scratch.
+Welcome to the Masterclass Blueprint for building, training, aligning, evaluating, optimizing, and deploying our **`Story-SLM 50M`** — a hyper-optimized **50 Million Parameter Small Language Model** dedicated 100% to world-class multi-genre story creation and long-form narrative generation.
 
-This document serves as the definitive engineering specification for the `slm_realtime_project` codebase.
+---
+
+## 🎯 Locked Target Specification: `Story-SLM 50M`
+
+| Metric / Parameter | Value / Setting | Purpose & Hardware Benefit |
+| :--- | :--- | :--- |
+| **Model Goal** | **#1 World-Class Story & Narrative Generator** | 100% focused on story creation, multi-niche fusion, character dialogue, and plot arcs. |
+| **Total Parameter Count** | **STRICT ~50.32 Million Parameters (50M)** | 12.58M Dictionary + 37.74M Transformer Brain. Fits in **~25 MB RAM (INT4 GGUF)**. |
+| **Tokenizer Engine** | **OpenAI `tiktoken` + 32,768 Story Vocab** | High-speed Rust C++ engine, ultra-high compression (~1.6 tokens/word). |
+| **Target Output Length** | **5,000+ Tokens (Multi-Chapter Epic Stories)** | Uses 2-stage hierarchical generation (Outline $\rightarrow$ 6-Chapter expansion). |
+| **Hidden Dimension ($d_{model}$)** | **384** | High vector resolution for emotion, lore, and character depth. |
+| **Transformer Layers ($L$)** | **20 Deep Layers** | 20 deep reasoning blocks for intricate multi-chapter plot resolution. |
+| **Attention Mechanism** | **Grouped-Query Attention (GQA 4:1)** | 12 Query Heads, 3 KV Heads (saves 75% KV-cache RAM during streaming). |
+| **Feed-Forward Network** | **SwiGLU ($d_{ffn} = 1,536$)** | Expressive non-linear representation. |
+| **Vocabulary Size ($V$)** | **32,768 tokens (Story BPE in `tiktoken`)** | Highest vocabulary size for maximum compression without breaking 50M budget. |
+| **Weight Tying** | **Enabled** (`embedding == lm_head`) | Saves 12.58 Million parameters by sharing input & output dictionaries. |
+| **Context Length** | **16,384 Tokens (RoPE + YaRN Scaling)** | Remembers entire 5,000-token stories in active context window. |
+| **Local PC Target (i7-1185G7)** | **~30–45 tokens/sec (CPU Inference)** | Instant Time-To-First-Token (<100ms), ~15s per chapter (~500 tok), ~2.3m full 5K PDF. |
+| **Training Environment** | **Free Colab / Kaggle T4 GPU** | Trains full 50M model in 15–20 minutes at zero cost. |
+
+---
+
+## 🎭 3 Core Operational Modes of `Story-SLM 50M`
+
+1. **Mode A: Full Story & Multi-Niche Generation**: Generates 5,000+ token multi-chapter stories across any single niche (Sci-Fi, Fantasy, Horror, Mystery) or multi-niche fusion (e.g. *Cyberpunk + Noir Detective*).
+2. **Mode B: Surgical Chapter Editing**: Allows the user to replace ONLY Chapter 3 (~800 tokens in 15 seconds) without re-generating Chapters 1, 2, or 4!
+3. **Mode C: User Draft Manipulation & Grammar Polish**: Accepts a user's rough 200-word draft, fixes grammar, enhances sentence flow, and expands it into a professional 5,000-token manuscript.
+
+---
+
+## 📚 Multi-Billion Token Universal Dataset Blend
+
+- **Universal Multi-Genre Coverage**: Billions of tokens spanning Sci-Fi, Cyberpunk, Fantasy, Horror, Thriller, Romance, Mystery, Modern Fiction, and Urban Fantasy.
+- **Foundational Heritage Anchors**: *Mahabharata*, *Ramayana*, Classical Western Literature (*Romeo & Juliet*, Shakespeare), and World Historical Biographies (Alexander, Caesar, Ashoka) used as core character archetype references.
+- **Strict Genre Locking**: Prompt tags (`<|im_start|>user Genre: Sci-Fi...`) enforce 100% pure genre output with zero unwanted cross-genre bleed.
+
+---
 
 > [!IMPORTANT]
 > **Written for two readers at once.** Every pillar below has a plain-English "🧒 In Plain Words" box first (no jargon — a school student should be able to follow it), followed by the full technical specification (for a CSE/engineering student who needs the exact numbers and terms). Read the box first, then the bullets.
