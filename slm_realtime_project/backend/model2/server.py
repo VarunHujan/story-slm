@@ -1,9 +1,8 @@
 """
 =============================================================================
-Story-SLM2: FastAPI Streaming Server (server.py)
+Karna-49M Model: FastAPI Streaming Server (server.py)
 =============================================================================
-Loads checkpoints_model2/latest.pt (produced by train.py) and serves it over
-Server-Sent Events for the Next.js frontend.
+Loads trained Karna-49M checkpoints and serves over Server-Sent Events (SSE).
 =============================================================================
 """
 
@@ -13,53 +12,94 @@ import asyncio
 import torch
 from contextlib import asynccontextmanager
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.responses import StreamingResponse, HTMLResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
-from model import StorySLM2, StorySLM2Config
-from tokenizer import StorySLM2Tokenizer
-from generator import StorySLM2Generator
+from model import Karna49M, Karna49MConfig, StorySLM2, StorySLM2Config
+from tokenizer import Karna49MTokenizer, StorySLM2Tokenizer
+from generator import Karna49MGenerator, StorySLM2Generator
+
+
+# Load .env from backend directory first, then fallback to project root
+load_dotenv(os.path.join(os.path.dirname(__file__), ".env"))
+load_dotenv(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..", ".env")))
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
-CHECKPOINT_PATH = os.path.join(PROJECT_ROOT, "models", "model2_sft_v2.pt")
 
-device = "cuda" if torch.cuda.is_available() else "cpu"
-state = {"model": None, "tokenizer": None, "generator": None}
+# Resolve Checkpoint Path with multiple fallback candidates
+env_ckpt = os.getenv("CHECKPOINT_PATH")
+candidate_paths = [
+    env_ckpt if env_ckpt else "",
+    os.path.join(PROJECT_ROOT, "models", "story_slm2_sft_best.pt"),
+    os.path.join(PROJECT_ROOT, "model2", "story_slm2_sft_best.pt"),
+    os.path.join(PROJECT_ROOT, "models", "model2_sft_v2.pt"),
+    os.path.join(PROJECT_ROOT, "models", "model2.pt"),
+    os.path.join(PROJECT_ROOT, "checkpoints_model2", "latest.pt"),
+]
+CHECKPOINT_PATH = next((p for p in candidate_paths if p and os.path.exists(p)), candidate_paths[1])
+
+# Host & Port configuration
+HOST = os.getenv("HOST", "127.0.0.1")
+PORT = int(os.getenv("PORT", "8000"))
+
+# Device configuration
+requested_device = os.getenv("DEVICE", "auto").lower()
+if requested_device == "cuda" and torch.cuda.is_available():
+    device = "cuda"
+elif requested_device == "cpu":
+    device = "cpu"
+else:
+    device = "cuda" if torch.cuda.is_available() else "cpu"
+
+if device == "cpu":
+    # 11th Gen Core i5 (4 physical cores) achieves optimal latency with 4 threads
+    torch.set_num_threads(min(4, os.cpu_count() or 4))
+
+state = {"model": None, "tokenizer": None, "generator": None, "checkpoint_path": CHECKPOINT_PATH, "step": None, "val_loss": None}
 
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    print(f"[SERVER STARTUP] Loading Story-SLM2 from '{CHECKPOINT_PATH}' on {device.upper()}...")
+    print(f"\n========================================================")
+    print(f"[SERVER STARTUP] Loading Karna-49M on {device.upper()}...")
+    print(f"Target Checkpoint: '{CHECKPOINT_PATH}'")
+    print(f"========================================================")
 
     if os.path.exists(CHECKPOINT_PATH):
         checkpoint = torch.load(CHECKPOINT_PATH, map_location=device, weights_only=False)
-        config = checkpoint.get("config", StorySLM2Config())
+        config = checkpoint.get("config", Karna49MConfig())
 
-        model = StorySLM2(config).to(device)
+        model = Karna49M(config).to(device)
         model.load_state_dict(checkpoint["model_state_dict"])
         model.eval()
 
-        tokenizer = StorySLM2Tokenizer()
+        tokenizer = Karna49MTokenizer()
         state["model"] = model
         state["tokenizer"] = tokenizer
-        state["generator"] = StorySLM2Generator(model, tokenizer, device)
+        state["generator"] = Karna49MGenerator(model, tokenizer, device)
 
         total_params, _ = model.count_parameters()
-        step = checkpoint.get("step", "?")
+        step = checkpoint.get("step", checkpoint.get("epoch", "?"))
         val_loss = checkpoint.get("val_loss", "?")
-        print(f"[SUCCESS] Loaded Story-SLM2 ({total_params:,} params) | step={step} | val_loss={val_loss}")
+        state["step"] = step
+        val_loss_display = f"{val_loss:.4f}" if isinstance(val_loss, (float, int)) else str(val_loss)
+        print(f"[SUCCESS] Loaded Karna-49M ({total_params:,} params) | step/epoch={step} | val_loss={val_loss_display}")
     else:
-        print(f"[WARNING] No checkpoint at '{CHECKPOINT_PATH}'. Run train.py first. Server running uninitialized.")
+        print(f"[WARNING] No checkpoint at '{CHECKPOINT_PATH}'. Server running uninitialized.")
 
     yield
 
 
-app = FastAPI(title="Story-SLM2 API Server", version="2.0.0", lifespan=lifespan)
+app = FastAPI(title="Karna-49M API Server", version="2.0.0", lifespan=lifespan)
+
+cors_env = os.getenv("CORS_ORIGINS", "*")
+origins = [origin.strip() for origin in cors_env.split(",")] if cors_env != "*" else ["*"]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=origins if origins else ["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -75,7 +115,7 @@ class GenerateRequest(BaseModel):
 
 @app.get("/", response_class=HTMLResponse)
 async def root():
-    return "<h1>Story-SLM2 API Server Running</h1><p>Frontend expected at http://localhost:3000</p>"
+    return "<h1>Karna-49M API Server Running</h1><p>Frontend expected at http://localhost:3000</p>"
 
 
 @app.get("/api/health")
@@ -83,9 +123,12 @@ async def health_check():
     model = state["model"]
     return {
         "status": "online",
-        "model": "Story-SLM2",
+        "model": "Karna-49M",
         "device": device,
         "checkpoint_loaded": model is not None,
+        "checkpoint_path": state.get("checkpoint_path"),
+        "step": state.get("step"),
+        "val_loss": state.get("val_loss"),
         "parameters": f"{model.count_parameters()[0]:,}" if model is not None else None,
     }
 
@@ -94,7 +137,7 @@ async def health_check():
 async def stream_generate(req: GenerateRequest):
     generator = state["generator"]
     if generator is None:
-        raise HTTPException(status_code=500, detail="Story-SLM2 not loaded. Train a checkpoint first (train.py).")
+        raise HTTPException(status_code=500, detail="Karna-49M not loaded. Train a checkpoint first (train.py).")
 
     # A plain `def` generator here gets run by Starlette in a background worker
     # thread, with every single yielded chunk crossing back to the event loop --
@@ -119,10 +162,16 @@ async def stream_generate(req: GenerateRequest):
             await asyncio.sleep(0)
         yield "data: [DONE]\n\n"
 
-    return StreamingResponse(event_publisher(), media_type="text/event-stream")
+    headers = {
+        "Cache-Control": "no-cache, no-transform",
+        "Connection": "keep-alive",
+        "X-Accel-Buffering": "no",
+    }
+    return StreamingResponse(event_publisher(), media_type="text/event-stream", headers=headers)
 
 
 if __name__ == "__main__":
     import uvicorn
-    print("\n[INFO] Starting Story-SLM2 FastAPI Server on http://127.0.0.1:8000...")
-    uvicorn.run(app, host="127.0.0.1", port=8000, reload=False)
+    print(f"\n[INFO] Starting Karna-49M FastAPI Server on http://{HOST}:{PORT}...")
+    uvicorn.run(app, host=HOST, port=PORT, reload=False)
+

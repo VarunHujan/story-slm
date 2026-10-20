@@ -27,7 +27,7 @@ from tokenizer import EMBED_VOCAB_SIZE
 
 
 @dataclass
-class StorySLM2Config:
+class Karna49MConfig:
     vocab_size: int = EMBED_VOCAB_SIZE
     d_model: int = 448
     n_layers: int = 12
@@ -40,6 +40,10 @@ class StorySLM2Config:
     dropout: float = 0.0
     bias: bool = False
     weight_tying: bool = True
+
+# Backward-compatibility alias for saved checkpoints
+StorySLM2Config = Karna49MConfig
+
 
 
 class RMSNorm(nn.Module):
@@ -219,8 +223,8 @@ class TransformerBlock(nn.Module):
         return x
 
 
-class StorySLM2(nn.Module):
-    def __init__(self, config: StorySLM2Config):
+class Karna49M(nn.Module):
+    def __init__(self, config: Karna49MConfig):
         super().__init__()
         self.config = config
 
@@ -292,13 +296,18 @@ class StorySLM2(nn.Module):
         return logits, loss
 
 
+# Backward-compatibility alias for saved checkpoints
+StorySLM2 = Karna49M
+
+
 if __name__ == "__main__":
-    config = StorySLM2Config()
-    model = StorySLM2(config)
+    config = Karna49MConfig()
+    model = Karna49M(config)
     total, trainable = model.count_parameters()
 
     print("==========================================================")
-    print("[TEST] Story-SLM2 Architecture Verification")
+    print("[TEST] Karna-49M Architecture Verification")
+
     print("==========================================================")
     print(f"vocab_size={config.vocab_size}  d_model={config.d_model}  n_layers={config.n_layers}")
     print(f"n_heads={config.n_heads}  n_kv_heads={config.n_kv_heads}  d_ffn={config.d_ffn}")

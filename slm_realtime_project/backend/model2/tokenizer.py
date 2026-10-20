@@ -33,15 +33,16 @@ REAL_VOCAB_SIZE = 50262
 EMBED_VOCAB_SIZE = 50304
 
 
-class StorySLM2Tokenizer:
+class Karna49MTokenizer:
     def __init__(self):
         base = tiktoken.get_encoding("gpt2")
         self.enc = tiktoken.Encoding(
-            name="story_slm2_gpt2",
+            name="karna_49m_gpt2",
             pat_str=base._pat_str,
             mergeable_ranks=base._mergeable_ranks,
             special_tokens={**base._special_tokens, **SPECIAL_TOKENS},
         )
+
         self.eos_id = SPECIAL_TOKENS["<|endoftext|>"]
         self.im_start_id = SPECIAL_TOKENS["<|im_start|>"]
         self.im_end_id = SPECIAL_TOKENS["<|im_end|>"]
@@ -56,8 +57,13 @@ class StorySLM2Tokenizer:
         return self.enc.decode(list(ids))
 
 
+# Backward-compatibility alias
+StorySLM2Tokenizer = Karna49MTokenizer
+
+
 if __name__ == "__main__":
-    tok = StorySLM2Tokenizer()
+    tok = Karna49MTokenizer()
+
     sample = (
         "<|im_start|>user\nTell me a story about a lighthouse.<|im_end|>\n"
         "<|im_start|>assistant\n"

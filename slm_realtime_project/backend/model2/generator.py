@@ -17,7 +17,7 @@ from typing import Generator
 from utility_tools import try_answer_deterministically
 
 
-class StorySLM2Generator:
+class Karna49MGenerator:
     def __init__(self, model, tokenizer, device: str):
         self.model = model.to(device).eval()
         self.tokenizer = tokenizer
@@ -92,3 +92,8 @@ class StorySLM2Generator:
                 break
 
             next_input = next_token.view(1, 1)
+
+
+# Backward-compatibility alias
+StorySLM2Generator = Karna49MGenerator
+

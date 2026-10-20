@@ -1,0 +1,148 @@
+# ==============================================================================
+# STORY-SLM & MACHINE LEARNING MASTERCLASS - MASTER .GITIGNORE
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Python & Bytecode
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook & Testing
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ------------------------------------------------------------------------------
+# 2. Virtual Environments
+# ------------------------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# ------------------------------------------------------------------------------
+# 3. Node.js & Next.js Frontend
+# ------------------------------------------------------------------------------
+node_modules/
+*/node_modules/
+.next/
+*/.next/
+out/
+*/out/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.log
+
+# TypeScript & Vercel
+*.tsbuildinfo
+.vercel/
+
+# ------------------------------------------------------------------------------
+# 4. Large ML Models, Weights & Checkpoints (Bypassing GitHub 100MB limit)
+# ------------------------------------------------------------------------------
+*.pt
+*.pth
+*.bin
+*.onnx
+*.gguf
+*.safetensors
+*.ckpt
+*.h5
+*.tflite
+*.zip
+*.tar.gz
+
+# Checkpoint & Export Directories
+checkpoints/
+**/checkpoints/
+sft_checkpoints/
+**/sft_checkpoints/
+exports/
+**/exports/
+models/*.pt
+models/*.bin
+models/*.gguf
+tinystories_33m_cache/
+kaggle_sft_upload/
+kaggle_sft_notebook_output/
+dataset_backup/
+
+# ------------------------------------------------------------------------------
+# 5. Environment Variables & Secret Credentials
+# ------------------------------------------------------------------------------
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+credentials.json
+
+# ------------------------------------------------------------------------------
+# 6. Operating System & IDE Artifacts
+# ------------------------------------------------------------------------------
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# IDE / Editors
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# AI Agent & CLI Caches
+.antigravity/
