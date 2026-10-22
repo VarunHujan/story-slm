@@ -25,10 +25,12 @@ import {
   Copy,
   Plus,
   Trash2,
-  ArrowRight
+  ArrowRight,
+  LogOut
 } from "lucide-react";
 import confetti from "canvas-confetti";
 
+import LoginPage, { UserSession } from "@/components/LoginPage";
 import ThreeLibraryView, { STORAGE_BOOKS_KEY } from "@/components/ThreeLibraryView";
 import { ThreeBookData, StoryChapter } from "@/components/ThreeLibraryCorridor";
 import TransformerArchitecture from "@/components/TransformerArchitecture";
@@ -48,6 +50,10 @@ const BACKEND_URL = process.env.NEXT_PUBLIC_BACKEND_URL || "http://127.0.0.1:800
 type ActiveTab = "chat" | "library" | "transformer" | "pipeline" | "benchmarks";
 
 export default function Home() {
+  // Authentication & Chronicler Identity State
+  const [currentUser, setCurrentUser] = useState<UserSession | null>(null);
+  const [isAuthLoading, setIsAuthLoading] = useState(true);
+
   // 1. Primary Default View: Clean Chatbot UI
   const [activeTab, setActiveTab] = useState<ActiveTab>("chat");
   const [savedBooksCount, setSavedBooksCount] = useState<number>(0);
@@ -105,6 +111,40 @@ export default function Home() {
       }
     } catch {
       setSavedBooksCount(0);
+    }
+  };
+
+  // Load persistent user session
+  useEffect(() => {
+    try {
+      const raw = localStorage.getItem("karna_user_session_v1");
+      if (raw) {
+        setCurrentUser(JSON.parse(raw));
+      }
+    } catch (e) {
+      console.error(e);
+    } finally {
+      setIsAuthLoading(false);
+    }
+  }, []);
+
+  const handleLogin = (session: UserSession) => {
+    setCurrentUser(session);
+    try {
+      localStorage.setItem("karna_user_session_v1", JSON.stringify(session));
+    } catch (e) {
+      console.error(e);
+    }
+  };
+
+  const handleLogout = () => {
+    if (confirm("Do you wish to depart and inscribe another chronicler seal?")) {
+      setCurrentUser(null);
+      try {
+        localStorage.removeItem("karna_user_session_v1");
+      } catch (e) {
+        console.error(e);
+      }
     }
   };
 
@@ -322,6 +362,22 @@ export default function Home() {
     return messages.filter((m) => m.sender === "slm" && m.id !== "welcome" && m.text.trim().length > 0).length;
   }, [messages]);
 
+  // Authentication Gate: Render creative Login Page if not logged in
+  if (isAuthLoading) {
+    return (
+      <div className="min-h-screen bg-[#faf8f5] flex items-center justify-center">
+        <div className="flex items-center gap-2 text-amber-800 font-serif text-sm">
+          <RefreshCw className="w-4 h-4 animate-spin text-amber-600" />
+          <span>Opening Sanctuary Gateway...</span>
+        </div>
+      </div>
+    );
+  }
+
+  if (!currentUser) {
+    return <LoginPage onLogin={handleLogin} />;
+  }
+
   return (
     <div className="flex flex-col h-screen bg-[#faf8f5] text-slate-800 font-sans selection:bg-amber-200">
       {/* Top Header Navigation */}
@@ -427,6 +483,28 @@ export default function Home() {
             }`} />
             {backendHealth.checkpoint_loaded ? "Online" : "Connecting..."}
           </div>
+
+          {/* Chronicler Profile & Logout Action */}
+          {currentUser && (
+            <div className="flex items-center gap-2 pl-3 border-l border-amber-900/15">
+              <div
+                className="flex items-center gap-1.5 px-2.5 py-1 rounded-xl bg-amber-50 border border-amber-200/80 text-xs shadow-2xs"
+                title={`House: ${currentUser.house}\nRole: ${currentUser.title}`}
+              >
+                <span className="text-sm filter drop-shadow-xs">{currentUser.emblem}</span>
+                <span className="font-serif font-bold text-slate-900 truncate max-w-[110px]">
+                  {currentUser.username}
+                </span>
+              </div>
+              <button
+                onClick={handleLogout}
+                className="p-1.5 rounded-lg text-slate-400 hover:text-rose-700 hover:bg-rose-50 transition cursor-pointer"
+                title="Depart / Switch Chronicler Seal"
+              >
+                <LogOut className="w-3.5 h-3.5" />
+              </button>
+            </div>
+          )}
         </div>
       </header>
 
