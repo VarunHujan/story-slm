@@ -16,6 +16,13 @@ import {
   HelpCircle
 } from "lucide-react";
 
+export interface StoryChapter {
+  prompt: string;
+  story: string;
+  timestamp?: string;
+  tokensPerSec?: number;
+}
+
 export interface ThreeBookData {
   id: string;
   side: "left" | "right";
@@ -27,6 +34,8 @@ export interface ThreeBookData {
   leatherColor: string;
   emblem: string;
   isInscribed: boolean;
+  chapters?: StoryChapter[];
+  createdAt?: string;
   meshRef?: THREE.Mesh;
 }
 
@@ -103,16 +112,23 @@ export function generate24Books(): ThreeBookData[] {
   return books;
 }
 
-interface ThreeLibraryCorridorProps {
+export interface ThreeLibraryCorridorProps {
+  books?: ThreeBookData[];
   onSelectBook: (book: ThreeBookData) => void;
+  onNavigateToChat?: () => void;
   sessionsSummary?: Record<string, { messageCount: number; lastSnippet?: string }>;
 }
 
-export default function ThreeLibraryCorridor({ onSelectBook, sessionsSummary }: ThreeLibraryCorridorProps) {
+export default function ThreeLibraryCorridor({
+  books = [],
+  onSelectBook,
+  onNavigateToChat,
+  sessionsSummary
+}: ThreeLibraryCorridorProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const mountRef = useRef<HTMLDivElement>(null);
 
-  const [booksList] = useState<ThreeBookData[]>(() => generate24Books());
+  const booksList = useMemo(() => books, [books]);
   const [hoveredBook, setHoveredBook] = useState<ThreeBookData | null>(null);
 
   // References for Three.js render loop and interaction
@@ -888,11 +904,39 @@ export default function ThreeLibraryCorridor({ onSelectBook, sessionsSummary }: 
       {/* Three.js WebGL Canvas Mount Container */}
       <div ref={mountRef} className="absolute inset-0 w-full h-full cursor-pointer" />
 
+      {/* Empty Library Atmospheric Welcome Card */}
+      {booksList.length === 0 && (
+        <div className="absolute inset-0 flex items-center justify-center pointer-events-none z-30 p-4">
+          <div className="bg-white/95 border border-amber-900/20 p-6 sm:p-8 rounded-2xl shadow-2xl max-w-md text-center pointer-events-auto space-y-4 backdrop-blur-md">
+            <div className="w-14 h-14 mx-auto rounded-2xl bg-amber-100 border border-amber-200 flex items-center justify-center text-amber-800 shadow-sm">
+              <BookOpen className="w-7 h-7" />
+            </div>
+            <div className="space-y-1.5">
+              <h3 className="font-serif font-bold text-xl text-slate-900">Your 3D Library is Empty</h3>
+              <p className="text-xs text-slate-600 leading-relaxed font-serif">
+                The grand oak shelves are currently empty, waiting for your stories. Chat with Karna-49M in the Chatbot, then click <strong>"Bind Chat to 3D Library"</strong> to place your first written book here!
+              </p>
+            </div>
+            {onNavigateToChat && (
+              <button
+                onClick={onNavigateToChat}
+                className="w-full py-2.5 px-4 rounded-xl bg-amber-600 hover:bg-amber-500 text-white font-serif font-bold text-xs flex items-center justify-center gap-2 shadow-md shadow-amber-600/20 transition cursor-pointer"
+              >
+                <Sparkles className="w-4 h-4" />
+                <span>Open Chatbot to Generate a Story</span>
+              </button>
+            )}
+          </div>
+        </div>
+      )}
+
       {/* 3D Corridor Top HUD Overlay */}
       <div className="absolute top-4 left-4 right-4 flex items-center justify-between pointer-events-none z-20">
         <div className="bg-white/90 border border-amber-800/20 px-3.5 py-1.5 rounded-xl backdrop-blur-md flex items-center gap-2 text-xs font-serif text-slate-800 shadow-md">
           <Sparkles className="w-3.5 h-3.5 text-amber-600" />
-          <span>3D Sanctuary &bull; 4 Shelves Left (12 tomes) &bull; 4 Shelves Right (12 tomes)</span>
+          <span>
+            3D Sanctuary &bull; {booksList.length === 0 ? "Empty Shelves (Awaiting Inscription)" : `${booksList.length} Bound Book${booksList.length === 1 ? '' : 's'} on Shelves`}
+          </span>
         </div>
 
         {/* Hovered Book Card Overlay */}
