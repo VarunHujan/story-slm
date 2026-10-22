@@ -99,10 +99,18 @@ export default function Home() {
 
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
-  // Refresh saved books count
+  // User-specific book storage key
+  const userBookStorageKey = useMemo(() => {
+    if (!currentUser || currentUser.profileId === "profile_varun") {
+      return STORAGE_BOOKS_KEY;
+    }
+    return `karna_saved_books_${currentUser.profileId}`;
+  }, [currentUser]);
+
+  // Refresh saved books count for active profile
   const refreshSavedBooksCount = () => {
     try {
-      const raw = localStorage.getItem(STORAGE_BOOKS_KEY);
+      const raw = localStorage.getItem(userBookStorageKey);
       if (raw) {
         const parsed: ThreeBookData[] = JSON.parse(raw);
         setSavedBooksCount(parsed.length);
@@ -309,7 +317,7 @@ export default function Home() {
     }
 
     try {
-      const raw = localStorage.getItem(STORAGE_BOOKS_KEY);
+      const raw = localStorage.getItem(userBookStorageKey);
       const existing: ThreeBookData[] = raw ? JSON.parse(raw) : [];
       const count = existing.length;
 
@@ -334,7 +342,7 @@ export default function Home() {
       };
 
       existing.push(newBook);
-      localStorage.setItem(STORAGE_BOOKS_KEY, JSON.stringify(existing));
+      localStorage.setItem(userBookStorageKey, JSON.stringify(existing));
       setSavedBooksCount(existing.length);
 
       // Confetti celebration
@@ -722,6 +730,7 @@ export default function Home() {
         {/* ========================================================= */}
         {activeTab === "library" && (
           <ThreeLibraryView
+            profileId={currentUser?.profileId}
             onNavigateToChat={() => setActiveTab("chat")}
             onOpenArchitecture={() => setActiveTab("transformer")}
           />

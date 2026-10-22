@@ -25,23 +25,33 @@ interface ThreeLibraryViewProps {
   onNavigateToChat: () => void;
   onContinueInChat?: (messages: { id: string; sender: "user" | "slm"; text: string; timestamp: string }[]) => void;
   onOpenArchitecture?: () => void;
+  profileId?: string;
 }
 
 export default function ThreeLibraryView({
   onNavigateToChat,
   onContinueInChat,
-  onOpenArchitecture
+  onOpenArchitecture,
+  profileId
 }: ThreeLibraryViewProps) {
+  // Compute user-specific storage key
+  const userStorageKey = useMemo(() => {
+    if (!profileId || profileId === "profile_varun") {
+      return STORAGE_BOOKS_KEY;
+    }
+    return `karna_saved_books_${profileId}`;
+  }, [profileId]);
+
   // Load saved books from localStorage
   const [books, setBooks] = useState<ThreeBookData[]>([]);
   const [selectedBook, setSelectedBook] = useState<ThreeBookData | null>(null);
   const [activeChapterIndex, setActiveChapterIndex] = useState<number>(0);
   const [copied, setCopied] = useState<boolean>(false);
 
-  // Load books on mount
+  // Load books on mount & when profile changes
   useEffect(() => {
     try {
-      const raw = localStorage.getItem(STORAGE_BOOKS_KEY);
+      const raw = localStorage.getItem(userStorageKey);
       if (raw) {
         const parsed: ThreeBookData[] = JSON.parse(raw);
         setBooks(parsed);
@@ -52,13 +62,13 @@ export default function ThreeLibraryView({
       console.error("Failed to load saved books:", e);
       setBooks([]);
     }
-  }, []);
+  }, [userStorageKey]);
 
   // Save books back whenever state changes
   const persistBooks = (updated: ThreeBookData[]) => {
     setBooks(updated);
     try {
-      localStorage.setItem(STORAGE_BOOKS_KEY, JSON.stringify(updated));
+      localStorage.setItem(userStorageKey, JSON.stringify(updated));
     } catch (e) {
       console.error("Failed to persist books:", e);
     }
